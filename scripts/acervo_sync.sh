@@ -10,7 +10,7 @@ set -euo pipefail
 RAIZ="$(cd "$(dirname "$0")/.." && pwd)"
 DIR="${ACERVO_DIR:-$RAIZ/../fontes-maconaria}"
 URL="${ACERVO_URL:-https://github.com/aureliosaraiva/fontes-maconaria.git}"
-BR="${ACERVO_BRANCH:-claude/mapa-maconaria-research-l6ubzj}"
+BR="${ACERVO_BRANCH:-main}"
 modo="${1:-pull}"
 case "$modo" in
   pull)

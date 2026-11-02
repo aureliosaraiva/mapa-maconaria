@@ -15,7 +15,7 @@
 
 ## Decisões tomadas
 - Mesmo método do `mapadosorixas`: fonte por afirmação, paráfrase, divergências lado a lado, acervo privado (`fontes-maconaria`) separado do repositório público.
-- Tronco = branch `claude/mapa-maconaria-research-l6ubzj` nos dois repositórios (instrução da sessão). Fusão na `main` e deploy do site: decisão do autor (PENDENCIAS).
+- Commit e push sempre direto na `main` dos dois repositórios (decisão do autor, 2026-11-02).
 - Catálogo fragmentado por lote (`data/fontes/<lote>.json`) para paralelismo.
 - Rituais: acervo guarda o publicado; site não reproduz palavras/sinais/toques/juramentos (CLAUDE.md regra 5).
 - Sem pirataria (CLAUDE.md regra 8).

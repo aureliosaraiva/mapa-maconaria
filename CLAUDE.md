@@ -24,8 +24,8 @@ Português do Brasil em tudo (documentação, verbetes, commits). Fontes em qual
 Todo bloqueio (domínio fora, 403/404, paywall, obra impressa, dúvida de sigilo, conferência que depende de pessoa) vai para `docs/pesquisa/PENDENCIAS.md` com status, o que está atrás do bloqueio e prioridade. Nunca substituir por conteúdo inventado.
 
 ## Branch de trabalho (tronco)
-**Todas as sessões trabalham no branch `claude/mapa-maconaria-research-l6ubzj`, nos DOIS repositórios** (é o tronco do projeto até o autor decidir fundir na `main`). Não criar PR. Push com rebase:
-`git pull --rebase origin claude/mapa-maconaria-research-l6ubzj && git push -u origin HEAD:claude/mapa-maconaria-research-l6ubzj` (repita com espera 2/4/8/16 s se houver corrida com outra sessão).
+**Decisão do autor (2026-11-02): commit e push SEMPRE direto na `main`, nos DOIS repositórios.** Não usar outros branches, não criar PR. Push com rebase, pois várias sessões empurram ao mesmo tempo:
+`git pull --rebase origin main && git push -u origin HEAD:main` (repita com espera 2/4/8/16 s se houver corrida com outra sessão).
 
 ## Fluxo de cada sessão trabalhadora
 1. **Abertura:** `git pull --rebase` do tronco; ler `docs/ESTADO.md`, `docs/ORQUESTRACAO.md` (sua linha: ID, escopo, arquivos que só você edita) e `docs/taxonomia.md`. Anexar o acervo: `add_repo(owner="aureliosaraiva", repo="fontes-maconaria", access="push")` e `scripts/acervo_sync.sh pull` (clone em `../fontes-maconaria`; outro lugar: `ACERVO_DIR`).

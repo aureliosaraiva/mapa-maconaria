@@ -1,7 +1,7 @@
 # Orquestração das sessões
 
 > Fonte de verdade sobre **quem faz o quê e quem é dono de qual arquivo**. Só a sessão orquestradora cria ondas/linhas; cada trabalhadora atualiza **apenas a própria linha** (status e link do relatório) no fechamento.
-> Orquestradora: sessão `session_011fM5cnUPbf7GuvJPgxJSh9` (claude.ai/code). Tronco: branch `claude/mapa-maconaria-research-l6ubzj` nos dois repositórios.
+> Orquestradora: sessão `session_011fM5cnUPbf7GuvJPgxJSh9` (claude.ai/code). Tronco: `main` nos dois repositórios (commit e push direto, decisão do autor).
 
 ## Quadro
 
