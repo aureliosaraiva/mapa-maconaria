@@ -56,3 +56,16 @@ Verbetes de enciclopédias abertas (Wikipédia em pt, en, fr, es, it, de, nl, sv
 
 ### I01 — Infraestrutura
 Baseado no `mapadosorixas` (clone de leitura: `https://github.com/aureliosaraiva/mapadosorixas`, pasta `site/` e `scripts/`): (1) site estático Astro com páginas: início com busca (Pagefind), catálogo de fontes filtrável (lê `data/fontes/*.json`), listagem e página de verbete (lê `data/verbetes/**/*.md`), linha do tempo (lê `data/linha_do_tempo.json`), grafo Cytoscape.js (lê `relacionados` dos verbetes e `data/conexoes.json`), metodologia; funcionar com 0 verbetes (dados de exemplo só em `tests/`); (2) `schemas/verbete.schema.json` + `scripts/validar_verbetes.py` (front matter, `fontes` existentes no catálogo, `relacionados` existentes, sem palavras de passe — lista de alerta configurável) e esquema/validador de `data/linha_do_tempo.json`; (3) `scripts/anticopia.py` portado (n-gramas contra `../fontes-maconaria/txt/<source_id>.txt` das fontes citadas); (4) `scripts/qa_site.py` (nenhum texto/arquivo do acervo no build); (5) workflow `.github/workflows/validar.yml` (validadores + build) — **sem** deploy por enquanto (deploy de Pages depende da decisão do autor sobre a `main`; registrar em PENDENCIAS); (6) `site/README.md`. Não editar `data/` nem docs de outras sessões.
+
+## Sessões da onda 1 (IDs claude.ai/code)
+| ID | Sessão |
+|---|---|
+| C01 | `session_011fM5cigkddqRnQGmh6CcfR` |
+| C02 | `session_011fM5cj4Bj5nKuAL6cRn9PE` |
+| C03 | `session_011fM5cjAKKGbu4bttUNBBPd` |
+| C04 | `session_011fM5ckbgb8ZriFHDKUgGYG` |
+| C05 | `session_011fM5cnDpjyJhXfF3huBCJS` |
+| C06 | `session_011fM5cinwwrD4QhYxqG2J69` |
+| C07 | `session_011fM5ckBeU4EZtKrUUXX7Bx` |
+| C08 | `session_011fM5ciDEAUpHL3T5LWaVtG` |
+| I01 | `session_011fM5cj3PMZJKToLirjYtNU` |
