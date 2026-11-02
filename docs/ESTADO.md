@@ -1,0 +1,26 @@
+# Estado do projeto
+
+> Arquivo de passagem entre sessões. Toda sessão começa lendo este arquivo. **Só a orquestradora reescreve**; trabalhadoras atualizam só a própria linha no `ORQUESTRACAO.md`.
+
+**Última atualização:** 2026-11-02 — sessão orquestradora: fundação dos dois repositórios (regras, plano, taxonomia, esquema de fontes, validador, scripts do acervo) e disparo da **onda 1** (C01–C08 coleta + I01 infraestrutura).
+
+## Onde estamos
+**Onda 1 — coleta ampla + infraestrutura: em andamento.** Ver [`ORQUESTRACAO.md`](ORQUESTRACAO.md).
+
+| Indicador | Valor | Como conferir |
+|---|---:|---|
+| Fontes no catálogo | 0 | `python3 scripts/validar_fontes.py` |
+| Cópias no acervo | 0 | `find ../fontes-maconaria/txt -type f \| wc -l` |
+| Verbetes | 0 | `find data/verbetes -name '*.md' \| wc -l` |
+
+## Decisões tomadas
+- Mesmo método do `mapadosorixas`: fonte por afirmação, paráfrase, divergências lado a lado, acervo privado (`fontes-maconaria`) separado do repositório público.
+- Tronco = branch `claude/mapa-maconaria-research-l6ubzj` nos dois repositórios (instrução da sessão). Fusão na `main` e deploy do site: decisão do autor (PENDENCIAS).
+- Catálogo fragmentado por lote (`data/fontes/<lote>.json`) para paralelismo.
+- Rituais: acervo guarda o publicado; site não reproduz palavras/sinais/toques/juramentos (CLAUDE.md regra 5).
+- Sem pirataria (CLAUDE.md regra 8).
+
+## Próximas tarefas (orquestradora)
+1. Acompanhar a onda 1; ao concluir, consolidar números aqui.
+2. Definir onda 2 (aprofundamento: teses, periódicos, hemerotecas, idiomas sub-representados) com base nas lacunas dos relatórios.
+3. Definir onda 3 (verbetes por família) e onda 4 (integração/QA).

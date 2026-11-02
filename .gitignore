@@ -1,0 +1,8 @@
+# Acervo de texto integral: fica no repositório PRIVADO fontes-maconaria, nunca aqui.
+acervo/pdf/
+acervo/txt/
+acervo/html/
+__pycache__/
+node_modules/
+site/dist/
+site/.astro/
