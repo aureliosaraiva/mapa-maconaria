@@ -3040,6 +3040,884 @@
       ],
       "observacoes": "Cópia encontrada em coramfratribus.com protegida por desafio Cloudflare (não contornar); buscar edição oficial (Sekretariat der DBK, Arbeitshilfen) — ver PENDENCIAS.",
       "lote": "c07-doutrina"
+    },
+    {
+      "id": "van-de-sande-2002-resenha-caransa-jodendom",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "A. W. F. M. van de Sande"
+      ],
+      "titulo": "Resenha de: A. Caransa, Vrijmetselarij en jodendom. De wereld een tempel",
+      "ano": 2002,
+      "idioma": "nl",
+      "url": "https://bmgn-lchr.nl/article/view/4168",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY",
+      "resumo": "Resenha do historiador da maçonaria neerlandesa sobre o livro de A. Caransa a respeito de judeus e judaísmo na maçonaria dos Países Baixos (admissão de judeus, simbolismo do Templo, antissemitismo antimaçônico); pista para a relação maçonaria–judaísmo.",
+      "evidencias": [
+        "https://bmgn-lchr.nl/article/view/4168"
+      ],
+      "periodico": "BMGN – Low Countries Historical Review",
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870",
+        "p1919_1945"
+      ],
+      "paises": [
+        "nl"
+      ],
+      "identificadores": {
+        "doi": "10.18352/bmgn-lchr.5740"
+      },
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/van-de-sande-2002-resenha-caransa-jodendom.txt",
+        "pdf/van-de-sande-2002-resenha-caransa-jodendom.pdf"
+      ]
+    },
+    {
+      "id": "jansma-2022-resenha-musch-spiritualiteit",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Lammert Gosse Jansma"
+      ],
+      "titulo": "Resenha de: Karel Musch, De verborgen spiritualiteit van de Vrijmetselarij (2017)",
+      "ano": 2022,
+      "idioma": "nl",
+      "url": "https://religiesamenleving.nl/article/view/11865",
+      "temas": [
+        "religiao",
+        "esoterismo",
+        "principios"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY",
+      "resumo": "Resenha, em revista de sociologia da religião, do livro de Karel Musch sobre a \"espiritualidade oculta\" da maçonaria neerlandesa: ritual como prática espiritual não confessional, relação com igrejas e secularização.",
+      "evidencias": [
+        "https://religiesamenleving.nl/article/view/11865"
+      ],
+      "periodico": "Religie & Samenleving",
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "paises": [
+        "nl"
+      ],
+      "identificadores": {
+        "doi": "10.54195/RS.11865"
+      },
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/jansma-2022-resenha-musch-spiritualiteit.txt",
+        "pdf/jansma-2022-resenha-musch-spiritualiteit.pdf"
+      ]
+    },
+    {
+      "id": "piff-2012-wider-die-freymaurer",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Alexander Piff"
+      ],
+      "titulo": "„Wider die Freymaurer“: Die Freimaurerei im Blickfeld von Kirche, Inquisition und weltlicher Gewalt",
+      "ano": 2012,
+      "idioma": "de",
+      "url": "https://scribere.at/historia_scribere/article/view/2266",
+      "temas": [
+        "religiao",
+        "antimaconaria"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (historia.scribere)",
+      "resumo": "Artigo (revista discente da Univ. de Innsbruck) sobre a reação de Igreja, Inquisição e autoridades seculares à maçonaria no séc. XVIII, das bulas de 1738/1751 às proibições estatais na monarquia dos Habsburgos.",
+      "evidencias": [
+        "https://scribere.at/historia_scribere/article/view/2266"
+      ],
+      "periodico": "historia.scribere",
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "paises": [
+        "at",
+        "va",
+        "mundo"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "conferido_web",
+      "observacoes": "Cópia falhou em 2026-11-03: sem citation_pdf_url"
+    },
+    {
+      "id": "rocchi-2012-massoneria-conan-doyle",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Marco Rocchi"
+      ],
+      "titulo": "Tra razionalismo e irrazionalismo: l'ombra della Massoneria su Conan Doyle e Sherlock Holmes",
+      "ano": 2012,
+      "idioma": "it",
+      "url": "http://www.ledonline.it/index.php/linguae/article/view/301",
+      "temas": [
+        "arte_cultura",
+        "esoterismo",
+        "personalidades"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (LED)",
+      "resumo": "Examina a iniciação maçônica de Arthur Conan Doyle (1887), seu espiritismo e as referências maçônicas nas histórias de Sherlock Holmes, entre racionalismo e esoterismo.",
+      "evidencias": [
+        "http://www.ledonline.it/index.php/linguae/article/view/301"
+      ],
+      "periodico": "Linguæ & – Rivista di lingue e culture moderne",
+      "periodos": [
+        "p1871_1918"
+      ],
+      "paises": [
+        "gb"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/rocchi-2012-massoneria-conan-doyle.txt",
+        "pdf/rocchi-2012-massoneria-conan-doyle.pdf"
+      ]
+    },
+    {
+      "id": "sieradz-2024-muzyka-wolnomularstwo-warszawa",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Małgorzata Sieradz"
+      ],
+      "titulo": "Muzyka i wolnomularstwo warszawskie na początku XIX wieku",
+      "ano": 2024,
+      "idioma": "pl",
+      "url": "https://czasopisma.ispan.pl/index.php/m/article/view/3224",
+      "temas": [
+        "arte_cultura",
+        "sociabilidade"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY",
+      "resumo": "Artigo musicológico com novos dados sobre música composta e executada nas lojas de Varsóvia no início do séc. XIX (Ducado de Varsóvia e Reino do Congresso); ponto de partida para música maçônica na Polônia.",
+      "evidencias": [
+        "https://czasopisma.ispan.pl/index.php/m/article/view/3224"
+      ],
+      "periodico": "Muzyka",
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "paises": [
+        "pl"
+      ],
+      "identificadores": {
+        "doi": "10.36744/m.3224"
+      },
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/sieradz-2024-muzyka-wolnomularstwo-warszawa.txt",
+        "pdf/sieradz-2024-muzyka-wolnomularstwo-warszawa.pdf"
+      ]
+    },
+    {
+      "id": "guenon-1964-etudes-franc-maconnerie",
+      "tipo": "livro",
+      "categoria": "divulgacao",
+      "autores": [
+        "René Guénon"
+      ],
+      "titulo": "Études sur la Franc-Maçonnerie et le Compagnonnage (2 vol.)",
+      "ano": 1964,
+      "idioma": "fr",
+      "url": null,
+      "temas": [
+        "simbolismo",
+        "esoterismo",
+        "principios"
+      ],
+      "confiabilidade": "C",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Coletânea póstuma de artigos e resenhas de René Guénon (1886–1951) sobre maçonaria e compagnonnage: defende a origem iniciática e tradicional dos ritos e critica a maçonaria \"moderna\" racionalista; matriz da corrente \"tradicionalista\" do simbolismo maçônico.",
+      "editora": "Éditions Traditionnelles",
+      "local": "Paris",
+      "status_verificacao": "pista",
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1919_1945",
+        "p1946_1989"
+      ],
+      "observacoes": "Autor †1951: textos em domínio público na UE desde 2022, mas a compilação de 1964 é edição comercial; não há cópia aberta legal localizada.",
+      "lote": "c07-doutrina"
+    },
+    {
+      "id": "boucher-1948-symbolique-maconnique",
+      "tipo": "livro",
+      "categoria": "divulgacao",
+      "autores": [
+        "Jules Boucher"
+      ],
+      "titulo": "La Symbolique maçonnique, ou l'art royal remis en lumière et restitué selon les règles de la symbolique ésotérique et traditionnelle",
+      "ano": 1948,
+      "idioma": "fr",
+      "url": null,
+      "temas": [
+        "simbolismo",
+        "esoterismo"
+      ],
+      "confiabilidade": "C",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Manual clássico de simbolismo maçônico de inspiração guénoniana, organizado por símbolos (loja, colunas, ferramentas, números, cores), muito reeditado e traduzido (inclusive no Brasil).",
+      "editora": "Dervy",
+      "local": "Paris",
+      "status_verificacao": "pista",
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "observacoes": "Autor †1955: domínio público na UE desde 2026; procurar digitalização legal (não localizada).",
+      "lote": "c07-doutrina"
+    },
+    {
+      "id": "macnulty-1991-journey-ritual-symbol",
+      "tipo": "livro",
+      "categoria": "divulgacao",
+      "autores": [
+        "W. Kirk MacNulty"
+      ],
+      "titulo": "Freemasonry: A Journey through Ritual and Symbol",
+      "ano": 1991,
+      "idioma": "en",
+      "url": null,
+      "temas": [
+        "simbolismo",
+        "esoterismo"
+      ],
+      "confiabilidade": "C",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Livro ilustrado de um maçom norte-americano que interpreta o simbolismo dos graus da Craft como mapa psicológico e espiritual (influência da cabala); referência popular da interpretação simbólica anglófona.",
+      "editora": "Thames and Hudson",
+      "local": "London",
+      "status_verificacao": "pista",
+      "paises": [
+        "us",
+        "gb"
+      ],
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "lote": "c07-doutrina"
+    },
+    {
+      "id": "bogdan-2007-western-esotericism-initiation",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Henrik Bogdan"
+      ],
+      "titulo": "Western Esotericism and Rituals of Initiation",
+      "ano": 2007,
+      "idioma": "en",
+      "url": null,
+      "temas": [
+        "esoterismo",
+        "ritual"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Estudo acadêmico (SUNY Press) dos rituais de iniciação no esoterismo ocidental: maçonaria do séc. XVIII, Rosa-Cruz de Ouro, Golden Dawn e magia moderna; enquadra a maçonaria como matriz ritual do esoterismo.",
+      "editora": "State University of New York Press",
+      "local": "Albany",
+      "status_verificacao": "pista",
+      "paises": [
+        "mundo"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1871_1918"
+      ],
+      "identificadores": {
+        "isbn": "9780791470701"
+      },
+      "lote": "c07-doutrina"
+    },
+    {
+      "id": "katz-1970-jews-freemasons",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Jacob Katz"
+      ],
+      "titulo": "Jews and Freemasons in Europe, 1723–1939",
+      "ano": 1970,
+      "idioma": "en",
+      "url": null,
+      "temas": [
+        "religiao",
+        "antimaconaria"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Obra clássica de Jacob Katz sobre a admissão (e recusa) de judeus nas lojas da Alemanha, França e Inglaterra e sobre a gênese do mito \"judeo-maçônico\"; base para os verbetes sobre judaísmo e antimaçonaria.",
+      "editora": "Harvard University Press",
+      "local": "Cambridge (MA)",
+      "status_verificacao": "pista",
+      "paises": [
+        "de",
+        "fr",
+        "gb"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918",
+        "p1919_1945"
+      ],
+      "lote": "c07-doutrina"
+    },
+    {
+      "id": "ferrer-benimeli-1976-masoneria-iglesia-ilustracion",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "José Antonio Ferrer Benimeli"
+      ],
+      "titulo": "Masonería, Iglesia e Ilustración: un conflicto ideológico-político-religioso (4 vol.)",
+      "ano": 1976,
+      "idioma": "es",
+      "url": null,
+      "temas": [
+        "religiao",
+        "historiografia"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Tese monumental de Ferrer Benimeli, baseada em arquivos vaticanos e estatais, que reinterpreta as condenações papais do séc. XVIII como motivadas sobretudo por razões políticas (segurança dos Estados) mais que doutrinais.",
+      "editora": "Fundación Universitaria Española",
+      "local": "Madrid",
+      "status_verificacao": "pista",
+      "paises": [
+        "va",
+        "es",
+        "mundo"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "observacoes": "Publicado em 1976–1977.",
+      "lote": "c07-doutrina"
+    },
+    {
+      "id": "zarcone-1993-mystiques-philosophes-islam",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Thierry Zarcone"
+      ],
+      "titulo": "Mystiques, philosophes et francs-maçons en Islam: Riza Tevfik, penseur ottoman (1868–1949), du soufisme à la confrérie",
+      "ano": 1993,
+      "idioma": "fr",
+      "url": null,
+      "temas": [
+        "religiao",
+        "esoterismo",
+        "personalidades"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Estudo de Thierry Zarcone sobre as relações entre sufismo (bektashis, melâmis) e maçonaria no Império Otomano através do pensador Riza Tevfik; referência para maçonaria e islã.",
+      "editora": "Institut français d'études anatoliennes / Jean Maisonneuve",
+      "local": "Paris",
+      "status_verificacao": "pista",
+      "paises": [
+        "tr"
+      ],
+      "periodos": [
+        "p1871_1918",
+        "p1919_1945"
+      ],
+      "lote": "c07-doutrina"
+    },
+    {
+      "id": "hivert-messeca-1997-fm-vint-aux-femmes",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Gisèle Hivert-Messeca; Yves Hivert-Messeca"
+      ],
+      "titulo": "Comment la franc-maçonnerie vint aux femmes: deux siècles de franc-maçonnerie d'adoption, féminine et mixte en France, 1740–1940",
+      "ano": 1997,
+      "idioma": "fr",
+      "url": null,
+      "temas": [
+        "mulheres"
+      ],
+      "confiabilidade": "B",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Síntese histórica das lojas de adoção, da maçonaria mista (Droit Humain) e feminina na França entre 1740 e 1940; referência central para o verbete sobre mulheres.",
+      "editora": "Dervy",
+      "local": "Paris",
+      "status_verificacao": "pista",
+      "potencias": [
+        "droit_humain",
+        "glff"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918",
+        "p1919_1945"
+      ],
+      "lote": "c07-doutrina"
+    },
+    {
+      "id": "heidle-snoek-2008-womens-agency",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Alexandra Heidle; Jan A. M. Snoek (eds.)"
+      ],
+      "titulo": "Women's Agency and Ritual in Mixed and Female Masonic Orders",
+      "ano": 2008,
+      "idioma": "en",
+      "url": null,
+      "temas": [
+        "mulheres",
+        "ritual"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Coletânea acadêmica (Brill, Aries Book Series) sobre lojas de adoção, Droit Humain, Order of Women Freemasons, Estrela do Oriente e outras ordens mistas/femininas, com ênfase em ritual e agência feminina. Ver resenha willen-2015-resenha-heidle-snoek-womens-agency.",
+      "editora": "Brill",
+      "local": "Leiden",
+      "status_verificacao": "pista",
+      "paises": [
+        "mundo"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1871_1918",
+        "p1990_hoje"
+      ],
+      "lote": "c07-doutrina"
+    },
+    {
+      "id": "revauger-lemaire-2013-femmes-fm",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Cécile Révauger; Jacques Charles Lemaire (dir.)"
+      ],
+      "titulo": "Les Femmes et la Franc-maçonnerie des Lumières à nos jours",
+      "ano": 2013,
+      "idioma": "fr",
+      "url": null,
+      "temas": [
+        "mulheres",
+        "historiografia"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Coletânea organizada por Cécile Révauger e J. C. Lemaire (Univ. Livre de Bruxelas, col. La Pensée et les Hommes) sobre a presença feminina na maçonaria do séc. XVIII ao presente, em perspectiva comparada. Ver resenha deschamps-2017-resenha-femmes-lumieres.",
+      "editora": "Éditions de l'Université de Bruxelles",
+      "local": "Bruxelles",
+      "status_verificacao": "pista",
+      "paises": [
+        "fr",
+        "be",
+        "gb"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1990_hoje"
+      ],
+      "observacoes": "Editora e ano a conferir (citados a partir da resenha de Deschamps).",
+      "lote": "c07-doutrina"
+    },
+    {
+      "id": "mollier-2005-chevalerie-maconnique",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Pierre Mollier"
+      ],
+      "titulo": "La chevalerie maçonnique: franc-maçonnerie, imaginaire chevaleresque et légende templière au siècle des Lumières",
+      "ano": 2005,
+      "idioma": "fr",
+      "url": null,
+      "temas": [
+        "simbolismo",
+        "graus",
+        "esoterismo"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Estudo do diretor da biblioteca do GOdF sobre a formação dos graus cavaleirescos e da lenda templária na maçonaria setecentista, a partir de manuscritos de ritual.",
+      "editora": "Dervy",
+      "local": "Paris",
+      "status_verificacao": "pista",
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "lote": "c07-doutrina"
+    },
+    {
+      "id": "leforestier-1970-fm-templiere-occultiste",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "René Le Forestier"
+      ],
+      "titulo": "La Franc-Maçonnerie templière et occultiste aux XVIIIe et XIXe siècles",
+      "ano": 1970,
+      "idioma": "fr",
+      "url": null,
+      "temas": [
+        "esoterismo",
+        "ritos"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Obra póstuma de Le Forestier (ed. Antoine Faivre) sobre Estrita Observância, Élus Coëns, Willermoz, RER e correntes ocultistas na maçonaria; continua sendo a síntese de referência sobre o tema.",
+      "editora": "Aubier-Montaigne",
+      "local": "Paris",
+      "status_verificacao": "pista",
+      "ritos": [
+        "rer"
+      ],
+      "paises": [
+        "fr",
+        "de"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "lote": "c07-doutrina"
+    },
+    {
+      "id": "yates-1972-rosicrucian-enlightenment",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Frances A. Yates"
+      ],
+      "titulo": "The Rosicrucian Enlightenment",
+      "ano": 1972,
+      "idioma": "en",
+      "url": null,
+      "temas": [
+        "esoterismo",
+        "origens"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Estudo clássico de Frances Yates sobre os manifestos rosacruzes, o círculo do Eleitor Palatino e a hipótese (controversa) de continuidade entre rosacrucianismo, Royal Society e maçonaria.",
+      "editora": "Routledge & Kegan Paul",
+      "local": "London",
+      "status_verificacao": "pista",
+      "paises": [
+        "de",
+        "gb"
+      ],
+      "periodos": [
+        "p1600_1716"
+      ],
+      "lote": "c07-doutrina"
+    },
+    {
+      "id": "cofe-1987-freemasonry-christianity",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Church of England, General Synod"
+      ],
+      "titulo": "Freemasonry and Christianity: Are They Compatible? A Contribution to Discussion",
+      "ano": 1987,
+      "idioma": "en",
+      "url": null,
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "impresso",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Relatório de grupo de trabalho do Sínodo Geral da Igreja da Inglaterra, que apontou dificuldades teológicas (nome divino no Arco Real, juramentos, \"salvação\" pelas obras) e influenciou mudanças no ritual da UGLE.",
+      "editora": "Church House Publishing",
+      "local": "London",
+      "status_verificacao": "pista",
+      "potencias": [
+        "ugle"
+      ],
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "lote": "c07-doutrina"
+    },
+    {
+      "id": "sbc-1993-study-freemasonry",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Southern Baptist Convention, Home Mission Board (Interfaith Witness Department)"
+      ],
+      "titulo": "A Study of Freemasonry / Report on Freemasonry (aprovado em junho de 1993)",
+      "ano": 1993,
+      "idioma": "en",
+      "url": null,
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "desconhecido",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Estudo encomendado pela Convenção Batista do Sul em 1992 e aprovado em 1993: reconhece obras de caridade, aponta pontos incompatíveis com o cristianismo e deixa a filiação à consciência individual.",
+      "evidencias": [
+        "https://skirret.com/archive/misc/misc-s/southernbaptistconventionsstudyoffreemasonry.html",
+        "https://christianitytoday.com/1993/07/southern-baptists-clinton-draws-ire-of-sbc"
+      ],
+      "editora": "Home Mission Board, SBC",
+      "local": "Atlanta",
+      "status_verificacao": "pista",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "lote": "c07-doutrina"
+    },
+    {
+      "id": "fiqh-1978-decisao-maconaria",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Conselho de Jurisprudência Islâmica (Majma' al-Fiqh al-Islami), Liga Muçulmana Mundial"
+      ],
+      "titulo": "Decisão sobre a organização maçônica (sessão de 15/7/1978)",
+      "ano": 1978,
+      "idioma": "ar",
+      "url": null,
+      "temas": [
+        "religiao",
+        "antimaconaria"
+      ],
+      "confiabilidade": "A",
+      "acesso": "desconhecido",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Parecer do conselho de jurisprudência da Liga Muçulmana Mundial (Meca) que qualifica a maçonaria de organização clandestina e perigosa e declara incompatível a filiação de muçulmanos; marco do antimaçonismo em países de maioria muçulmana.",
+      "evidencias": [
+        "https://www.malaymail.com/news/opinion/2016/02/28/how-muslims-came-to-fear-freemasons/1069169",
+        "https://freemasonry.bcy.ca/anti-masonry/saudi_gazette.html"
+      ],
+      "editora": "Rabitat al-'Alam al-Islami",
+      "local": "Meca",
+      "status_verificacao": "pista",
+      "paises": [
+        "sa",
+        "mundo"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "observacoes": "Fontes divergem sobre o órgão emissor (Conselho de Fiqh da Liga Muçulmana × \"Colégio Jurídico Islâmico\"/Al-Azhar). Texto primário não localizado; ver PENDENCIAS.",
+      "lote": "c07-doutrina"
+    },
+    {
+      "id": "igreja-grecia-1933-declaracao-maconaria",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Igreja da Grécia (Hierarquia)"
+      ],
+      "titulo": "Declaração da Hierarquia da Igreja da Grécia sobre a maçonaria (12/10/1933)",
+      "ano": 1933,
+      "idioma": "el",
+      "url": null,
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "desconhecido",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Declaração episcopal ortodoxa grega que considerou a maçonaria um sistema religioso incompatível com o cristianismo ortodoxo e proibiu clérigos e fiéis de aderir; documento de referência para a posição ortodoxa.",
+      "editora": "Igreja da Grécia",
+      "local": "Atenas",
+      "status_verificacao": "pista",
+      "paises": [
+        "gr"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "observacoes": "Texto original grego e data a conferir (fonte primária não localizada nesta sessão).",
+      "lote": "c07-doutrina"
+    },
+    {
+      "id": "supremos-conselhos-1875-convent-lausanne",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Convento dos Supremos Conselhos do REAA (Lausanne)"
+      ],
+      "titulo": "Compte rendu des travaux du Convent des Suprêmes Conseils du Rite Écossais Ancien Accepté réuni à Lausanne (6–22 septembre 1875): Déclaration de principes, Manifeste et Traité",
+      "ano": 1875,
+      "idioma": "fr",
+      "url": null,
+      "temas": [
+        "principios",
+        "ritos",
+        "regularidade"
+      ],
+      "confiabilidade": "A",
+      "acesso": "desconhecido",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Atas do Convento de Lausanne, onde Supremos Conselhos do REAA revisaram as Grandes Constituições e adotaram uma Declaração de princípios que afirma a crença num \"princípio criador\" sob o nome de Grande Arquiteto do Universo, fórmula criticada como vaga pelos regulares (Pike, Escócia).",
+      "evidencias": [
+        "https://en.wikipedia.org/wiki/Lausanne_Congress_of_Supreme_Councils_of_1875",
+        "https://masonicperiodicals.org/periodicals/mmg/issues/mmg_01111876/page/36/"
+      ],
+      "editora": "(edição do convento)",
+      "local": "Lausanne",
+      "status_verificacao": "pista",
+      "ritos": [
+        "reaa"
+      ],
+      "potencias": [
+        "sc_mundo"
+      ],
+      "paises": [
+        "ch",
+        "fr",
+        "mundo"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "observacoes": "Texto integral não localizado em acervo aberto acessível (Gallica 403); a Wikipédia en aponta transcrição em freemasons-freemasonry.com. Ver PENDENCIAS.",
+      "lote": "c07-doutrina"
+    },
+    {
+      "id": "godf-1877-convent-voeu-ix",
+      "tipo": "documento",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "Grand Orient de France"
+      ],
+      "titulo": "Compte rendu des travaux du Convent maçonnique du Grand Orient de France (septembre 1877) — voto IX e nova redação do art. 1º da Constituição",
+      "ano": 1877,
+      "idioma": "fr",
+      "url": null,
+      "temas": [
+        "principios",
+        "regularidade"
+      ],
+      "confiabilidade": "A",
+      "acesso": "desconhecido",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Atas do convento de 1877 em que o GOdF aprovou o voto IX (loja La Fraternité progressive, relator Frédéric Desmons), suprimindo da Constituição a afirmação obrigatória da existência de Deus e da imortalidade da alma em nome da \"liberdade absoluta de consciência\"; origem da ruptura com a UGLE (1878).",
+      "evidencias": [
+        "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Desmons",
+        "https://masonicmouse.org/2019/03/19/the-motion-of-1877-how-the-grande-orient-de-france-really-became-adogmatic/"
+      ],
+      "editora": "Grand Orient de France (Bulletin)",
+      "local": "Paris",
+      "status_verificacao": "pista",
+      "potencias": [
+        "godf",
+        "ugle"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "observacoes": "Bulletin du GOdF 1877 provavelmente na Gallica (403 para robôs). Ver PENDENCIAS/COLETA.",
+      "lote": "c07-doutrina"
+    },
+    {
+      "id": "ugle-1929-basic-principles",
+      "tipo": "documento",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "United Grand Lodge of England (com as Grandes Lojas da Irlanda e da Escócia)"
+      ],
+      "titulo": "Basic Principles for Grand Lodge Recognition (4/9/1929)",
+      "ano": 1929,
+      "idioma": "en",
+      "url": null,
+      "temas": [
+        "principios",
+        "regularidade",
+        "documentos_fundadores"
+      ],
+      "confiabilidade": "A",
+      "acesso": "oficial_publico",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Oito princípios aprovados pela UGLE em 1929 como condição de reconhecimento de outras Grandes Lojas: origem regular, crença no Ser Supremo, VLS aberto na loja, só homens, soberania sobre os três graus, proibição de discussões religiosas e políticas, entre outros; republicados no Book of Constitutions.",
+      "evidencias": [
+        "https://en.wikipedia.org/wiki/Regular_Masonic_jurisdiction",
+        "https://www.freemason.pt/principios-basicos-para-o-reconhecimento-de-grandes-lojas/"
+      ],
+      "editora": "UGLE",
+      "local": "London",
+      "status_verificacao": "pista",
+      "potencias": [
+        "ugle",
+        "gl_irlanda",
+        "gl_escocia"
+      ],
+      "paises": [
+        "gb",
+        "mundo"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "observacoes": "PDF atual do Book of Constitutions (boc-craft-rules-feb26.pdf) deu 404 em 2026-11-03; texto também na tradução portuguesa de freemason.pt. Coordenar com C03 (lote de potências).",
+      "lote": "c07-doutrina"
     }
   ]
 }
