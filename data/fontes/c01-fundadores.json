@@ -1160,6 +1160,1914 @@
       "licenca": "domínio público",
       "confiabilidade": "A",
       "lote": "c01-fundadores"
+    },
+    {
+      "id": "mackey-1874-encyclopaedia",
+      "tipo": "verbete",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Albert Gallatin Mackey"
+      ],
+      "titulo": "An Encyclopaedia of Freemasonry and its Kindred Sciences",
+      "ano": 1874,
+      "idioma": "en",
+      "temas": [
+        "historiografia",
+        "simbolismo",
+        "principios",
+        "ritos",
+        "graus"
+      ],
+      "resumo": "Primeira edição da enciclopédia de Mackey, obra de referência maçônica mais influente do século XIX em inglês, com verbetes sobre história, símbolos, graus, ritos, jurisprudência e personalidades. Útil como retrato da erudição maçônica americana, mas com afirmações históricas hoje superadas.",
+      "local": "Filadélfia",
+      "editora": "Moss & Co.",
+      "paises": [
+        "us",
+        "mundo"
+      ],
+      "periodos": [
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "observacoes": "PDF > 20 MB: só texto.",
+      "acervo": [
+        "txt/mackey-1874-encyclopaedia.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/encyclopaediaoff00mackrich",
+      "identificadores": {
+        "ia": "encyclopaediaoff00mackrich"
+      },
+      "evidencias": [
+        "https://archive.org/details/encyclopaediaoff00mackrich"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "mackey-1860-lexicon",
+      "tipo": "verbete",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Albert Gallatin Mackey"
+      ],
+      "titulo": "A Lexicon of Freemasonry",
+      "ano": 1860,
+      "idioma": "en",
+      "temas": [
+        "simbolismo",
+        "principios",
+        "graus"
+      ],
+      "resumo": "Dicionário anterior à Enciclopédia (1ª ed. 1845), com definições dos termos 'comunicáveis' da maçonaria, notas sobre história, símbolos e graus. Mostra a fase inicial do vocabulário de referência de Mackey.",
+      "ano_original": 1845,
+      "local": "Filadélfia",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/mackey-1860-lexicon.txt",
+        "pdf/mackey-1860-lexicon.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/alexiconfreemas00mackgoog",
+      "identificadores": {
+        "ia": "alexiconfreemas00mackgoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/alexiconfreemas00mackgoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "mackey-1865-masonic-jurisprudence",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Albert Gallatin Mackey"
+      ],
+      "titulo": "A Text Book of Masonic Jurisprudence",
+      "ano": 1865,
+      "idioma": "en",
+      "temas": [
+        "principios",
+        "regularidade",
+        "documentos_fundadores"
+      ],
+      "resumo": "Tratado de direito maçônico que expõe as leis escritas e não escritas da maçonaria e reproduz a lista de 25 landmarks formulada por Mackey em 1858, tornada referência (e objeto de controvérsia) em muitas grandes lojas.",
+      "local": "Nova York",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "potencias": [
+        "gl_estaduais_eua"
+      ],
+      "confiabilidade": "B",
+      "observacoes": "Fonte para os landmarks de Mackey (1858).",
+      "acervo": [
+        "txt/mackey-1865-masonic-jurisprudence.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/textbookofmasoni00mack",
+      "identificadores": {
+        "ia": "textbookofmasoni00mack"
+      },
+      "evidencias": [
+        "https://archive.org/details/textbookofmasoni00mack"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "mackey-1856-principles-masonic-law",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Albert Gallatin Mackey"
+      ],
+      "titulo": "The Principles of Masonic Law",
+      "ano": 1856,
+      "idioma": "en",
+      "temas": [
+        "principios",
+        "regularidade"
+      ],
+      "resumo": "Tratado sobre as leis constitucionais, usos e landmarks da maçonaria, precursor do Text Book of Masonic Jurisprudence. Texto digitalizado pelo Project Gutenberg.",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "identificadores": {
+        "gutenberg": "12186"
+      },
+      "status_verificacao": "conferido_web",
+      "url": "https://archive.org/details/theprinciplesofm12186gut",
+      "evidencias": [
+        "https://archive.org/details/theprinciplesofm12186gut"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "mackey-1869-symbolism",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Albert Gallatin Mackey"
+      ],
+      "titulo": "The Symbolism of Freemasonry",
+      "ano": 1869,
+      "idioma": "en",
+      "temas": [
+        "simbolismo",
+        "principios"
+      ],
+      "resumo": "Interpretação sistemática dos símbolos, mitos e lendas maçônicas (templo, Hiram, palavra perdida, luz), em chave comparativista oitocentista. Obra clássica de leitura simbólica, mais especulativa que histórica.",
+      "local": "Nova York",
+      "editora": "Clark & Maynard",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "C",
+      "acervo": [
+        "txt/mackey-1869-symbolism.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/symbolismoffreem00mack",
+      "identificadores": {
+        "ia": "symbolismoffreem00mack"
+      },
+      "evidencias": [
+        "https://archive.org/details/symbolismoffreem00mack"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "mackey-1906-history-vol1",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Albert Gallatin Mackey",
+        "William R. Singleton"
+      ],
+      "titulo": "The History of Freemasonry: its Legends and Traditions, its Chronological History (vol. 1)",
+      "ano": 1906,
+      "idioma": "en",
+      "temas": [
+        "historiografia",
+        "origens"
+      ],
+      "resumo": "Primeiro volume da História póstuma de Mackey (com continuação de Singleton), que separa a 'história lendária' (teorias de origem) da 'história autêntica'. Útil para registrar as teorias de origem correntes no século XIX.",
+      "ano_original": 1898,
+      "local": "Nova York",
+      "editora": "Masonic History Company",
+      "paises": [
+        "mundo"
+      ],
+      "periodos": [
+        "medieval",
+        "p1717_1750"
+      ],
+      "confiabilidade": "B",
+      "observacoes": "Obra em 7 volumes; copiado só o vol. 1 (há demais volumes no IA: historyoffreemas02mack, 05mack, 07mack).",
+      "acervo": [
+        "txt/mackey-1906-history-vol1.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/historyoffreema01mack",
+      "identificadores": {
+        "ia": "historyoffreema01mack"
+      },
+      "evidencias": [
+        "https://archive.org/details/historyoffreema01mack"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "pike-1871-morals-dogma",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Albert Pike"
+      ],
+      "titulo": "Morals and Dogma of the Ancient and Accepted Scottish Rite of Freemasonry",
+      "ano": 1871,
+      "idioma": "en",
+      "temas": [
+        "ritos",
+        "graus",
+        "simbolismo",
+        "esoterismo",
+        "principios"
+      ],
+      "resumo": "Conjunto de preleções de Albert Pike, Soberano Grande Comendador da Jurisdição Sul, comentando filosoficamente os 32 graus do REAA. Texto distribuído oficialmente aos membros por décadas; muito explorado também pela literatura antimaçônica (inclusive por Taxil).",
+      "local": "Charleston",
+      "editora": "Supremo Conselho do 33º, Jurisdição Sul",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "ritos": [
+        "reaa"
+      ],
+      "potencias": [
+        "sc_sj"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/pike-1871-morals-dogma.txt",
+        "pdf/pike-1871-morals-dogma.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/MoralsAndDogmaAlbertPikeTheCouncil1871",
+      "identificadores": {
+        "ia": "MoralsAndDogmaAlbertPikeTheCouncil1871"
+      },
+      "evidencias": [
+        "https://archive.org/details/MoralsAndDogmaAlbertPikeTheCouncil1871"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "oliver-1841-history-initiation",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "George Oliver"
+      ],
+      "titulo": "The History of Initiation",
+      "ano": 1841,
+      "idioma": "en",
+      "temas": [
+        "esoterismo",
+        "simbolismo",
+        "origens"
+      ],
+      "resumo": "Doze palestras do reverendo George Oliver que comparam ritos de iniciação de mistérios antigos com a maçonaria, defendendo uma continuidade hoje rejeitada pela historiografia. Representativa da escola 'romântica' anglicana.",
+      "ano_original": 1829,
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "C",
+      "acervo": [
+        "txt/oliver-1841-history-initiation.txt",
+        "pdf/oliver-1841-history-initiation.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/historyinitiati00olivgoog",
+      "identificadores": {
+        "ia": "historyinitiati00olivgoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/historyinitiati00olivgoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "oliver-1823-antiquities",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "George Oliver"
+      ],
+      "titulo": "The Antiquities of Free-Masonry",
+      "ano": 1823,
+      "idioma": "en",
+      "temas": [
+        "origens",
+        "historiografia"
+      ],
+      "resumo": "Obra em que Oliver divide a história da maçonaria em 'cinco grandes períodos' desde a Criação até o Templo de Salomão; exemplo da historiografia maçônica especulativa anterior à 'escola autêntica'.",
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "C",
+      "acervo": [
+        "txt/oliver-1823-antiquities.txt",
+        "pdf/oliver-1823-antiquities.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/antiquitiesfree00olivgoog",
+      "identificadores": {
+        "ia": "antiquitiesfree00olivgoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/antiquitiesfree00olivgoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "oliver-1846-historical-landmarks",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "George Oliver"
+      ],
+      "titulo": "The Historical Landmarks and Other Evidences of Freemasonry, Explained",
+      "ano": 1846,
+      "idioma": "en",
+      "temas": [
+        "simbolismo",
+        "ritual",
+        "principios"
+      ],
+      "resumo": "Série de palestras em que Oliver comenta, pergunta a pergunta, as instruções dos graus simbólicos inglesas, interpretando seus símbolos com referências bíblicas.",
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "ritos": [
+        "emulacao"
+      ],
+      "confiabilidade": "C",
+      "acervo": [
+        "txt/oliver-1846-historical-landmarks.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/historicallandm00olivgoog",
+      "identificadores": {
+        "ia": "historicallandm00olivgoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/historicallandm00olivgoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "gould-1884-history-vol1",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Robert Freke Gould"
+      ],
+      "titulo": "The History of Freemasonry: its Antiquities, Symbols, Constitutions, Customs (vol. 1)",
+      "ano": 1884,
+      "idioma": "en",
+      "temas": [
+        "historiografia",
+        "origens",
+        "documentos_fundadores"
+      ],
+      "resumo": "Primeiro volume da grande História de Gould, marco da 'escola autêntica' que exige provas documentais; trata das corporações e dos Old Charges. Base de grande parte da historiografia maçônica do século XX.",
+      "ano_original": 1882,
+      "local": "Nova York",
+      "paises": [
+        "mundo",
+        "gb"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716"
+      ],
+      "confiabilidade": "B",
+      "observacoes": "Obra em 6 vols. (Londres, 1882–87); no IA há volumes 1–6 (historyoffreemas0Ngouluoft).",
+      "acervo": [
+        "txt/gould-1884-history-vol1.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/historyoffreemas01goul",
+      "identificadores": {
+        "ia": "historyoffreemas01goul"
+      },
+      "evidencias": [
+        "https://archive.org/details/historyoffreemas01goul"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "gould-1903-concise-history",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Robert Freke Gould"
+      ],
+      "titulo": "A Concise History of Freemasonry",
+      "ano": 1903,
+      "idioma": "en",
+      "temas": [
+        "historiografia",
+        "origens",
+        "potencias"
+      ],
+      "resumo": "Síntese em um volume, feita pelo próprio Gould, de sua História, cobrindo origens, a Grande Loja de 1717, Antients e Moderns, Escócia, Irlanda, França e América.",
+      "local": "Londres",
+      "editora": "Gale & Polden",
+      "paises": [
+        "mundo"
+      ],
+      "periodos": [
+        "medieval",
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/gould-1903-concise-history.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/concisehistoryof00goul",
+      "identificadores": {
+        "ia": "concisehistoryof00goul"
+      },
+      "evidencias": [
+        "https://archive.org/details/concisehistoryof00goul"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "findel-1866-history",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Joseph Gabriel Findel"
+      ],
+      "titulo": "History of Freemasonry from its Rise down to the Present Day",
+      "ano": 1866,
+      "idioma": "en",
+      "temas": [
+        "historiografia",
+        "origens",
+        "potencias"
+      ],
+      "resumo": "Tradução inglesa da Geschichte der Freimaurerei (1861–62) do alemão J. G. Findel, uma das primeiras histórias críticas gerais, atenta à documentação e à situação da maçonaria alemã e continental.",
+      "ano_original": 1861,
+      "local": "Londres",
+      "editora": "Asher & Co.",
+      "paises": [
+        "mundo",
+        "de"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/findel-1866-history.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/historyoffreemas00find",
+      "identificadores": {
+        "ia": "historyoffreemas00find"
+      },
+      "evidencias": [
+        "https://archive.org/details/historyoffreemas00find"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "ragon-1853-orthodoxie-maconnique",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Jean-Marie Ragon"
+      ],
+      "titulo": "Orthodoxie maçonnique, suivie de la Maçonnerie occulte et de l'initiation hermétique",
+      "ano": 1853,
+      "idioma": "fr",
+      "temas": [
+        "ritos",
+        "esoterismo",
+        "historiografia"
+      ],
+      "resumo": "Obra do maçom francês J.-M. Ragon que inventaria os ritos e graus em uso (com crítica aos altos graus) e expõe uma leitura ocultista e hermética da iniciação. Fonte importante para a história dos ritos franceses.",
+      "local": "Paris",
+      "editora": "E. Dentu",
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "ritos": [
+        "frances_moderno",
+        "memphis_misraim",
+        "reaa"
+      ],
+      "confiabilidade": "B",
+      "titulo_traduzido": "Ortodoxia maçônica",
+      "acervo": [
+        "txt/ragon-1853-orthodoxie-maconnique.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/bub_gb_Itk2AAAAMAAJ",
+      "identificadores": {
+        "ia": "bub_gb_Itk2AAAAMAAJ"
+      },
+      "evidencias": [
+        "https://archive.org/details/bub_gb_Itk2AAAAMAAJ"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "clavel-1844-histoire-pittoresque",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "François-Timoléon Bègue Clavel"
+      ],
+      "titulo": "Histoire pittoresque de la franc-maçonnerie et des sociétés secrètes anciennes et modernes",
+      "ano": 1844,
+      "idioma": "fr",
+      "temas": [
+        "historiografia",
+        "origens",
+        "ritos"
+      ],
+      "resumo": "História ilustrada da maçonaria e das sociedades secretas, muito difundida na França e traduzida (it., es.). Combina documentação sobre as obediências francesas com teorias de origem hoje não aceitas.",
+      "local": "Paris",
+      "editora": "Pagnerre",
+      "paises": [
+        "fr",
+        "mundo"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "C",
+      "titulo_traduzido": "História pitoresca da franco-maçonaria",
+      "acervo": [
+        "txt/clavel-1844-histoire-pittoresque.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/HistoirePittoresqueFM",
+      "identificadores": {
+        "ia": "HistoirePittoresqueFM"
+      },
+      "evidencias": [
+        "https://archive.org/details/HistoirePittoresqueFM"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "clavel-1873-storia-massoneria",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "François-Timoléon Bègue Clavel"
+      ],
+      "titulo": "Storia della Massoneria e delle società segrete",
+      "ano": 1873,
+      "idioma": "it",
+      "temas": [
+        "historiografia",
+        "origens"
+      ],
+      "resumo": "Tradução italiana da Histoire pittoresque de Clavel, testemunho da circulação da historiografia maçônica francesa na Itália pós-unificação.",
+      "ano_original": 1844,
+      "paises": [
+        "it",
+        "fr"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "C",
+      "acervo": [
+        "txt/clavel-1873-storia-massoneria.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/bub_gb_gmzTIrxs8N8C",
+      "identificadores": {
+        "ia": "bub_gb_gmzTIrxs8N8C"
+      },
+      "evidencias": [
+        "https://archive.org/details/bub_gb_gmzTIrxs8N8C"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "kloss-1844-bibliographie",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Georg Kloss"
+      ],
+      "titulo": "Bibliographie der Freimaurerei und der mit ihr in Verbindung gesetzten geheimen Gesellschaften",
+      "ano": 1844,
+      "idioma": "de",
+      "temas": [
+        "historiografia"
+      ],
+      "resumo": "Bibliografia sistemática de Georg Kloss com mais de 5 mil títulos sobre maçonaria e sociedades secretas até 1844, ainda referência para identificar obras dos séculos XVIII e XIX. Sua coleção está na base da Bibliotheca Klossiana (Haia).",
+      "local": "Frankfurt am Main",
+      "paises": [
+        "de",
+        "mundo"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "titulo_traduzido": "Bibliografia da franco-maçonaria",
+      "acervo": [
+        "txt/kloss-1844-bibliographie.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/bub_gb_DzkZAAAAYAAJ_2",
+      "identificadores": {
+        "ia": "bub_gb_DzkZAAAAYAAJ_2"
+      },
+      "evidencias": [
+        "https://archive.org/details/bub_gb_DzkZAAAAYAAJ_2"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "lessing-1778-ernst-und-falk",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Gotthold Ephraim Lessing"
+      ],
+      "titulo": "Ernst und Falk: Gespräche für Freymäurer",
+      "ano": 1778,
+      "idioma": "de",
+      "temas": [
+        "principios",
+        "sociabilidade",
+        "arte_cultura"
+      ],
+      "resumo": "Diálogos de Lessing (1778–80) sobre a natureza e o propósito da maçonaria, entendida como ideal ético-cosmopolita que transcende as lojas reais. Clássico do Iluminismo alemão e da reflexão filosófica sobre a ordem.",
+      "local": "Wolfenbüttel",
+      "paises": [
+        "de"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "titulo_traduzido": "Ernst e Falk: diálogos para franco-maçons",
+      "identificadores": {
+        "bsb": "10919494",
+        "ia": "10919494bsb"
+      },
+      "acervo": [
+        "txt/lessing-1778-ernst-und-falk.txt",
+        "pdf/lessing-1778-ernst-und-falk.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/10919494bsb",
+      "evidencias": [
+        "https://archive.org/details/10919494bsb"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "krause-1820-kunsturkunden",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Karl Christian Friedrich Krause"
+      ],
+      "titulo": "Die drei ältesten Kunsturkunden der Freimaurerbrüderschaft",
+      "ano": 1820,
+      "idioma": "de",
+      "temas": [
+        "documentos_fundadores",
+        "origens",
+        "ritual"
+      ],
+      "resumo": "Edição comentada pelo filósofo K. C. F. Krause dos três 'documentos mais antigos' da maçonaria segundo ele: a chamada constituição de York (926), o interrogatório atribuído a Henrique VI e o ritual de aprendiz de Prichard, com as Constituições de 1723. Obra influente e controversa na maçonaria alemã.",
+      "ano_original": 1810,
+      "local": "Dresden",
+      "paises": [
+        "de",
+        "gb"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "titulo_traduzido": "Os três documentos artísticos mais antigos da fraternidade maçônica",
+      "identificadores": {
+        "bsb": "10435361",
+        "ia": "10435361bsb"
+      },
+      "observacoes": "Edição em vários volumes (1810; 2ª ed. 1819–21); copiado o item BSB 10435361 (1820).",
+      "acervo": [
+        "txt/krause-1820-kunsturkunden.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/10435361bsb",
+      "evidencias": [
+        "https://archive.org/details/10435361bsb"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "thory-1815-acta-latomorum",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Claude-Antoine Thory"
+      ],
+      "titulo": "Acta Latomorum, ou Chronologie de l'histoire de la franche-maçonnerie française et étrangère",
+      "ano": 1815,
+      "idioma": "fr",
+      "temas": [
+        "historiografia",
+        "ritos",
+        "potencias"
+      ],
+      "resumo": "Cronologia da maçonaria francesa e estrangeira, com nomenclatura de ritos e graus e documentos, por um dirigente do rito de Misraïm/Grande Oriente. Fonte primária para a história institucional francesa até 1815.",
+      "local": "Paris",
+      "editora": "Dufart",
+      "paises": [
+        "fr",
+        "mundo"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "potencias": [
+        "godf"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/thory-1815-acta-latomorum.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/bub_gb_1JZQAAAAYAAJ",
+      "identificadores": {
+        "ia": "bub_gb_1JZQAAAAYAAJ"
+      },
+      "evidencias": [
+        "https://archive.org/details/bub_gb_1JZQAAAAYAAJ"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "thory-1812-annales-originis",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Claude-Antoine Thory"
+      ],
+      "titulo": "Annales originis magni Galliarum O∴, ou Histoire de la fondation du Grand Orient de France",
+      "ano": 1812,
+      "idioma": "fr",
+      "temas": [
+        "potencias",
+        "historiografia"
+      ],
+      "resumo": "História da fundação do Grande Oriente de França (1773) e das revoluções que sofreu, com documentos sobre a Grande Loja de França e os ritos então praticados.",
+      "local": "Paris",
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "potencias": [
+        "godf"
+      ],
+      "confiabilidade": "B",
+      "titulo_traduzido": "Anais da origem do Grande Oriente de França",
+      "acervo": [
+        "txt/thory-1812-annales-originis.txt",
+        "pdf/thory-1812-annales-originis.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/AnnalesOriginisMagniGalliarumOOuHistoireDeLaFondationDuGrandOrientDeFrance1812",
+      "identificadores": {
+        "ia": "AnnalesOriginisMagniGalliarumOOuHistoireDeLaFondationDuGrandOrientDeFrance1812"
+      },
+      "evidencias": [
+        "https://archive.org/details/AnnalesOriginisMagniGalliarumOOuHistoireDeLaFondationDuGrandOrientDeFrance1812"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "guillemain-1787-recueil-precieux",
+      "tipo": "ritual",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Louis Guillemain de Saint-Victor"
+      ],
+      "titulo": "Recueil précieux de la maçonnerie adonhiramite",
+      "ano": 1787,
+      "idioma": "fr",
+      "temas": [
+        "ritual",
+        "ritos",
+        "graus"
+      ],
+      "resumo": "Coletânea publicada (1ª ed. 1781/1783) com os catecismos dos graus da chamada maçonaria adonhiramita, base histórica do Rito Adonhiramita, ainda praticado no Brasil.",
+      "ano_original": 1781,
+      "paises": [
+        "fr",
+        "br"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "ritos": [
+        "adonhiramita"
+      ],
+      "titulo_traduzido": "Coletânea preciosa da maçonaria adonhiramita",
+      "acervo": [
+        "txt/guillemain-1787-recueil-precieux.txt",
+        "pdf/guillemain-1787-recueil-precieux.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/recueilprcieuxd00guilgoog",
+      "identificadores": {
+        "ia": "recueilprcieuxd00guilgoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/recueilprcieuxd00guilgoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "anonimo-1801-regulateur-macon-mestre",
+      "tipo": "ritual",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Grande Oriente de França"
+      ],
+      "titulo": "Le Régulateur du Maçon (grau de Mestre)",
+      "ano": 1801,
+      "idioma": "fr",
+      "temas": [
+        "ritual",
+        "ritos",
+        "graus"
+      ],
+      "resumo": "Parte do Régulateur du Maçon, ritual dos três graus simbólicos fixado pelo Grande Oriente de França em 1785–86 e impresso em 1801; texto-base do Rito Francês (Moderno). O item contém o grau de mestre.",
+      "ano_original": 1785,
+      "local": "Paris",
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "ritos": [
+        "frances_moderno"
+      ],
+      "potencias": [
+        "godf"
+      ],
+      "titulo_traduzido": "O regulador do maçom",
+      "observacoes": "Regra 5: não reproduzir palavras, sinais e juramentos no site.",
+      "acervo": [
+        "txt/anonimo-1801-regulateur-macon-mestre.txt",
+        "pdf/anonimo-1801-regulateur-macon-mestre.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/LeRgulateurDuMaaonTroisiemeGradeOuGradeDeMaitre1801",
+      "identificadores": {
+        "ia": "LeRgulateurDuMaaonTroisiemeGradeOuGradeDeMaitre1801"
+      },
+      "evidencias": [
+        "https://archive.org/details/LeRgulateurDuMaaonTroisiemeGradeOuGradeDeMaitre1801"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "barruel-1803-memoires-jacobinisme-t1",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "Augustin Barruel"
+      ],
+      "titulo": "Mémoires pour servir à l'histoire du jacobinisme (tomo 1)",
+      "ano": 1803,
+      "idioma": "fr",
+      "temas": [
+        "antimaconaria",
+        "politica"
+      ],
+      "resumo": "Obra do abade Barruel (1797–98) que atribui a Revolução Francesa a uma conspiração de filósofos, maçons e Iluminados; matriz do conspiracionismo antimaçônico moderno. Deve ser tratada criticamente, como documento.",
+      "ano_original": 1797,
+      "local": "Hamburgo",
+      "paises": [
+        "fr",
+        "de"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "titulo_traduzido": "Memórias para servir à história do jacobinismo",
+      "observacoes": "5 tomos no IA (mmoirespours01..05barr).",
+      "acervo": [
+        "txt/barruel-1803-memoires-jacobinisme-t1.txt",
+        "pdf/barruel-1803-memoires-jacobinisme-t1.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/mmoirespours01barr",
+      "identificadores": {
+        "ia": "mmoirespours01barr"
+      },
+      "evidencias": [
+        "https://archive.org/details/mmoirespours01barr"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "robison-1798-proofs-conspiracy",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "John Robison"
+      ],
+      "titulo": "Proofs of a Conspiracy against all the Religions and Governments of Europe",
+      "ano": 1798,
+      "idioma": "en",
+      "temas": [
+        "antimaconaria",
+        "politica"
+      ],
+      "resumo": "Obra do físico escocês John Robison (1797) que, como Barruel, sustenta uma conspiração dos Iluminados da Baviera infiltrados nas lojas; influente no pânico antimaçônico nos EUA em 1798. Documento do conspiracionismo, não fonte histórica fiável.",
+      "ano_original": 1797,
+      "local": "Nova York",
+      "paises": [
+        "gb",
+        "de",
+        "us"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "acervo": [
+        "txt/robison-1798-proofs-conspiracy.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/proofsofconspira00robi",
+      "identificadores": {
+        "ia": "proofsofconspira00robi"
+      },
+      "evidencias": [
+        "https://archive.org/details/proofsofconspira00robi"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "mossdorf-1822-encyclopadie",
+      "tipo": "verbete",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "C. Lenning (pseud.)",
+        "Friedrich Mossdorf"
+      ],
+      "titulo": "Encyclopädie der Freimaurerei",
+      "ano": 1822,
+      "idioma": "de",
+      "temas": [
+        "historiografia",
+        "ritos",
+        "simbolismo"
+      ],
+      "resumo": "Primeira grande enciclopédia maçônica alemã, publicada sob o nome de C. Lenning e completada por Friedrich Mossdorf (3 vols., 1822–28); base do posterior Allgemeines Handbuch der Freimaurerei.",
+      "local": "Leipzig",
+      "editora": "Brockhaus",
+      "paises": [
+        "de",
+        "mundo"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "titulo_traduzido": "Enciclopédia da franco-maçonaria",
+      "acervo": [
+        "txt/mossdorf-1822-encyclopadie.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/bub_gb_cCQZAAAAYAAJ",
+      "identificadores": {
+        "ia": "bub_gb_cCQZAAAAYAAJ"
+      },
+      "evidencias": [
+        "https://archive.org/details/bub_gb_cCQZAAAAYAAJ"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "dias-1843-historia-franc-maconaria",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Miguel António Dias"
+      ],
+      "titulo": "História da Franc-Maçonaria ou dos Pedreiros Livres",
+      "ano": 1843,
+      "idioma": "pt",
+      "temas": [
+        "historiografia",
+        "origens"
+      ],
+      "resumo": "Uma das primeiras histórias gerais da maçonaria escritas em português, publicada em Portugal no contexto das lutas liberais. Útil para a recepção lusófona da historiografia maçônica.",
+      "paises": [
+        "pt",
+        "mundo"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "C",
+      "acervo": [
+        "txt/dias-1843-historia-franc-maconaria.txt",
+        "pdf/dias-1843-historia-franc-maconaria.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/histo-ria-da-franc-mac-onaria-ou-dos-pedreiros-livres",
+      "identificadores": {
+        "ia": "histo-ria-da-franc-mac-onaria-ou-dos-pedreiros-livres"
+      },
+      "evidencias": [
+        "https://archive.org/details/histo-ria-da-franc-mac-onaria-ou-dos-pedreiros-livres"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "gol-1822-constituicao",
+      "tipo": "documento",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "Grande Oriente Lusitano"
+      ],
+      "titulo": "Constituição da Maçonaria em Portugal (primeira parte)",
+      "ano": 1822,
+      "idioma": "pt",
+      "temas": [
+        "documentos_fundadores",
+        "potencias"
+      ],
+      "resumo": "Texto constitucional da maçonaria portuguesa no período vintista (1822), sob o Grande Oriente Lusitano. Documento primário para a história institucional da maçonaria em Portugal.",
+      "local": "Lisboa",
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "potencias": [
+        "gol"
+      ],
+      "acervo": [
+        "txt/gol-1822-constituicao.txt",
+        "pdf/gol-1822-constituicao.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/constituica-o-da-mac-onaria-em-portugal",
+      "identificadores": {
+        "ia": "constituica-o-da-mac-onaria-em-portugal"
+      },
+      "evidencias": [
+        "https://archive.org/details/constituica-o-da-mac-onaria-em-portugal"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "golu-1881-ceremonias-symbolica",
+      "tipo": "ritual",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Grande Oriente Lusitano Unido"
+      ],
+      "titulo": "Cerimónias da Maçonaria Simbólica dos Antigos Maçons Livres e Aceites de Portugal",
+      "ano": 1881,
+      "idioma": "pt",
+      "temas": [
+        "ritual",
+        "ritos"
+      ],
+      "resumo": "Ritual impresso das cerimônias dos graus simbólicos adotado pelo Grande Oriente Lusitano Unido em 1881. Testemunho do ritual português oitocentista.",
+      "local": "Lisboa",
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "potencias": [
+        "gol"
+      ],
+      "ritos": [
+        "reaa"
+      ],
+      "observacoes": "Rito presumido (REAA); conferir no texto. Regra 5 aplicável.",
+      "acervo": [
+        "txt/golu-1881-ceremonias-symbolica.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/ceremonias-da-mac-onaria-symbolica-dos-antigos-mac-ons-livres-e-acceites-de-portugal",
+      "identificadores": {
+        "ia": "ceremonias-da-mac-onaria-symbolica-dos-antigos-mac-ons-livres-e-acceites-de-portugal"
+      },
+      "evidencias": [
+        "https://archive.org/details/ceremonias-da-mac-onaria-symbolica-dos-antigos-mac-ons-livres-e-acceites-de-portugal"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "paiva-1895-historia-maconaria",
+      "tipo": "livro",
+      "categoria": "divulgacao",
+      "autores": [
+        "Alfredo de Paiva"
+      ],
+      "titulo": "História da Maçonaria",
+      "ano": 1895,
+      "idioma": "pt",
+      "temas": [
+        "historiografia"
+      ],
+      "resumo": "Síntese histórica em português publicada no final do século XIX. Valor sobretudo como testemunho da visão lusófona da época.",
+      "paises": [
+        "pt",
+        "mundo"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "C",
+      "observacoes": "Metadados (autor, local) conforme item do IA; conferir folha de rosto.",
+      "acervo": [
+        "txt/paiva-1895-historia-maconaria.txt",
+        "pdf/paiva-1895-historia-maconaria.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/historia-da-maconaria",
+      "identificadores": {
+        "ia": "historia-da-maconaria"
+      },
+      "evidencias": [
+        "https://archive.org/details/historia-da-maconaria"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "tirado-1892-masoneria-espana",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "Mariano Tirado y Rojas"
+      ],
+      "titulo": "La masonería en España: ensayo histórico",
+      "ano": 1892,
+      "idioma": "es",
+      "temas": [
+        "historiografia",
+        "antimaconaria",
+        "politica"
+      ],
+      "resumo": "Ensaio histórico sobre a maçonaria na Espanha escrito de perspectiva católica hostil, com documentos e listas de lojas. Útil como documento e por seus dados, a cruzar com Ferrer Benimeli.",
+      "local": "Madri",
+      "paises": [
+        "es"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "C",
+      "observacoes": "2 tomos (lamasoneraenesp00/01rojagoog).",
+      "acervo": [
+        "txt/tirado-1892-masoneria-espana.txt",
+        "pdf/tirado-1892-masoneria-espana.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/lamasoneraenesp01rojagoog",
+      "identificadores": {
+        "ia": "lamasoneraenesp01rojagoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/lamasoneraenesp01rojagoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "anonimo-1820-manual-masonico-retejador",
+      "tipo": "livro",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Anônimo"
+      ],
+      "titulo": "Manual masónico ó Retejador de todos los ritos de la masonería",
+      "ano": 1820,
+      "idioma": "es",
+      "temas": [
+        "ritual",
+        "ritos",
+        "graus"
+      ],
+      "resumo": "Manual de 'retejador' (telhador) em espanhol que resume graus de vários ritos para reconhecimento entre maçons, publicado no Triênio Liberal. Documento da difusão dos ritos franceses e escoceses no mundo hispânico.",
+      "paises": [
+        "es",
+        "fr"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "ritos": [
+        "reaa",
+        "frances_moderno"
+      ],
+      "titulo_traduzido": "Manual maçônico ou telhador de todos os ritos",
+      "observacoes": "Provavelmente tradução/adaptação do Manuel maçonnique de Vuillaume (1820); conferir. Regra 5 aplicável.",
+      "acervo": [
+        "txt/anonimo-1820-manual-masonico-retejador.txt",
+        "pdf/anonimo-1820-manual-masonico-retejador.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/A224088",
+      "identificadores": {
+        "ia": "A224088"
+      },
+      "evidencias": [
+        "https://archive.org/details/A224088"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "webb-1822-monitor-masones-libres",
+      "tipo": "livro",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Thomas Smith Webb"
+      ],
+      "titulo": "El monitor de los masones libres, ó Ilustraciones sobre la masonería",
+      "ano": 1822,
+      "idioma": "es",
+      "temas": [
+        "ritual",
+        "ritos"
+      ],
+      "resumo": "Tradução espanhola (Filadélfia, 1822) do monitor de Webb, destinada às lojas hispano-americanas; testemunho da influência do Rito de York no México e Caribe.",
+      "ano_original": 1797,
+      "local": "Filadélfia",
+      "paises": [
+        "us",
+        "mx"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "ritos": [
+        "york"
+      ],
+      "acervo": [
+        "txt/webb-1822-monitor-masones-libres.txt",
+        "pdf/webb-1822-monitor-masones-libres.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/elmonitordelosma00webbiala",
+      "identificadores": {
+        "ia": "elmonitordelosma00webbiala"
+      },
+      "evidencias": [
+        "https://archive.org/details/elmonitordelosma00webbiala"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "fuente-1870-sociedades-secretas",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "Vicente de la Fuente"
+      ],
+      "titulo": "Historia de las sociedades secretas antiguas y modernas en España, y especialmente de la francmasonería",
+      "ano": 1870,
+      "idioma": "es",
+      "temas": [
+        "historiografia",
+        "antimaconaria",
+        "politica"
+      ],
+      "resumo": "História em três tomos, por um historiador católico, das sociedades secretas na Espanha com ênfase na maçonaria e em seu papel político no século XIX. Hostil, mas rica em documentação.",
+      "local": "Lugo",
+      "paises": [
+        "es"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "C",
+      "observacoes": "Tomos 1–3 no IA (historiadelassoc01..03fuen); copiado o tomo 1.",
+      "acervo": [
+        "txt/fuente-1870-sociedades-secretas.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/historiadelassoc01fuen",
+      "identificadores": {
+        "ia": "historiadelassoc01fuen"
+      },
+      "evidencias": [
+        "https://archive.org/details/historiadelassoc01fuen"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "alticozzi-1746-relazione-liberi-muratori",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "Valerio Angellieri Alticozzi"
+      ],
+      "titulo": "Relazione della Compagnia de' Liberi Muratori",
+      "ano": 1746,
+      "idioma": "it",
+      "temas": [
+        "antimaconaria",
+        "religiao",
+        "ritual"
+      ],
+      "resumo": "Relato italiano de 1746 sobre a 'companhia' dos maçons, extraído de várias memórias, escrito no contexto da condenação papal de 1738. Uma das primeiras obras italianas sobre a ordem.",
+      "paises": [
+        "it"
+      ],
+      "periodos": [
+        "p1717_1750"
+      ],
+      "titulo_traduzido": "Relação da Companhia dos Pedreiros-Livres",
+      "acervo": [
+        "txt/alticozzi-1746-relazione-liberi-muratori.txt",
+        "pdf/alticozzi-1746-relazione-liberi-muratori.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/bub_gb_1virQk4WfLwC",
+      "identificadores": {
+        "ia": "bub_gb_1virQk4WfLwC"
+      },
+      "evidencias": [
+        "https://archive.org/details/bub_gb_1virQk4WfLwC"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "lefranc-1791-voile-leve",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "François Lefranc"
+      ],
+      "titulo": "Le Voile levé pour les curieux, ou le secret de la Révolution révélé à l'aide de la franc-maçonnerie",
+      "ano": 1826,
+      "idioma": "fr",
+      "temas": [
+        "antimaconaria",
+        "politica"
+      ],
+      "resumo": "Panfleto do abade Lefranc (1791), precursor de Barruel, que acusa a maçonaria de ter preparado a Revolução. Reedição de 1826.",
+      "ano_original": 1791,
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "titulo_traduzido": "O véu levantado para os curiosos",
+      "acervo": [
+        "txt/lefranc-1791-voile-leve.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/levoilelevpourl00lefrgoog",
+      "identificadores": {
+        "ia": "levoilelevpourl00lefrgoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/levoilelevpourl00lefrgoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "besuchet-1829-precis-historique",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Jean-Claude Bésuchet de Saunois"
+      ],
+      "titulo": "Précis historique de l'ordre de la franc-maçonnerie",
+      "ano": 1829,
+      "idioma": "fr",
+      "temas": [
+        "historiografia",
+        "personalidades",
+        "potencias"
+      ],
+      "resumo": "Obra em dois volumes com história da maçonaria na França desde sua introdução até 1829 e um dicionário biográfico de maçons notáveis. Fonte útil para personalidades francesas.",
+      "local": "Paris",
+      "editora": "Rapilly",
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "potencias": [
+        "godf"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/besuchet-1829-precis-historique.txt",
+        "pdf/besuchet-1829-precis-historique.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/prcishistorique00saungoog",
+      "identificadores": {
+        "ia": "prcishistorique00saungoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/prcishistorique00saungoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "qcl-1886-aqc-vol1",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Loja Quatuor Coronati nº 2076"
+      ],
+      "titulo": "Ars Quatuor Coronatorum, vol. 1 (1886–1888)",
+      "ano": 1888,
+      "idioma": "en",
+      "temas": [
+        "historiografia",
+        "origens"
+      ],
+      "resumo": "Primeiro volume das atas da Loja Quatuor Coronati, primeira loja de pesquisa (Londres, 1886), fundada por Gould, Hughan, Speth, Woodford e outros. Marco da historiografia maçônica crítica.",
+      "local": "Margate/Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "potencias": [
+        "ugle"
+      ],
+      "confiabilidade": "B",
+      "observacoes": "Volumes antigos (até ~1925) em domínio público; vários no IA.",
+      "acervo": [
+        "txt/qcl-1886-aqc-vol1.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/arsquatuorcorona01free",
+      "identificadores": {
+        "ia": "arsquatuorcorona01free"
+      },
+      "evidencias": [
+        "https://archive.org/details/arsquatuorcorona01free"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "fox-1870-early-history-england",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Thomas Lewis Fox"
+      ],
+      "titulo": "Freemasonry: An Account of the Early History of Freemasonry in England",
+      "ano": 1870,
+      "idioma": "en",
+      "temas": [
+        "origens",
+        "historiografia"
+      ],
+      "resumo": "Breve exposição vitoriana sobre a história primitiva da maçonaria na Inglaterra, com ilustrações e comentário de documentos antigos.",
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716"
+      ],
+      "confiabilidade": "C",
+      "acervo": [
+        "txt/fox-1870-early-history-england.txt",
+        "pdf/fox-1870-early-history-england.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/freemasonryanac00foxgoog",
+      "identificadores": {
+        "ia": "freemasonryanac00foxgoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/freemasonryanac00foxgoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "hughan-1913-memorials-union",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "William James Hughan"
+      ],
+      "titulo": "Memorials of the Masonic Union of A.D. 1813",
+      "ano": 1913,
+      "idioma": "en",
+      "temas": [
+        "potencias",
+        "regularidade",
+        "documentos_fundadores"
+      ],
+      "resumo": "Coletânea documental (1ª ed. 1874) sobre a união de Antients e Moderns que formou a Grande Loja Unida da Inglaterra em 1813, com os Artigos da União e documentos da Loja de Reconciliação.",
+      "ano_original": 1874,
+      "local": "Leicester",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "potencias": [
+        "ugle",
+        "antients",
+        "moderns"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/hughan-1913-memorials-union.txt",
+        "pdf/hughan-1913-memorials-union.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/cu31924030300788",
+      "identificadores": {
+        "ia": "cu31924030300788"
+      },
+      "evidencias": [
+        "https://archive.org/details/cu31924030300788"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "waite-1921-new-encyclopaedia",
+      "tipo": "verbete",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Arthur Edward Waite"
+      ],
+      "titulo": "A New Encyclopaedia of Freemasonry (Ars Magna Latomorum)",
+      "ano": 1921,
+      "idioma": "en",
+      "temas": [
+        "esoterismo",
+        "ritos",
+        "graus",
+        "simbolismo"
+      ],
+      "resumo": "Enciclopédia em dois volumes de A. E. Waite, com ênfase nos altos graus, ritos herméticos e rosacrucianos e no misticismo maçônico; útil para os ritos marginais, mas marcada pela leitura esotérica do autor.",
+      "local": "Londres",
+      "editora": "William Rider & Son",
+      "paises": [
+        "mundo"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "C",
+      "licenca": "domínio público (autor m. 1942; publ. 1921)",
+      "acervo": [
+        "txt/waite-1921-new-encyclopaedia.txt",
+        "pdf/waite-1921-new-encyclopaedia.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/dli.ministry.04761",
+      "identificadores": {
+        "ia": "dli.ministry.04761"
+      },
+      "evidencias": [
+        "https://archive.org/details/dli.ministry.04761"
+      ],
+      "acesso": "dominio_publico",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "wilmshurst-1922-meaning-masonry",
+      "tipo": "livro",
+      "categoria": "divulgacao",
+      "autores": [
+        "Walter Leslie Wilmshurst"
+      ],
+      "titulo": "The Meaning of Masonry",
+      "ano": 1922,
+      "idioma": "en",
+      "temas": [
+        "simbolismo",
+        "esoterismo",
+        "principios"
+      ],
+      "resumo": "Ensaios de W. L. Wilmshurst que interpretam o ritual inglês como caminho de regeneração espiritual e mística; obra muito lida na corrente 'esotérica' anglófona.",
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "ritos": [
+        "emulacao"
+      ],
+      "confiabilidade": "C",
+      "licenca": "domínio público (autor m. 1939; publ. 1922)",
+      "observacoes": "Item da Digital Library of India (edição de 1932?).",
+      "acervo": [
+        "txt/wilmshurst-1922-meaning-masonry.txt",
+        "pdf/wilmshurst-1922-meaning-masonry.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/in.ernet.dli.2015.216779",
+      "identificadores": {
+        "ia": "in.ernet.dli.2015.216779"
+      },
+      "evidencias": [
+        "https://archive.org/details/in.ernet.dli.2015.216779"
+      ],
+      "acesso": "dominio_publico",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "cole-1817-freemasons-library",
+      "tipo": "livro",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Samuel Cole"
+      ],
+      "titulo": "The Freemasons' Library and General Ahiman Rezon",
+      "ano": 1817,
+      "idioma": "en",
+      "temas": [
+        "ritual",
+        "documentos_fundadores"
+      ],
+      "resumo": "Manual publicado em Baltimore com história, constituições, charges e instruções monitoriais, combinando a tradição de Preston/Webb com o Ahiman Rezon.",
+      "local": "Baltimore",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "ritos": [
+        "york"
+      ],
+      "confiabilidade": "B",
+      "status_verificacao": "conferido_web",
+      "url": "https://archive.org/details/freemasonslibra00colegoog",
+      "evidencias": [
+        "https://archive.org/details/freemasonslibra00colegoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "pine-1731-antient-constitutions-engraved",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Benjamin Cole (gravador)"
+      ],
+      "titulo": "The Antient Constitutions of the Free and Accepted Masons, neatly engrav'd on copper plate",
+      "ano": 1731,
+      "idioma": "en",
+      "temas": [
+        "documentos_fundadores",
+        "origens"
+      ],
+      "resumo": "Edição gravada em cobre (Benjamin Cole, 1728/1731) de uma versão dos Old Charges com os regulamentos, contemporânea das Constituições de Anderson. Testemunho da circulação dos Old Charges na Londres especulativa.",
+      "ano_original": 1728,
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1717_1750"
+      ],
+      "acervo": [
+        "txt/pine-1731-antient-constitutions-engraved.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/bim_eighteenth-century_the-antient-constitution_1731",
+      "identificadores": {
+        "ia": "bim_eighteenth-century_the-antient-constitution_1731"
+      },
+      "evidencias": [
+        "https://archive.org/details/bim_eighteenth-century_the-antient-constitution_1731"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "vibert-1923-rare-books",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Lionel Vibert"
+      ],
+      "titulo": "The Rare Books of Freemasonry",
+      "ano": 1923,
+      "idioma": "en",
+      "temas": [
+        "historiografia",
+        "documentos_fundadores",
+        "ritual"
+      ],
+      "resumo": "Guia bibliográfico das edições raras da literatura maçônica (constituições, exposições, Ahiman Rezon, monitores), por um pesquisador da Quatuor Coronati. Ajuda a datar e identificar edições.",
+      "local": "Londres",
+      "editora": "Bernard Quaritch",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "licenca": "domínio público (publ. 1923; autor m. 1940)",
+      "acervo": [
+        "txt/vibert-1923-rare-books.txt",
+        "pdf/vibert-1923-rare-books.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/rarebooksoffreem00vibe",
+      "identificadores": {
+        "ia": "rarebooksoffreem00vibe"
+      },
+      "evidencias": [
+        "https://archive.org/details/rarebooksoffreem00vibe"
+      ],
+      "acesso": "dominio_publico",
+      "lote": "c01-fundadores"
     }
   ]
 }
