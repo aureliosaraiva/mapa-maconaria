@@ -1,0 +1,935 @@
+{
+  "lote": "c04-historia-mundo",
+  "fontes": [
+    {
+      "id": "engel-1906-illuminaten",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Leopold Engel"
+      ],
+      "titulo": "Geschichte des Illuminaten-Ordens: ein Beitrag zur Geschichte Bayerns",
+      "ano": 1906,
+      "idioma": "de",
+      "url": "https://archive.org/details/geschichtedesil00engegoog",
+      "identificadores": {
+        "ia": "geschichtedesil00engegoog"
+      },
+      "temas": [
+        "politica",
+        "antimaconaria",
+        "historiografia"
+      ],
+      "paises": [
+        "de"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (obra de 1906; autor falecido há mais de 70 anos ou publicada antes de 1931 nos EUA)",
+      "status_verificacao": "copiado",
+      "resumo": "História da Ordem dos Iluminados da Baviera (1776–1785) com base em documentos de arquivo, das origens com Adam Weishaupt à proibição pelo eleitor da Baviera. Útil pela transcrição de correspondência e documentos internos; o autor refundou uma ordem com o mesmo nome, o que exige leitura crítica.",
+      "evidencias": [
+        "https://archive.org/details/geschichtedesil00engegoog"
+      ],
+      "observacoes": "Engel (1858–1931) foi fundador de uma nova 'Ordem dos Iluminados' em 1896; tratar como historiografia engajada.",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/engel-1906-illuminaten.txt"
+      ]
+    },
+    {
+      "id": "leforestier-1914-illumines-baviere",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "René Le Forestier"
+      ],
+      "titulo": "Les Illuminés de Bavière et la franc-maçonnerie allemande",
+      "ano": 1914,
+      "idioma": "fr",
+      "url": "https://archive.org/details/leforestierlesilluminesdebaviereetlafrancmaconnerieallemande",
+      "identificadores": {
+        "ia": "leforestierlesilluminesdebaviereetlafrancmaconnerieallemande"
+      },
+      "temas": [
+        "politica",
+        "esoterismo",
+        "historiografia",
+        "antimaconaria"
+      ],
+      "paises": [
+        "de"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (Le Forestier morreu em 1951; DP na França desde 2022)",
+      "status_verificacao": "copiado",
+      "resumo": "Tese de doutorado clássica sobre os Iluminados da Baviera e suas relações com a maçonaria alemã (Estrita Observância, Convento de Wilhelmsbad). Ainda é a referência acadêmica de base sobre o tema, com amplo uso de fontes primárias.",
+      "evidencias": [
+        "https://archive.org/details/leforestierlesilluminesdebaviereetlafrancmaconnerieallemande"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/leforestier-1914-illumines-baviere.txt"
+      ]
+    },
+    {
+      "id": "stauffer-1918-new-england-illuminati",
+      "tipo": "tese",
+      "categoria": "academica",
+      "autores": [
+        "Vernon Stauffer"
+      ],
+      "titulo": "New England and the Bavarian Illuminati",
+      "ano": 1918,
+      "idioma": "en",
+      "url": "https://archive.org/details/newenglandbavari00stauuoft",
+      "identificadores": {
+        "ia": "newenglandbavari00stauuoft"
+      },
+      "temas": [
+        "antimaconaria",
+        "politica",
+        "religiao"
+      ],
+      "paises": [
+        "us",
+        "de"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (obra de 1918; autor falecido há mais de 70 anos ou publicada antes de 1931 nos EUA)",
+      "status_verificacao": "copiado",
+      "resumo": "Tese da Universidade de Columbia sobre o pânico antimaçônico e anti-iluminista na Nova Inglaterra (1798–1799), desencadeado por sermões de Jedidiah Morse e pela leitura de Robison e Barruel. Analisa o contexto federalista e a recepção americana das teorias de conspiração europeias.",
+      "evidencias": [
+        "https://archive.org/details/newenglandbavari00stauuoft"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/stauffer-1918-new-england-illuminati.txt"
+      ]
+    },
+    {
+      "id": "bord-1908-franc-maconnerie-france",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Gustave Bord"
+      ],
+      "titulo": "La franc-maçonnerie en France des origines à 1815, t. 1: Les ouvriers de l'idée révolutionnaire (1688–1771)",
+      "ano": 1908,
+      "idioma": "fr",
+      "url": "https://archive.org/details/lafrancmaonner00borduoft",
+      "identificadores": {
+        "ia": "lafrancmaonner00borduoft"
+      },
+      "temas": [
+        "origens",
+        "politica",
+        "historiografia",
+        "personalidades"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (obra de 1908; autor falecido há mais de 70 anos ou publicada antes de 1931 nos EUA)",
+      "status_verificacao": "copiado",
+      "resumo": "Primeiro volume de uma história da maçonaria francesa até 1771, rico em listas de lojas e de membros extraídas de arquivos. O autor, monarquista e hostil à maçonaria, defende a tese da preparação maçônica da Revolução; os dados prosopográficos são úteis, a interpretação deve ser contrastada.",
+      "evidencias": [
+        "https://archive.org/details/lafrancmaonner00borduoft"
+      ],
+      "observacoes": "Autor de orientação antimaçônica; usar sobretudo como repertório documental.",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/bord-1908-franc-maconnerie-france.txt"
+      ]
+    },
+    {
+      "id": "cochin-1921-societes-pensee",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Augustin Cochin"
+      ],
+      "titulo": "Les sociétés de pensée et la démocratie: études d'histoire révolutionnaire",
+      "ano": 1921,
+      "idioma": "fr",
+      "url": "https://archive.org/details/lessocitsdep00coch",
+      "identificadores": {
+        "ia": "lessocitsdep00coch"
+      },
+      "temas": [
+        "politica",
+        "sociabilidade",
+        "historiografia"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (obra de 1921; autor falecido há mais de 70 anos ou publicada antes de 1931 nos EUA)",
+      "status_verificacao": "copiado",
+      "resumo": "Ensaios póstumos que interpretam lojas, academias e clubes do século XVIII como 'sociedades de pensamento' que produziram a máquina política jacobina. Obra central do debate historiográfico retomado por François Furet; não é história da maçonaria em sentido estrito, mas uma tese sociológica sobre ela.",
+      "evidencias": [
+        "https://archive.org/details/lessocitsdep00coch"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/cochin-1921-societes-pensee.pdf",
+        "txt/cochin-1921-societes-pensee.txt"
+      ]
+    },
+    {
+      "id": "amiable-1897-neuf-soeurs",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Louis Amiable"
+      ],
+      "titulo": "Une loge maçonnique d'avant 1789: la R∴ L∴ Les Neuf Sœurs",
+      "ano": 1897,
+      "idioma": "fr",
+      "url": "https://archive.org/details/unelogemaonniq00amia",
+      "identificadores": {
+        "ia": "unelogemaonniq00amia"
+      },
+      "temas": [
+        "sociabilidade",
+        "personalidades",
+        "politica",
+        "arte_cultura"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (obra de 1897; autor falecido há mais de 70 anos ou publicada antes de 1931 nos EUA)",
+      "status_verificacao": "copiado",
+      "resumo": "Monografia sobre a loja parisiense Les Neuf Sœurs (1776), que reuniu Lalande, Franklin, Condorcet e outros, incluindo a iniciação de Voltaire em 1778. Baseada em quadros de membros e documentos da loja; o autor era maçom do Grande Oriente.",
+      "evidencias": [
+        "https://archive.org/details/unelogemaonniq00amia"
+      ],
+      "potencias": [
+        "godf"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/amiable-1897-neuf-soeurs.txt"
+      ]
+    },
+    {
+      "id": "pypin-1916-russkoe-masonstvo",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Aleksandr Nikolaevich Pypin"
+      ],
+      "titulo": "Русское масонство XVIII и первая четверть XIX в. (Russkoe masonstvo XVIII i pervaia chetvert' XIX v.)",
+      "ano": 1916,
+      "idioma": "ru",
+      "url": "https://archive.org/details/russkoemasonstvo00pypiuoft",
+      "identificadores": {
+        "ia": "russkoemasonstvo00pypiuoft"
+      },
+      "temas": [
+        "politica",
+        "sociabilidade",
+        "esoterismo",
+        "historiografia"
+      ],
+      "paises": [
+        "ru"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (obra de 1916; autor falecido há mais de 70 anos ou publicada antes de 1931 nos EUA)",
+      "status_verificacao": "copiado",
+      "resumo": "Obra póstuma de síntese do historiador liberal Pypin sobre a maçonaria russa do século XVIII até a proibição de 1822, editada por G. V. Vernadsky. Cobre Novikov, os rosa-cruzes de Moscou, as lojas do reinado de Alexandre I e a repressão.",
+      "evidencias": [
+        "https://archive.org/details/russkoemasonstvo00pypiuoft"
+      ],
+      "titulo_traduzido": "A maçonaria russa do século XVIII e do primeiro quarto do século XIX",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/pypin-1916-russkoe-masonstvo.txt"
+      ]
+    },
+    {
+      "id": "pypin-1873-ukazatel-lozh",
+      "tipo": "documento",
+      "categoria": "academica",
+      "autores": [
+        "Aleksandr Nikolaevich Pypin"
+      ],
+      "titulo": "Хронологический указатель русских лож (Khronologicheskii ukazatel' russkikh lozh)",
+      "ano": 1873,
+      "idioma": "ru",
+      "url": "https://archive.org/details/khronologicheski00pypi",
+      "identificadores": {
+        "ia": "khronologicheski00pypi"
+      },
+      "temas": [
+        "potencias",
+        "historiografia"
+      ],
+      "paises": [
+        "ru"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (obra de 1873; autor falecido há mais de 70 anos ou publicada antes de 1931 nos EUA)",
+      "status_verificacao": "copiado",
+      "resumo": "Índice cronológico das lojas russas desde a introdução da maçonaria até 1822, com nomes, sistemas e datas. Instrumento de referência para identificar lojas e obediências na Rússia imperial.",
+      "evidencias": [
+        "https://archive.org/details/khronologicheski00pypi"
+      ],
+      "titulo_traduzido": "Índice cronológico das lojas russas",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/pypin-1873-ukazatel-lozh.pdf",
+        "txt/pypin-1873-ukazatel-lozh.txt"
+      ]
+    },
+    {
+      "id": "terletskii-1913-masonstvo",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "V. N. Terletskii"
+      ],
+      "titulo": "Масонство в его прошлом и настоящем (Masonstvo v ego proshlom i nastoiashchem)",
+      "ano": 1913,
+      "idioma": "ru",
+      "url": "https://archive.org/details/masonstvovegopro01terl",
+      "identificadores": {
+        "ia": "masonstvovegopro01terl"
+      },
+      "temas": [
+        "antimaconaria",
+        "historiografia"
+      ],
+      "paises": [
+        "ru",
+        "mundo"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "D",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (obra de 1913; autor falecido há mais de 70 anos ou publicada antes de 1931 nos EUA)",
+      "status_verificacao": "copiado",
+      "resumo": "Brochura russa de 1913 sobre a maçonaria no passado e no presente, de tom crítico, típica do debate público russo após a revivescência das lojas em 1906. Serve como documento da percepção antimaçônica na Rússia pré-revolucionária.",
+      "evidencias": [
+        "https://archive.org/details/masonstvovegopro01terl"
+      ],
+      "observacoes": "Não confundir com a coletânea homônima de Melgunov e Sidorov (1914–15).",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/terletskii-1913-masonstvo.pdf",
+        "txt/terletskii-1913-masonstvo.txt"
+      ]
+    },
+    {
+      "id": "lewis-1861-freimaurerei-oesterreich",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Ludwig Lewis"
+      ],
+      "titulo": "Geschichte der Freimaurerei in Österreich im Allgemeinen und der Wiener Loge zu St. Joseph insbesondere",
+      "ano": 1861,
+      "idioma": "de",
+      "url": "https://archive.org/details/bub_gb_7UcMAQAAMAAJ",
+      "identificadores": {
+        "ia": "bub_gb_7UcMAQAAMAAJ"
+      },
+      "temas": [
+        "politica",
+        "sociabilidade",
+        "potencias"
+      ],
+      "paises": [
+        "at"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (obra de 1861; autor falecido há mais de 70 anos ou publicada antes de 1931 nos EUA)",
+      "status_verificacao": "copiado",
+      "resumo": "História da maçonaria na Áustria desde a loja Aux Trois Canons (1742) até a Patente maçônica de José II (1785) e a proibição de 1795, com foco na loja vienense São José. Obra pioneira com documentos de lojas.",
+      "evidencias": [
+        "https://archive.org/details/bub_gb_7UcMAQAAMAAJ"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/lewis-1861-freimaurerei-oesterreich.pdf",
+        "txt/lewis-1861-freimaurerei-oesterreich.txt"
+      ]
+    },
+    {
+      "id": "gnml-1903-geschichte-national-mutterloge",
+      "tipo": "livro",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "Große National-Mutterloge 'Zu den drei Weltkugeln'"
+      ],
+      "titulo": "Geschichte der Grossen National-Mutterloge in den Preussischen Staaten genannt Zu den drei Weltkugeln",
+      "ano": 1903,
+      "idioma": "de",
+      "url": "https://archive.org/details/geschichtedergr00germgoog",
+      "identificadores": {
+        "ia": "geschichtedergr00germgoog"
+      },
+      "temas": [
+        "potencias",
+        "historiografia"
+      ],
+      "paises": [
+        "de"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (obra de 1903; autor falecido há mais de 70 anos ou publicada antes de 1931 nos EUA)",
+      "status_verificacao": "copiado",
+      "resumo": "História oficial da grande loja prussiana Zu den drei Weltkugeln, fundada em Berlim em 1740 sob a proteção de Frederico II. Narra a evolução de sistemas rituais, relações com outras grandes lojas e a vida da obediência até o início do século XX.",
+      "evidencias": [
+        "https://archive.org/details/geschichtedergr00germgoog"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/gnml-1903-geschichte-national-mutterloge.txt"
+      ]
+    },
+    {
+      "id": "sadler-1891-thomas-dunckerley",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Henry Sadler"
+      ],
+      "titulo": "Thomas Dunckerley, his life, labours, and letters, including some masonic and naval memorials of the 18th century",
+      "ano": 1891,
+      "idioma": "en",
+      "url": "https://archive.org/details/thomasdunckerley00sadliala",
+      "identificadores": {
+        "ia": "thomasdunckerley00sadliala"
+      },
+      "temas": [
+        "personalidades",
+        "ordens_anexas",
+        "potencias"
+      ],
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (obra de 1891; autor falecido há mais de 70 anos ou publicada antes de 1931 nos EUA)",
+      "status_verificacao": "copiado",
+      "resumo": "Biografia documentada de Thomas Dunckerley (1724–1795), figura central da expansão dos Moderns nas províncias inglesas e do Arco Real e dos Templários na Inglaterra. Sadler, bibliotecário da Grande Loja, utiliza correspondência e atas originais.",
+      "evidencias": [
+        "https://archive.org/details/thomasdunckerley00sadliala"
+      ],
+      "potencias": [
+        "moderns",
+        "arco_real"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/sadler-1891-thomas-dunckerley.pdf",
+        "txt/sadler-1891-thomas-dunckerley.txt"
+      ]
+    },
+    {
+      "id": "lane-1895-masonic-records",
+      "tipo": "documento",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "John Lane"
+      ],
+      "titulo": "Masonic records, 1717–1894: being lists of all the lodges at home and abroad warranted by the four Grand Lodges and the United Grand Lodge of England",
+      "ano": 1895,
+      "idioma": "en",
+      "url": "https://archive.org/details/cu31924030274165",
+      "identificadores": {
+        "ia": "cu31924030274165"
+      },
+      "temas": [
+        "potencias",
+        "historiografia"
+      ],
+      "paises": [
+        "gb",
+        "mundo"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (obra de 1895; autor falecido há mais de 70 anos ou publicada antes de 1931 nos EUA)",
+      "status_verificacao": "copiado",
+      "resumo": "Repertório de todas as lojas criadas pelas grandes lojas inglesas (Moderns, Antients, York, Wigan) e pela UGLE, com números, datas e locais. Ferramenta indispensável para rastrear lojas inglesas no país e no ultramar.",
+      "evidencias": [
+        "https://archive.org/details/cu31924030274165"
+      ],
+      "potencias": [
+        "ugle",
+        "moderns",
+        "antients"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/lane-1895-masonic-records.txt"
+      ]
+    },
+    {
+      "id": "firminger-1906-freemasonry-bengal",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Walter Kelly Firminger"
+      ],
+      "titulo": "The early history of Freemasonry in Bengal and the Punjab",
+      "ano": 1906,
+      "idioma": "en",
+      "url": "https://archive.org/details/earlyhistoryoffr00firmuoft",
+      "identificadores": {
+        "ia": "earlyhistoryoffr00firmuoft"
+      },
+      "temas": [
+        "potencias",
+        "sociabilidade",
+        "politica"
+      ],
+      "paises": [
+        "in"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (obra de 1906; autor falecido há mais de 70 anos ou publicada antes de 1931 nos EUA)",
+      "status_verificacao": "copiado",
+      "resumo": "História das primeiras lojas inglesas em Calcutá e no Punjab desde 1730, baseada em registros da Grande Loja Provincial de Bengala. Documenta a maçonaria como instituição da Companhia das Índias e do império britânico.",
+      "evidencias": [
+        "https://archive.org/details/earlyhistoryoffr00firmuoft"
+      ],
+      "potencias": [
+        "ugle"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/firminger-1906-freemasonry-bengal.pdf",
+        "txt/firminger-1906-freemasonry-bengal.txt"
+      ]
+    },
+    {
+      "id": "grimshaw-1903-colored-people",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "William H. Grimshaw"
+      ],
+      "titulo": "Official history of freemasonry among the colored people in North America",
+      "ano": 1903,
+      "idioma": "en",
+      "url": "https://archive.org/details/officialhistoryo01grim",
+      "identificadores": {
+        "ia": "officialhistoryo01grim"
+      },
+      "temas": [
+        "potencias",
+        "politica",
+        "personalidades"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (obra de 1903; autor falecido há mais de 70 anos ou publicada antes de 1931 nos EUA)",
+      "status_verificacao": "copiado",
+      "resumo": "História da maçonaria Prince Hall escrita por um grão-mestre afro-americano, das origens com Prince Hall em Boston (1775) às grandes lojas estaduais. Valiosa como autonarrativa institucional; contém afirmações não documentadas que a historiografia posterior corrigiu.",
+      "evidencias": [
+        "https://archive.org/details/officialhistoryo01grim"
+      ],
+      "potencias": [
+        "prince_hall"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/grimshaw-1903-colored-people.txt"
+      ]
+    },
+    {
+      "id": "sachse-1906-franklin-freemason",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Julius Friedrich Sachse"
+      ],
+      "titulo": "Benjamin Franklin as a free mason",
+      "ano": 1906,
+      "idioma": "en",
+      "url": "https://archive.org/details/benjaminfranklin00sach",
+      "identificadores": {
+        "ia": "benjaminfranklin00sach"
+      },
+      "temas": [
+        "personalidades",
+        "potencias"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (obra de 1906; autor falecido há mais de 70 anos ou publicada antes de 1931 nos EUA)",
+      "status_verificacao": "copiado",
+      "resumo": "Estudo da trajetória maçônica de Benjamin Franklin, da loja de São João da Filadélfia (1731) à edição americana das Constituições de Anderson (1734) e à loja Les Neuf Sœurs em Paris. Publicado pela Grande Loja da Pensilvânia, reproduz documentos em fac-símile.",
+      "evidencias": [
+        "https://archive.org/details/benjaminfranklin00sach"
+      ],
+      "potencias": [
+        "gl_estaduais_eua"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/sachse-1906-franklin-freemason.pdf",
+        "txt/sachse-1906-franklin-freemason.txt"
+      ]
+    },
+    {
+      "id": "morse-1924-freemasonry-american-revolution",
+      "tipo": "livro",
+      "categoria": "divulgacao",
+      "autores": [
+        "Sidney Morse"
+      ],
+      "titulo": "Freemasonry in the American Revolution",
+      "ano": 1924,
+      "idioma": "en",
+      "url": "https://archive.org/details/revolution1merged",
+      "identificadores": {
+        "ia": "revolution1merged"
+      },
+      "temas": [
+        "politica",
+        "personalidades"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público nos EUA (publicada em 1924)",
+      "status_verificacao": "copiado",
+      "resumo": "Panorama da participação de maçons na Revolução Americana (Boston Tea Party, oficiais do exército continental, Washington). Obra de divulgação maçônica da Masonic Service Association; tende a superestimar o papel da fraternidade.",
+      "evidencias": [
+        "https://archive.org/details/revolution1merged"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/morse-1924-freemasonry-american-revolution.txt"
+      ]
+    },
+    {
+      "id": "johnson-1924-beginnings-freemasonry-america",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Melvin Maynard Johnson"
+      ],
+      "titulo": "The beginnings of freemasonry in America",
+      "ano": 1924,
+      "idioma": "en",
+      "url": "https://archive.org/details/beginningsoffree00john",
+      "identificadores": {
+        "ia": "beginningsoffree00john"
+      },
+      "temas": [
+        "origens",
+        "potencias",
+        "historiografia"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1717_1750"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público nos EUA (publicada em 1924)",
+      "status_verificacao": "copiado",
+      "resumo": "Compilação de todas as referências documentais conhecidas à maçonaria nas colônias norte-americanas até 1750 (jornais, atas, delegações provinciais). Instrumento de base para a cronologia das primeiras lojas americanas.",
+      "evidencias": [
+        "https://archive.org/details/beginningsoffree00john"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/johnson-1924-beginnings-freemasonry-america.txt"
+      ]
+    },
+    {
+      "id": "tatsch-1929-thirteen-colonies",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "J. Hugo Tatsch"
+      ],
+      "titulo": "Freemasonry in the thirteen colonies",
+      "ano": 1929,
+      "idioma": "en",
+      "url": "https://archive.org/details/freemasonryinthi00tats",
+      "identificadores": {
+        "ia": "freemasonryinthi00tats"
+      },
+      "temas": [
+        "origens",
+        "potencias"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público nos EUA (publicada em 1929, sem renovação conhecida; prazo de 95 anos expirou em 2025)",
+      "status_verificacao": "copiado",
+      "resumo": "Síntese colônia por colônia das origens da maçonaria nas treze colônias britânicas, com a sucessão das grandes lojas provinciais e o surgimento das grandes lojas independentes após 1776.",
+      "evidencias": [
+        "https://archive.org/details/freemasonryinthi00tats"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/tatsch-1929-thirteen-colonies.txt"
+      ]
+    },
+    {
+      "id": "msa-1922-anti-masonic-party",
+      "tipo": "livro",
+      "categoria": "divulgacao",
+      "autores": [
+        "Masonic Service Association"
+      ],
+      "titulo": "The Anti-Masonic Party: a study of political influences and their effect upon Freemasonry",
+      "ano": 1922,
+      "idioma": "en",
+      "url": "https://archive.org/details/msa10",
+      "identificadores": {
+        "ia": "msa10"
+      },
+      "temas": [
+        "antimaconaria",
+        "politica"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público nos EUA (publicada em 1922)",
+      "status_verificacao": "copiado",
+      "resumo": "Brochura da Masonic Service Association sobre o caso Morgan (1826) e o Partido Antimaçônico (1828–1838), com seus efeitos sobre o número de lojas nos EUA. Visão institucional maçônica do episódio.",
+      "evidencias": [
+        "https://archive.org/details/msa10"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/msa-1922-anti-masonic-party.pdf",
+        "txt/msa-1922-anti-masonic-party.txt"
+      ]
+    },
+    {
+      "id": "mock-1930-morgan-episode",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Stanley Upton Mock"
+      ],
+      "titulo": "The Morgan episode in American free masonry",
+      "ano": 1930,
+      "idioma": "en",
+      "url": "https://archive.org/details/morganepisodeina00mock",
+      "identificadores": {
+        "ia": "morganepisodeina00mock"
+      },
+      "temas": [
+        "antimaconaria",
+        "politica",
+        "personalidades"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público nos EUA (publicada em 1930; prazo de 95 anos expirou em 2026)",
+      "status_verificacao": "copiado",
+      "resumo": "Reconstituição do desaparecimento de William Morgan em 1826, dos processos judiciais e da onda antimaçônica subsequente, com base em jornais e autos de época.",
+      "evidencias": [
+        "https://archive.org/details/morganepisodeina00mock"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/mock-1930-morgan-episode.pdf",
+        "txt/mock-1930-morgan-episode.txt"
+      ]
+    },
+    {
+      "id": "anon-1827-narrative-morgan",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Anônimo (comitês de Lewiston e Rochester)"
+      ],
+      "titulo": "A narrative of the facts and circumstances relating to the kidnapping and presumed murder of William Morgan",
+      "ano": 1827,
+      "idioma": "en",
+      "url": "https://archive.org/details/morgan1920",
+      "identificadores": {
+        "ia": "morgan1920"
+      },
+      "temas": [
+        "antimaconaria",
+        "politica"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (obra de 1827; autor falecido há mais de 70 anos ou publicada antes de 1931 nos EUA)",
+      "status_verificacao": "copiado",
+      "resumo": "Relatório publicado em 1827 pelos comitês de cidadãos de Nova York que investigaram o sequestro de William Morgan, com depoimentos e documentos. Fonte primária hostil à maçonaria que alimentou o movimento antimaçônico.",
+      "evidencias": [
+        "https://archive.org/details/morgan1920"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/anon-1827-narrative-morgan.txt"
+      ]
+    },
+    {
+      "id": "lantoine-1930-histoire-fm-francaise",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Albert Lantoine"
+      ],
+      "titulo": "Histoire de la franc-maçonnerie française: la franc-maçonnerie chez elle",
+      "ano": 1930,
+      "idioma": "fr",
+      "url": "https://archive.org/details/sc_0001284290_00000001704204",
+      "identificadores": {
+        "ia": "sc_0001284290_00000001704204"
+      },
+      "temas": [
+        "historiografia",
+        "potencias",
+        "politica",
+        "ritos"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (Lantoine morreu em 1949; DP na França desde 2020)",
+      "status_verificacao": "copiado",
+      "resumo": "Síntese da história da maçonaria francesa por um historiador maçom do entreguerras, atento às obediências, aos ritos e à vida interna das lojas. Referência do período pré-acadêmico, ainda citada pela historiografia francesa.",
+      "evidencias": [
+        "https://archive.org/details/sc_0001284290_00000001704204"
+      ],
+      "observacoes": "PDF de 543 MB; só o texto OCR foi copiado.",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/lantoine-1930-histoire-fm-francaise.txt"
+      ]
+    }
+  ]
+}
