@@ -40,7 +40,7 @@ Todo bloqueio (domínio fora, 403/404, paywall, obra impressa, dúvida de sigilo
 
 ## Acervo (repositório privado `fontes-maconaria`)
 - Arquivos nomeados pelo `source_id`: `pdf/<id>.pdf`, `html/<id>.html` (página salva), `txt/<id>.txt` (texto convertido: `pdftotext -layout` ou extração de HTML; hifenização de fim de linha desfeita).
-- Metadados por lote: `indices/<lote>.json` (lista de `{id, arquivo, url_origem, data, sha256, paginas, palavras, licenca, obs}`); `python3 scripts/gerar_indice.py` (no acervo) gera `INDICE.md`. Arquivo > 50 MB: guardar só o `txt` e registrar a URL.
+- Metadados por lote: `indices/<lote>.json` (lista de `{id, arquivo, url_origem, data, sha256, paginas, palavras, licenca, obs}`); `python3 scripts/gerar_indice.py` (no acervo) gera `INDICE.md`. PDF > 15 MB: guardar só o `txt` e registrar a URL (o acervo já passa de 0,5 GB; limite de tamanho do GitHub).
 - Obra que exige ação humana (impressa, comprada, biblioteca) → `COLETA.md` do acervo, em ordem de prioridade.
 
 ## Verbetes (enciclopédia)
