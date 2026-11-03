@@ -69,3 +69,7 @@ Baseado no `mapadosorixas` (clone de leitura: `https://github.com/aureliosaraiva
 | C07 | `session_011fM5ckBeU4EZtKrUUXX7Bx` |
 | C08 | `session_011fM5ciDEAUpHL3T5LWaVtG` |
 | I01 | `session_011fM5cj3PMZJKToLirjYtNU` |
+
+## Registro da orquestradora
+- 2026-11-02 22:27 UTC — as 9 sessões da onda 1 pararam ~2 min após o início: **limite de uso de 5 h da conta** (sem perda no repositório; nada tinha sido empurrado).
+- 2026-11-03 07:16 UTC — retomada **em lotes de 3 sessões simultâneas** para não estourar o limite: lote 1 = C01, C05, C02; lote 2 = C03, C04, C07; lote 3 = C06, C08, I01. Cada lote começa quando o anterior conclui (ou trava).
