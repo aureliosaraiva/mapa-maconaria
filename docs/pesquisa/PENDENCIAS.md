@@ -24,3 +24,15 @@
 - [ ] (P3) Metadados duvidosos a conferir: `royal-order-scotland-1844` (data/autor), `tuileur-abraham-1812`, `anonimo-1794-system-wahrheit-einigkeit-prag` (IA diz 1594), `anonimo-1806-signatstern` (atribuição a Woellner), `ragon-1861-nouveau-rituel-kadosh` (ano).
 - [ ] (P3) Sigilo: o acervo contém rituais impressos completos (Blanchard, Perfect Ceremonies, Macoy, RSI 2022); verbetes devem descrever estrutura e simbolismo sem reproduzir palavras, sinais, toques e juramentos (CLAUDE.md regra 5).
 
+## C05
+- [ ] (P1) Hemeroteca Digital Brasileira (bndigital.bn.gov.br / memoria.bn.br) responde 403 a acesso automatizado — imprensa maçônica do séc. XIX–XX (Boletim do GOB, *A Maçonaria*, jornais da Questão Religiosa); no catálogo só há o Boletim do GOB, 1882, n. 2 (via IA) — https://bndigital.bn.gov.br/
+- [ ] (P1) BDTD/IBICT fora do ar ("Problem connecting to Solr") durante a sessão — teses e dissertações brasileiras sobre maçonaria (dezenas) — https://bdtd.ibict.br/
+- [ ] (P2) SciELO (search.scielo.org e páginas de artigo www.scielo.br) com 403 de anti-robô — Barata 1994 (HCSM), Mello 2002 (Topoi) e outros catalogados sem cópia — https://www.scielo.br/
+- [ ] (P2) Teses USP (teses.usp.br) carregam por JavaScript; PDFs não obtidos — Francisco 2018, Gomez 2022, Ribeiro 2011 — https://teses.usp.br/
+- [ ] (P2) Gallica (SRU) e HathiTrust com 403; Brasiliana USP (digital.bbm.usp.br) com busca quebrada — obras lusófonas do séc. XIX em domínio público
+- [ ] (P2) Repositórios inacessíveis (timeout) — RIA/Aveiro (Fernandes 2008, *Maçonaria e implantação da República*), UFPel (dissertação sobre maçonaria mista em Pelotas, 2016), UFES, UERN, Revista de História USP (artigo sobre o Areópago de Itambé, A013N094), UC Digitalis (Oliveira Marques & Dias, *Para a história da maçonaria no Porto*), RCAAP
+- [ ] (P2) Lei portuguesa n.º 1901, de 21/5/1935 (proíbe as sociedades secretas): texto oficial no Diário do Governo não localizado em linha — conferir no DRE (https://diariodarepublica.pt/)
+- [ ] (P2) PALOP e Goa: nenhuma fonte acadêmica aberta encontrada sobre lojas em Angola, Moçambique, Cabo Verde, Guiné, São Tomé e Goa — pesquisar no AHU, no arquivo do GOL e em *Lusotopie*
+- [ ] (P3) Unicamp: PDF da tese de Barata (2002) não localizado no repositório — https://repositorio.unicamp.br/
+- [ ] (P3) Obras do IA com direitos a confirmar: Vilhena de Moraes 1930, Goetz de Carvalho 1903, Gaspar Guimarães 1925 (licença CC atribuída pelo depositante), revista do GO Amazonas e Acre 1948 — confirmar datas de morte dos autores antes de qualquer uso público
+- [ ] (P3) Rituais publicados com elementos de reconhecimento por extenso no acervo (`anonimo-1875-nova-guia-maconica`, `anonimo-1905-manual-rito-francez`, `golu-1881-ceremonias-maconaria-symbolica`): o site não deve reproduzi-los (regra 5)
