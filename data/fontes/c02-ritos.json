@@ -1526,7 +1526,7 @@
    "acesso": "dominio_publico",
    "licenca": "domínio público (publicado em 1917)",
    "resumo": "História da Estrela do Oriente acompanhada de biografia de Rob Morris; compila documentos e cronologias da ordem.",
-   "status_verificacao": "conferido_web",
+   "status_verificacao": "copiado",
    "potencias": [
     "estrela_oriente"
    ],
@@ -1537,8 +1537,11 @@
    "evidencias": [
     "https://archive.org/details/historyoforderof00kena"
    ],
-   "observacoes": "PDF de 55 MB não copiado (só txt); https://archive.org/download/historyoforderof00kena/historyoforderof00kena.pdf; txt IA falhou (HTTP Error 500: Internal Server Error); usado pdftotext",
-   "lote": "c02-ritos"
+   "observacoes": "PDF de 55 MB não copiado (só txt); https://archive.org/download/historyoforderof00kena/historyoforderof00kena.pdf",
+   "lote": "c02-ritos",
+   "acervo": [
+    "txt/kenaston-1917-history-eastern-star.txt"
+   ]
   },
   {
    "id": "root-1903-mystic-shrine",

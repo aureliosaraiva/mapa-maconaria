@@ -8,7 +8,7 @@
 | ID | Onda | Escopo | Arquivos de que é dona (mapa-maconaria) | Lote no acervo | Status | Relatório |
 |---|---|---|---|---|---|---|
 | C01 | 1 | Documentos fundadores e obras clássicas em domínio público | `data/fontes/c01-fundadores.json` | `indices/c01.json` | concluída | [C01](sessoes/C01.md) |
-| C02 | 1 | Ritos, graus e rituais publicados (todos os ritos) | `data/fontes/c02-ritos.json` | `indices/c02.json` | pendente | — |
+| C02 | 1 | Ritos, graus e rituais publicados (todos os ritos) | `data/fontes/c02-ritos.json` | `indices/c02.json` | concluída | [C02](sessoes/C02.md) |
 | C03 | 1 | Potências e organizações (mundo e Brasil) | `data/fontes/c03-potencias.json` | `indices/c03.json` | pendente | — |
 | C04 | 1 | História mundial (Reino Unido, França, EUA, Europa central/norte) e historiografia | `data/fontes/c04-historia-mundo.json` | `indices/c04.json` | pendente | — |
 | C05 | 1 | Brasil, Portugal e mundo lusófono | `data/fontes/c05-lusofono.json` | `indices/c05.json` | pendente | — |
