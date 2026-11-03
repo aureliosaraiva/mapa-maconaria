@@ -2319,6 +2319,1111 @@
         "pdf/rahiminia-2022-persia-cagiara.pdf",
         "txt/rahiminia-2022-persia-cagiara.txt"
       ]
+    },
+    {
+      "id": "stevenson-1988-origins",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "David Stevenson"
+      ],
+      "titulo": "The Origins of Freemasonry: Scotland's Century, 1590–1710",
+      "ano": 1988,
+      "idioma": "en",
+      "url": "https://doi.org/10.1017/CBO9780511560828",
+      "temas": [
+        "origens",
+        "historiografia",
+        "documentos_fundadores"
+      ],
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "Obra fundamental que desloca a origem da maçonaria moderna para a Escócia, com os Estatutos Schaw (1598–99), as atas das primeiras lojas e a 'Mason Word'. Combina história social dos pedreiros com a cultura renascentista (arte da memória, hermetismo).",
+      "evidencias": [
+        "https://doi.org/10.1017/CBO9780511560828"
+      ],
+      "editora": "Cambridge University Press",
+      "identificadores": {
+        "doi": "10.1017/CBO9780511560828",
+        "isbn": "9780521353267"
+      },
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "jacob-1991-living-enlightenment",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Margaret C. Jacob"
+      ],
+      "titulo": "Living the Enlightenment: Freemasonry and Politics in Eighteenth-Century Europe",
+      "ano": 1991,
+      "idioma": "en",
+      "url": "https://doi.org/10.2307/2167594",
+      "temas": [
+        "politica",
+        "sociabilidade",
+        "historiografia"
+      ],
+      "paises": [
+        "gb",
+        "nl",
+        "fr"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "Estudo clássico que interpreta as lojas do século XVIII como laboratórios de governo constitucional, com eleições, constituições e deliberação, especialmente na Inglaterra, Holanda e França.",
+      "evidencias": [
+        "https://doi.org/10.2307/2167594"
+      ],
+      "editora": "Oxford University Press",
+      "identificadores": {
+        "isbn": "9780195070514"
+      },
+      "observacoes": "DOI de evidência é de resenha (Crossref); livro sem DOI próprio.",
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "jacob-2006-origins-facts-fictions",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Margaret C. Jacob"
+      ],
+      "titulo": "The Origins of Freemasonry: Facts and Fictions",
+      "ano": 2006,
+      "idioma": "en",
+      "url": "https://doi.org/10.1086/ahr.112.2.574",
+      "temas": [
+        "origens",
+        "historiografia",
+        "politica"
+      ],
+      "paises": [
+        "gb",
+        "nl",
+        "fr",
+        "mundo"
+      ],
+      "periodos": [
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "Síntese sobre as origens da maçonaria que separa fatos documentados de mitos, discutindo a transição dos ofícios para a fraternidade especulativa, ciência newtoniana e a difusão europeia das lojas.",
+      "evidencias": [
+        "https://doi.org/10.1086/ahr.112.2.574"
+      ],
+      "editora": "University of Pennsylvania Press",
+      "identificadores": {
+        "isbn": "9780812239430"
+      },
+      "observacoes": "Evidência: resenha na American Historical Review.",
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "bullock-1996-revolutionary-brotherhood",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Steven C. Bullock"
+      ],
+      "titulo": "Revolutionary Brotherhood: Freemasonry and the Transformation of the American Social Order, 1730–1840",
+      "ano": 1996,
+      "idioma": "en",
+      "url": "https://doi.org/10.2307/2171643",
+      "temas": [
+        "politica",
+        "sociabilidade",
+        "antimaconaria"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "Referência acadêmica sobre a maçonaria nos EUA coloniais e republicanos: dos Moderns elitistas aos Antients artesãos, o papel na Revolução e na cultura republicana, até a crise antimaçônica após o caso Morgan.",
+      "evidencias": [
+        "https://doi.org/10.2307/2171643"
+      ],
+      "editora": "University of North Carolina Press",
+      "identificadores": {
+        "isbn": "9780807823828"
+      },
+      "observacoes": "Evidência: resenha (JSTOR).",
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "harland-jacobs-2007-builders-empire",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Jessica L. Harland-Jacobs"
+      ],
+      "titulo": "Builders of Empire: Freemasons and British Imperialism, 1717–1927",
+      "ano": 2007,
+      "idioma": "en",
+      "url": "https://doi.org/10.1525/nr.2010.14.1.123",
+      "temas": [
+        "politica",
+        "sociabilidade",
+        "potencias"
+      ],
+      "paises": [
+        "gb",
+        "in",
+        "ca",
+        "au",
+        "mundo"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918",
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "Estudo da maçonaria como instituição do império britânico: difusão das lojas por soldados, comerciantes e administradores, inclusão seletiva de indianos e outros súditos coloniais e o uso da fraternidade como cimento imperial.",
+      "evidencias": [
+        "https://doi.org/10.1525/nr.2010.14.1.123"
+      ],
+      "editora": "University of North Carolina Press",
+      "identificadores": {
+        "isbn": "9780807830888"
+      },
+      "observacoes": "Evidência: resenhas (Nova Religio; JRFF).",
+      "potencias": [
+        "ugle",
+        "gl_escocia",
+        "gl_irlanda"
+      ],
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "hoffmann-2007-politics-sociability",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Stefan-Ludwig Hoffmann"
+      ],
+      "titulo": "The Politics of Sociability: Freemasonry and German Civil Society, 1840–1918",
+      "ano": 2007,
+      "idioma": "en",
+      "url": "https://doi.org/10.3998/mpub.107292",
+      "temas": [
+        "sociabilidade",
+        "politica",
+        "religiao"
+      ],
+      "paises": [
+        "de"
+      ],
+      "periodos": [
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "Analisa as lojas alemãs como espaço da sociedade civil burguesa no século XIX, seus limites (exclusão de judeus em grandes lojas prussianas, das mulheres) e a politização nacionalista antes de 1918. Tradução de Die Politik der Geselligkeit (2000).",
+      "evidencias": [
+        "https://doi.org/10.3998/mpub.107292"
+      ],
+      "editora": "University of Michigan Press",
+      "identificadores": {
+        "doi": "10.3998/mpub.107292",
+        "isbn": "9780472115730"
+      },
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "bogdan-snoek-2014-handbook",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Henrik Bogdan",
+        "Jan A. M. Snoek (orgs.)"
+      ],
+      "titulo": "Handbook of Freemasonry",
+      "ano": 2014,
+      "idioma": "en",
+      "url": "https://doi.org/10.1163/9789004273122",
+      "temas": [
+        "historiografia",
+        "origens",
+        "ritos",
+        "esoterismo",
+        "mulheres",
+        "politica"
+      ],
+      "paises": [
+        "mundo"
+      ],
+      "periodos": [
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918",
+        "p1919_1945",
+        "p1946_1989",
+        "p1990_hoje"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "Obra coletiva de referência (Brill Handbooks on Contemporary Religion, 8) com capítulos sobre história, ritos, esoterismo, mulheres, antimaçonaria, arte e maçonaria por regiões, escritos pelos principais especialistas acadêmicos.",
+      "evidencias": [
+        "https://doi.org/10.1163/9789004273122"
+      ],
+      "editora": "Brill",
+      "identificadores": {
+        "doi": "10.1163/9789004273122",
+        "isbn": "9789004218338"
+      },
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "berman-2013-schism",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Ric Berman"
+      ],
+      "titulo": "Schism: The Battle that Forged Freemasonry",
+      "ano": 2013,
+      "idioma": "en",
+      "url": "https://doi.org/10.2307/j.ctv31jm8n1",
+      "temas": [
+        "regularidade",
+        "potencias",
+        "ritual"
+      ],
+      "paises": [
+        "gb",
+        "ie"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "História da rivalidade entre Moderns e Antients (1751–1813), destacando o papel dos irlandeses em Londres, de Laurence Dermott e as diferenças sociais e rituais que levaram à união de 1813.",
+      "evidencias": [
+        "https://doi.org/10.2307/j.ctv31jm8n1"
+      ],
+      "editora": "Sussex Academic Press / Liverpool University Press",
+      "identificadores": {
+        "doi": "10.2307/j.ctv31jm8n1",
+        "isbn": "9781845196066"
+      },
+      "potencias": [
+        "antients",
+        "moderns",
+        "ugle"
+      ],
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "berman-2012-foundations-modern-freemasonry",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Ric Berman"
+      ],
+      "titulo": "The Foundations of Modern Freemasonry: The Grand Architects – Political Change and the Scientific Enlightenment, 1714–1740",
+      "ano": 2012,
+      "idioma": "en",
+      "url": "https://doi.org/10.2307/j.ctv345pcq0",
+      "temas": [
+        "origens",
+        "politica",
+        "potencias"
+      ],
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1600_1716",
+        "p1717_1750"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "Baseado na tese de doutorado do autor (Exeter, 2010), mostra como Desaguliers, Folkes e magistrados whigs de Middlesex moldaram a Grande Loja nos anos 1720–30 como instrumento de sociabilidade hanoveriana e da ciência newtoniana. Segunda edição em 2022.",
+      "evidencias": [
+        "https://doi.org/10.2307/j.ctv345pcq0"
+      ],
+      "editora": "Sussex Academic Press / Liverpool University Press",
+      "identificadores": {
+        "doi": "10.2307/j.ctv345pcq0",
+        "isbn": "9781845196981"
+      },
+      "potencias": [
+        "moderns"
+      ],
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "hinks-kantrowitz-2013-all-men-free",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Peter P. Hinks",
+        "Stephen Kantrowitz (orgs.)"
+      ],
+      "titulo": "All Men Free and Brethren: Essays on the History of African American Freemasonry",
+      "ano": 2013,
+      "idioma": "en",
+      "url": "https://doi.org/10.1093/ahr/118.5.1540",
+      "temas": [
+        "potencias",
+        "politica",
+        "regularidade"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918",
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "Coletânea acadêmica sobre a maçonaria afro-americana (Prince Hall): origens em Boston, papel no abolicionismo e nos direitos civis, mulheres e reconhecimento pelas grandes lojas brancas.",
+      "evidencias": [
+        "https://doi.org/10.1093/ahr/118.5.1540"
+      ],
+      "editora": "Cornell University Press",
+      "identificadores": {
+        "isbn": "9780801451997"
+      },
+      "observacoes": "Evidência: resenha (AHR).",
+      "potencias": [
+        "prince_hall"
+      ],
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "smith-1999-working-rough-stone",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Douglas Smith"
+      ],
+      "titulo": "Working the Rough Stone: Freemasonry and Society in Eighteenth-Century Russia",
+      "ano": 1999,
+      "idioma": "en",
+      "url": "https://doi.org/10.2307/2692515",
+      "temas": [
+        "sociabilidade",
+        "politica",
+        "esoterismo"
+      ],
+      "paises": [
+        "ru"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "Principal estudo em inglês sobre a maçonaria russa no século XVIII: composição social das lojas, rosa-cruzes de Moscou, Novikov e a repressão de Catarina II.",
+      "evidencias": [
+        "https://doi.org/10.2307/2692515"
+      ],
+      "editora": "Northern Illinois University Press",
+      "identificadores": {
+        "isbn": "9780875802466"
+      },
+      "observacoes": "Evidência: resenha.",
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "hackett-2014-religion-all-men-agree",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "David G. Hackett"
+      ],
+      "titulo": "That Religion in Which All Men Agree: Freemasonry in American Culture",
+      "ano": 2014,
+      "idioma": "en",
+      "url": "https://doi.org/10.1525/california/9780520281677.001.0001",
+      "temas": [
+        "religiao",
+        "sociabilidade",
+        "potencias"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "Analisa a maçonaria americana como fenômeno religioso e cultural, incluindo afro-americanos, nativos americanos e imigrantes chineses, do período colonial ao fim do século XIX.",
+      "evidencias": [
+        "https://doi.org/10.1525/california/9780520281677.001.0001"
+      ],
+      "editora": "University of California Press",
+      "identificadores": {
+        "doi": "10.1525/california/9780520281677.001.0001",
+        "isbn": "9780520281677"
+      },
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "dumenil-1984-freemasonry-american-culture",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Lynn Dumenil"
+      ],
+      "titulo": "Freemasonry and American Culture, 1880–1930",
+      "ano": 1984,
+      "idioma": "en",
+      "url": "https://doi.org/10.1515/9781400853830",
+      "temas": [
+        "sociabilidade",
+        "religiao"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1871_1918",
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "Estudo da 'idade de ouro' fraternal americana, mostrando a passagem da maçonaria de refúgio moral e quase religioso para associação de serviço, sociabilidade e patriotismo nos anos 1920.",
+      "evidencias": [
+        "https://doi.org/10.1515/9781400853830"
+      ],
+      "editora": "Princeton University Press",
+      "identificadores": {
+        "doi": "10.1515/9781400853830"
+      },
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "clawson-1989-constructing-brotherhood",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Mary Ann Clawson"
+      ],
+      "titulo": "Constructing Brotherhood: Class, Gender, and Fraternalism",
+      "ano": 1989,
+      "idioma": "en",
+      "url": "https://doi.org/10.1515/9781400860500",
+      "temas": [
+        "sociabilidade",
+        "mulheres"
+      ],
+      "paises": [
+        "us",
+        "gb"
+      ],
+      "periodos": [
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "Sociologia histórica do fraternalismo (maçonaria e ordens semelhantes) nos EUA, mostrando como a fraternidade masculina articulou classe e gênero e excluiu as mulheres.",
+      "evidencias": [
+        "https://doi.org/10.1515/9781400860500"
+      ],
+      "editora": "Princeton University Press",
+      "identificadores": {
+        "doi": "10.1515/9781400860500"
+      },
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "goodman-1988-christian-republic",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Paul Goodman"
+      ],
+      "titulo": "Towards a Christian Republic: Antimasonry and the Great Transition in New England, 1826–1836",
+      "ano": 1988,
+      "idioma": "en",
+      "url": "https://doi.org/10.2307/3123652",
+      "temas": [
+        "antimaconaria",
+        "religiao",
+        "politica"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "Interpreta o movimento antimaçônico na Nova Inglaterra como reação evangélica e popular às transformações do mercado e às elites, após o caso Morgan.",
+      "evidencias": [
+        "https://doi.org/10.2307/3123652"
+      ],
+      "editora": "Oxford University Press",
+      "identificadores": {
+        "isbn": "9780195043594"
+      },
+      "observacoes": "Evidência: resenha.",
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "vaughn-1983-antimasonic-party",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "William Preston Vaughn"
+      ],
+      "titulo": "The Antimasonic Party in the United States, 1826–1843",
+      "ano": 1983,
+      "idioma": "en",
+      "url": "https://doi.org/10.2307/1899776",
+      "temas": [
+        "antimaconaria",
+        "politica"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "História política do primeiro terceiro partido americano, nascido do caso Morgan, e de seu peso em Nova York, Pensilvânia, Vermont e na eleição de 1832.",
+      "evidencias": [
+        "https://doi.org/10.2307/1899776"
+      ],
+      "editora": "University Press of Kentucky",
+      "identificadores": {
+        "isbn": "9780813114743"
+      },
+      "observacoes": "Evidência: resenha.",
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "roberts-1972-mythology-secret-societies",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "John M. Roberts"
+      ],
+      "titulo": "The Mythology of the Secret Societies",
+      "ano": 1972,
+      "idioma": "en",
+      "url": "https://doi.org/10.2307/1858399",
+      "temas": [
+        "antimaconaria",
+        "politica",
+        "historiografia"
+      ],
+      "paises": [
+        "fr",
+        "de",
+        "it",
+        "mundo"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "Estudo clássico sobre o nascimento do mito das sociedades secretas conspiradoras (maçons, Iluminados, carbonários) entre o fim do século XVIII e meados do XIX, e seus efeitos políticos.",
+      "evidencias": [
+        "https://doi.org/10.2307/1858399"
+      ],
+      "editora": "Secker & Warburg / Scribner",
+      "observacoes": "Evidência: resenha.",
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "sommers-2016-dunckerley",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Susan Mitchell Sommers"
+      ],
+      "titulo": "Thomas Dunckerley and English Freemasonry",
+      "ano": 2016,
+      "idioma": "en",
+      "url": "https://doi.org/10.4324/9781315654904",
+      "temas": [
+        "personalidades",
+        "potencias",
+        "ordens_anexas"
+      ],
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "Biografia acadêmica de Thomas Dunckerley, suposto filho ilegítimo de Jorge II, grão-mestre provincial em várias províncias e promotor do Arco Real e dos Templários, que renova a obra de Sadler (1891).",
+      "evidencias": [
+        "https://doi.org/10.4324/9781315654904"
+      ],
+      "editora": "Pickering & Chatto / Routledge",
+      "identificadores": {
+        "doi": "10.4324/9781315654904"
+      },
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "onnerfors-2017-very-short-introduction",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Andreas Önnerfors"
+      ],
+      "titulo": "Freemasonry: A Very Short Introduction",
+      "ano": 2017,
+      "idioma": "en",
+      "url": "https://doi.org/10.1093/actrade/9780198796275.001.0001",
+      "temas": [
+        "historiografia",
+        "origens",
+        "politica",
+        "ritual"
+      ],
+      "paises": [
+        "mundo"
+      ],
+      "periodos": [
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918",
+        "p1919_1945",
+        "p1946_1989",
+        "p1990_hoje"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "Introdução acadêmica concisa à história, à organização e aos rituais da maçonaria, com atenção a sua dimensão global e às teorias conspiratórias.",
+      "evidencias": [
+        "https://doi.org/10.1093/actrade/9780198796275.001.0001"
+      ],
+      "editora": "Oxford University Press",
+      "identificadores": {
+        "doi": "10.1093/actrade/9780198796275.001.0001",
+        "isbn": "9780198796275"
+      },
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "beaurepaire-2003-espace-francs-macons",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Pierre-Yves Beaurepaire"
+      ],
+      "titulo": "L'espace des francs-maçons: une sociabilité européenne au XVIIIe siècle",
+      "ano": 2003,
+      "idioma": "fr",
+      "url": "https://doi.org/10.4000/books.pur.23622",
+      "temas": [
+        "sociabilidade",
+        "politica",
+        "historiografia"
+      ],
+      "paises": [
+        "fr",
+        "de",
+        "mundo"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto em OpenEdition Books",
+      "status_verificacao": "conferido_web",
+      "resumo": "Estudo da maçonaria como espaço de sociabilidade europeia no século XVIII, com redes de correspondência entre lojas, mobilidade de irmãos e formas de cosmopolitismo e de fechamento social.",
+      "evidencias": [
+        "https://doi.org/10.4000/books.pur.23622"
+      ],
+      "editora": "Presses universitaires de Rennes",
+      "identificadores": {
+        "doi": "10.4000/books.pur.23622",
+        "isbn": "9782868478528"
+      },
+      "observacoes": "Cópia não feita: OpenEdition protegido por filtro anti-robô (Anubis).",
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "beaurepaire-2002-europe-francs-macons",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Pierre-Yves Beaurepaire"
+      ],
+      "titulo": "L'Europe des francs-maçons, XVIIIe–XXIe siècles",
+      "ano": 2002,
+      "idioma": "fr",
+      "url": "https://www.belin-editeur.com/",
+      "temas": [
+        "sociabilidade",
+        "politica",
+        "potencias"
+      ],
+      "paises": [
+        "mundo",
+        "fr"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918",
+        "p1919_1945",
+        "p1946_1989",
+        "p1990_hoje"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "pista",
+      "resumo": "Síntese sobre a maçonaria como fenômeno europeu do Iluminismo à integração europeia, tratando de cosmopolitismo, nações, obediências rivais e reconstrução após 1945 e 1989.",
+      "evidencias": [
+        "https://www.belin-editeur.com/"
+      ],
+      "editora": "Belin",
+      "observacoes": "Metadados por conhecimento bibliográfico; conferir ISBN na próxima onda.",
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "halevi-1984-loges-ancien-regime",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Ran Halévi"
+      ],
+      "titulo": "Les loges maçonniques dans la France d'Ancien Régime: aux origines de la sociabilité démocratique",
+      "ano": 1984,
+      "idioma": "fr",
+      "url": "https://doi.org/10.1086/242985",
+      "temas": [
+        "sociabilidade",
+        "politica"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "Estudo inspirado em Cochin e Furet que vê nas lojas francesas uma escola de sociabilidade democrática anterior à Revolução, com análise sociológica dos quadros de membros.",
+      "evidencias": [
+        "https://doi.org/10.1086/242985"
+      ],
+      "editora": "Armand Colin (Cahiers des Annales, 40)",
+      "observacoes": "Evidência: resenha (Journal of Modern History).",
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "beaurepaire-2002-hdr-sociabilite",
+      "tipo": "tese",
+      "categoria": "academica",
+      "autores": [
+        "Pierre-Yves Beaurepaire"
+      ],
+      "titulo": "Sociabilité, franc-maçonnerie et réseaux relationnels: contributions pour une histoire sociale et culturelle de l'Europe des Lumières",
+      "ano": 2002,
+      "idioma": "fr",
+      "url": "https://hal.science/tel-00134596",
+      "temas": [
+        "sociabilidade",
+        "historiografia"
+      ],
+      "paises": [
+        "fr",
+        "mundo"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "autorização de difusão HAL",
+      "status_verificacao": "conferido_web",
+      "resumo": "Dossiê de habilitação (HDR) que reúne e sintetiza as pesquisas do autor sobre redes maçônicas, correspondência e sociabilidade na Europa das Luzes.",
+      "evidencias": [
+        "https://hal.science/tel-00134596"
+      ],
+      "identificadores": {
+        "hal": "tel-00134596"
+      },
+      "observacoes": "Cópia não feita: HAL protegido por filtro anti-robô (Anubis) em 2026-11-03; PDF de acesso aberto disponível para download manual.",
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "laporte-dupuis-2026-paris-xviiie",
+      "tipo": "tese",
+      "categoria": "academica",
+      "autores": [
+        "Séverine Laporte Dupuis"
+      ],
+      "titulo": "La franc-maçonnerie parisienne au XVIIIe siècle: une sociabilité en mouvement",
+      "ano": 2026,
+      "idioma": "fr",
+      "url": "https://hal.science/tel-05749564",
+      "temas": [
+        "sociabilidade",
+        "potencias"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "autorização de difusão HAL",
+      "status_verificacao": "conferido_web",
+      "resumo": "Tese de doutorado (Université Côte d'Azur, 2026) sobre as lojas parisienses do século XVIII e a mobilidade de seus membros.",
+      "evidencias": [
+        "https://hal.science/tel-05749564"
+      ],
+      "identificadores": {
+        "hal": "tel-05749564"
+      },
+      "observacoes": "Cópia não feita: HAL protegido por filtro anti-robô (Anubis) em 2026-11-03; PDF de acesso aberto disponível para download manual. Resumo baseado só no título e metadados; ler na próxima onda.",
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "rjeoutski-2007-francais-fm-russe",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Vladislav Rjéoutski"
+      ],
+      "titulo": "Les Français dans la franc-maçonnerie russe au siècle des Lumières: hypothèses et pistes de recherche",
+      "ano": 2007,
+      "idioma": "fr",
+      "url": "https://hal.science/halshs-00260120",
+      "temas": [
+        "sociabilidade",
+        "personalidades"
+      ],
+      "paises": [
+        "ru",
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "autorização de difusão HAL",
+      "status_verificacao": "conferido_web",
+      "resumo": "Levanta a presença de franceses (preceptores, artistas, comerciantes) nas lojas russas do século XVIII e propõe pistas de pesquisa prosopográfica.",
+      "evidencias": [
+        "https://hal.science/halshs-00260120"
+      ],
+      "identificadores": {
+        "hal": "halshs-00260120"
+      },
+      "observacoes": "Cópia não feita: HAL protegido por filtro anti-robô (Anubis) em 2026-11-03; PDF de acesso aberto disponível para download manual.",
+      "periodico": "Slavica Occitania",
+      "paginas": "91-136",
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "beaurepaire-2019-libraires-huguenots",
+      "tipo": "capitulo",
+      "categoria": "academica",
+      "autores": [
+        "Pierre-Yves Beaurepaire"
+      ],
+      "titulo": "Libraires, francs-maçons et huguenots: écrire, imprimer et diffuser le livre maçonnique dans la première moitié du XVIIIe siècle",
+      "ano": 2019,
+      "idioma": "fr",
+      "url": "https://hal.science/hal-03613124",
+      "temas": [
+        "sociabilidade",
+        "religiao",
+        "documentos_fundadores"
+      ],
+      "paises": [
+        "fr",
+        "de",
+        "nl"
+      ],
+      "periodos": [
+        "p1717_1750"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "autorização de difusão HAL",
+      "status_verificacao": "conferido_web",
+      "resumo": "Capítulo sobre a produção e circulação dos primeiros livros maçônicos em francês por livreiros huguenotes do Refúgio (Haia, Frankfurt, Berlim).",
+      "evidencias": [
+        "https://hal.science/hal-03613124"
+      ],
+      "identificadores": {
+        "hal": "hal-03613124"
+      },
+      "observacoes": "Cópia não feita: HAL protegido por filtro anti-robô (Anubis) em 2026-11-03; PDF de acesso aberto disponível para download manual.",
+      "editora": "Presses universitaires de Rennes",
+      "paginas": "255-275",
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "arditi-2020-vichy-agriculture",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Roger Arditi"
+      ],
+      "titulo": "L'éviction par Vichy des Juifs, des femmes et des francs-maçons du ministère de l'Agriculture",
+      "ano": 2020,
+      "idioma": "fr",
+      "url": "https://doi.org/10.3917/rhsho.212.0215",
+      "temas": [
+        "politica",
+        "antimaconaria"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "Estudo de caso da aplicação da legislação de Vichy contra maçons (lei de 13 de agosto de 1940 e listas publicadas no Journal officiel), ao lado da exclusão de judeus e mulheres, num ministério.",
+      "evidencias": [
+        "https://doi.org/10.3917/rhsho.212.0215",
+        "https://hal.science/hal-03992168"
+      ],
+      "identificadores": {
+        "doi": "10.3917/rhsho.212.0215",
+        "hal": "hal-03992168"
+      },
+      "periodico": "Revue d'histoire de la Shoah",
+      "paginas": "215",
+      "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "kalifa-2019-taxil",
+      "tipo": "artigo",
+      "categoria": "divulgacao",
+      "autores": [
+        "Dominique Kalifa"
+      ],
+      "titulo": "Franc-maçonnerie: la mystification de Léo Taxil",
+      "ano": 2019,
+      "idioma": "fr",
+      "url": "https://hal.science/hal-04153546",
+      "temas": [
+        "antimaconaria",
+        "religiao"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "status_verificacao": "conferido_web",
+      "resumo": "Artigo de divulgação de um historiador acadêmico sobre a fraude de Léo Taxil (1885–1897), que enganou a imprensa católica com revelações inventadas sobre um culto luciferino maçônico.",
+      "evidencias": [
+        "https://hal.science/hal-04153546"
+      ],
+      "identificadores": {
+        "hal": "hal-04153546"
+      },
+      "periodico": "Histoire & Civilisations",
+      "paginas": "72-85",
+      "lote": "c04-historia-mundo"
     }
   ]
 }
