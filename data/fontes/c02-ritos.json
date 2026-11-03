@@ -2192,49 +2192,6 @@
    "lote": "c02-ritos"
   },
   {
-   "id": "webb-1822-monitor-masones-libres",
-   "tipo": "livro",
-   "categoria": "ritual_publicado",
-   "autores": [
-    "Thomas Smith Webb"
-   ],
-   "titulo": "El monitor de los masones libres, ó Ilustraciones sobre la masonería",
-   "ano": 1822,
-   "idioma": "es",
-   "temas": [
-    "ritual",
-    "graus"
-   ],
-   "ritos": [
-    "york"
-   ],
-   "paises": [
-    "us",
-    "al"
-   ],
-   "periodos": [
-    "p1814_1870"
-   ],
-   "confiabilidade": "B",
-   "acesso": "dominio_publico",
-   "licenca": "domínio público (publicado em 1822)",
-   "resumo": "Tradução espanhola do monitor de Webb, publicada para lojas hispano-americanas; mostra a difusão do Rito de York (Webb) na América hispânica.",
-   "status_verificacao": "copiado",
-   "observacoes": "Original inglês catalogado pela C01 (webb-1797-freemasons-monitor).",
-   "url": "https://archive.org/details/elmonitordelosma00webbiala",
-   "identificadores": {
-    "ia": "elmonitordelosma00webbiala"
-   },
-   "evidencias": [
-    "https://archive.org/details/elmonitordelosma00webbiala"
-   ],
-   "acervo": [
-    "pdf/webb-1822-monitor-masones-libres.pdf",
-    "txt/webb-1822-monitor-masones-libres.txt"
-   ],
-   "lote": "c02-ritos"
-  },
-  {
    "id": "cassard-1861-manual-masoneria",
    "tipo": "livro",
    "categoria": "ritual_publicado",
