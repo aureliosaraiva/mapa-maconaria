@@ -487,52 +487,6 @@
       ]
     },
     {
-      "id": "lane-1895-masonic-records",
-      "tipo": "documento",
-      "categoria": "historiografia_maconica",
-      "autores": [
-        "John Lane"
-      ],
-      "titulo": "Masonic records, 1717–1894: being lists of all the lodges at home and abroad warranted by the four Grand Lodges and the United Grand Lodge of England",
-      "ano": 1895,
-      "idioma": "en",
-      "url": "https://archive.org/details/cu31924030274165",
-      "identificadores": {
-        "ia": "cu31924030274165"
-      },
-      "temas": [
-        "potencias",
-        "historiografia"
-      ],
-      "paises": [
-        "gb",
-        "mundo"
-      ],
-      "periodos": [
-        "p1717_1750",
-        "p1751_1813",
-        "p1814_1870",
-        "p1871_1918"
-      ],
-      "confiabilidade": "A",
-      "acesso": "dominio_publico",
-      "licenca": "domínio público (obra de 1895; autor falecido há mais de 70 anos ou publicada antes de 1931 nos EUA)",
-      "status_verificacao": "copiado",
-      "resumo": "Repertório de todas as lojas criadas pelas grandes lojas inglesas (Moderns, Antients, York, Wigan) e pela UGLE, com números, datas e locais. Ferramenta indispensável para rastrear lojas inglesas no país e no ultramar.",
-      "evidencias": [
-        "https://archive.org/details/cu31924030274165"
-      ],
-      "potencias": [
-        "ugle",
-        "moderns",
-        "antients"
-      ],
-      "lote": "c04-historia-mundo",
-      "acervo": [
-        "txt/lane-1895-masonic-records.txt"
-      ]
-    },
-    {
       "id": "firminger-1906-freemasonry-bengal",
       "tipo": "livro",
       "categoria": "historiografia_maconica",
