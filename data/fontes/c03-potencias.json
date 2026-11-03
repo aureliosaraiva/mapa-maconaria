@@ -1,0 +1,1234 @@
+{
+ "lote": "c03-potencias",
+ "fontes": [
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "sociabilidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "cmsb-2022-informativo",
+   "autores": [
+    "Confederação da Maçonaria Simbólica do Brasil"
+   ],
+   "titulo": "Informativo CMSB 2022 (revisado): como se tornar maçom",
+   "ano": 2022,
+   "idioma": "pt",
+   "potencias": [
+    "cmsb"
+   ],
+   "paises": [
+    "br"
+   ],
+   "resumo": "Folheto institucional de 24 páginas da CMSB destinado a interessados em ingressar nas Grandes Lojas, apresentando a confederação e o processo de admissão.",
+   "observacoes": "PDF composto de imagens: pdftotext não extraiu texto (txt vazio); precisa de OCR.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cmsb-2022-informativo.pdf",
+    "txt/cmsb-2022-informativo.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/wp-content/uploads/2022/05/Informativo-CMSB-2022-revisado.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/wp-content/uploads/2022/05/Informativo-CMSB-2022-revisado.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "cmsb-2026-cmi",
+   "autores": [
+    "Confederação da Maçonaria Simbólica do Brasil"
+   ],
+   "titulo": "Conferência Mundial de Grandes Lojas Regulares (XIX, Foz do Iguaçu, 2024)",
+   "ano": 2026,
+   "idioma": "pt",
+   "potencias": [
+    "cmsb",
+    "cmi",
+    "gl_pr",
+    "gob"
+   ],
+   "paises": [
+    "br",
+    "mundo"
+   ],
+   "resumo": "Nota da CMSB sobre a XIX Conferência Mundial de Grandes Lojas Regulares, sediada no Brasil (Foz do Iguaçu, 27/11 a 1/12/2024), tendo como anfitriões a Grande Loja do Paraná e o Grande Oriente do Paraná (GOB).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/cmsb-2026-cmi.html",
+    "txt/cmsb-2026-cmi.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/conferencia-mundial-de-grandes-lojas-regulares/",
+   "evidencias": [
+    "https://cmsb.org.br/conferencia-mundial-de-grandes-lojas-regulares/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1919_1945",
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "cmsb-2026-sobre",
+   "autores": [
+    "Confederação da Maçonaria Simbólica do Brasil"
+   ],
+   "titulo": "Sobre: atuação e funcionamento da CMSB",
+   "ano": 2026,
+   "idioma": "pt",
+   "potencias": [
+    "cmsb",
+    "sc_reaa_br"
+   ],
+   "paises": [
+    "br"
+   ],
+   "resumo": "Página institucional da CMSB: confederação das 27 Grandes Lojas estaduais, com mais de três mil lojas e mais de cem mil membros ativos (dado declarado em 2026), sede em Brasília. Descreve órgãos (Assembleia Geral, Conferência de Grão-Mestres, Secretaria Geral, Conselho Fiscal), finalidades e a instalação em 27/7/1966, na última Mesa Redonda das Grandes Lojas, além da origem das Grandes Lojas por cartas do Supremo Conselho do REAA (1927).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/cmsb-2026-sobre.html",
+    "txt/cmsb-2026-sobre.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/sobre/",
+   "evidencias": [
+    "https://cmsb.org.br/sobre/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "documentos_fundadores"
+   ],
+   "periodos": [
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "comab-2026-estatuto",
+   "autores": [
+    "Confederação Maçônica do Brasil"
+   ],
+   "titulo": "Estatuto (página institucional e cronologia de fundação)",
+   "ano": 2026,
+   "idioma": "pt",
+   "potencias": [
+    "comab",
+    "go_mg"
+   ],
+   "paises": [
+    "br"
+   ],
+   "resumo": "Página da COMAB que data a carta de intenções de 27/5/1973 (Rio de Janeiro), liderada pelo grão-mestre do Grande Oriente de Minas Gerais Athos Vieira de Andrade e assinada por dez grão-mestres, a fundação do Colégio de Grão-Mestres da Maçonaria Brasileira em 4/8/1973 (Belo Horizonte) e a mudança de nome para COMAB em 6/4/1991.",
+   "observacoes": "A página não traz o texto integral do estatuto; procurar PDF do estatuto registrado.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/comab-2026-estatuto.html",
+    "txt/comab-2026-estatuto.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://comab.org.br/estatuto/",
+   "evidencias": [
+    "https://comab.org.br/estatuto/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "comab-2026-historia",
+   "autores": [
+    "Confederação Maçônica do Brasil"
+   ],
+   "titulo": "História da COMAB",
+   "ano": 2026,
+   "idioma": "pt",
+   "potencias": [
+    "comab",
+    "gob"
+   ],
+   "paises": [
+    "br"
+   ],
+   "resumo": "Histórico oficial da COMAB: confederação dos Grandes Orientes estaduais independentes surgidos da desfiliação de dez Grandes Orientes do GOB em 1973, com sede em Belo Horizonte e presença declarada em 25 unidades da federação. Apresenta a cisão de 1973 como comparável à de 1927 e a sequência Colégio de Grão-Mestres → COMAB; a página afirma sua regularidade (afirmação institucional).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/comab-2026-historia.html",
+    "txt/comab-2026-historia.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://comab.org.br/historia-da-comab/",
+   "evidencias": [
+    "https://comab.org.br/historia-da-comab/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "mulheres",
+    "principios"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "droithumain-fr-2023-livret",
+   "autores": [
+    "Fédération française du Droit Humain"
+   ],
+   "titulo": "Livret de présentation du Droit Humain",
+   "ano": 2020,
+   "idioma": "fr",
+   "potencias": [
+    "droit_humain",
+    "godf"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "resumo": "Livreto de apresentação (14 p.) do Droit Humain para não maçons: origens da maçonaria especulativa, chegada à França por volta de 1725, panorama das obediências francesas e funcionamento das lojas mistas.",
+   "observacoes": "Arquivo diagramado em 2020 (marcas de impressão), publicado no site em 2023.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/droithumain-fr-2023-livret.pdf",
+    "txt/droithumain-fr-2023-livret.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.droithumain-france.org/app/uploads/2023/07/livret-de-presentation-du-droit-humain.pdf",
+   "evidencias": [
+    "https://www.droithumain-france.org/app/uploads/2023/07/livret-de-presentation-du-droit-humain.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "mulheres"
+   ],
+   "periodos": [
+    "p1871_1918",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "droithumain-fr-2026-histoire",
+   "autores": [
+    "Fédération française du Droit Humain"
+   ],
+   "titulo": "Notre histoire",
+   "ano": 2026,
+   "idioma": "fr",
+   "potencias": [
+    "droit_humain"
+   ],
+   "paises": [
+    "fr",
+    "mundo"
+   ],
+   "resumo": "Histórico oficial do Droit Humain, ordem maçônica mista internacional criada em 4/4/1893 (Maria Deraismes e Georges Martin), apresentada como ruptura com a exclusão das mulheres prevista nas Constituições de Anderson; contextualiza a maçonaria francesa e as condenações papais de 1738 e 1751.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/droithumain-fr-2026-histoire.html",
+    "txt/droithumain-fr-2026-histoire.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.droithumain-france.org/le-droit-humain-une-ecole-initiatique/notre-histoire",
+   "evidencias": [
+    "https://www.droithumain-france.org/le-droit-humain-une-ecole-initiatique/notre-histoire"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "droithumain-fr-2026-organisation",
+   "autores": [
+    "Fédération française du Droit Humain"
+   ],
+   "titulo": "Notre organisation",
+   "ano": 2026,
+   "idioma": "fr",
+   "potencias": [
+    "droit_humain"
+   ],
+   "paises": [
+    "fr",
+    "mundo"
+   ],
+   "resumo": "Estrutura da Ordem Maçônica Mista Internacional Le Droit Humain: 35 federações nacionais (11 'pioneiras') soberanas sob uma Constituição internacional (versão 2022) e o Supremo Conselho; organização da federação francesa (associação lei 1901, Conselho Nacional, Grão-Mestre Nacional, convento anual).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/droithumain-fr-2026-organisation.html",
+    "txt/droithumain-fr-2026-organisation.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.droithumain-france.org/le-droit-humain-une-ecole-initiatique/notre-organisation",
+   "evidencias": [
+    "https://www.droithumain-france.org/le-droit-humain-une-ecole-initiatique/notre-organisation"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "principios",
+    "mulheres"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "droithumain-fr-2026-valeurs",
+   "autores": [
+    "Fédération française du Droit Humain"
+   ],
+   "titulo": "Nos valeurs et principes",
+   "ano": 2026,
+   "idioma": "fr",
+   "potencias": [
+    "droit_humain"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "resumo": "Declaração de princípios do Droit Humain: mistura de gêneros, liberdade absoluta de consciência, laicidade e humanismo; útil para contrastar com os princípios das obediências 'regulares' de tradição inglesa.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/droithumain-fr-2026-valeurs.html",
+    "txt/droithumain-fr-2026-valeurs.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.droithumain-france.org/le-droit-humain-une-ecole-initiatique/nos-valeurs-et-principes",
+   "evidencias": [
+    "https://www.droithumain-france.org/le-droit-humain-une-ecole-initiatique/nos-valeurs-et-principes"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "historiografia"
+   ],
+   "periodos": [
+    "p1717_1750",
+    "p1751_1813",
+    "p1814_1870",
+    "p1871_1918",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "gldf-2026-trois-siecles",
+   "autores": [
+    "Grande Loge de France"
+   ],
+   "titulo": "Trois siècles d'histoire",
+   "ano": 2026,
+   "idioma": "fr",
+   "potencias": [
+    "gldf"
+   ],
+   "ritos": [
+    "reaa"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "resumo": "Cronologia oficial da GLDF: origem nas lojas parisienses de 1725–1730, título de Grande Loge de France em 1743, ruptura de 1773 com a criação do GOdF, relação com o Supremo Conselho da França (1804) e refundação em 1894; declara cerca de 31–32 mil membros em 940–950 lojas (2026), com efeitos da pandemia de 2020–2021.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/gldf-2026-trois-siecles.html",
+    "txt/gldf-2026-trois-siecles.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.gldf.org/franc-maconnerie/trois-siecles-dhistoire/",
+   "evidencias": [
+    "https://www.gldf.org/franc-maconnerie/trois-siecles-dhistoire/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade",
+    "personalidades"
+   ],
+   "periodos": [
+    "p1919_1945",
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "glesp-2026-historia",
+   "autores": [
+    "Grande Loja Maçônica do Estado de São Paulo"
+   ],
+   "titulo": "A História (GLESP)",
+   "ano": 2026,
+   "idioma": "pt",
+   "potencias": [
+    "gl_sp",
+    "cmsb",
+    "sc_reaa_br",
+    "gob"
+   ],
+   "paises": [
+    "br"
+   ],
+   "resumo": "Histórico oficial da GLESP: atribui a Mário Behring (Soberano Grande Comendador do Supremo Conselho, 1922–1933) a iniciativa de criar Grandes Lojas simbólicas após contato com a maçonaria europeia; narra a instalação da GLESP em 2/7/1927 no templo da Loja Amizade nº 1 (São Paulo), com Carlos Reis como primeiro grão-mestre, e as administrações seguintes.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/glesp-2026-historia.html",
+    "txt/glesp-2026-historia.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://glesp.org.br/a-historia/",
+   "evidencias": [
+    "https://glesp.org.br/a-historia/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "mulheres"
+   ],
+   "periodos": [
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "glff-2021-plaquette",
+   "autores": [
+    "Grande Loge Féminine de France"
+   ],
+   "titulo": "GLFF: plaquette de présentation",
+   "ano": 2021,
+   "idioma": "fr",
+   "potencias": [
+    "glff"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "resumo": "Folheto institucional da GLFF: assembleia de 21/10/1945 que reconstituiu as lojas femininas, nome Union Maçonnique Féminine de France e adoção do nome Grande Loge Féminine de France em 1952; ritos e números da obediência.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/glff-2021-plaquette.pdf",
+    "txt/glff-2021-plaquette.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://glff.org/wp-content/uploads/2021/10/GLFF_FLYER_2021-10.pdf",
+   "evidencias": [
+    "https://glff.org/wp-content/uploads/2021/10/GLFF_FLYER_2021-10.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "mulheres"
+   ],
+   "periodos": [
+    "p1717_1750",
+    "p1751_1813",
+    "p1919_1945",
+    "p1946_1989"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "glff-2026-histoire",
+   "autores": [
+    "Grande Loge Féminine de France"
+   ],
+   "titulo": "Histoire de la Franc-Maçonnerie (et de la GLFF)",
+   "ano": 2026,
+   "idioma": "fr",
+   "potencias": [
+    "glff"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "resumo": "Histórico da GLFF que vincula a maçonaria feminina às lojas de adoção do séc. XVIII (manuscrito mais antigo de 1761, reconhecimento pelo GOdF em 10/6/1774) e à presença de mulheres em lojas francesas antes de 1750, até a formação da obediência feminina no pós-guerra.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/glff-2026-histoire.html",
+    "txt/glff-2026-histoire.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://glff.org/histoire-de-la-franc-maconnerie/",
+   "evidencias": [
+    "https://glff.org/histoire-de-la-franc-maconnerie/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias"
+   ],
+   "periodos": [
+    "p1717_1750",
+    "p1814_1870",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "glireland-2026-about",
+   "autores": [
+    "Grand Lodge of Ireland"
+   ],
+   "titulo": "About Grand Lodge",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "gl_irlanda"
+   ],
+   "ritos": [
+    "irlandes"
+   ],
+   "paises": [
+    "ie",
+    "gb"
+   ],
+   "resumo": "Página institucional da Grande Loja da Irlanda: jurisdição sobre toda a ilha e províncias ultramarinas, cerca de 19 mil membros, formada por 1725 (segunda mais antiga do mundo), sede no Freemasons' Hall de Molesworth Street, Dublin, inaugurado em 1869.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/glireland-2026-about.html",
+    "txt/glireland-2026-about.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://freemason.ie/about-grand-lodge/",
+   "evidencias": [
+    "https://freemason.ie/about-grand-lodge/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "ordens_anexas"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "glireland-2026-appendant-bodies",
+   "autores": [
+    "Grand Lodge of Ireland"
+   ],
+   "titulo": "Appendant Bodies",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "gl_irlanda",
+    "arco_real",
+    "templarios_maconicos"
+   ],
+   "ritos": [
+    "irlandes",
+    "reaa"
+   ],
+   "paises": [
+    "ie"
+   ],
+   "resumo": "Relação dos corpos anexos reconhecidos pela maçonaria irlandesa: Supreme Grand Royal Arch Chapter of Ireland, Grand Council of Knight Masons, Great Priory of Ireland e Ancient and Accepted Rite for Ireland.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/glireland-2026-appendant-bodies.html",
+    "txt/glireland-2026-appendant-bodies.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://freemason.ie/about-grand-lodge/appendant-bodies/",
+   "evidencias": [
+    "https://freemason.ie/about-grand-lodge/appendant-bodies/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "glireland-2026-foreign-grand-lodges",
+   "autores": [
+    "Grand Lodge of Ireland"
+   ],
+   "titulo": "Foreign Grand Lodges (recognised)",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "gl_irlanda"
+   ],
+   "paises": [
+    "ie",
+    "mundo"
+   ],
+   "resumo": "Lista oficial das grandes lojas estrangeiras reconhecidas pela Grande Loja da Irlanda; fonte para comparar relações de reconhecimento entre as três grandes lojas das ilhas britânicas.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/glireland-2026-foreign-grand-lodges.html",
+    "txt/glireland-2026-foreign-grand-lodges.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://freemason.ie/about-grand-lodge/foreign-grand-lodges/",
+   "evidencias": [
+    "https://freemason.ie/about-grand-lodge/foreign-grand-lodges/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias"
+   ],
+   "periodos": [
+    "p1919_1945",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "glmerj-2026-99-anos",
+   "autores": [
+    "Grande Loja Maçônica do Estado do Rio de Janeiro"
+   ],
+   "titulo": "22 de junho de 2026: 99 anos de história, tradição e fraternidade",
+   "ano": 2026,
+   "idioma": "pt",
+   "potencias": [
+    "gl_rj",
+    "cmsb"
+   ],
+   "paises": [
+    "br"
+   ],
+   "resumo": "Nota comemorativa da GLMERJ que data sua fundação em 22/6/1927, no movimento de criação das Grandes Lojas estaduais.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/glmerj-2026-99-anos.html",
+    "txt/glmerj-2026-99-anos.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.glmerj.org.br/noticia/160",
+   "evidencias": [
+    "https://www.glmerj.org.br/noticia/160"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "sociabilidade"
+   ],
+   "periodos": [
+    "p1919_1945",
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "glmmg-2026-historia",
+   "autores": [
+    "Grande Loja Maçônica de Minas Gerais"
+   ],
+   "titulo": "História da GLMMG",
+   "ano": 2026,
+   "idioma": "pt",
+   "potencias": [
+    "gl_mg",
+    "cmsb",
+    "sc_reaa_br",
+    "gob"
+   ],
+   "paises": [
+    "br"
+   ],
+   "resumo": "Histórico oficial da Grande Loja de Minas Gerais: criada em 25/9/1927 por oito lojas oriundas do GOB, reunidas na Loja Bello Horizonte, com carta constitutiva do Supremo Conselho em dezembro de 1927; relata grão-mestres, sedes, obras assistenciais (Caixa de Pecúlio, hospital em Teófilo Otoni, 1971) e a sede da reunião da CMSB em 2014.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/glmmg-2026-historia.html",
+    "txt/glmmg-2026-historia.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.glmmg.org.br/historia/",
+   "evidencias": [
+    "https://www.glmmg.org.br/historia/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "origens",
+    "personalidades"
+   ],
+   "periodos": [
+    "medieval",
+    "p1717_1750",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "glscotland-2026-history",
+   "autores": [
+    "Grand Lodge of Scotland"
+   ],
+   "titulo": "Our History",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "gl_escocia"
+   ],
+   "ritos": [
+    "escoces_craft"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "resumo": "Histórico oficial da Grande Loja da Escócia, fundada em 1736, com ênfase nas lojas escocesas anteriores à grande loja e na soberania das lojas sob a Constituição Escocesa; galeria de grão-mestres maçons (inclusive o futuro Jorge VI, instalado em 1936).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/glscotland-2026-history.html",
+    "txt/glscotland-2026-history.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.grandlodgescotland.com/our-history-2/",
+   "evidencias": [
+    "https://www.grandlodgescotland.com/our-history-2/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias"
+   ],
+   "periodos": [
+    "p1814_1870",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "gob-2026-historia",
+   "autores": [
+    "Grande Oriente do Brasil"
+   ],
+   "titulo": "História do GOB",
+   "ano": 2026,
+   "idioma": "pt",
+   "potencias": [
+    "gob"
+   ],
+   "paises": [
+    "br"
+   ],
+   "url": "https://www.gob.org.br/historia-do-gob/",
+   "evidencias": [
+    "https://www.gob.org.br/historia-do-gob/",
+    "http://web.archive.org/web/20260925140927/https://www.gob.org.br/historia-do-gob/"
+   ],
+   "resumo": "Página oficial de história do Grande Oriente do Brasil (fundado em 17/6/1822). Registrada para cópia futura.",
+   "observacoes": "Em 2026-11-03 o domínio gob.org.br respondia a clientes automatizados com página de spam de apostas (indício de site comprometido/cloaking); não copiado. Snapshot no Wayback Machine (2026-09-25). Ver PENDENCIAS C03.",
+   "lote": "c03-potencias",
+   "status_verificacao": "conferido_web"
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "gob-2026-potencias-reconhecidas",
+   "autores": [
+    "Grande Oriente do Brasil"
+   ],
+   "titulo": "Potências estrangeiras reconhecidas",
+   "ano": 2026,
+   "idioma": "pt",
+   "potencias": [
+    "gob"
+   ],
+   "paises": [
+    "br",
+    "mundo"
+   ],
+   "url": "https://www.gob.org.br/potencias-estrangeiras-reconhecidas/",
+   "evidencias": [
+    "https://www.gob.org.br/potencias-estrangeiras-reconhecidas/",
+    "http://web.archive.org/web/20260419150501/https://www.gob.org.br/potencias-estrangeiras-reconhecidas/"
+   ],
+   "resumo": "Lista oficial das potências estrangeiras com que o GOB mantém reconhecimento; fonte central para o verbete sobre regularidade no Brasil.",
+   "observacoes": "Não copiado: site respondendo com spam (ver PENDENCIAS C03). Snapshot Wayback 2026-04-19.",
+   "lote": "c03-potencias",
+   "status_verificacao": "conferido_web"
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "ritos"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "gob-2026-ritos-praticados",
+   "autores": [
+    "Grande Oriente do Brasil"
+   ],
+   "titulo": "Ritos praticados",
+   "ano": 2026,
+   "idioma": "pt",
+   "potencias": [
+    "gob"
+   ],
+   "ritos": [
+    "reaa",
+    "brasileiro",
+    "adonhiramita",
+    "frances_moderno",
+    "york",
+    "emulacao",
+    "schroder",
+    "rer"
+   ],
+   "paises": [
+    "br"
+   ],
+   "url": "https://www.gob.org.br/ritos-praticados/",
+   "evidencias": [
+    "https://www.gob.org.br/ritos-praticados/",
+    "http://web.archive.org/web/20260922140607/https://www.gob.org.br/ritos-praticados/"
+   ],
+   "resumo": "Página oficial com os ritos praticados nas lojas do GOB.",
+   "observacoes": "Lista de ritos etiquetada pelo conhecimento geral dos ritos do GOB; conferir na página quando acessível. Não copiado (ver PENDENCIAS C03).",
+   "lote": "c03-potencias",
+   "status_verificacao": "conferido_web"
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "principios"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "godf-2026-qui-sommes-nous",
+   "autores": [
+    "Grand Orient de France"
+   ],
+   "titulo": "Qui sommes-nous",
+   "ano": 2026,
+   "idioma": "fr",
+   "potencias": [
+    "godf"
+   ],
+   "ritos": [
+    "frances_moderno"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "resumo": "Apresentação institucional do GOdF (1773), obediência liberal e adogmática; descreve o museu da franco-maçonaria (criado em 1889, espoliado na Ocupação, reaberto em 1973, 'Musée de France' desde 2003), a biblioteca (1838, cerca de 35 mil volumes) e a fundação reconhecida de utilidade pública (1987).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/godf-2026-qui-sommes-nous.html",
+    "txt/godf-2026-qui-sommes-nous.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://godf.org/qui-sommes-nous/",
+   "evidencias": [
+    "https://godf.org/qui-sommes-nous/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias"
+   ],
+   "periodos": [
+    "p1919_1945",
+    "p1946_1989"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "gosp-2026-historia",
+   "autores": [
+    "Grande Oriente de São Paulo"
+   ],
+   "titulo": "História do Grande Oriente de São Paulo",
+   "ano": 2026,
+   "idioma": "pt",
+   "potencias": [
+    "go_sp",
+    "gob",
+    "comab"
+   ],
+   "paises": [
+    "br"
+   ],
+   "resumo": "Histórico oficial do Grande Oriente de São Paulo, cuja origem é situada em 1921, em disputa eleitoral no GOB após a morte do grão-mestre adjunto Luís Soares Horta Barbosa; útil para a trajetória dos Grandes Orientes estaduais e a cisão de 1973.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/gosp-2026-historia.html",
+    "txt/gosp-2026-historia.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://gosp.org.br/historia/",
+   "evidencias": [
+    "https://gosp.org.br/historia/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "graus"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "scfb-2026-portal",
+   "autores": [
+    "Supremo Conselho Filosófico do Brasil"
+   ],
+   "titulo": "Supremo Conselho Filosófico do Brasil: página inicial",
+   "ano": 2026,
+   "idioma": "pt",
+   "potencias": [
+    "outras_br"
+   ],
+   "ritos": [
+    "reaa"
+   ],
+   "paises": [
+    "br"
+   ],
+   "resumo": "Portal de um supremo conselho filosófico brasileiro (graus 4 a 33) que se apresenta como administrador da 'maçonaria filosófica', distinta da simbólica (graus 1–3), com relação de lojas e tratados. Não confundir com o Supremo Conselho do Grau 33 do REAA para o Brasil (1832).",
+   "observacoes": "Potência sem código na taxonomia; usado 'outras_br' (proposta). Dados de fundação a conferir.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/scfb-2026-portal.html",
+    "txt/scfb-2026-portal.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.supremoconselho.org.br/",
+   "evidencias": [
+    "https://www.supremoconselho.org.br/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "documentos_fundadores"
+   ],
+   "periodos": [
+    "p1717_1750",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "ugle-2026-about",
+   "autores": [
+    "United Grand Lodge of England"
+   ],
+   "titulo": "About UGLE",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "ugle"
+   ],
+   "ritos": [
+    "emulacao"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "resumo": "Página institucional da UGLE: declara cerca de 170 mil membros na Inglaterra, País de Gales e distritos ultramarinos; situa a fundação da Premier Grand Lodge em 1717 na taverna Goose and Gridiron e menciona as Constituições de 1723 e os diretórios oficiais publicados.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/ugle-2026-about.html",
+    "txt/ugle-2026-about.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.ugle.org.uk/about-us/about-ugle",
+   "evidencias": [
+    "https://www.ugle.org.uk/about-us/about-ugle"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "mulheres"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "ugle-2026-council-freemasonry",
+   "autores": [
+    "United Grand Lodge of England"
+   ],
+   "titulo": "Council for Freemasonry in Great Britain",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "ugle",
+    "gl_escocia",
+    "feminina_gb"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "resumo": "Página sobre o Council for Freemasonry, fórum de cooperação que reúne a UGLE e as grandes lojas femininas britânicas (Order of Women Freemasons e HFAF), ao qual a Grande Loja da Escócia aderiu em setembro de 2025; registra a posição institucional sobre a existência de maçonaria feminina regular de fato, sem reconhecimento formal.",
+   "observacoes": "'feminina_gb' é código proposto (não está na taxonomia).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/ugle-2026-council-freemasonry.html",
+    "txt/ugle-2026-council-freemasonry.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.ugle.org.uk/about-us/council-freemasonry-great-britain",
+   "evidencias": [
+    "https://www.ugle.org.uk/about-us/council-freemasonry-great-britain"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "ugle-2026-districts",
+   "autores": [
+    "United Grand Lodge of England"
+   ],
+   "titulo": "Districts and Groups",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "ugle"
+   ],
+   "paises": [
+    "gb",
+    "mundo"
+   ],
+   "resumo": "Lista oficial dos distritos e grupos de lojas da UGLE no exterior, nos cinco continentes, com cerca de 20 mil membros em lojas ultramarinas (dado de 2026); base para mapear a presença inglesa fora do Reino Unido.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/ugle-2026-districts.html",
+    "txt/ugle-2026-districts.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.ugle.org.uk/about-us/districts-and-groups",
+   "evidencias": [
+    "https://www.ugle.org.uk/about-us/districts-and-groups"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "personalidades"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "ugle-2026-governance",
+   "autores": [
+    "United Grand Lodge of England"
+   ],
+   "titulo": "UGLE Governance",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "ugle"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "resumo": "Página sobre a estrutura de governo da UGLE (Grão-Mestre, Pro Grão-Mestre, conselhos e comitês), com biografia do Duque de Kent, iniciado em 1963 e Grão-Mestre desde 1967.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/ugle-2026-governance.html",
+    "txt/ugle-2026-governance.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.ugle.org.uk/about-us/ugle-governance",
+   "evidencias": [
+    "https://www.ugle.org.uk/about-us/ugle-governance"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "origens",
+    "historiografia"
+   ],
+   "periodos": [
+    "medieval",
+    "p1600_1716",
+    "p1717_1750",
+    "p1751_1813",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "ugle-2026-history",
+   "autores": [
+    "United Grand Lodge of England"
+   ],
+   "titulo": "History of Freemasonry",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "ugle",
+    "antients",
+    "moderns"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "resumo": "Linha do tempo oficial da UGLE, da influência dos pedreiros medievais (iniciação de Elias Ashmole em 1646) à fundação da Grande Loja em 24/6/1717, à rivalidade Antients × Moderns, à união de 1813 e ao tricentenário de 2017. Versão institucional; para a historiografia crítica, cruzar com fontes acadêmicas.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/ugle-2026-history.html",
+    "txt/ugle-2026-history.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.ugle.org.uk/discover-freemasonry/history-freemasonry",
+   "evidencias": [
+    "https://www.ugle.org.uk/discover-freemasonry/history-freemasonry"
+   ]
+  }
+ ]
+}
