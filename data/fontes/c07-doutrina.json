@@ -2137,6 +2137,527 @@
         "txt/wright-1922-roman-catholicism-freemasonry.txt",
         "pdf/wright-1922-roman-catholicism-freemasonry.pdf"
       ]
+    },
+    {
+      "id": "taute-1895-katholische-geistlichkeit",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Reinhold Taute"
+      ],
+      "titulo": "Die katholische Geistlichkeit und die Freimaurerei: ein kulturgeschichtlicher Rückblick",
+      "ano": 1895,
+      "idioma": "de",
+      "url": "https://archive.org/details/11615147bsb",
+      "temas": [
+        "religiao",
+        "personalidades"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Reinhold Taute, bibliógrafo maçônico alemão, reúne casos de clérigos católicos (padres, bispos, abades) que foram maçons nos séculos XVIII–XIX apesar das condenações papais; argumento histórico usado contra a tese da incompatibilidade.",
+      "evidencias": [
+        "https://archive.org/details/11615147bsb"
+      ],
+      "identificadores": {
+        "ia": "11615147bsb"
+      },
+      "paises": [
+        "de",
+        "at",
+        "fr",
+        "mundo"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/taute-1895-katholische-geistlichkeit.txt",
+        "pdf/taute-1895-katholische-geistlichkeit.pdf"
+      ]
+    },
+    {
+      "id": "schauberg-1861-symbolik-v2",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Joseph Schauberg"
+      ],
+      "titulo": "Vergleichendes Handbuch der Symbolik der Freimaurerei, mit besonderer Rücksicht auf die Mythologieen und Mysterien des Alterthums, Bd. 2",
+      "ano": 1861,
+      "idioma": "de",
+      "url": "https://archive.org/details/10445807bsb",
+      "temas": [
+        "simbolismo",
+        "esoterismo"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Manual comparativo do jurista suíço Joseph Schauberg que aproxima os símbolos maçônicos (números, luz, templo, ferramentas) de mitologias e mistérios antigos; obra-chave da simbologia comparada germânica oitocentista.",
+      "evidencias": [
+        "https://archive.org/details/10445807bsb"
+      ],
+      "identificadores": {
+        "ia": "10445807bsb"
+      },
+      "paises": [
+        "ch",
+        "de"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "observacoes": "Volume 2 (de 3) da edição de 1861 (Schaffhausen: Hurter).",
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/schauberg-1861-symbolik-v2.txt"
+      ]
+    },
+    {
+      "id": "wolfstieg-1922-philosophie-freimaurerei",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "August Wolfstieg"
+      ],
+      "titulo": "Werden und Wesen der Freimaurerei. Abt. 2: Die Philosophie der Freimaurerei (Bd. 1: Freimaurerische Arbeit und Symbolik)",
+      "ano": 1922,
+      "idioma": "de",
+      "url": "https://archive.org/details/bub_gb_BWsCgPVuAAIC",
+      "temas": [
+        "principios",
+        "simbolismo"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (autor †1922)",
+      "resumo": "Síntese do bibliotecário August Wolfstieg (autor da Bibliographie der freimaurerischen Literatur) sobre o trabalho em loja, o simbolismo e os ideais éticos e religiosos da maçonaria alemã; representa a leitura humanista-ética predominante nas grandes lojas alemãs.",
+      "evidencias": [
+        "https://archive.org/details/bub_gb_BWsCgPVuAAIC"
+      ],
+      "identificadores": {
+        "ia": "bub_gb_BWsCgPVuAAIC"
+      },
+      "paises": [
+        "de"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "conferido_web",
+      "observacoes": "Cópia falhou em 2026-11-03: curl https://archive.org/download/bub_gb_BWsCgPVuAAIC/bub_gb_BWsCgPVuAAIC_djvu.txt: curl: (22) The requested URL returne"
+    },
+    {
+      "id": "civilta-1890-massoneria-odia-chiesa",
+      "tipo": "artigo",
+      "categoria": "antimaconica",
+      "autores": [
+        "La Civiltà Cattolica"
+      ],
+      "titulo": "Perché la massoneria odia la Chiesa",
+      "ano": 1890,
+      "idioma": "it",
+      "url": "https://archive.org/details/perche-la-massoneria-odia-la-chiesa-in-la-civilta-cattolica-a.-41-1890-s.-14-vol.-07",
+      "temas": [
+        "antimaconaria",
+        "religiao"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Artigo da revista dos jesuítas romanos (anno 41, serie 14, vol. 7) que explica a \"guerra\" maçônica à Igreja pelo naturalismo e pelo projeto de Estado laico; amostra da principal tribuna do antimaçonismo católico italiano.",
+      "evidencias": [
+        "https://archive.org/details/perche-la-massoneria-odia-la-chiesa-in-la-civilta-cattolica-a.-41-1890-s.-14-vol.-07"
+      ],
+      "identificadores": {
+        "ia": "perche-la-massoneria-odia-la-chiesa-in-la-civilta-cattolica-a.-41-1890-s.-14-vol.-07"
+      },
+      "periodico": "La Civiltà Cattolica",
+      "paises": [
+        "it",
+        "va"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/civilta-1890-massoneria-odia-chiesa.txt",
+        "pdf/civilta-1890-massoneria-odia-chiesa.pdf"
+      ]
+    },
+    {
+      "id": "civilta-1894-dio-della-massoneria",
+      "tipo": "artigo",
+      "categoria": "antimaconica",
+      "autores": [
+        "La Civiltà Cattolica"
+      ],
+      "titulo": "Il Dio della massoneria",
+      "ano": 1894,
+      "idioma": "it",
+      "url": "https://archive.org/details/il-dio-della-massoneria-in-la-civilta-cattolica-anno-40-1894-serie-15-volume-12-pp.-21-39",
+      "temas": [
+        "antimaconaria",
+        "religiao",
+        "principios"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Artigo da Civiltà Cattolica (serie 15, vol. 12, pp. 21–39) que critica a noção maçônica de Grande Arquiteto e a supressão da obrigação de crer em Deus pelo GOdF (1877), interpretando-as como deísmo ou ateísmo disfarçado.",
+      "evidencias": [
+        "https://archive.org/details/il-dio-della-massoneria-in-la-civilta-cattolica-anno-40-1894-serie-15-volume-12-pp.-21-39"
+      ],
+      "identificadores": {
+        "ia": "il-dio-della-massoneria-in-la-civilta-cattolica-anno-40-1894-serie-15-volume-12-pp.-21-39"
+      },
+      "periodico": "La Civiltà Cattolica",
+      "paises": [
+        "it",
+        "fr"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/civilta-1894-dio-della-massoneria.txt",
+        "pdf/civilta-1894-dio-della-massoneria.pdf"
+      ]
+    },
+    {
+      "id": "cornoldi-1884-massoneria-ecco-il-nemico",
+      "tipo": "artigo",
+      "categoria": "antimaconica",
+      "autores": [
+        "Giovanni Maria Cornoldi"
+      ],
+      "titulo": "La massoneria, ecco il nemico: cioè l'enciclica Humanum genus",
+      "ano": 1884,
+      "idioma": "it",
+      "url": "https://archive.org/details/la-massoneria-ecco-il-nemico",
+      "temas": [
+        "antimaconaria",
+        "religiao"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Comentário do jesuíta G. M. Cornoldi na Civiltà Cattolica à encíclica Humanum genus, logo após sua publicação; mostra a recepção imediata e a amplificação do documento papal.",
+      "evidencias": [
+        "https://archive.org/details/la-massoneria-ecco-il-nemico"
+      ],
+      "identificadores": {
+        "ia": "la-massoneria-ecco-il-nemico"
+      },
+      "periodico": "La Civiltà Cattolica",
+      "paises": [
+        "it",
+        "va"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/cornoldi-1884-massoneria-ecco-il-nemico.txt",
+        "pdf/cornoldi-1884-massoneria-ecco-il-nemico.pdf"
+      ]
+    },
+    {
+      "id": "civilta-1901-congiura-anticristiana",
+      "tipo": "artigo",
+      "categoria": "antimaconica",
+      "autores": [
+        "La Civiltà Cattolica"
+      ],
+      "titulo": "La congiura anticristiana della massoneria confermata dal gran maestro Nathan",
+      "ano": 1901,
+      "idioma": "it",
+      "url": "https://archive.org/details/La-congiura-anticristiana-della-massoneria",
+      "temas": [
+        "antimaconaria",
+        "religiao",
+        "politica"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "A revista jesuíta analisa o discurso do grão-mestre do GOI Ernesto Nathan na inauguração da sede maçônica em Roma (21/4/1901) como prova de um projeto anticristão; documenta o confronto GOI × Igreja na Roma pós-1870.",
+      "evidencias": [
+        "https://archive.org/details/La-congiura-anticristiana-della-massoneria"
+      ],
+      "identificadores": {
+        "ia": "La-congiura-anticristiana-della-massoneria"
+      },
+      "periodico": "La Civiltà Cattolica",
+      "potencias": [
+        "goi"
+      ],
+      "paises": [
+        "it"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/civilta-1901-congiura-anticristiana.txt",
+        "pdf/civilta-1901-congiura-anticristiana.pdf"
+      ]
+    },
+    {
+      "id": "buhle-1804-ursprung-rosenkreuzer",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Johann Gottlieb Buhle"
+      ],
+      "titulo": "Ueber den Ursprung und die vornehmsten Schicksale der Orden der Rosenkreuzer und Freymaurer",
+      "ano": 1804,
+      "idioma": "de",
+      "url": "https://archive.org/details/10434766bsb",
+      "temas": [
+        "esoterismo",
+        "origens"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "O filósofo J. G. Buhle sustenta que a maçonaria inglesa nasceu do rosacrucianismo alemão via Robert Fludd; tese influente (contestada por Nicolai e Murr) no debate sobre as origens esotéricas da maçonaria.",
+      "evidencias": [
+        "https://archive.org/details/10434766bsb"
+      ],
+      "identificadores": {
+        "ia": "10434766bsb"
+      },
+      "paises": [
+        "de",
+        "gb"
+      ],
+      "periodos": [
+        "p1600_1716",
+        "p1751_1813"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/buhle-1804-ursprung-rosenkreuzer.txt",
+        "pdf/buhle-1804-ursprung-rosenkreuzer.pdf"
+      ]
+    },
+    {
+      "id": "murr-1803-ursprung-rosenkreuzer",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Christoph Gottlieb von Murr"
+      ],
+      "titulo": "Über den wahren Ursprung der Rosenkreuzer und des Freymaurerordens",
+      "ano": 1803,
+      "idioma": "de",
+      "url": "https://archive.org/details/christophgottlie01murr",
+      "temas": [
+        "esoterismo",
+        "origens",
+        "historiografia"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Resposta de C. G. von Murr à tese de Buhle: nega a filiação direta rosacruz da maçonaria e propõe outra genealogia; com Buhle, documenta a controvérsia alemã sobre origens rosacruzes por volta de 1800.",
+      "evidencias": [
+        "https://archive.org/details/christophgottlie01murr"
+      ],
+      "identificadores": {
+        "ia": "christophgottlie01murr"
+      },
+      "paises": [
+        "de"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/murr-1803-ursprung-rosenkreuzer.txt",
+        "pdf/murr-1803-ursprung-rosenkreuzer.pdf"
+      ]
+    },
+    {
+      "id": "semler-1788-rosenkreuzer-v4",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Johann Salomo Semler"
+      ],
+      "titulo": "Unparteiische Samlungen zur Historie der Rosenkreuzer, 4. Stück",
+      "ano": 1788,
+      "idioma": "de",
+      "url": "https://archive.org/details/10445873bsb",
+      "temas": [
+        "esoterismo"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "O teólogo iluminista J. S. Semler reúne documentos sobre os rosacruzes antigos e a Ordem do Rosa-Cruz de Ouro do seu tempo, com crítica racionalista; inclui duas cartas de Leibniz sobre os rosacruzes.",
+      "evidencias": [
+        "https://archive.org/details/10445873bsb"
+      ],
+      "identificadores": {
+        "ia": "10445873bsb"
+      },
+      "paises": [
+        "de"
+      ],
+      "periodos": [
+        "p1600_1716",
+        "p1751_1813"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/semler-1788-rosenkreuzer-v4.txt",
+        "pdf/semler-1788-rosenkreuzer-v4.pdf"
+      ]
+    },
+    {
+      "id": "anonimo-1785-geheime-figuren-rosenkreuzer",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Anônimo"
+      ],
+      "titulo": "Geheime Figuren der Rosenkreuzer aus dem 16ten und 17ten Jahrhundert",
+      "ano": 1785,
+      "idioma": "de",
+      "url": "https://archive.org/details/Geheime-Figuren-der-Rosenkreuzer_3-Hefte_Altona-1785-1788",
+      "temas": [
+        "esoterismo",
+        "simbolismo",
+        "arte_cultura"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Coletânea de figuras alquímico-teosóficas publicada em Altona (1785–1788) no ambiente da Ordem do Rosa-Cruz de Ouro; fonte iconográfica do esoterismo rosacruz setecentista que influenciou altos graus maçônicos.",
+      "evidencias": [
+        "https://archive.org/details/Geheime-Figuren-der-Rosenkreuzer_3-Hefte_Altona-1785-1788"
+      ],
+      "identificadores": {
+        "ia": "Geheime-Figuren-der-Rosenkreuzer_3-Hefte_Altona-1785-1788"
+      },
+      "paises": [
+        "de"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/anonimo-1785-geheime-figuren-rosenkreuzer.txt",
+        "pdf/anonimo-1785-geheime-figuren-rosenkreuzer.pdf"
+      ]
+    },
+    {
+      "id": "cauchois-1863-cours-oral-symbolique",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "H. Cauchois"
+      ],
+      "titulo": "Cours oral de franc-maçonnerie symbolique en douze séances",
+      "ano": 1863,
+      "idioma": "fr",
+      "url": "https://archive.org/details/coursoraldefran00caucgoog",
+      "temas": [
+        "simbolismo",
+        "graus"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Curso em doze sessões, de autor maçom francês, que explica os símbolos dos três graus e a moral maçônica em linguagem pedagógica; exemplo da instrução simbólica no GOdF do Segundo Império.",
+      "evidencias": [
+        "https://archive.org/details/coursoraldefran00caucgoog"
+      ],
+      "identificadores": {
+        "ia": "coursoraldefran00caucgoog"
+      },
+      "potencias": [
+        "godf"
+      ],
+      "ritos": [
+        "frances_moderno"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/cauchois-1863-cours-oral-symbolique.txt",
+        "pdf/cauchois-1863-cours-oral-symbolique.pdf"
+      ]
+    },
+    {
+      "id": "antunes-1918-maconaria-iniciatica",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "João Antunes"
+      ],
+      "titulo": "Maçonaria iniciática",
+      "ano": 1918,
+      "idioma": "pt",
+      "url": "https://archive.org/details/joao-antunes-maconaria-iniciatica",
+      "temas": [
+        "esoterismo",
+        "simbolismo"
+      ],
+      "confiabilidade": "C",
+      "acesso": "aberto",
+      "licenca": "verificar (autor português; data de morte não conferida)",
+      "resumo": "Obra do maçom português João Antunes sobre a dimensão iniciática e esotérica da maçonaria, em contraste com sua face política no Portugal republicano; útil para a vertente espiritualista no mundo lusófono.",
+      "evidencias": [
+        "https://archive.org/details/joao-antunes-maconaria-iniciatica"
+      ],
+      "identificadores": {
+        "ia": "joao-antunes-maconaria-iniciatica"
+      },
+      "potencias": [
+        "gol"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "observacoes": "Upload de usuário no Internet Archive; conferir edição e situação de direitos.",
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/antunes-1918-maconaria-iniciatica.txt"
+      ]
     }
   ]
 }
