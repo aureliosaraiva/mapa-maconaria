@@ -57,6 +57,32 @@ Verbetes de enciclopédias abertas (Wikipédia em pt, en, fr, es, it, de, nl, sv
 ### I01 — Infraestrutura
 Baseado no `mapadosorixas` (clone de leitura: `https://github.com/aureliosaraiva/mapadosorixas`, pasta `site/` e `scripts/`): (1) site estático Astro com páginas: início com busca (Pagefind), catálogo de fontes filtrável (lê `data/fontes/*.json`), listagem e página de verbete (lê `data/verbetes/**/*.md`), linha do tempo (lê `data/linha_do_tempo.json`), grafo Cytoscape.js (lê `relacionados` dos verbetes e `data/conexoes.json`), metodologia; funcionar com 0 verbetes (dados de exemplo só em `tests/`); (2) `schemas/verbete.schema.json` + `scripts/validar_verbetes.py` (front matter, `fontes` existentes no catálogo, `relacionados` existentes, sem palavras de passe — lista de alerta configurável) e esquema/validador de `data/linha_do_tempo.json`; (3) `scripts/anticopia.py` portado (n-gramas contra `../fontes-maconaria/txt/<source_id>.txt` das fontes citadas); (4) `scripts/qa_site.py` (nenhum texto/arquivo do acervo no build); (5) workflow `.github/workflows/validar.yml` (validadores + build) — **sem** deploy por enquanto (deploy de Pages depende da decisão do autor sobre a `main`; registrar em PENDENCIAS); (6) `site/README.md`. Não editar `data/` nem docs de outras sessões.
 
+## Ondas 2 e 3 (definidas em 2026-11-03 pela orquestradora)
+
+Ordem de disparo (no máximo 3 sessões simultâneas, por limite de uso): **V05, V01, V02 → A01, V03, V04 → V06, A02, V07 → A03, V08**. Onda 3 (verbetes) e onda 2 (aprofundamento) intercaladas, para o conteúdo da enciclopédia aparecer cedo.
+
+| ID | Onda | Escopo | Arquivos de que é dona | Status | Relatório |
+|---|---|---|---|---|---|
+| A01 | 2 | Aprofundamento Brasil/lusófono: rituais brasileiros do séc. XIX (Moderno, Adonhiramita, REAA, Rito Brasileiro 1878/1914/1968), Estado Novo, cisões 1927/1973, maçonaria mista/feminina no Brasil, PALOP/Goa, lei portuguesa 1935; nova tentativa em BN Digital, SciELO, BDTD, RCAAP | `data/fontes/a01-lusofono2.json` | pendente | — |
+| A02 | 2 | Lacunas mundo: nazismo, URSS, franquismo, Prince Hall (Delany 1853, Upton 1899), França 1870–1940 (Lausanne 1875, GOdF 1877, caso das fichas 1904), RER/Estrita Observância/Clermont, edições de Old Charges (QCA, Knoop-Jones-Hamer), listas alternativas de landmarks, islã/ortodoxia | `data/fontes/a02-mundo2.json` | pendente | — |
+| A03 | 2 | Periódicos e literatura acadêmica: OpenAlex/Crossref (nova tentativa), JRFF, *Heredom*, AQC aberto, Pietre-Stones, REHMLAC+ completa, *Renaissance Traditionnelle*, *Chroniques d'histoire maçonnique*, teses (theses.fr, ProQuest abertos, EThOS) | `data/fontes/a03-periodicos.json` | pendente | — |
+| V01 | 3 | Verbetes de **ritos, graus e ordens anexas** | `data/verbetes/ritos/`, `data/verbetes/graus/`, `data/verbetes/ordens-anexas/`, `data/linha_do_tempo/V01.json` | pendente | — |
+| V02 | 3 | Verbetes de **potências** (Brasil e mundo) + `conceitos/regularidade-e-reconhecimento` (com fichamento da série COGMNA) | `data/verbetes/potencias/`, `data/verbetes/conceitos/regularidade-e-reconhecimento.md`, `data/linha_do_tempo/V02.json` | pendente | — |
+| V03 | 3 | Verbetes de **documentos** (Old Charges, constituições, exposições, bulas e documentos eclesiásticos, landmarks, Basic Principles) | `data/verbetes/documentos/`, `data/linha_do_tempo/V03.json` | pendente | — |
+| V04 | 3 | Verbetes de **eventos mundiais e antimaçonaria** | `data/verbetes/eventos/`, `data/verbetes/antimaconaria/`, `data/linha_do_tempo/V04.json` | pendente | — |
+| V05 | 3 | Verbetes do **Brasil e mundo lusófono** (eventos, potências não, só história) | `data/verbetes/brasil/`, `data/linha_do_tempo/V05.json` | pendente | — |
+| V06 | 3 | Verbetes de **princípios, símbolos e conceitos** (exceto regularidade) | `data/verbetes/principios/`, `data/verbetes/simbolos/`, `data/verbetes/conceitos/` (exceto o da V02), `data/linha_do_tempo/V06.json` | pendente | — |
+| V07 | 3 | Verbetes de **personalidades e lugares** (filiação com fonte documental; lendas marcadas) | `data/verbetes/personalidades/`, `data/verbetes/lugares/`, `data/linha_do_tempo/V07.json` | pendente | — |
+| V08 | 3 | **Integração**: glossário, revisão cruzada de `relacionados` (links quebrados), conexões extras (`data/conexoes.json`), consolidação da linha do tempo, auditoria de sigilo (regra 5) e anti-cópia global | `data/glossario.json`, `data/conexoes.json`, `docs/sessoes/V08.md` (+ correções pontuais avisadas no relatório) | pendente | — |
+
+### Instruções comuns às sessões de verbetes (V01–V07)
+1. Siga `CLAUDE.md` e `docs/verbetes-guia.md`. Leia as sugestões de verbetes dos relatórios `docs/sessoes/C0*.md` e a taxonomia; monte primeiro a **lista de verbetes** da sua família (em `docs/sessoes/<ID>.md`, seção "Plano") e escreva por prioridade.
+2. **Leia o texto no acervo** (`../fontes-maconaria/txt/<source_id>.txt`) antes de afirmar; cite página/seção. Paráfrase sempre; nada de palavras de passe, sinais, toques e juramentos (regra 5); lendas marcadas como lendas; divergências lado a lado.
+3. Fonte que faltar e for aberta: pode catalogar num lote próprio `data/fontes/<id-da-sessão-minúsculo>.json` (ex.: `v01.json`) e copiar no acervo (`indices/<id>.json`).
+4. Linha do tempo: cada sessão grava só o seu fragmento `data/linha_do_tempo/<ID>.json` = `{"eventos": [{"data": "1717-06-24", "precisao": "dia|mes|ano|decada|seculo", "titulo": "...", "verbete": "<id>", "paises": [...], "fontes": ["source_id"], "nota": "..."}]}` (datas incertas: `precisao` e nota).
+5. Valide com `python3 scripts/validar_fontes.py` e, se já existir (sessão I01), `python3 scripts/validar_verbetes.py` e `python3 scripts/anticopia.py` — 0 erros antes de cada push. Commits a cada 3–5 verbetes.
+6. Meta: 20–40 verbetes bem fontados por sessão (qualidade > quantidade). Relatório com verbetes feitos, pendentes e fontes que faltam.
+
 ## Sessões da onda 1 (IDs claude.ai/code)
 | ID | Sessão |
 |---|---|
