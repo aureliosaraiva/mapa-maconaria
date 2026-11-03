@@ -1,0 +1,1165 @@
+{
+  "lote": "c01-fundadores",
+  "fontes": [
+    {
+      "id": "regius-1390-poem",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Anônimo"
+      ],
+      "titulo": "The Regius Manuscript: A Poem of Moral Duties (Royal MS 17 A I)",
+      "ano": null,
+      "idioma": "en",
+      "temas": [
+        "origens",
+        "documentos_fundadores"
+      ],
+      "resumo": "Poema em inglês médio (c. 1390–1425) conhecido como Manuscrito Regius ou Halliwell, o mais antigo dos Old Charges. Narra uma história lendária da arte da construção (Euclides, Atenástão) e enumera artigos e pontos de conduta para mestres e companheiros pedreiros. Cópia digital de transcrição moderna sem editor identificado.",
+      "ano_original": 1390,
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "medieval"
+      ],
+      "confiabilidade": "B",
+      "titulo_traduzido": "Manuscrito Regius: poema dos deveres morais",
+      "observacoes": "Item do IA enviado por usuário, edição/transcrição não identificada; conferir contra Halliwell (1840/1844) ou o fac-símile de Quatuor Coronatorum Antigrapha vol. 1 (1889). Original: British Library, Royal MS 17 A I.",
+      "acervo": [
+        "txt/regius-1390-poem.txt",
+        "pdf/regius-1390-poem.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/The_Regius_Manuscript_-_A_Poem_Of_Moral_Duties_1390",
+      "identificadores": {
+        "ia": "The_Regius_Manuscript_-_A_Poem_Of_Moral_Duties_1390"
+      },
+      "evidencias": [
+        "https://archive.org/details/The_Regius_Manuscript_-_A_Poem_Of_Moral_Duties_1390"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "cooke-1861-history-articles",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Matthew Cooke (ed.)"
+      ],
+      "titulo": "The History and Articles of Masonry (Manuscrito Cooke)",
+      "ano": 1861,
+      "idioma": "en",
+      "temas": [
+        "origens",
+        "documentos_fundadores"
+      ],
+      "resumo": "Edição de 1861, por Matthew Cooke, do segundo Old Charge mais antigo (Manuscrito Cooke, c. 1450, British Library Add. MS 23198), com fac-símile e transcrição modernizada. O texto combina uma história lendária das sete artes liberais e da geometria com os artigos e pontos que regiam o ofício; foi fonte usada por Anderson em 1723.",
+      "ano_original": 1450,
+      "editora": "Richard Spencer",
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "medieval"
+      ],
+      "titulo_traduzido": "História e artigos da maçonaria",
+      "status_verificacao": "conferido_web",
+      "url": "https://archive.org/details/The_History_And_Articles_Of_Masonry_-_M_Cooke",
+      "evidencias": [
+        "https://archive.org/details/The_History_And_Articles_Of_Masonry_-_M_Cooke"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "hughan-1872-old-charges",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "William James Hughan"
+      ],
+      "titulo": "The Old Charges of British Freemasons",
+      "ano": 1872,
+      "idioma": "en",
+      "temas": [
+        "origens",
+        "documentos_fundadores",
+        "historiografia"
+      ],
+      "resumo": "Coletânea pioneira em que Hughan lista e descreve os manuscritos conhecidos dos Old Charges e publica o texto de vários deles, com introdução sobre sua datação e filiação. Base da classificação posterior das famílias de manuscritos (depois refinada por Begemann e Poole).",
+      "editora": "Simpkin, Marshall & Co.",
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/hughan-1872-old-charges.txt",
+        "pdf/hughan-1872-old-charges.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/cu31924030299782",
+      "identificadores": {
+        "ia": "cu31924030299782"
+      },
+      "evidencias": [
+        "https://archive.org/details/cu31924030299782"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "lyon-1873-lodge-edinburgh",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "David Murray Lyon"
+      ],
+      "titulo": "History of the Lodge of Edinburgh (Mary's Chapel) No. 1",
+      "ano": 1873,
+      "idioma": "en",
+      "temas": [
+        "origens",
+        "documentos_fundadores",
+        "historiografia"
+      ],
+      "resumo": "História documental da Loja de Edimburgo (Mary's Chapel) baseada em suas atas desde 1599, com transcrições e fac-símiles dos Estatutos Schaw (1598 e 1599), das cartas de St Clair e de atas seiscentistas. Obra fundamental para o debate sobre a origem escocesa das lojas e a admissão de não-operativos.",
+      "editora": "William Blackwood and Sons",
+      "local": "Edimburgo e Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1600_1716",
+        "p1717_1750"
+      ],
+      "potencias": [
+        "gl_escocia"
+      ],
+      "ritos": [
+        "escoces_craft"
+      ],
+      "confiabilidade": "B",
+      "observacoes": "Fonte de acesso aos Estatutos Schaw (1598/1599).",
+      "acervo": [
+        "txt/lyon-1873-lodge-edinburgh.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/cu31924030291813",
+      "identificadores": {
+        "ia": "cu31924030291813"
+      },
+      "evidencias": [
+        "https://archive.org/details/cu31924030291813"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "anderson-1723-constitutions",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "James Anderson"
+      ],
+      "titulo": "The Constitutions of the Free-Masons",
+      "ano": 1859,
+      "idioma": "en",
+      "temas": [
+        "documentos_fundadores",
+        "principios",
+        "origens"
+      ],
+      "resumo": "Reimpressão (Filadélfia, 1859?) das Constituições de 1723 encomendadas pela Grande Loja de Londres e redigidas por James Anderson. Contêm a história lendária da arquitetura, os 'Charges of a Free-Mason' (entre eles o artigo sobre Deus e religião) e os Regulamentos Gerais de George Payne; é o texto normativo fundador da maçonaria especulativa.",
+      "ano_original": 1723,
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1717_1750"
+      ],
+      "potencias": [
+        "moderns",
+        "ugle"
+      ],
+      "titulo_traduzido": "As Constituições dos Franco-Maçons",
+      "observacoes": "Item do IA com data '5723 ... 1723' e '1859' (reimpressão); conferir edição pelo fac-símile.",
+      "acervo": [
+        "txt/anderson-1723-constitutions.txt",
+        "pdf/anderson-1723-constitutions.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/constitutionsoff00anderich",
+      "identificadores": {
+        "ia": "constitutionsoff00anderich"
+      },
+      "evidencias": [
+        "https://archive.org/details/constitutionsoff00anderich"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "anderson-1738-new-book-constitutions",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "James Anderson"
+      ],
+      "titulo": "The New Book of Constitutions of the Antient and Honourable Fraternity of Free and Accepted Masons",
+      "ano": 1738,
+      "idioma": "en",
+      "temas": [
+        "documentos_fundadores",
+        "principios",
+        "origens"
+      ],
+      "resumo": "Segunda edição, revista e ampliada, das Constituições de Anderson. Expande a história lendária, acrescenta lista de grão-mestres e de lojas e altera a redação do primeiro 'charge' sobre religião (referência a 'Noachidas'). Usada nos debates sobre a evolução doutrinária da Grande Loja de Londres.",
+      "editora": "Caesar Ward e Richard Chandler",
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1717_1750"
+      ],
+      "potencias": [
+        "moderns"
+      ],
+      "titulo_traduzido": "Novo Livro das Constituições",
+      "acervo": [
+        "txt/anderson-1738-new-book-constitutions.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/bim_eighteenth-century_the-new-book-of-constitu_anderson-james_1738",
+      "identificadores": {
+        "ia": "bim_eighteenth-century_the-new-book-of-constitu_anderson-james_1738"
+      },
+      "evidencias": [
+        "https://archive.org/details/bim_eighteenth-century_the-new-book-of-constitu_anderson-james_1738"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "dermott-1756-ahiman-rezon",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Laurence Dermott"
+      ],
+      "titulo": "Ahiman Rezon: or, a Help to a Brother",
+      "ano": 1756,
+      "idioma": "en",
+      "temas": [
+        "documentos_fundadores",
+        "regularidade",
+        "potencias"
+      ],
+      "resumo": "Livro de constituições da Grande Loja dos 'Antients' (1751), redigido por seu secretário Laurence Dermott. Critica as inovações atribuídas aos 'Moderns', reúne regulamentos, 'charges', orações e canções, e serviu de modelo para constituições de muitas grandes lojas americanas.",
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "potencias": [
+        "antients"
+      ],
+      "observacoes": "PDF do item do IA vazio (0 MB); usar txt e conferir edição.",
+      "acervo": [
+        "txt/dermott-1756-ahiman-rezon.txt",
+        "pdf/dermott-1756-ahiman-rezon.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/DermottLAhimanRezon1756",
+      "identificadores": {
+        "ia": "DermottLAhimanRezon1756"
+      },
+      "evidencias": [
+        "https://archive.org/details/DermottLAhimanRezon1756"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "gl-pensilvania-1825-ahiman-rezon",
+      "tipo": "documento",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "Grande Loja da Pensilvânia"
+      ],
+      "titulo": "The Ahiman Rezon, containing a view of the history and polity of Free Masonry",
+      "ano": 1825,
+      "idioma": "en",
+      "temas": [
+        "documentos_fundadores",
+        "potencias"
+      ],
+      "resumo": "Edição oficial do Ahiman Rezon adotada pela Grande Loja da Pensilvânia, que adapta a tradição 'Antient' de Dermott às leis e usos da jurisdição. Útil para comparar a recepção americana das constituições inglesas.",
+      "local": "Filadélfia",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "potencias": [
+        "gl_estaduais_eua"
+      ],
+      "ritos": [
+        "york"
+      ],
+      "acervo": [
+        "txt/gl-pensilvania-1825-ahiman-rezon.txt",
+        "pdf/gl-pensilvania-1825-ahiman-rezon.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/ahimanrezonconta00free",
+      "identificadores": {
+        "ia": "ahimanrezonconta00free"
+      },
+      "evidencias": [
+        "https://archive.org/details/ahimanrezonconta00free"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "sickels-1867-general-ahiman-rezon",
+      "tipo": "livro",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Daniel Sickels"
+      ],
+      "titulo": "The General Ahiman Rezon and Freemason's Guide",
+      "ano": 1867,
+      "idioma": "en",
+      "temas": [
+        "ritual",
+        "documentos_fundadores"
+      ],
+      "resumo": "Monitor maçônico norte-americano que combina instruções monitoriais dos graus simbólicos, cerimônias públicas (consagração, instalação, funerais) e um resumo de leis e usos, sob o título tradicional de Ahiman Rezon.",
+      "local": "Nova York",
+      "editora": "Masonic Publishing and Manufacturing Co.",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "ritos": [
+        "york"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/sickels-1867-general-ahiman-rezon.txt",
+        "pdf/sickels-1867-general-ahiman-rezon.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/generalahimanrez00sick",
+      "identificadores": {
+        "ia": "generalahimanrez00sick"
+      },
+      "evidencias": [
+        "https://archive.org/details/generalahimanrez00sick"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "prichard-1730-masonry-dissected",
+      "tipo": "exposicao",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Samuel Prichard"
+      ],
+      "titulo": "Masonry Dissected",
+      "ano": 1730,
+      "idioma": "en",
+      "temas": [
+        "ritual",
+        "graus"
+      ],
+      "resumo": "Exposição (exposé) publicada em Londres em 1730, primeira a apresentar um sistema de três graus com catecismo completo, inclusive o terceiro grau e a lenda de Hiram. Foi muito reeditada e acabou servindo às próprias lojas como auxílio de memória; documento central para a história do ritual.",
+      "local": "Londres",
+      "editora": "J. Wilford",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1717_1750"
+      ],
+      "ritos": [
+        "outros_ritos"
+      ],
+      "titulo_traduzido": "A maçonaria dissecada",
+      "observacoes": "Regra 5: site não reproduz palavras/sinais/juramentos.",
+      "acervo": [
+        "txt/prichard-1730-masonry-dissected.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/bim_eighteenth-century_masonry-dissected-being_prichard-samuel_1730",
+      "identificadores": {
+        "ia": "bim_eighteenth-century_masonry-dissected-being_prichard-samuel_1730"
+      },
+      "evidencias": [
+        "https://archive.org/details/bim_eighteenth-century_masonry-dissected-being_prichard-samuel_1730"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "anonimo-1738-masonry-farther-dissected",
+      "tipo": "exposicao",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Anônimo"
+      ],
+      "titulo": "Masonry Farther Dissected; or, More Secrets of that Mysterious Society Reveal'd",
+      "ano": 1738,
+      "idioma": "en",
+      "temas": [
+        "ritual",
+        "antimaconaria"
+      ],
+      "resumo": "Tradução inglesa anônima de uma exposição francesa recém-publicada em Paris, com notas do tradutor e apêndice. Mostra a circulação de textos de exposição entre Inglaterra e França na década de 1730.",
+      "local": "Londres",
+      "paises": [
+        "gb",
+        "fr"
+      ],
+      "periodos": [
+        "p1717_1750"
+      ],
+      "acervo": [
+        "txt/anonimo-1738-masonry-farther-dissected.txt",
+        "pdf/anonimo-1738-masonry-farther-dissected.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/bim_eighteenth-century_masonry-farther-dissecte_1738",
+      "identificadores": {
+        "ia": "bim_eighteenth-century_masonry-farther-dissecte_1738"
+      },
+      "evidencias": [
+        "https://archive.org/details/bim_eighteenth-century_masonry-farther-dissecte_1738"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "perau-1745-ordre-trahi",
+      "tipo": "exposicao",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Gabriel-Louis Pérau (atrib.)"
+      ],
+      "titulo": "L'Ordre des Francs-Maçons trahi, et le secret des Mopses révélé",
+      "ano": 1745,
+      "idioma": "fr",
+      "temas": [
+        "ritual",
+        "antimaconaria",
+        "mulheres"
+      ],
+      "resumo": "Exposição francesa atribuída ao abade Pérau que reúne material do 'Secret des Francs-Maçons' (1742) e descreve as cerimônias dos graus de aprendiz, companheiro e mestre, além da sociedade dos Mopses (ordem mista surgida após a bula de 1738). Gravuras de painéis de loja.",
+      "local": "Amsterdã [Paris]",
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1717_1750"
+      ],
+      "titulo_traduzido": "A Ordem dos Franco-Maçons traída e o segredo dos Mopses revelado",
+      "acervo": [
+        "txt/perau-1745-ordre-trahi.txt",
+        "pdf/perau-1745-ordre-trahi.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/PerauLOrdreDesFrancsMaconsTrahi1745",
+      "identificadores": {
+        "ia": "PerauLOrdreDesFrancsMaconsTrahi1745"
+      },
+      "evidencias": [
+        "https://archive.org/details/PerauLOrdreDesFrancsMaconsTrahi1745"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "anonimo-1751-macon-demasque",
+      "tipo": "exposicao",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Anônimo"
+      ],
+      "titulo": "Le Maçon démasqué, ou le vrai secret des Francs-Maçons",
+      "ano": 1751,
+      "idioma": "fr",
+      "temas": [
+        "ritual"
+      ],
+      "resumo": "Exposição francesa de meados do século XVIII que pretende revelar as cerimônias e catecismos das lojas francesas. Parte da série de exposições que documenta a evolução do ritual francês entre 1737 e 1751.",
+      "local": "Londres [Paris?]",
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "titulo_traduzido": "O maçom desmascarado",
+      "acervo": [
+        "txt/anonimo-1751-macon-demasque.txt",
+        "pdf/anonimo-1751-macon-demasque.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/LeMaonDDmasquqOuLeVraieSecretDesFrancsMaOns1751",
+      "identificadores": {
+        "ia": "LeMaonDDmasquqOuLeVraieSecretDesFrancsMaOns1751"
+      },
+      "evidencias": [
+        "https://archive.org/details/LeMaonDDmasquqOuLeVraieSecretDesFrancsMaOns1751"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "anonimo-1785-three-distinct-knocks",
+      "tipo": "exposicao",
+      "categoria": "primaria_historica",
+      "autores": [
+        "W— O— V—n (pseud.)"
+      ],
+      "titulo": "The Three Distinct Knocks, or the Door of the Most Antient Free-Masonry",
+      "ano": 1785,
+      "idioma": "en",
+      "temas": [
+        "ritual"
+      ],
+      "resumo": "Exposição publicada originalmente em 1760 que descreve o ritual praticado pelas lojas 'Antients'. Reeditada muitas vezes (esta é de 1785), é testemunho do trabalho dos três graus na Inglaterra e na Irlanda em meados do século XVIII.",
+      "ano_original": 1760,
+      "paises": [
+        "gb",
+        "ie"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "potencias": [
+        "antients"
+      ],
+      "titulo_traduzido": "As três batidas distintas",
+      "acervo": [
+        "txt/anonimo-1785-three-distinct-knocks.txt",
+        "pdf/anonimo-1785-three-distinct-knocks.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/the-three-distinct-knocks-or-the-door-of-the-most-antient-free-masonry-1785",
+      "identificadores": {
+        "ia": "the-three-distinct-knocks-or-the-door-of-the-most-antient-free-masonry-1785"
+      },
+      "evidencias": [
+        "https://archive.org/details/the-three-distinct-knocks-or-the-door-of-the-most-antient-free-masonry-1785"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "anonimo-1762-jachin-boaz",
+      "tipo": "exposicao",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Anônimo ('um cavalheiro da Loja de Jerusalém')"
+      ],
+      "titulo": "Jachin and Boaz; or, An Authentic Key to the Door of Free-Masonry",
+      "ano": 1762,
+      "idioma": "en",
+      "temas": [
+        "ritual"
+      ],
+      "resumo": "Exposição de 1762 que descreve o ritual das lojas 'Moderns' em forma de catecismo, com lista de lojas. Teve dezenas de edições na Inglaterra e nos EUA e é, com Three Distinct Knocks, a principal janela para o ritual inglês pós-1750.",
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "potencias": [
+        "moderns"
+      ],
+      "titulo_traduzido": "Jaquim e Boaz",
+      "acervo": [
+        "txt/anonimo-1762-jachin-boaz.txt",
+        "pdf/anonimo-1762-jachin-boaz.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/cihm_47273",
+      "identificadores": {
+        "ia": "cihm_47273"
+      },
+      "evidencias": [
+        "https://archive.org/details/cihm_47273"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "anonimo-1766-hiram",
+      "tipo": "exposicao",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Anônimo ('membro do Arco Real')"
+      ],
+      "titulo": "Hiram: or, the Grand Master-Key to the Door of both Antient and Modern Free-Masonry",
+      "ano": 1766,
+      "idioma": "en",
+      "temas": [
+        "ritual",
+        "ordens_anexas"
+      ],
+      "resumo": "Exposição de 1764/1766 que pretende abarcar o ritual de 'Antients' e 'Moderns', por um autor que se diz membro do Arco Real. Útil para comparar variantes de ritual do período.",
+      "ano_original": 1764,
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "potencias": [
+        "antients",
+        "moderns"
+      ],
+      "acervo": [
+        "txt/anonimo-1766-hiram.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/bim_eighteenth-century_hiram-or-the-grand-mas_member-of-royal-arch_1766",
+      "identificadores": {
+        "ia": "bim_eighteenth-century_hiram-or-the-grand-mas_member-of-royal-arch_1766"
+      },
+      "evidencias": [
+        "https://archive.org/details/bim_eighteenth-century_hiram-or-the-grand-mas_member-of-royal-arch_1766"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "preston-1772-illustrations",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "William Preston"
+      ],
+      "titulo": "Illustrations of Masonry",
+      "ano": 1772,
+      "idioma": "en",
+      "temas": [
+        "ritual",
+        "simbolismo",
+        "principios"
+      ],
+      "resumo": "Primeira edição da obra de William Preston, que apresenta o sistema de palestras (lectures) que ele elaborou e defende a maçonaria como sistema de instrução moral e científica. Influenciou diretamente os monitores americanos de Webb e o ritual inglês.",
+      "local": "Londres",
+      "editora": "J. Wilkie",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "ritos": [
+        "emulacao",
+        "york"
+      ],
+      "potencias": [
+        "moderns"
+      ],
+      "acervo": [
+        "txt/preston-1772-illustrations.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/bim_eighteenth-century_illustrations-of-masonry_preston-william_1772",
+      "identificadores": {
+        "ia": "bim_eighteenth-century_illustrations-of-masonry_preston-william_1772"
+      },
+      "evidencias": [
+        "https://archive.org/details/bim_eighteenth-century_illustrations-of-masonry_preston-william_1772"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "preston-1867-illustrations",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "William Preston",
+        "George Oliver (ed.)"
+      ],
+      "titulo": "Illustrations of Masonry (edição de George Oliver)",
+      "ano": 1867,
+      "idioma": "en",
+      "temas": [
+        "ritual",
+        "historiografia",
+        "origens"
+      ],
+      "resumo": "Edição oitocentista das Illustrations de Preston, anotada e continuada por George Oliver, com a história da maçonaria inglesa até meados do século XIX. Mostra como a obra foi reapropriada pela historiografia maçônica vitoriana.",
+      "ano_original": 1772,
+      "local": "Nova York",
+      "editora": "Masonic Publishing",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/preston-1867-illustrations.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/illustrationsofm00presrich",
+      "identificadores": {
+        "ia": "illustrationsofm00presrich"
+      },
+      "evidencias": [
+        "https://archive.org/details/illustrationsofm00presrich"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "hutchinson-1775-spirit-masonry",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "William Hutchinson"
+      ],
+      "titulo": "The Spirit of Masonry in Moral and Elucidatory Lectures",
+      "ano": 1775,
+      "idioma": "en",
+      "temas": [
+        "simbolismo",
+        "principios",
+        "religiao"
+      ],
+      "resumo": "Coletânea de palestras de William Hutchinson, aprovada pela Grande Loja dos Moderns, que interpreta a maçonaria em chave cristã e explica o simbolismo dos graus. Primeira obra inglesa extensa de interpretação simbólica.",
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "potencias": [
+        "moderns"
+      ],
+      "acervo": [
+        "txt/hutchinson-1775-spirit-masonry.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/bim_eighteenth-century_the-spirit-of-masonry-in_hutchinson-william_1775",
+      "identificadores": {
+        "ia": "bim_eighteenth-century_the-spirit-of-masonry-in_hutchinson-william_1775"
+      },
+      "evidencias": [
+        "https://archive.org/details/bim_eighteenth-century_the-spirit-of-masonry-in_hutchinson-william_1775"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "webb-1797-freemasons-monitor",
+      "tipo": "livro",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Thomas Smith Webb"
+      ],
+      "titulo": "The Freemason's Monitor; or, Illustrations of Masonry",
+      "ano": 1797,
+      "idioma": "en",
+      "temas": [
+        "ritual",
+        "graus",
+        "ordens_anexas"
+      ],
+      "resumo": "Primeira edição do monitor de Thomas Smith Webb, que adapta as palestras de Preston e organiza os graus capitulares e de cavalaria praticados nos EUA. Base do chamado Rito de York/Americano.",
+      "local": "Albany",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "ritos": [
+        "york"
+      ],
+      "potencias": [
+        "gl_estaduais_eua",
+        "arco_real"
+      ],
+      "acervo": [
+        "txt/webb-1797-freemasons-monitor.txt",
+        "pdf/webb-1797-freemasons-monitor.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/the-freemasons-monitor-or-illuistrations-of-masonry-1797",
+      "identificadores": {
+        "ia": "the-freemasons-monitor-or-illuistrations-of-masonry-1797"
+      },
+      "evidencias": [
+        "https://archive.org/details/the-freemasons-monitor-or-illuistrations-of-masonry-1797"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "webb-1818-freemasons-monitor",
+      "tipo": "livro",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Thomas Smith Webb"
+      ],
+      "titulo": "The Freemason's Monitor; or, Illustrations of Masonry: in Two Parts",
+      "ano": 1818,
+      "idioma": "en",
+      "temas": [
+        "ritual",
+        "graus",
+        "ordens_anexas"
+      ],
+      "resumo": "Edição revista do monitor de Webb publicada no ano anterior à morte do autor, com as partes dos graus simbólicos e dos graus inefáveis/capitulares e templários. Permite acompanhar a cristalização do sistema americano.",
+      "local": "Salem",
+      "editora": "Cushing and Appleton",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "ritos": [
+        "york"
+      ],
+      "acervo": [
+        "txt/webb-1818-freemasons-monitor.txt",
+        "pdf/webb-1818-freemasons-monitor.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/freemasonsmonit01webbgoog",
+      "identificadores": {
+        "ia": "freemasonsmonit01webbgoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/freemasonsmonit01webbgoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "cross-1826-true-masonic-chart",
+      "tipo": "livro",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Jeremy Ladd Cross"
+      ],
+      "titulo": "The True Masonic Chart, or Hieroglyphic Monitor",
+      "ano": 1826,
+      "idioma": "en",
+      "temas": [
+        "ritual",
+        "simbolismo"
+      ],
+      "resumo": "Monitor ilustrado que associa os ensinamentos de Webb a gravuras dos emblemas de cada grau; difundiu a iconografia padronizada dos graus americanos (inclusive a 'virgem chorando' do 3º grau).",
+      "local": "New Haven",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "ritos": [
+        "york"
+      ],
+      "observacoes": "PDF de 105 MB não copiado; só texto.",
+      "acervo": [
+        "txt/cross-1826-true-masonic-chart.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/truemasonicchart00cros",
+      "identificadores": {
+        "ia": "truemasonicchart00cros"
+      },
+      "evidencias": [
+        "https://archive.org/details/truemasonicchart00cros"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "morgan-1826-illustrations",
+      "tipo": "exposicao",
+      "categoria": "antimaconica",
+      "autores": [
+        "William Morgan"
+      ],
+      "titulo": "Illustrations of Masonry by One of the Fraternity",
+      "ano": 1826,
+      "idioma": "en",
+      "temas": [
+        "ritual",
+        "antimaconaria",
+        "politica"
+      ],
+      "resumo": "Exposição do ritual dos três graus publicada após o desaparecimento de seu autor em 1826, episódio que desencadeou o movimento e o Partido Antimaçônico nos EUA. Documento-chave do caso Morgan.",
+      "local": "Batavia (NY)",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "ritos": [
+        "york"
+      ],
+      "acervo": [
+        "txt/morgan-1826-illustrations.txt",
+        "pdf/morgan-1826-illustrations.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/illustrationsofm00morg",
+      "identificadores": {
+        "ia": "illustrationsofm00morg"
+      },
+      "evidencias": [
+        "https://archive.org/details/illustrationsofm00morg"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "allyn-1831-ritual",
+      "tipo": "exposicao",
+      "categoria": "antimaconica",
+      "autores": [
+        "Avery Allyn"
+      ],
+      "titulo": "A Ritual and Illustrations of Freemasonry",
+      "ano": null,
+      "idioma": "en",
+      "temas": [
+        "ritual",
+        "antimaconaria",
+        "ordens_anexas"
+      ],
+      "resumo": "Exposição antimaçônica (original de 1831) que se estende aos graus capitulares, crípticos e de cavalaria; reimpressão do início do século XX. Produto do movimento antimaçônico pós-Morgan.",
+      "ano_original": 1831,
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "ritos": [
+        "york"
+      ],
+      "observacoes": "Reimpressão sem data (c. 1900).",
+      "acervo": [
+        "txt/allyn-1831-ritual.txt",
+        "pdf/allyn-1831-ritual.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/ritualillustrati00allyuoft",
+      "identificadores": {
+        "ia": "ritualillustrati00allyuoft"
+      },
+      "evidencias": [
+        "https://archive.org/details/ritualillustrati00allyuoft"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "bernard-1829-light-on-masonry",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "David Bernard"
+      ],
+      "titulo": "Light on Masonry",
+      "ano": 1829,
+      "idioma": "en",
+      "temas": [
+        "ritual",
+        "antimaconaria",
+        "politica"
+      ],
+      "resumo": "Compilação antimaçônica de David Bernard, ex-maçom, com documentos sobre o caso Morgan, depoimentos de convenções antimaçônicas e a exposição de numerosos graus (simbólicos e superiores).",
+      "local": "Utica",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "ritos": [
+        "york",
+        "reaa"
+      ],
+      "acervo": [
+        "txt/bernard-1829-light-on-masonry.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/lightonmasonrya00berngoog",
+      "identificadores": {
+        "ia": "lightonmasonrya00berngoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/lightonmasonrya00berngoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "richardson-1860-monitor",
+      "tipo": "exposicao",
+      "categoria": "antimaconica",
+      "autores": [
+        "Jabez Richardson (pseud.)"
+      ],
+      "titulo": "Richardson's Monitor of Free-Masonry",
+      "ano": 1860,
+      "idioma": "en",
+      "temas": [
+        "ritual",
+        "graus"
+      ],
+      "resumo": "Exposição norte-americana (c. 1860) que apresenta cerimônias de graus simbólicos, capitulares, templários e alguns graus escoceses e adoptivos, além da Estrela do Oriente. Muito reimpressa.",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "ritos": [
+        "york",
+        "reaa"
+      ],
+      "confiabilidade": "B",
+      "observacoes": "Data da edição do item não informada; 1860 é a data usual da 1ª edição.",
+      "acervo": [
+        "txt/richardson-1860-monitor.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/richardson",
+      "identificadores": {
+        "ia": "richardson"
+      },
+      "evidencias": [
+        "https://archive.org/details/richardson"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "duncan-1866-masonic-ritual",
+      "tipo": "exposicao",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Malcolm C. Duncan"
+      ],
+      "titulo": "Duncan's Masonic Ritual and Monitor",
+      "ano": 1866,
+      "idioma": "en",
+      "temas": [
+        "ritual",
+        "graus"
+      ],
+      "resumo": "Exposição/monitor dos três graus simbólicos e do Arco Real na forma praticada nos EUA, publicada em 1866; amplamente reimpressa e usada como referência de ritual americano oitocentista.",
+      "local": "Nova York",
+      "editora": "Dick & Fitzgerald",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "ritos": [
+        "york"
+      ],
+      "acervo": [
+        "txt/duncan-1866-masonic-ritual.txt",
+        "pdf/duncan-1866-masonic-ritual.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/duncan-s-masonic-ritual",
+      "identificadores": {
+        "ia": "duncan-s-masonic-ritual"
+      },
+      "evidencias": [
+        "https://archive.org/details/duncan-s-masonic-ritual"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    }
+  ]
+}
