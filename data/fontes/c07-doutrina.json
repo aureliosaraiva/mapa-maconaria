@@ -1414,40 +1414,6 @@
       ]
     },
     {
-      "id": "khalturin-2015-kabbalah-russian-freemasonry",
-      "tipo": "artigo",
-      "categoria": "academica",
-      "autores": [
-        "Yuriy Khalturin"
-      ],
-      "titulo": "Kabbalah, Symbolism and Metaphysics in Russian Freemasonry of the XVIIIth–XIXth centuries",
-      "ano": 2015,
-      "idioma": "en",
-      "url": "https://doi.org/10.15517/rehmlac.v7i1.19946",
-      "temas": [
-        "esoterismo",
-        "simbolismo"
-      ],
-      "confiabilidade": "A",
-      "acesso": "aberto",
-      "licenca": "CC BY-NC-SA (REHMLAC+)",
-      "resumo": "Estuda a recepção da cabala e do simbolismo hermético na maçonaria russa (rosacrucianos de Novikov, martinismo), mostrando a vertente esotérica dos altos graus no Império Russo.",
-      "evidencias": [
-        "https://doi.org/10.15517/rehmlac.v7i1.19946"
-      ],
-      "periodico": "REHMLAC+ (Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña)",
-      "paises": [
-        "ru"
-      ],
-      "identificadores": {
-        "doi": "10.15517/rehmlac.v7i1.19946"
-      },
-      "volume": "7(1)",
-      "lote": "c07-doutrina",
-      "status_verificacao": "conferido_web",
-      "observacoes": "Cópia falhou em 2026-11-03: curl https://doi.org/10.15517/rehmlac.v7i1.19946: curl: (22) The requested URL returned error: 503"
-    },
-    {
       "id": "ortiz-albear-2010-mujeres-rito-adopcion",
       "tipo": "artigo",
       "categoria": "academica",
@@ -1751,6 +1717,426 @@
       "observacoes": "HAL exige desafio anti-robô (Anubis): cópia não feita.",
       "lote": "c07-doutrina",
       "status_verificacao": "conferido_web"
+    },
+    {
+      "id": "ddf-2023-nota-cortes-maconaria",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Dicastério para a Doutrina da Fé (Víctor Manuel Fernández)"
+      ],
+      "titulo": "Nota sobre a pertença de fiéis católicos à maçonaria (resposta ao bispo de Dumaguete, Julito Cortes, 13/11/2023)",
+      "ano": 2023,
+      "idioma": "en",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231113_richiesta-cortes-massoneria_en.pdf",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "oficial_publico",
+      "licenca": "texto oficial da Santa Sé (© LEV)",
+      "resumo": "Resposta do DDF, aprovada pelo papa Francisco, à consulta do bispo de Dumaguete (Filipinas) sobre o aumento de católicos nas lojas: reafirma a inconciliabilidade (Declaração de 1983), mantém a proibição de pertença ativa e sugere catequese e estratégia pastoral coordenada pela conferência episcopal filipina.",
+      "evidencias": [
+        "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231113_richiesta-cortes-massoneria_en.pdf"
+      ],
+      "paises": [
+        "va",
+        "ph"
+      ],
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/ddf-2023-nota-cortes-maconaria.txt",
+        "pdf/ddf-2023-nota-cortes-maconaria.pdf"
+      ]
+    },
+    {
+      "id": "cbcp-2020-clarification-freemasonry",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Catholic Bishops' Conference of the Philippines"
+      ],
+      "titulo": "A clarification on the CBCP position on Freemasonry and a note on canon 1374 of the CIC",
+      "ano": 2020,
+      "idioma": "en",
+      "url": "https://cbcponline.net/a-clarification-on-the-cbcp-position-on-freemasonry-and-a-note-on-canon-1374-of-the-cic/",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "oficial_publico",
+      "licenca": "página institucional pública",
+      "resumo": "Esclarecimento publicado no portal da conferência episcopal filipina sobre sua posição (diretrizes de 2003 e orientações pastorais de 2020) e a interpretação do cân. 1374; mostra a aplicação local da proibição num país com forte maçonaria regular.",
+      "evidencias": [
+        "https://cbcponline.net/a-clarification-on-the-cbcp-position-on-freemasonry-and-a-note-on-canon-1374-of-the-cic/"
+      ],
+      "paises": [
+        "ph"
+      ],
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "observacoes": "Ano estimado pela menção às orientações de fev./2020; conferir data na página.",
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/cbcp-2020-clarification-freemasonry.txt",
+        "html/cbcp-2020-clarification-freemasonry.html"
+      ]
+    },
+    {
+      "id": "metodista-gb-1985-guidance-freemasonry",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Methodist Church of Great Britain (Faith and Order Committee)"
+      ],
+      "titulo": "Guidance to Methodists on Freemasonry (1985)",
+      "ano": 1985,
+      "idioma": "en",
+      "url": "https://www.methodist.org.uk/documents/8018/fo-statement-guidance-to-methodists-on-freemasonry-1985_FqrCK9z.pdf",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "oficial_publico",
+      "licenca": "© Trustees for Methodist Church Purposes; cópia só para estudo",
+      "resumo": "Relatório adotado pela Conferência Metodista britânica de 1985: aponta riscos de concorrência entre o ritual maçônico e a fé cristã (uso de nomes divinos, juramentos, salvação pelas obras) e recomenda aos metodistas refletir sobre a filiação, sem proibi-la formalmente.",
+      "evidencias": [
+        "https://www.methodist.org.uk/documents/8018/fo-statement-guidance-to-methodists-on-freemasonry-1985_FqrCK9z.pdf"
+      ],
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "potencias": [
+        "ugle"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/metodista-gb-1985-guidance-freemasonry.txt",
+        "pdf/metodista-gb-1985-guidance-freemasonry.pdf"
+      ]
+    },
+    {
+      "id": "metodista-gb-1996-freemasonry",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Methodist Church of Great Britain (Faith and Order Committee)"
+      ],
+      "titulo": "Freemasonry (1996): revisão do relatório de 1985",
+      "ano": 1996,
+      "idioma": "en",
+      "url": "https://www.methodist.org.uk/documents/8019/fo-statement-freemasonry-1996_BKj0TuG.pdf",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "oficial_publico",
+      "licenca": "© Trustees for Methodist Church Purposes; cópia só para estudo",
+      "resumo": "Revisão pedida pela Conferência após memoriais de 1993: reconhece que mudanças no ritual da UGLE (supressão das penalidades físicas nos juramentos, 1986) tornaram parte do relatório de 1985 inexata, mas mantém reservas teológicas.",
+      "evidencias": [
+        "https://www.methodist.org.uk/documents/8019/fo-statement-freemasonry-1996_BKj0TuG.pdf"
+      ],
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "potencias": [
+        "ugle"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/metodista-gb-1996-freemasonry.txt",
+        "pdf/metodista-gb-1996-freemasonry.pdf"
+      ]
+    },
+    {
+      "id": "pound-1915-philosophy-freemasonry",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Roscoe Pound"
+      ],
+      "titulo": "Lectures on the Philosophy of Freemasonry",
+      "ano": 1915,
+      "idioma": "en",
+      "url": "https://archive.org/details/cu31924030286466",
+      "temas": [
+        "principios",
+        "historiografia"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público nos EUA (1915)",
+      "resumo": "Conferências do jurista Roscoe Pound (Grand Lodge of Massachusetts) que classificam escolas de interpretação filosófica da maçonaria (Preston, Krause, Oliver, Pike) e discutem os landmarks e os fins da ordem; referência clássica na discussão norte-americana sobre princípios.",
+      "evidencias": [
+        "https://archive.org/details/cu31924030286466"
+      ],
+      "identificadores": {
+        "ia": "cu31924030286466"
+      },
+      "paises": [
+        "us"
+      ],
+      "potencias": [
+        "gl_estaduais_eua"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/pound-1915-philosophy-freemasonry.txt",
+        "pdf/pound-1915-philosophy-freemasonry.pdf"
+      ]
+    },
+    {
+      "id": "deraismes-1895-eve-humanite",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Maria Deraismes"
+      ],
+      "titulo": "Ève dans l'humanité; Les droits de l'enfant",
+      "ano": 1895,
+      "idioma": "fr",
+      "url": "https://archive.org/details/vedanslhumanitl00deragoog",
+      "temas": [
+        "mulheres",
+        "personalidades"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (autora †1894)",
+      "resumo": "Coletânea póstuma de conferências feministas de Maria Deraismes (1828–1894), primeira mulher iniciada numa loja francesa (Les Libres Penseurs, Le Pecq, 1882) e cofundadora com Georges Martin da Grande Loge Symbolique Écossaise Le Droit Humain (1893); fonte sobre o ideário que levou à maçonaria mista.",
+      "evidencias": [
+        "https://archive.org/details/vedanslhumanitl00deragoog"
+      ],
+      "identificadores": {
+        "ia": "vedanslhumanitl00deragoog"
+      },
+      "potencias": [
+        "droit_humain"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/deraismes-1895-eve-humanite.txt",
+        "pdf/deraismes-1895-eve-humanite.pdf"
+      ]
+    },
+    {
+      "id": "pachtler-1875-secret-warfare",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "Georg Michael Pachtler"
+      ],
+      "titulo": "The Secret Warfare of Freemasonry against Church and State",
+      "ano": 1875,
+      "idioma": "en",
+      "url": "https://archive.org/details/secretwarfareoff00pachuoft",
+      "temas": [
+        "antimaconaria",
+        "religiao"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Tradução inglesa de Der stille Krieg der Freimaurerei gegen Thron und Altar, do jesuíta alemão G. M. Pachtler: compila documentos maçônicos para sustentar a tese de uma guerra oculta contra trono e altar; obra-chave do antimaçonismo católico do Kulturkampf.",
+      "evidencias": [
+        "https://archive.org/details/secretwarfareoff00pachuoft"
+      ],
+      "identificadores": {
+        "ia": "secretwarfareoff00pachuoft"
+      },
+      "paises": [
+        "de",
+        "gb"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/pachtler-1875-secret-warfare.txt",
+        "pdf/pachtler-1875-secret-warfare.pdf"
+      ]
+    },
+    {
+      "id": "bain-1872-freemasonry-self-condemned",
+      "tipo": "livro",
+      "categoria": "eclesiastica",
+      "autores": [
+        "John Wallace Bain"
+      ],
+      "titulo": "Freemasonry and kindred orders self-condemned, or, Reasons why their members cannot be fellowshipped by the United Presbyterian Church",
+      "ano": 1872,
+      "idioma": "en",
+      "url": "https://archive.org/details/freemasonrykindr00bain",
+      "temas": [
+        "religiao",
+        "antimaconaria"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Justificativa da Igreja Presbiteriana Unida (EUA) para recusar comunhão a membros de sociedades secretas: cita rituais e monitores para argumentar contra juramentos e religião \"sem Cristo\" da loja; exemplo do antimaçonismo protestante norte-americano.",
+      "evidencias": [
+        "https://archive.org/details/freemasonrykindr00bain"
+      ],
+      "identificadores": {
+        "ia": "freemasonrykindr00bain"
+      },
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/bain-1872-freemasonry-self-condemned.txt",
+        "pdf/bain-1872-freemasonry-self-condemned.pdf"
+      ]
+    },
+    {
+      "id": "thacher-1864-christianity-freemasonry-antagonistic",
+      "tipo": "livro",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Moses Thacher"
+      ],
+      "titulo": "Christianity and Freemasonry Antagonistic: a discourse delivered in the Congregational church, Peru, N.Y., March 6, 1864",
+      "ano": 1864,
+      "idioma": "en",
+      "url": "https://archive.org/details/christianityfree00thac",
+      "temas": [
+        "religiao",
+        "antimaconaria"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Sermão de um pastor congregacionalista, ex-maçom ativo no movimento antimaçônico pós-caso Morgan, que sustenta a incompatibilidade entre cristianismo e maçonaria.",
+      "evidencias": [
+        "https://archive.org/details/christianityfree00thac"
+      ],
+      "identificadores": {
+        "ia": "christianityfree00thac"
+      },
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/thacher-1864-christianity-freemasonry-antagonistic.txt",
+        "pdf/thacher-1864-christianity-freemasonry-antagonistic.pdf"
+      ]
+    },
+    {
+      "id": "arnold-1858-rationale-ethics",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Augustus C. L. Arnold"
+      ],
+      "titulo": "The Rationale and Ethics of Freemasonry, or The Masonic Institution considered as a means of social and individual progress",
+      "ano": 1858,
+      "idioma": "en",
+      "url": "https://archive.org/details/The_Rationale_And_Ethics_Of_Freemasonry_1858_-_Arnold",
+      "temas": [
+        "principios",
+        "origens",
+        "simbolismo"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Obra de A. C. L. Arnold, ex-grande capelão, publicada por Robert Macoy (Nova York): o livro I constrói uma genealogia especulativa da \"maçonaria\" (pirâmides, Orfeu, Pitágoras, essênios, templários) e o livro II expõe a ética maçônica como progresso social e individual; documento da autocompreensão maçônica norte-americana oitocentista, não fonte histórica.",
+      "evidencias": [
+        "https://archive.org/details/The_Rationale_And_Ethics_Of_Freemasonry_1858_-_Arnold"
+      ],
+      "identificadores": {
+        "ia": "The_Rationale_And_Ethics_Of_Freemasonry_1858_-_Arnold"
+      },
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/arnold-1858-rationale-ethics.txt",
+        "pdf/arnold-1858-rationale-ethics.pdf"
+      ]
+    },
+    {
+      "id": "wright-1922-roman-catholicism-freemasonry",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Dudley Wright"
+      ],
+      "titulo": "Roman Catholicism and Freemasonry",
+      "ano": 1922,
+      "idioma": "en",
+      "url": "https://archive.org/details/romancatholicism0000unse_e0f2",
+      "temas": [
+        "religiao",
+        "antimaconaria"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público no Reino Unido (autor †1950)",
+      "resumo": "Dudley Wright (1868–1950), autor maçom inglês, examina historicamente as condenações papais, a fraude de Taxil e a postura da Igreja em vários países; visão maçônica, mas documentada, do conflito.",
+      "evidencias": [
+        "https://archive.org/details/romancatholicism0000unse_e0f2"
+      ],
+      "identificadores": {
+        "ia": "romancatholicism0000unse_e0f2"
+      },
+      "paises": [
+        "gb",
+        "mundo"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1871_1918"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/wright-1922-roman-catholicism-freemasonry.txt",
+        "pdf/wright-1922-roman-catholicism-freemasonry.pdf"
+      ]
     }
   ]
 }
