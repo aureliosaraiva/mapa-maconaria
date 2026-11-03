@@ -36,3 +36,14 @@
 - [ ] (P3) Unicamp: PDF da tese de Barata (2002) não localizado no repositório — https://repositorio.unicamp.br/
 - [ ] (P3) Obras do IA com direitos a confirmar: Vilhena de Moraes 1930, Goetz de Carvalho 1903, Gaspar Guimarães 1925 (licença CC atribuída pelo depositante), revista do GO Amazonas e Acre 1948 — confirmar datas de morte dos autores antes de qualquer uso público
 - [ ] (P3) Rituais publicados com elementos de reconhecimento por extenso no acervo (`anonimo-1875-nova-guia-maconica`, `anonimo-1905-manual-rito-francez`, `golu-1881-ceremonias-maconaria-symbolica`): o site não deve reproduzi-los (regra 5)
+
+## C04
+- [ ] (P1) OpenAlex respondeu HTTP 429 (cota diária esgotada) durante toda a sessão; a busca acadêmica sobre história mundial foi feita por DOAJ, HAL, Crossref e IA, o que pode deixar lacunas — https://api.openalex.org
+- [ ] (P1) HAL (hal.science, theses.hal.science) e OpenEdition (journals.openedition.org, books.openedition.org) usam o filtro anti-robô Anubis: PDFs/HTML abertos não baixados (Beaurepaire HDR 2002 e 2003, Laporte Dupuis 2026, Rjéoutski 2007, Beaurepaire 2019, Saunier 2002, Deschamps 2017 ×2 e 2021). Baixar no navegador (ver COLETA.md do acervo, seção C04).
+- [ ] (P2) Nazismo e maçonaria sem fonte acadêmica aberta (Neuberger 1980, Melzer 1999, Schuster 2007 são comerciais); catalogar a página da USHMM *Freemasonry under the Nazi Regime* — https://encyclopedia.ushmm.org/content/en/article/freemasonry-under-the-nazi-regime
+- [ ] (P2) 403 de anti-robô em Redalyc (PDFs da REHMLAC; contornado pelo arquivo OJS da UCR), MDPI (*Religions*: Göcke 2025 sobre Krause, não catalogado), CORE (Cloudflare), Equinox (JRFF) e Pietre-Stones; o proxy recusa scottishriteresearch.org, ritualsecrecyandcivilsociety.org e masonry.rhga.ru (centro russo de estudos da maçonaria com PDFs).
+- [ ] (P2) Prince Hall: Delany 1853 (*The Origin and Objects of Ancient Freemasonry*) e Upton 1899 (*Negro Masonry*), ambos DP, não estão no IA — tentar HathiTrust, LoC, Documenting the American South.
+- [ ] (P2) Holm 2008 (Finlândia, journal.fi): a página não expôs PDF; só metadados.
+- [ ] (P3) `beaurepaire-2002-europe-francs-macons` está como `pista`: conferir ISBN e editora (Belin).
+- [ ] (P3) Volumes da AQC copiados só em TXT (OCR do IA, PDF > 15 MB): conferir as páginas no IA antes de citar; vols. 20, 22–42 (1907–1930) existem no IA e não foram copiados.
+
