@@ -2,6 +2,47 @@
  "lote": "c03-potencias",
  "fontes": [
   {
+   "categoria": "historiografia_maconica",
+   "tipo": "artigo",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "balanescu-2022-wcrmgl-conferencia-mundial",
+   "autores": [
+    "R. Balanescu"
+   ],
+   "titulo": "Conferência Mundial (de Grandes Lojas Regulares)",
+   "ano": 2022,
+   "idioma": "pt",
+   "potencias": [
+    "cmi",
+    "gl_romenia"
+   ],
+   "paises": [
+    "mundo",
+    "ro"
+   ],
+   "resumo": "Comunicação de representante da Grande Loja Nacional da Romênia sobre a natureza, a história e o papel da Conferência Mundial de Grandes Lojas Regulares como fórum das potências regulares.",
+   "observacoes": "Tradução pt (CMSB); ano inferido.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/balanescu-2022-wcrmgl-conferencia-mundial.pdf",
+    "txt/balanescu-2022-wcrmgl-conferencia-mundial.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21446/x.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21446/x.pdf"
+   ]
+  },
+  {
    "categoria": "oficial_potencia",
    "tipo": "documento",
    "confiabilidade": "C",
@@ -125,6 +166,1479 @@
   },
   {
    "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1973-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna",
+    "gob",
+    "cmsb",
+    "comab"
+   ],
+   "paises": [
+    "us",
+    "mundo",
+    "br"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1973)",
+   "ano": 1973,
+   "resumo": "Relatório anual (1973) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grande Loja do Estado; Grand Lodge Swiss; Grand Orient of Brazil; Grand Orient of Italy; Grand Lodge of Brasilia; Grand Lodge of Rio Grande; Grand Lodge of Maranhao; Grande Loja de Santa Catarina.",
+   "observacoes": "Trata de potências brasileiras (útil para o verbete sobre regularidade no Brasil e as cisões de 1927 e 1973).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1973-cir-report.pdf",
+    "txt/cogmna-1973-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21408/commission-reports_1973.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21408/commission-reports_1973.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1975-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna",
+    "gob",
+    "cmsb",
+    "comab"
+   ],
+   "paises": [
+    "us",
+    "mundo",
+    "br"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1975)",
+   "ano": 1975,
+   "resumo": "Relatório anual (1975) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grande Loja do Estado; Grand Lodge of the State; Grand Orient of Brazil; Grand Lodge of Rio; Grand Lodge of Colombia; Grand Lodge of Amazonas; Grande Loja do Rio Grande; National Grand Lodge of Colombia.",
+   "observacoes": "Trata de potências brasileiras (útil para o verbete sobre regularidade no Brasil e as cisões de 1927 e 1973).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1975-cir-report.pdf",
+    "txt/cogmna-1975-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21406/commission-reports_1975.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21406/commission-reports_1975.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1976-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna",
+    "gob",
+    "cmsb",
+    "comab"
+   ],
+   "paises": [
+    "us",
+    "mundo",
+    "br"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1976)",
+   "ano": 1976,
+   "resumo": "Relatório anual (1976) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of Cuba; Grand Lodge of Chile; Grand Lodge Temple; Grand Orient of Brazil; Grand Lodge of Sao Paulo; Grand Lodge Jose Maria; Grand Lodge of Mexico; Grand Lodge Valle.",
+   "observacoes": "Trata de potências brasileiras (útil para o verbete sobre regularidade no Brasil e as cisões de 1927 e 1973).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1976-cir-report.pdf",
+    "txt/cogmna-1976-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21404/commission-reports_1976.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21404/commission-reports_1976.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1977-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1977)",
+   "ano": 1977,
+   "resumo": "Relatório anual (1977) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of Belgium; Grand Lodge of Cuba; Grand Lodge Recognition; Grand Lodge of Sao Paulo; Grand Lodge of Mississippi; Grand Lodge of Chile.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1977-cir-report.pdf",
+    "txt/cogmna-1977-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21407/commission-reports_1977.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21407/commission-reports_1977.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1978-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna",
+    "gob",
+    "cmsb",
+    "comab"
+   ],
+   "paises": [
+    "us",
+    "mundo",
+    "br"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1978)",
+   "ano": 1978,
+   "resumo": "Relatório anual (1978) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of Guanabara; Grand Orient of Brazil; Grand Lodge of Cuba; Grand Lodge of Southern Africa; Grand Orient of Italy; Grand Lodge Temple; Grand Lodge of Puerto Rico; Grand Lodge of Pennsylvania.",
+   "observacoes": "Trata de potências brasileiras (útil para o verbete sobre regularidade no Brasil e as cisões de 1927 e 1973).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1978-cir-report.pdf",
+    "txt/cogmna-1978-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21405/commission-reports_1978.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21405/commission-reports_1978.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1979-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1979)",
+   "ano": 1979,
+   "resumo": "Relatório anual (1979) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of Wisconsin; Grand Lodge of Prince Hall; Grand Lodge of Uruguay; Grand Lodge of Guanabara; Grand Lodge of Cuba; Grand Lodge of Belgium; Grand Orient of Italy; Grand Lodge of Canada.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1979-cir-report.pdf",
+    "txt/cogmna-1979-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21409/commission-reports_1979.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21409/commission-reports_1979.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1980-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna",
+    "gob",
+    "cmsb",
+    "comab"
+   ],
+   "paises": [
+    "us",
+    "mundo",
+    "br"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1980)",
+   "ano": 1980,
+   "resumo": "Relatório anual (1980) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Orient of Spain; Gran Logia De Baja; Grand Lodge of Belgium; Grande Loja da Guanabara; Grand Lodge of Pennsyl; Grand Lodge Del; Grand Lodge Recognition; Grand Orient of Brazil.",
+   "observacoes": "Trata de potências brasileiras (útil para o verbete sobre regularidade no Brasil e as cisões de 1927 e 1973).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1980-cir-report.pdf",
+    "txt/cogmna-1980-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21412/commission-reports_1980.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21412/commission-reports_1980.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1981-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1981)",
+   "ano": 1981,
+   "resumo": "Relatório anual (1981) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of Cuba; Grand Lodge Recognition; Grand Lodge of Washington; Grand Lodge of Ecuador; United Grand Lodge of Nigeria; Grand Lodge of Southern Africa; Grand Lodge of Iran; United Grand Orient of Spain.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1981-cir-report.pdf",
+    "txt/cogmna-1981-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21410/commission-reports_1981.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21410/commission-reports_1981.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1982-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna",
+    "gob",
+    "cmsb",
+    "comab"
+   ],
+   "paises": [
+    "us",
+    "mundo",
+    "br"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1982)",
+   "ano": 1982,
+   "resumo": "Relatório anual (1982) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of Guanabara; Grand Lodge of Scotland; Grand Lodge of Belgium; Grand Lodge of Amazonas; Grand Lodge of Alaska; Regular Grand Lodge of Belgium; Grand Lodge of Brazil; Grand Lodge of the Dominican Republic.",
+   "observacoes": "Trata de potências brasileiras (útil para o verbete sobre regularidade no Brasil e as cisões de 1927 e 1973).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1982-cir-report.pdf",
+    "txt/cogmna-1982-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21411/commission-reports_1982.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21411/commission-reports_1982.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1983-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna",
+    "gob",
+    "cmsb",
+    "comab"
+   ],
+   "paises": [
+    "us",
+    "mundo",
+    "br"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1983)",
+   "ano": 1983,
+   "resumo": "Relatório anual (1983) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of Spain; Gran Logia De Espana; Grand Lodge of Cuba; Regular Grand Lodge of Belgium; Grande Loja da Guanabara; Grande Loja do Estado; Grand Lodge of Belgium; Grand Lodge of Guanabara.",
+   "observacoes": "Trata de potências brasileiras (útil para o verbete sobre regularidade no Brasil e as cisões de 1927 e 1973).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1983-cir-report.pdf",
+    "txt/cogmna-1983-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21413/commission-reports_1983.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21413/commission-reports_1983.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1984-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1984)",
+   "ano": 1984,
+   "resumo": "Relatório anual (1984) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of Gabon; Grand Lodge of Cuba; Grand Orient of Italy; Grand Lodge of Belgium; Grand Lodge of Spain; Gran Logia De Cuba; Grand Lodge of Florida; Grand Lodge Nationale Francaise.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1984-cir-report.pdf",
+    "txt/cogmna-1984-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21415/commission-reports_1984.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21415/commission-reports_1984.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1985-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1985)",
+   "ano": 1985,
+   "resumo": "Relatório anual (1985) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of the State; Grand Lodge of Chile; Grand Orient of Haiti; Grand Lodge of Cuba; Grand Lodge of Gabon; Grand Orient of Italy; Grand Lodge of New York; Grand Lodge of Scotland.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1985-cir-report.pdf",
+    "txt/cogmna-1985-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21414/commission-reports_1985.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21414/commission-reports_1985.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1986-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna",
+    "gob",
+    "cmsb",
+    "comab"
+   ],
+   "paises": [
+    "us",
+    "mundo",
+    "br"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1986)",
+   "ano": 1986,
+   "resumo": "Relatório anual (1986) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of Iran; Grand Lodge of Mato Grosso; Grande Loja do Estado; Grand Orient of Italy; Grand Lodge of Cuba; Grand Lodge of Massachusetts; Grand Lodge Investiture; Grand Lodge of the State.",
+   "observacoes": "Trata de potências brasileiras (útil para o verbete sobre regularidade no Brasil e as cisões de 1927 e 1973).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1986-cir-report.pdf",
+    "txt/cogmna-1986-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21417/commission-reports_1986.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21417/commission-reports_1986.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1987-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1987)",
+   "ano": 1987,
+   "resumo": "Relatório anual (1987) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of Greece; Grand Orient of Haiti; Grand Lodge of Scotland; Grand Lodge of the State; Grand Lodge of New York; Grand Orient of France; National Grand Lodge of Greece; Grand Lodge of Pennsylvania.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1987-cir-report.pdf",
+    "txt/cogmna-1987-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21418/commission-reports_1987.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21418/commission-reports_1987.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1988-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna",
+    "gob",
+    "cmsb",
+    "comab"
+   ],
+   "paises": [
+    "us",
+    "mundo",
+    "br"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1988)",
+   "ano": 1988,
+   "resumo": "Relatório anual (1988) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Orient of Italy; Grande Loja Masonica Do; Grand Lodge Valle; Grand Lodge of Mexico; Grand Lodge Recognition.",
+   "observacoes": "Trata de potências brasileiras (útil para o verbete sobre regularidade no Brasil e as cisões de 1927 e 1973).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1988-cir-report.pdf",
+    "txt/cogmna-1988-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21416/commission-reports_1988.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21416/commission-reports_1988.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1989-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1989)",
+   "ano": 1989,
+   "resumo": "Relatório anual (1989) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Orient of Italy; Grand Lodge of Para; Grand Lodge of Peru; Grand Lodge of Illinois; Grand Lodge Recognition; Grand Lodge of the United Grand.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1989-cir-report.pdf",
+    "txt/cogmna-1989-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21419/commission-reports_1989.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21419/commission-reports_1989.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1990-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1990)",
+   "ano": 1990,
+   "resumo": "Relatório anual (1990) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of California; Grand Lodge of Austria; Grand Lodge of Hungary; Symbolic Grand Lodge of Hungary; Grand Lodge of the Ivory Coast; Grand Lodge of Por.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1990-cir-report.pdf",
+    "txt/cogmna-1990-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21420/commission-reports_1990.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21420/commission-reports_1990.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1991-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1991)",
+   "ano": 1991,
+   "resumo": "Relatório anual (1991) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of Yugoslavia; Grand Lodge of New York; Grand Lodge of Canada; Grand Lodge of District; Grand Lodge of Massachusetts; Grand Lodge of Iran; Grand Lodge of Sao Paulo; Grand Lodge of Goias.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1991-cir-report.pdf",
+    "txt/cogmna-1991-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21423/commission-reports_1991.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21423/commission-reports_1991.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1992-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1992)",
+   "ano": 1992,
+   "resumo": "Relatório anual (1992) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of Greece; Grand Orient of France; Grand Lodge of France; National Grand Lodge of Greece; Grand Lodge of Poland; National Grand Lodge of Poland; Grand Lodge of the GLNF; Regular Grand Lodge of Portugal.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1992-cir-report.pdf",
+    "txt/cogmna-1992-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21421/commission-reports_1992.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21421/commission-reports_1992.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1993-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1993)",
+   "ano": 1993,
+   "resumo": "Relatório anual (1993) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of India; National Grand Lodge of Poland; Grand Lodge of Iran; Grand Orient of Italy; Grand Lodge of Romania; Grand Lodge of Yugoslavia; Grand Lodge of Bulgaria; Grand Lodge of Greece.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1993-cir-report.pdf",
+    "txt/cogmna-1993-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21422/commission-reports_1993.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21422/commission-reports_1993.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1994-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1994)",
+   "ano": 1994,
+   "resumo": "Relatório anual (1994) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Regular Grand Lodge of Italy; National Grand Lodge of Greece; Grand Lodge of Greece; Grand Lodge of Alaska; Regular Grand Lodge of Yugoslavia; Grand Lodge of Iowa; Grand Orient of Italy; Grand Lodge of Italy.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1994-cir-report.pdf",
+    "txt/cogmna-1994-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21427/commission-reports_1994.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21427/commission-reports_1994.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1995-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1995)",
+   "ano": 1995,
+   "resumo": "Relatório anual (1995) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: National Grand Lodge of Greece; Grand Lodge of Yugoslavia; Grand Lodge of Greece; Grand Lodge of Indiana; Grand Lodge of Bulgaria; Grand Lodge of Czechoslovakia; Grand Lodge of the Czech Republic.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1995-cir-report.pdf",
+    "txt/cogmna-1995-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21426/commission-reports_1995.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21426/commission-reports_1995.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1996-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1996)",
+   "ano": 1996,
+   "resumo": "Relatório anual (1996) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of Iran; Grand Lodge of India; Grand Lodge of Russia; Grand Lodge of Senegal; Grand Lodge Jurisdictions; Grand Lodge of South India; National Grand Lodge of Romania.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1996-cir-report.pdf",
+    "txt/cogmna-1996-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21424/commission-reports_1996.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21424/commission-reports_1996.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1997-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna",
+    "gob",
+    "cmsb",
+    "comab"
+   ],
+   "paises": [
+    "us",
+    "mundo",
+    "br"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1997)",
+   "ano": 1997,
+   "resumo": "Relatório anual (1997) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of Spain; Gran Logia Regular Del; Grand Lodge Jurisdictions; Grand Lodge Recognition; Grande Loja Legal; United Grand Lodge of Romania; Grand Lodge of Russia; Grand Lodge of Texas.",
+   "observacoes": "Trata de potências brasileiras (útil para o verbete sobre regularidade no Brasil e as cisões de 1927 e 1973).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1997-cir-report.pdf",
+    "txt/cogmna-1997-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21425/commission-reports_1997.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21425/commission-reports_1997.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1998-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna",
+    "gob",
+    "cmsb",
+    "comab"
+   ],
+   "paises": [
+    "us",
+    "mundo",
+    "br"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1998)",
+   "ano": 1998,
+   "resumo": "Relatório anual (1998) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of Newfoundland; Grand Lodge of Senegal; Grand Lodge of Scotland; Grand Lodge of Spain; Grand Lodge Recognition; Grande Loja Regular; Grand Lodge of Canada.",
+   "observacoes": "Trata de potências brasileiras (útil para o verbete sobre regularidade no Brasil e as cisões de 1927 e 1973).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1998-cir-report.pdf",
+    "txt/cogmna-1998-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21428/commission-reports_1998.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21428/commission-reports_1998.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-1999-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna",
+    "gob",
+    "cmsb",
+    "comab"
+   ],
+   "paises": [
+    "us",
+    "mundo",
+    "br"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (1999)",
+   "ano": 1999,
+   "resumo": "Relatório anual (1999) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grande Loja Regular; Grand Lodge of Peru; Grand Lodge of the Ivory; Grande Loja Legal.",
+   "observacoes": "Trata de potências brasileiras (útil para o verbete sobre regularidade no Brasil e as cisões de 1927 e 1973).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-1999-cir-report.pdf",
+    "txt/cogmna-1999-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21429/commission-reports_1999.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21429/commission-reports_1999.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-2000-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna",
+    "gob",
+    "cmsb",
+    "comab"
+   ],
+   "paises": [
+    "us",
+    "mundo",
+    "br"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (2000)",
+   "ano": 2000,
+   "resumo": "Relatório anual (2000) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Orient of Brazil; Grand Lodge of Austria; Grand Lodge of Sao Paulo; Grand Lodge of Croatia; Grand Lodge of Finland; Grand Lodge of Estonia; Grand Lodge of New York; Grand Lodge of Rio.",
+   "observacoes": "Trata de potências brasileiras (útil para o verbete sobre regularidade no Brasil e as cisões de 1927 e 1973).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-2000-cir-report.pdf",
+    "txt/cogmna-2000-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21430/commission-reports_2000.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21430/commission-reports_2000.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-2001-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (2001)",
+   "ano": 2001,
+   "resumo": "Relatório anual (2001) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge Yugoslavia; Regular Grand Lodge of Italy; Grand Lodge of Texas; Grand Lodge of Veracruz; Grand Lodge of Guerrero State; Grand Lodge Valle; Grand Lodge of Guerrero; Grand Lodge of Puebla.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-2001-cir-report.pdf",
+    "txt/cogmna-2001-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21431/commission-reports_2001.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21431/commission-reports_2001.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-2002-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna",
+    "gob",
+    "cmsb",
+    "comab"
+   ],
+   "paises": [
+    "us",
+    "mundo",
+    "br"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (2002)",
+   "ano": 2002,
+   "resumo": "Relatório anual (2002) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of Cameroon; Grand Lodge of Peru; Grand Lodge Valle; Grand Lodge of Andorra; Grande Loja Legal; Grand Lodge Baja; Grand Lodge of Spain; Grand Lodge of Djibouti.",
+   "observacoes": "Trata de potências brasileiras (útil para o verbete sobre regularidade no Brasil e as cisões de 1927 e 1973).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-2002-cir-report.pdf",
+    "txt/cogmna-2002-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21433/commission-reports_2002.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21433/commission-reports_2002.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-2003-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (2003)",
+   "ano": 2003,
+   "resumo": "Relatório anual (2003) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of France; Grand Lodge of Russia; National Grand Lodge of Romania; Grand Lodge of Congo; Grand Lodge of Iran; Grand Lodge of Armenia; Grand Lodge of Senegal; Grand Lodge of Moldavia.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-2003-cir-report.pdf",
+    "txt/cogmna-2003-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21432/commission-reports_2003.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21432/commission-reports_2003.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-2019-cir-reports-2004-2019",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Reports of the Commission on Information for Recognition 2004–2019",
+   "ano": 2019,
+   "resumo": "Compilação dos relatórios anuais da comissão de 2004 a 2019, com índice de conclusões por jurisdição; inclui os exames recorrentes dos Grandes Orientes estaduais do Brasil (COMAB), de grandes lojas da Romênia, do México, do Paraguai e de Liechtenstein, entre outras.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-2019-cir-reports-2004-2019.pdf",
+    "txt/cogmna-2019-cir-reports-2004-2019.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21435/commission-reports_2004-2019.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21435/commission-reports_2004-2019.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-2025-cir-report-2",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna",
+    "gob",
+    "cmsb",
+    "comab"
+   ],
+   "paises": [
+    "us",
+    "mundo",
+    "br"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (2025, relatório 2)",
+   "ano": 2025,
+   "resumo": "Relatório anual (2025) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Orient of Italy; Grand Lodge of Belize; United Grand Lodge of Georgia; Regular Grand Lodge of Italy; Grand Orient of Brazil; Grand Orient Paulista; Grande Oriente do Rio Grande; Grand Lodge of Washington. Discute a divisão de reconhecimento entre o Grande Oriente d'Italia (reconhecido na América do Norte) e a Gran Loggia Regolare d'Italia (reconhecida no norte da Europa) e Grandes Orientes estaduais dos EUA com tratados com suas grandes lojas.",
+   "observacoes": "Trata de potências brasileiras (útil para o verbete sobre regularidade no Brasil e as cisões de 1927 e 1973).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-2025-cir-report-2.pdf",
+    "txt/cogmna-2025-cir-report-2.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21434/commission.2025.2.report.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21434/commission.2025.2.report.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-2026-cir-findings-index",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna",
+    "gob",
+    "cmsb",
+    "comab"
+   ],
+   "paises": [
+    "us",
+    "mundo",
+    "br"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Reports of the Commission on Information for Recognition: Findings Index 2004–2024",
+   "ano": 2026,
+   "resumo": "Índice das conclusões da Comissão de Informação para Reconhecimento da COGMNA de 2004 a 2024, ano a ano, com as jurisdições examinadas (Grandes Orientes estaduais brasileiros, Romênia, México, Geórgia, Líbano, Togo, Moçambique, El Salvador, Taiti etc.); chave de acesso à série.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-2026-cir-findings-index.pdf",
+    "txt/cogmna-2026-cir-findings-index.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21437/findings-index.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21437/findings-index.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "documento institucional público; direitos da Conference of Grand Masters of Masons in North America",
+   "id": "cogmna-2026-cir-report",
+   "autores": [
+    "Conference of Grand Masters of Masons in North America — Commission on Information for Recognition"
+   ],
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cogmna"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "editora": "Conference of Grand Masters of Masons in North America",
+   "titulo": "Report of the Commission on Information for Recognition (2026)",
+   "ano": 2026,
+   "resumo": "Relatório anual (2026) da comissão criada em 1952 pela Conferência de Grão-Mestres da América do Norte para reunir e revisar informações sobre grandes lojas e indicar se atendem aos padrões de reconhecimento da Conferência (regularidade de origem, soberania territorial, adesão aos landmarks), sem recomendar reconhecimento. Jurisdições mais citadas no texto: Grand Lodge of Albania; Grand Lodge of the State; Grand Lodge of Kosovo; Grand Lodge of Free; Grand Lodge of Illinois; Regular Grand Lodge of Serbia; Grand Lodge of Lebanon; Grand Lodge of Michigan.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cogmna-2026-cir-report.pdf",
+    "txt/cogmna-2026-cir-report.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21436/commission.2026.report-1.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4224/4-reports-of-the-commission-on-information-for-recognition-cogmna/21436/commission.2026.report-1.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
    "tipo": "pagina",
    "confiabilidade": "C",
    "acesso": "oficial_publico",
@@ -202,6 +1716,48 @@
    "url": "https://comab.org.br/historia-da-comab/",
    "evidencias": [
     "https://comab.org.br/historia-da-comab/"
+   ]
+  },
+  {
+   "categoria": "historiografia_maconica",
+   "tipo": "artigo",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade",
+    "principios"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "cook-2022-wcrmgl-lei-comum-maconaria",
+   "autores": [
+    "Cook"
+   ],
+   "titulo": "Quando os costumes e a lei comum da maçonaria não são costumeiros e comuns",
+   "ano": 2022,
+   "idioma": "pt",
+   "potencias": [
+    "gl_estaduais_eua",
+    "cmi"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "resumo": "Comunicação de representante da Grande Loja de Utah sobre a variação, entre jurisdições, dos usos e da 'lei comum' maçônica (landmarks, costumes) e seus efeitos no reconhecimento.",
+   "observacoes": "Tradução pt (CMSB); ano inferido; nome completo do autor a conferir.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cook-2022-wcrmgl-lei-comum-maconaria.pdf",
+    "txt/cook-2022-wcrmgl-lei-comum-maconaria.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21460/x.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21460/x.pdf"
    ]
   },
   {
@@ -360,6 +1916,45 @@
    "url": "https://www.droithumain-france.org/le-droit-humain-une-ecole-initiatique/nos-valeurs-et-principes",
    "evidencias": [
     "https://www.droithumain-france.org/le-droit-humain-une-ecole-initiatique/nos-valeurs-et-principes"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "principios"
+   ],
+   "periodos": [
+    "p1814_1870",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "glchile-2026-quienes-somos",
+   "autores": [
+    "Gran Logia de Chile"
+   ],
+   "titulo": "Qué es la masonería (quiénes somos)",
+   "ano": 2026,
+   "idioma": "es",
+   "potencias": [
+    "gl_chile"
+   ],
+   "paises": [
+    "cl"
+   ],
+   "resumo": "Apresentação institucional da Gran Logia de Chile, que data sua fundação em 1862 e descreve a maçonaria como escola de formação ética, tolerante e a serviço da República.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/glchile-2026-quienes-somos.html",
+    "txt/glchile-2026-quienes-somos.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.granlogia.cl/quienes_somos",
+   "evidencias": [
+    "https://www.granlogia.cl/quienes_somos"
    ]
   },
   {
@@ -663,6 +2258,98 @@
    "confiabilidade": "C",
    "acesso": "oficial_publico",
    "temas": [
+    "potencias",
+    "personalidades"
+   ],
+   "periodos": [
+    "p1814_1870",
+    "p1871_1918",
+    "p1919_1945",
+    "p1946_1989"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "gljapan-2026-history",
+   "autores": [
+    "Grand Lodge of Japan"
+   ],
+   "titulo": "History in Japan",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "gl_japao",
+    "gl_irlanda",
+    "ugle",
+    "gl_escocia",
+    "gl_filipinas"
+   ],
+   "paises": [
+    "jp"
+   ],
+   "resumo": "Histórico oficial da maçonaria no Japão: primeira loja em Yokohama (Sphinx, Irlanda, 1862), lojas inglesas e escocesa no assentamento estrangeiro, destruição no terremoto de 1923, suspensão e confisco na guerra, retomada em 1946 sob a Grande Loja das Filipinas, primeira iniciação de japoneses em 1950 e formação da Grande Loja do Japão (1957).",
+   "observacoes": "Códigos 'gl_japao' e 'gl_filipinas' propostos; ano 1957 da GL do Japão a conferir no texto.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/gljapan-2026-history.html",
+    "txt/gljapan-2026-history.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.grandlodgeofjapan.org/history-in-japan",
+   "evidencias": [
+    "https://www.grandlodgeofjapan.org/history-in-japan"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "historiografia",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1717_1750",
+    "p1751_1813",
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "gllp-2026-historia",
+   "autores": [
+    "Grande Loja Legal de Portugal / GLRP"
+   ],
+   "titulo": "História (GLLP/GLRP)",
+   "ano": 2026,
+   "idioma": "pt",
+   "potencias": [
+    "glrp",
+    "ugle",
+    "gol"
+   ],
+   "paises": [
+    "pt",
+    "gb"
+   ],
+   "resumo": "Histórico oficial da Grande Loja Legal de Portugal: da fundação da Grande Loja de Londres (1717) e das Constituições de Anderson (1723) à primeira loja em Lisboa, fundada por comerciantes britânicos c. 1727 e regularizada em 1735 junto a Londres (n.º 135), até a criação da GLLP/GLRP em 1991 como potência reconhecida pela UGLE.",
+   "observacoes": "A página data a reunião de 1717 em 24 de julho (provável lapso por 24 de junho); registrar como divergência de fonte institucional.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/gllp-2026-historia.html",
+    "txt/gllp-2026-historia.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://gllp.pt/portfolio/historia/",
+   "evidencias": [
+    "https://gllp.pt/portfolio/historia/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
     "potencias"
    ],
    "periodos": [
@@ -737,6 +2424,128 @@
    "url": "https://www.glmmg.org.br/historia/",
    "evidencias": [
     "https://www.glmmg.org.br/historia/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "personalidades"
+   ],
+   "periodos": [
+    "p1717_1750",
+    "p1751_1813"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "glny-2026-our-grand-lodge",
+   "autores": [
+    "Grand Lodge of Free and Accepted Masons of the State of New York"
+   ],
+   "titulo": "Our Grand Lodge (history timeline)",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "antients"
+   ],
+   "paises": [
+    "us"
+   ],
+   "resumo": "Histórico oficial da Grande Loja de Nova York: Daniel Coxe grão-mestre provincial (1730), grande loja provincial organizada por Richard Riggs (1738), carta do Duque de Atholl (Antients, 1781), e a posse de George Washington em 1789 com a Bíblia da St. John's Lodge nº 1 (1757).",
+   "observacoes": "A página grafa '1871' para a carta do Duque de Atholl; o contexto indica 1781.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/glny-2026-our-grand-lodge.html",
+    "txt/glny-2026-our-grand-lodge.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://nymasons.org/our-grand-lodge/",
+   "evidencias": [
+    "https://nymasons.org/our-grand-lodge/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "historiografia"
+   ],
+   "periodos": [
+    "p1600_1716",
+    "p1717_1750",
+    "p1751_1813",
+    "p1814_1870"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "glontario-2026-who-we-are",
+   "autores": [
+    "Grand Lodge of Canada in the Province of Ontario"
+   ],
+   "titulo": "Who We Are (timeline)",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "gl_canada_on"
+   ],
+   "paises": [
+    "ca"
+   ],
+   "resumo": "Linha do tempo oficial da maçonaria em Ontário: primeiro maçom registrado no Canadá (Lord Alexander, 1634), primeira loja em Annapolis (1738), lojas militares, Grande Loja Provincial do Alto Canadá (1795), 'Schismatic Grand Lodge' de Niagara (1802) e a Grande Loja do Canadá (1855).",
+   "observacoes": "'gl_canada_on' é código proposto.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/glontario-2026-who-we-are.html",
+    "txt/glontario-2026-who-we-are.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://ontariomasons.ca/who-we-are-2/",
+   "evidencias": [
+    "https://ontariomasons.ca/who-we-are-2/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "glpa-2026-recognized",
+   "autores": [
+    "Grand Lodge of Pennsylvania"
+   ],
+   "titulo": "Recognized Grand Lodges",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "resumo": "Lista oficial das grandes lojas reconhecidas pela Grande Loja da Pensilvânia, com a regra de que seus membros só podem visitar lojas de jurisdições reconhecidas, o procedimento de reconhecimento (comitê e votação em Grande Loja) e um aviso cautelar do comitê de 30/6/2007.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/glpa-2026-recognized.html",
+    "txt/glpa-2026-recognized.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://pagrandlodge.org/resources/recognized-grand-lodges/",
+   "evidencias": [
+    "https://pagrandlodge.org/resources/recognized-grand-lodges/"
    ]
   },
   {
@@ -909,6 +2718,88 @@
    "acesso": "oficial_publico",
    "temas": [
     "potencias",
+    "mulheres"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "gobe-2026-constitution",
+   "autores": [
+    "Grand Orient de Belgique"
+   ],
+   "titulo": "La constitution (structure de l'obédience)",
+   "ano": 2026,
+   "idioma": "fr",
+   "potencias": [
+    "gobe"
+   ],
+   "paises": [
+    "be"
+   ],
+   "resumo": "Estrutura democrática do Grande Oriente da Bélgica segundo seus Estatutos e Regulamentos Gerais, com lojas masculinas, mistas e uma exclusivamente feminina sob a mesma obediência.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/gobe-2026-constitution.html",
+    "txt/gobe-2026-constitution.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://gob.be/la-constitution/",
+   "evidencias": [
+    "https://gob.be/la-constitution/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "principios",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1717_1750",
+    "p1751_1813",
+    "p1814_1870",
+    "p1871_1918"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "gobe-2026-historique",
+   "autores": [
+    "Grand Orient de Belgique"
+   ],
+   "titulo": "Historique",
+   "ano": 2026,
+   "idioma": "fr",
+   "potencias": [
+    "gobe"
+   ],
+   "paises": [
+    "be",
+    "nl"
+   ],
+   "resumo": "Histórico do Grande Oriente da Bélgica: lojas atestadas desde 1721–1740 (Mons, Gante, Tournai, Bruxelas), Grande Loja Provincial ligada ao Grande Oriente dos Países Baixos até 1830, criação do GOB-be em 1832–1833 e a supressão, em 1872, da referência obrigatória ao Grande Arquiteto, antes do GOdF (1877).",
+   "observacoes": "'gobe' é código proposto para a taxonomia.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/gobe-2026-historique.html",
+    "txt/gobe-2026-historique.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://gob.be/historique/",
+   "evidencias": [
+    "https://gob.be/historique/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
     "principios"
    ],
    "periodos": [
@@ -942,6 +2833,203 @@
    "url": "https://godf.org/qui-sommes-nous/",
    "evidencias": [
     "https://godf.org/qui-sommes-nous/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "documentos_fundadores",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "goi-2021-antichi-doveri-pdf",
+   "autores": [
+    "Grande Oriente d'Italia"
+   ],
+   "titulo": "Antichi Doveri, Costituzione e Regolamento dell'Ordine (ed. 2021)",
+   "ano": 2021,
+   "idioma": "it",
+   "potencias": [
+    "goi"
+   ],
+   "paises": [
+    "it"
+   ],
+   "resumo": "Corpo normativo oficial do GOI em PDF: Antigos Deveres, Constituição e Regulamento, com declarações sobre a regularidade de origem do GOI (fundado em 1805 por corpo maçônico reconhecido) e deliberação da Gran Loggia de 21/3/1987 sobre princípios de reconhecimento inspirados em Anderson (1723).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/goi-2021-antichi-doveri-pdf.pdf",
+    "txt/goi-2021-antichi-doveri-pdf.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.grandeoriente.it/wp-content/uploads/2022/03/Antichi_doveri_2021.pdf",
+   "evidencias": [
+    "https://www.grandeoriente.it/wp-content/uploads/2022/03/Antichi_doveri_2021.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "documentos_fundadores",
+    "principios"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "goi-2026-antichi-doveri",
+   "autores": [
+    "Grande Oriente d'Italia"
+   ],
+   "titulo": "Antichi Doveri",
+   "ano": 2026,
+   "idioma": "it",
+   "potencias": [
+    "goi"
+   ],
+   "paises": [
+    "it"
+   ],
+   "resumo": "Versão oficial em italiano dos 'Antigos Deveres' (Old Charges das Constituições de Anderson) adotada pelo GOI como parte de seu corpo normativo, com link para o PDF da edição de 2021.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/goi-2026-antichi-doveri.html",
+    "txt/goi-2026-antichi-doveri.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.grandeoriente.it/chi-siamo/antichi-doveri/",
+   "evidencias": [
+    "https://www.grandeoriente.it/chi-siamo/antichi-doveri/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "principios"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "goi-2026-identita",
+   "autores": [
+    "Grande Oriente d'Italia"
+   ],
+   "titulo": "Identità del Grande Oriente d'Italia",
+   "ano": 2026,
+   "idioma": "it",
+   "potencias": [
+    "goi",
+    "cimal"
+   ],
+   "paises": [
+    "it"
+   ],
+   "resumo": "Declaração de identidade do GOI extraída de sua Constituição (ed. Gran Loggia 2018) e informação de que o GOI integra a Confederação Maçônica Interamericana (fundada em 14/4/1947, 84 potências em 26 países das Américas e do Caribe).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/goi-2026-identita.html",
+    "txt/goi-2026-identita.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.grandeoriente.it/chi-siamo/identita-del-grande-oriente-d-italia/",
+   "evidencias": [
+    "https://www.grandeoriente.it/chi-siamo/identita-del-grande-oriente-d-italia/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "goi-2026-logge",
+   "autores": [
+    "Grande Oriente d'Italia"
+   ],
+   "titulo": "Le Logge",
+   "ano": 2026,
+   "idioma": "it",
+   "potencias": [
+    "goi"
+   ],
+   "paises": [
+    "it"
+   ],
+   "resumo": "Página do GOI com a organização das lojas por colégios regionais e lista de oficinas; base para dados de distribuição territorial.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/goi-2026-logge.html",
+    "txt/goi-2026-logge.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.grandeoriente.it/chi-siamo/le-logge/",
+   "evidencias": [
+    "https://www.grandeoriente.it/chi-siamo/le-logge/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "politica",
+    "personalidades"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870",
+    "p1871_1918",
+    "p1919_1945",
+    "p1946_1989"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "goi-2026-storia",
+   "autores": [
+    "Grande Oriente d'Italia"
+   ],
+   "titulo": "Storia in Italia",
+   "ano": 2026,
+   "idioma": "it",
+   "potencias": [
+    "goi"
+   ],
+   "paises": [
+    "it"
+   ],
+   "resumo": "Síntese oficial da história da maçonaria italiana: lojas do séc. XVIII sob influências inglesa, francesa e alemã, o Grande Oriente napoleônico (1805), dispersão na Restauração, refundação com a loja Ausonia de Turim (1859) no Risorgimento, Garibaldi grão-mestre (1864), Ernesto Nathan e a sede no Palazzo Giustiniani (1901), supressão fascista e reconstrução no pós-guerra.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/goi-2026-storia.html",
+    "txt/goi-2026-storia.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.grandeoriente.it/chi-siamo/la-storia/",
+   "evidencias": [
+    "https://www.grandeoriente.it/chi-siamo/la-storia/"
    ]
   },
   {
@@ -985,6 +3073,263 @@
    ]
   },
   {
+   "categoria": "historiografia_maconica",
+   "tipo": "artigo",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1871_1918",
+    "p1919_1945",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "icart-2022-wcrmgl-regularidade-reconhecimento",
+   "autores": [
+    "G. Icart"
+   ],
+   "titulo": "Relações maçônicas internacionais: regularidade e reconhecimento",
+   "ano": 2022,
+   "idioma": "pt",
+   "potencias": [
+    "glnf",
+    "ugle",
+    "godf",
+    "cmi"
+   ],
+   "paises": [
+    "fr",
+    "gb",
+    "mundo"
+   ],
+   "resumo": "Comunicação de representante da GLNF que examina historicamente os critérios de regularidade e reconhecimento entre grandes lojas, as rupturas (como a do GOdF em 1877) e a lógica das relações internacionais maçônicas.",
+   "observacoes": "Tradução pt (CMSB); ano inferido.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/icart-2022-wcrmgl-regularidade-reconhecimento.pdf",
+    "txt/icart-2022-wcrmgl-regularidade-reconhecimento.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21449/x.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21449/x.pdf"
+   ]
+  },
+  {
+   "categoria": "historiografia_maconica",
+   "tipo": "artigo",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias"
+   ],
+   "periodos": [
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "macedo-2022-wcrmgl-cmi-80-anos",
+   "autores": [
+    "Geraldo Macedo"
+   ],
+   "titulo": "Conhecer a CMI: rumo aos 80 anos",
+   "ano": 2022,
+   "idioma": "pt",
+   "potencias": [
+    "cimal"
+   ],
+   "paises": [
+    "al",
+    "mundo"
+   ],
+   "resumo": "Apresentação da Confederação Maçônica Interamericana, fundada em 1947 para unir a maçonaria latino-americana após a ruptura europeia da Segunda Guerra, descrita após 75 anos como a maior organização maçônica do mundo, com quase cem grandes lojas nas Américas, no Caribe e na Europa.",
+   "observacoes": "Na taxonomia, a Confederação Interamericana tem o código 'cimal'; a sigla usada pela própria entidade é CMI (não confundir com 'cmi' = Conferência Mundial).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/macedo-2022-wcrmgl-cmi-80-anos.pdf",
+    "txt/macedo-2022-wcrmgl-cmi-80-anos.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21457/x.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21457/x.pdf"
+   ]
+  },
+  {
+   "categoria": "historiografia_maconica",
+   "tipo": "artigo",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "mombo-2022-wcrmgl-regulares-irregulares",
+   "autores": [
+    "Lin Mombo"
+   ],
+   "titulo": "Grandes lojas regulares, grandes lojas irregulares: reconhecimento, direitos de visita, divisão de territórios",
+   "ano": 2022,
+   "idioma": "pt",
+   "potencias": [
+    "gl_gabao",
+    "cmi"
+   ],
+   "paises": [
+    "ga",
+    "mundo"
+   ],
+   "resumo": "Comunicação de representante da Grande Loja do Gabão sobre o uso de 'regular' como sinônimo de legítimo, os critérios de reconhecimento, o direito de visita e a partilha territorial, com atenção à situação africana.",
+   "observacoes": "Tradução pt (CMSB); ano inferido.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/mombo-2022-wcrmgl-regulares-irregulares.pdf",
+    "txt/mombo-2022-wcrmgl-regulares-irregulares.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21464/x.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21464/x.pdf"
+   ]
+  },
+  {
+   "categoria": "historiografia_maconica",
+   "tipo": "artigo",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "sanver-2022-wcrmgl-direito-visitar",
+   "autores": [
+    "Sanver"
+   ],
+   "titulo": "Irmão do meu irmão: o direito de visitar",
+   "ano": 2022,
+   "idioma": "pt",
+   "potencias": [
+    "gl_turquia",
+    "cmi"
+   ],
+   "paises": [
+    "tr",
+    "mundo"
+   ],
+   "resumo": "Comunicação de representante da Grande Loja da Turquia sobre o direito de visitação entre lojas de obediências que se reconhecem e seus limites.",
+   "observacoes": "Tradução pt (CMSB); ano inferido; nome completo do autor a conferir.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/sanver-2022-wcrmgl-direito-visitar.pdf",
+    "txt/sanver-2022-wcrmgl-direito-visitar.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21461/x.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21461/x.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "principios"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "sc-sj-2026-creed",
+   "autores": [
+    "Supreme Council, 33°, Southern Jurisdiction, U.S.A."
+   ],
+   "titulo": "Scottish Rite Creed & Mission Statement",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "sc_sj"
+   ],
+   "ritos": [
+    "reaa"
+   ],
+   "paises": [
+    "us"
+   ],
+   "resumo": "Credo e declaração de missão oficiais do Supremo Conselho da Jurisdição Sul dos EUA, com portais para a Scottish Rite Research Society e a fundação do rito.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/sc-sj-2026-creed.html",
+    "txt/sc-sj-2026-creed.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://scottishrite.org/about/our-creed-mission-statement/",
+   "evidencias": [
+    "https://scottishrite.org/about/our-creed-mission-statement/"
+   ]
+  },
+  {
+   "categoria": "historiografia_maconica",
+   "tipo": "pagina",
+   "confiabilidade": "B",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "ritos",
+    "graus",
+    "historiografia"
+   ],
+   "periodos": [
+    "p1717_1750",
+    "p1751_1813"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "sc-sj-2026-history",
+   "autores": [
+    "Supreme Council, 33°, Southern Jurisdiction, U.S.A."
+   ],
+   "titulo": "History of the Rite",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "sc_sj",
+    "ugle"
+   ],
+   "ritos": [
+    "reaa",
+    "perfeicao"
+   ],
+   "paises": [
+    "us",
+    "gb",
+    "fr"
+   ],
+   "resumo": "Ensaio histórico do Supremo Conselho da Jurisdição Sul (Charleston/Washington) sobre as raízes do REAA: fundação da Grande Loja de 1717, evolução de dois para três graus (Edinburgh Register House MS, 1696; menção ao grau de companheiro em 1725), 'Scotts Masons Lodge' de Londres (lista de Rawlinson, 1733) e desenvolvimento dos altos graus até a criação do Supremo Conselho em 1801.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/sc-sj-2026-history.html",
+    "txt/sc-sj-2026-history.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://scottishrite.org/about/history/",
+   "evidencias": [
+    "https://scottishrite.org/about/history/"
+   ]
+  },
+  {
    "categoria": "oficial_potencia",
    "tipo": "pagina",
    "confiabilidade": "C",
@@ -1024,6 +3369,132 @@
    "url": "https://www.supremoconselho.org.br/",
    "evidencias": [
     "https://www.supremoconselho.org.br/"
+   ]
+  },
+  {
+   "categoria": "historiografia_maconica",
+   "tipo": "artigo",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "schoen-2022-wcrmgl-grande-loja-alemanha",
+   "autores": [
+    "N. Schoen"
+   ],
+   "titulo": "O grão-mestre e a Grande Loja Simbólica da Alemanha",
+   "ano": 2022,
+   "idioma": "pt",
+   "potencias": [
+    "vglvd",
+    "cmi"
+   ],
+   "paises": [
+    "de"
+   ],
+   "resumo": "Comunicação sobre o papel do grão-mestre e a organização da maçonaria simbólica alemã (federação das Grandes Lojas Unidas da Alemanha).",
+   "observacoes": "Tradução pt (CMSB); ano inferido.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/schoen-2022-wcrmgl-grande-loja-alemanha.pdf",
+    "txt/schoen-2022-wcrmgl-grande-loja-alemanha.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21448/x.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21448/x.pdf"
+   ]
+  },
+  {
+   "categoria": "historiografia_maconica",
+   "tipo": "artigo",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "historiografia"
+   ],
+   "periodos": [
+    "p1871_1918",
+    "p1919_1945",
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "segev-2022-wcrmgl-maconaria-israel",
+   "autores": [
+    "I. Segev"
+   ],
+   "titulo": "A maçonaria em Israel: passado, presente e futuro",
+   "ano": 2022,
+   "idioma": "pt",
+   "potencias": [
+    "gl_israel",
+    "cmi"
+   ],
+   "paises": [
+    "il"
+   ],
+   "resumo": "Comunicação de um representante da Grande Loja do Estado de Israel à Conferência Mundial de Grandes Lojas Regulares sobre a história da maçonaria na Terra Santa e a formação e o presente da grande loja israelense.",
+   "observacoes": "Tradução portuguesa publicada pela CMSB. Ano inferido (XVIII Conferência Mundial, Jerusalém; outro texto da série fala nos 75 anos da CMI, fundada em 1947); conferir.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/segev-2022-wcrmgl-maconaria-israel.pdf",
+    "txt/segev-2022-wcrmgl-maconaria-israel.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21445/x.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21445/x.pdf"
+   ]
+  },
+  {
+   "categoria": "historiografia_maconica",
+   "tipo": "artigo",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "historiografia"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1871_1918",
+    "p1946_1989"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "smith-2022-wcrmgl-grande-loja-africa-sul",
+   "autores": [
+    "John Smith"
+   ],
+   "titulo": "O conceito de amizade e seu impacto na formação da Grande Loja da África do Sul",
+   "ano": 2022,
+   "idioma": "pt",
+   "potencias": [
+    "gl_africa_sul",
+    "ugle",
+    "gl_escocia",
+    "gl_irlanda"
+   ],
+   "paises": [
+    "za"
+   ],
+   "resumo": "Comunicação sobre a coexistência, na África do Sul, de lojas de várias constituições (holandesa, inglesa, escocesa, irlandesa) e o papel das relações de 'amity' na formação da Grande Loja da África do Sul.",
+   "observacoes": "Tradução pt (CMSB); ano inferido.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/smith-2022-wcrmgl-grande-loja-africa-sul.pdf",
+    "txt/smith-2022-wcrmgl-grande-loja-africa-sul.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21462/x.pdf",
+   "evidencias": [
+    "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21462/x.pdf"
    ]
   },
   {
@@ -1228,6 +3699,53 @@
    "url": "https://www.ugle.org.uk/discover-freemasonry/history-freemasonry",
    "evidencias": [
     "https://www.ugle.org.uk/discover-freemasonry/history-freemasonry"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "politica"
+   ],
+   "periodos": [
+    "p1717_1750",
+    "p1751_1813",
+    "p1871_1918",
+    "p1919_1945",
+    "p1946_1989"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "vglvd-2026-gruendungsgeschichte",
+   "autores": [
+    "Vereinigte Großlogen von Deutschland"
+   ],
+   "titulo": "Geschichte der Freimaurerei in Deutschland seit 1737",
+   "ano": 2026,
+   "idioma": "de",
+   "potencias": [
+    "vglvd"
+   ],
+   "ritos": [
+    "schroder",
+    "zinnendorf"
+   ],
+   "paises": [
+    "de"
+   ],
+   "resumo": "História oficial das Grandes Lojas Unidas da Alemanha: chegada da maçonaria em 1737, fragmentação territorial, as três grandes lojas 'velho-prussianas' (Drei Weltkugeln, Große Landesloge 1770, Royal York), as de Saxônia e Baviera, perseguição nazista e a formação da federação VGLvD no pós-guerra.",
+   "observacoes": "'vglvd' é código proposto para a taxonomia.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/vglvd-2026-gruendungsgeschichte.html",
+    "txt/vglvd-2026-gruendungsgeschichte.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.freimaurer.org/gruendungsgeschichte/",
+   "evidencias": [
+    "https://www.freimaurer.org/gruendungsgeschichte/"
    ]
   }
  ]
