@@ -2251,8 +2251,10 @@
         "p1919_1945"
       ],
       "lote": "c07-doutrina",
-      "status_verificacao": "conferido_web",
-      "observacoes": "Cópia falhou em 2026-11-03: curl https://archive.org/download/bub_gb_BWsCgPVuAAIC/bub_gb_BWsCgPVuAAIC_djvu.txt: curl: (22) The requested URL returne"
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/wolfstieg-1922-philosophie-freimaurerei.txt"
+      ]
     },
     {
       "id": "civilta-1890-massoneria-odia-chiesa",
@@ -2658,6 +2660,386 @@
       "acervo": [
         "txt/antunes-1918-maconaria-iniciatica.txt"
       ]
+    },
+    {
+      "id": "saint-martin-1782-erreurs-verite",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Louis-Claude de Saint-Martin"
+      ],
+      "titulo": "Des erreurs et de la vérité, ou Les hommes rappelés au principe universel de la science",
+      "ano": 1782,
+      "idioma": "fr",
+      "url": "https://archive.org/details/bub_gb_FrNiPKzEq6cC",
+      "temas": [
+        "esoterismo"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Obra do \"Filósofo Desconhecido\" (1ª ed. 1775), discípulo de Martinès de Pasqually: expõe a doutrina da queda e reintegração do homem que inspirou o martinismo e influenciou Willermoz e o Rito Escocês Retificado.",
+      "evidencias": [
+        "https://archive.org/details/bub_gb_FrNiPKzEq6cC"
+      ],
+      "identificadores": {
+        "ia": "bub_gb_FrNiPKzEq6cC"
+      },
+      "ritos": [
+        "rer"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "observacoes": "Edição de 1782; 1ª edição 1775 (\"Edimbourg\" [Lyon]).",
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/saint-martin-1782-erreurs-verite.txt",
+        "pdf/saint-martin-1782-erreurs-verite.pdf"
+      ]
+    },
+    {
+      "id": "beswick-1870-swedenborg-rite",
+      "tipo": "livro",
+      "categoria": "divulgacao",
+      "autores": [
+        "Samuel Beswick"
+      ],
+      "titulo": "The Swedenborg Rite and the Great Masonic Leaders of the Eighteenth Century",
+      "ano": 1870,
+      "idioma": "en",
+      "url": "https://archive.org/details/swedenborgritegr00besw",
+      "temas": [
+        "esoterismo",
+        "ritos"
+      ],
+      "confiabilidade": "D",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Livro do promotor do \"Rito de Swedenborg\" nos EUA/Canadá que tenta ligar Emanuel Swedenborg a líderes maçônicos do séc. XVIII; documento da apropriação de Swedenborg pelo esoterismo maçônico, sem base documental sólida.",
+      "evidencias": [
+        "https://archive.org/details/swedenborgritegr00besw"
+      ],
+      "identificadores": {
+        "ia": "swedenborgritegr00besw"
+      },
+      "ritos": [
+        "outros_ritos"
+      ],
+      "paises": [
+        "us",
+        "gb",
+        "se"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/beswick-1870-swedenborg-rite.txt",
+        "pdf/beswick-1870-swedenborg-rite.pdf"
+      ]
+    },
+    {
+      "id": "hierold-1986-katholische-kirche-freimaurerei",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Alfred E. Hierold"
+      ],
+      "titulo": "Katholische Kirche und Freimaurerei: Anmerkungen zu einer Erklärung der Kongregation für die Glaubenslehre",
+      "ano": 1986,
+      "idioma": "de",
+      "url": "https://mthz.ub.uni-muenchen.de/MThZ/article/download/1986H2S87-96/5117/7146",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (MThZ, UB LMU)",
+      "resumo": "O canonista A. E. Hierold analisa a Declaração da CDF de 26/11/1983 à luz do novo Código (cân. 1374) e da declaração da Conferência Episcopal Alemã de 1980, discutindo seu alcance jurídico e a natureza da pena.",
+      "evidencias": [
+        "https://mthz.ub.uni-muenchen.de/MThZ/article/download/1986H2S87-96/5117/7146"
+      ],
+      "periodico": "Münchener Theologische Zeitschrift",
+      "volume": "37 (1986), H. 2",
+      "paginas": "87–96",
+      "paises": [
+        "de",
+        "va"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/hierold-1986-katholische-kirche-freimaurerei.txt",
+        "pdf/hierold-1986-katholische-kirche-freimaurerei.pdf"
+      ]
+    },
+    {
+      "id": "schrefler-2009-katholische-kirche-freimaurerei",
+      "tipo": "tese",
+      "categoria": "tese",
+      "autores": [
+        "Harald Schrefler"
+      ],
+      "titulo": "Die katholische Kirche und die Freimaurerei: ein dokumentarischer Rückblick und die Dialoge in Österreich im 20. und 21. Jahrhundert",
+      "ano": 2009,
+      "idioma": "de",
+      "url": "https://utheses-gateway.univie.ac.at/apiFulltext/document/get/file/4241",
+      "temas": [
+        "religiao",
+        "potencias"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (u:theses, Universität Wien)",
+      "resumo": "Tese de doutorado (Universidade de Viena) que reconstitui documentalmente a relação Igreja–maçonaria e, sobretudo, os diálogos oficiais entre a Igreja austríaca e a Grande Loja da Áustria (Comissão de Lichtenau 1970, contatos posteriores) e a pastoral pós-1983.",
+      "evidencias": [
+        "https://utheses-gateway.univie.ac.at/apiFulltext/document/get/file/4241"
+      ],
+      "paises": [
+        "at",
+        "va"
+      ],
+      "periodos": [
+        "p1946_1989",
+        "p1990_hoje"
+      ],
+      "observacoes": "Ano estimado pelo repositório u:theses (id 4241); conferir folha de rosto.",
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/schrefler-2009-katholische-kirche-freimaurerei.txt",
+        "pdf/schrefler-2009-katholische-kirche-freimaurerei.pdf"
+      ]
+    },
+    {
+      "id": "ravasi-2016-cari-fratelli-massoni",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Gianfranco Ravasi"
+      ],
+      "titulo": "Cari fratelli massoni (The Church & The Lodge: Dear Brethren Masons) — tradução inglesa",
+      "ano": 2016,
+      "idioma": "en",
+      "url": "https://www.grandeoriente.it/wp-content/uploads/2016/02/Dear-Brethren-Masons-by-Cardinal-Ravasi.pdf",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "B",
+      "acesso": "oficial_publico",
+      "licenca": "© Il Sole 24 Ore (original); tradução publicada pelo GOI — cópia só para estudo",
+      "resumo": "Artigo do cardeal Ravasi (Pontifício Conselho da Cultura) no Il Sole 24 Ore de 14/2/2016: reafirma a incompatibilidade doutrinal mas propõe diálogo sobre valores comuns (caridade, luta contra o materialismo, dimensão comunitária); tradução inglesa publicada pelo Grande Oriente d'Italia.",
+      "evidencias": [
+        "https://www.grandeoriente.it/wp-content/uploads/2016/02/Dear-Brethren-Masons-by-Cardinal-Ravasi.pdf"
+      ],
+      "potencias": [
+        "goi"
+      ],
+      "paises": [
+        "it",
+        "va"
+      ],
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/ravasi-2016-cari-fratelli-massoni.txt",
+        "pdf/ravasi-2016-cari-fratelli-massoni.pdf"
+      ]
+    },
+    {
+      "id": "glfp-2014-maconaria-feminina-portugal",
+      "tipo": "documento",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "Grande Loja Feminina de Portugal"
+      ],
+      "titulo": "A Maçonaria feminina em Portugal (comunicação em Bielefeld, 5/7/2014)",
+      "ano": 2014,
+      "idioma": "pt",
+      "url": "https://www.glfp.pt/_files/ugd/ccc096_e69189c2bf8646088a2cc383ceedbb86.pdf",
+      "temas": [
+        "mulheres",
+        "potencias"
+      ],
+      "confiabilidade": "C",
+      "acesso": "oficial_publico",
+      "licenca": "publicação institucional pública",
+      "resumo": "Texto institucional da GLFP sobre sua origem (lojas femininas criadas em 1983 sob a GLFF, fundação da GLFP em 29/3/1997) e sobre antecedentes da presença feminina na maçonaria portuguesa (lojas de adoção, iniciadas da I República).",
+      "evidencias": [
+        "https://www.glfp.pt/_files/ugd/ccc096_e69189c2bf8646088a2cc383ceedbb86.pdf"
+      ],
+      "potencias": [
+        "glff"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1946_1989",
+        "p1990_hoje"
+      ],
+      "observacoes": "Código de potência feminina_pt proposto (não está na taxonomia).",
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/glfp-2014-maconaria-feminina-portugal.txt",
+        "pdf/glfp-2014-maconaria-feminina-portugal.pdf"
+      ]
+    },
+    {
+      "id": "glfp-s-d-carolina-beatriz-angelo",
+      "tipo": "documento",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "Grande Loja Feminina de Portugal"
+      ],
+      "titulo": "Carolina Beatriz Ângelo: a sufragista (1877–1911)",
+      "ano": null,
+      "idioma": "pt",
+      "url": "https://www.glfp.pt/_files/ugd/ccc096_2d74774f11e6499db0c760e2a5b61de0.pdf",
+      "temas": [
+        "mulheres",
+        "personalidades"
+      ],
+      "confiabilidade": "C",
+      "acesso": "oficial_publico",
+      "licenca": "publicação institucional pública",
+      "resumo": "Nota biográfica publicada pela GLFP sobre Carolina Beatriz Ângelo, médica, sufragista (primeira mulher a votar em Portugal, 1911) e maçona na I República; exemplo de iniciação feminina no Portugal republicano.",
+      "evidencias": [
+        "https://www.glfp.pt/_files/ugd/ccc096_2d74774f11e6499db0c760e2a5b61de0.pdf"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "observacoes": "Sem data; a afirmação de iniciação deve ser conferida com fonte documental (regra 6).",
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/glfp-s-d-carolina-beatriz-angelo.txt",
+        "pdf/glfp-s-d-carolina-beatriz-angelo.pdf"
+      ]
+    },
+    {
+      "id": "obk-1992-amtsblatt-freimaurer",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Österreichische Bischofskonferenz"
+      ],
+      "titulo": "Freimaurer (Amtsblatt der Österreichischen Bischofskonferenz, Nr. 8, 2/12/1992, II.3)",
+      "ano": 1992,
+      "idioma": "de",
+      "url": "https://www.uibk.ac.at/de/praktheol/kirchenrecht/teilkirchenrecht/oebiko/freimaurer/",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "oficial_publico",
+      "licenca": "página pública (Universität Innsbruck)",
+      "resumo": "O boletim oficial da Conferência Episcopal austríaca republica, a pedido, a Declaração da CDF de 1983: o juízo negativo sobre a maçonaria permanece apesar do silêncio do novo Código, os fiéis inscritos estão em pecado grave e autoridades locais não podem derrogar. Reproduzido na documentação do direito particular austríaco da Univ. de Innsbruck.",
+      "evidencias": [
+        "https://www.uibk.ac.at/de/praktheol/kirchenrecht/teilkirchenrecht/oebiko/freimaurer/"
+      ],
+      "paises": [
+        "at"
+      ],
+      "periodos": [
+        "p1946_1989",
+        "p1990_hoje"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/obk-1992-amtsblatt-freimaurer.txt",
+        "html/obk-1992-amtsblatt-freimaurer.html"
+      ]
+    },
+    {
+      "id": "masonicmouse-2019-motion-1877",
+      "tipo": "pagina",
+      "categoria": "divulgacao",
+      "autores": [
+        "Masonic Mouse (blog)"
+      ],
+      "titulo": "The Motion of 1877: How the Grand Orient de France really became adogmatic",
+      "ano": 2019,
+      "idioma": "en",
+      "url": "https://masonicmouse.org/2019/03/19/the-motion-of-1877-how-the-grande-orient-de-france-really-became-adogmatic/",
+      "temas": [
+        "principios",
+        "regularidade"
+      ],
+      "confiabilidade": "D",
+      "acesso": "aberto",
+      "licenca": "todos os direitos reservados (blog)",
+      "resumo": "Post de blog que revisita o voto IX de 1877 (proposto pela loja La Fraternité progressive de Villefranche e defendido por Frédéric Desmons): argumenta que a moção suprimiu a obrigação dogmática de crer em Deus e na imortalidade, e não o Grande Arquiteto em si; pista para buscar as atas do convento.",
+      "evidencias": [
+        "https://masonicmouse.org/2019/03/19/the-motion-of-1877-how-the-grande-orient-de-france-really-became-adogmatic/"
+      ],
+      "potencias": [
+        "godf",
+        "ugle"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/masonicmouse-2019-motion-1877.txt",
+        "html/masonicmouse-2019-motion-1877.html"
+      ]
+    },
+    {
+      "id": "dbk-1980-erklaerung-freimaurerei",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Deutsche Bischofskonferenz"
+      ],
+      "titulo": "Erklärung der Deutschen Bischofskonferenz zur Frage der Mitgliedschaft von Katholiken in der Freimaurerei (12/5/1980)",
+      "ano": 1980,
+      "idioma": "de",
+      "url": "https://coramfratribus.com/wp-content/uploads/2026/06/Erklarung-zur-Freimaurerei-DBK-1980.pdf",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "oficial_publico",
+      "licenca": "texto oficial (DBK)",
+      "resumo": "Declaração dos bispos alemães após diálogos oficiais (1974–1980) com as Grandes Lojas Unidas da Alemanha: após exame dos rituais dos três graus, conclui pela incompatibilidade entre pertença católica e maçonaria (relativismo, conceito de Deus, ritual iniciático).",
+      "evidencias": [
+        "https://coramfratribus.com/wp-content/uploads/2026/06/Erklarung-zur-Freimaurerei-DBK-1980.pdf"
+      ],
+      "status_verificacao": "pista",
+      "paises": [
+        "de"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "observacoes": "Cópia encontrada em coramfratribus.com protegida por desafio Cloudflare (não contornar); buscar edição oficial (Sekretariat der DBK, Arbeitshilfen) — ver PENDENCIAS.",
+      "lote": "c07-doutrina"
     }
   ]
 }
