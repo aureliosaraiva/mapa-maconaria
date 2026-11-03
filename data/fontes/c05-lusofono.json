@@ -318,6 +318,44 @@
       ]
     },
     {
+      "id": "argus-1910-subsolo-revolucao",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "Argus (pseudônimo)"
+      ],
+      "titulo": "A maçonaria em Portugal: o sub-solo da revolução. Cartas da Bélgica",
+      "ano": 1910,
+      "idioma": "pt",
+      "temas": [
+        "antimaconaria",
+        "politica"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Série anterior das \"Cartas da Bélgica\" (1910) que apresenta a maçonaria e a Carbonária como o \"subsolo\" da revolução republicana portuguesa. Fonte hostil contemporânea do 5 de Outubro.",
+      "evidencias": [
+        "https://archive.org/details/a-mac-onaria-em-portugal"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/a-mac-onaria-em-portugal",
+      "identificadores": {
+        "ia": "a-mac-onaria-em-portugal"
+      },
+      "acervo": [
+        "pdf/argus-1910-subsolo-revolucao.pdf",
+        "txt/argus-1910-subsolo-revolucao.txt"
+      ]
+    },
+    {
       "id": "argus-1916-maconaria-portugal",
       "tipo": "livro",
       "categoria": "antimaconica",
@@ -478,6 +516,41 @@
       ]
     },
     {
+      "id": "aslan-1974-grande-dicionario",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Nicola Aslan"
+      ],
+      "titulo": "Grande dicionário enciclopédico de maçonaria e simbologia",
+      "ano": 1974,
+      "idioma": "pt",
+      "temas": [
+        "simbolismo",
+        "ritos",
+        "personalidades"
+      ],
+      "paises": [
+        "br",
+        "mundo"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "confiabilidade": "C",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Dicionário em vários volumes do historiador maçom Nicola Aslan, muito usado no Brasil para simbologia, ritos e personalidades. Útil como obra de consulta maçônica, a cruzar com fontes acadêmicas.",
+      "editora": "Artenova",
+      "local": "Rio de Janeiro",
+      "url": "https://openlibrary.org/works/OL5923216W",
+      "evidencias": [
+        "https://openlibrary.org/works/OL5923216W"
+      ],
+      "status_verificacao": "conferido_web",
+      "lote": "c05-lusofono"
+    },
+    {
       "id": "assis-2010-etnografia-pedreiros-livres",
       "tipo": "dissertacao",
       "categoria": "tese",
@@ -595,6 +668,46 @@
       "status_verificacao": "conferido_web"
     },
     {
+      "id": "barata-1999-luzes-sombras",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Alexandre Mansur Barata"
+      ],
+      "titulo": "Luzes e sombras: a ação da maçonaria brasileira (1870-1910)",
+      "ano": 1999,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "sociabilidade",
+        "religiao"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Livro derivado da dissertação de mestrado de Barata (Unicamp) sobre a ação da maçonaria brasileira entre a Questão Religiosa e o início da República: laicização, ensino, abolição e república. Clássico da historiografia acadêmica.",
+      "editora": "Editora da Unicamp / Centro de Memória-Unicamp",
+      "local": "Campinas",
+      "url": "https://openlibrary.org/works/OL1012317W",
+      "evidencias": [
+        "https://openlibrary.org/works/OL1012317W"
+      ],
+      "status_verificacao": "conferido_web",
+      "potencias": [
+        "gob"
+      ],
+      "identificadores": {
+        "isbn": "8526804847"
+      },
+      "lote": "c05-lusofono"
+    },
+    {
       "id": "barata-2002-maconaria-sociabilidade-independencia",
       "tipo": "tese",
       "categoria": "tese",
@@ -634,10 +747,91 @@
       ],
       "local": "Campinas",
       "lote": "c05-lusofono",
+      "status_verificacao": "conferido_web",
+      "observacoes": "Coleta automática obteve só página vazia (JS/anti-robô); texto integral não copiado."
+    },
+    {
+      "id": "barata-2006-maconaria-sociabilidade-independencia",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Alexandre Mansur Barata"
+      ],
+      "titulo": "Maçonaria, sociabilidade ilustrada e independência do Brasil (1790-1822)",
+      "ano": 2006,
+      "idioma": "pt",
+      "temas": [
+        "sociabilidade",
+        "politica"
+      ],
+      "paises": [
+        "br",
+        "pt"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Versão em livro da tese de 2002: lojas e sociedades secretas no mundo luso-brasileiro, circulação ilustrada, repressão e papel dos maçons na independência.",
+      "editora": "Editora UFJF / Annablume",
+      "local": "Juiz de Fora / São Paulo",
+      "url": "https://openlibrary.org/works/OL1012318W",
+      "evidencias": [
+        "https://openlibrary.org/works/OL1012318W"
+      ],
+      "status_verificacao": "conferido_web",
+      "potencias": [
+        "gob",
+        "gol"
+      ],
+      "identificadores": {
+        "isbn": "8574196452"
+      },
+      "lote": "c05-lusofono"
+    },
+    {
+      "id": "barata-2013-freemasonry-brazil",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Alexandre Mansur Barata"
+      ],
+      "titulo": "Freemasonry in Brazil (nineteenth century): history and sociability",
+      "ano": 2013,
+      "idioma": "en",
+      "temas": [
+        "sociabilidade",
+        "politica",
+        "historiografia"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-SA (REHMLAC+, Univ. de Costa Rica)",
+      "resumo": "Artigo em inglês de Barata na REHMLAC+ que divide a maçonaria brasileira do séc. XIX em três fases (colonial/luso-brasileira, independência e Império), com ênfase nas lojas como sociabilidade. Ótima síntese para leitores estrangeiros.",
+      "url": "https://revistas.ucr.ac.cr/index.php/rehmlac/article/download/22547/22701",
+      "evidencias": [
+        "https://revistas.ucr.ac.cr/index.php/rehmlac/article/view/22547"
+      ],
+      "potencias": [
+        "gob",
+        "gol"
+      ],
+      "periodico": "REHMLAC+ (Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña)",
+      "lote": "c05-lusofono",
       "status_verificacao": "copiado",
       "acervo": [
-        "html/barata-2002-maconaria-sociabilidade-independencia.html",
-        "txt/barata-2002-maconaria-sociabilidade-independencia.txt"
+        "pdf/barata-2013-freemasonry-brazil.pdf",
+        "txt/barata-2013-freemasonry-brazil.txt"
       ]
     },
     {
@@ -956,6 +1150,48 @@
       ]
     },
     {
+      "id": "castellani-1993-historia-gob",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "José Castellani"
+      ],
+      "titulo": "História do Grande Oriente do Brasil: a maçonaria na história do Brasil",
+      "ano": 1993,
+      "idioma": "pt",
+      "temas": [
+        "potencias",
+        "politica",
+        "historiografia"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918",
+        "p1919_1945",
+        "p1946_1989"
+      ],
+      "confiabilidade": "B",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "História institucional do GOB escrita por seu principal historiador interno, cobrindo da fundação (1822) às cisões do séc. XX. Rica em documentos de arquivo do GOB, mas com perspectiva maçônica; referência obrigatória para datas e atos oficiais.",
+      "editora": "Grande Oriente do Brasil",
+      "local": "Brasília",
+      "url": "https://openlibrary.org/works/OL23326062W",
+      "evidencias": [
+        "https://openlibrary.org/works/OL23326062W"
+      ],
+      "status_verificacao": "conferido_web",
+      "potencias": [
+        "gob"
+      ],
+      "observacoes": "Reedição ampliada com William Almeida de Carvalho: Madras, 2009 (ISBN 9788537004647).",
+      "lote": "c05-lusofono"
+    },
+    {
       "id": "cloclet-carvalho-2019-ultramontanismo",
       "tipo": "artigo",
       "categoria": "academica",
@@ -1068,6 +1304,47 @@
         "pdf/coelho-monteiro-1823-maconismo-desmascarado.pdf",
         "txt/coelho-monteiro-1823-maconismo-desmascarado.txt"
       ]
+    },
+    {
+      "id": "colussi-1998-maconaria-gaucha",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Eliane Lucia Colussi"
+      ],
+      "titulo": "A maçonaria gaúcha no século XIX",
+      "ano": 1998,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "sociabilidade",
+        "religiao"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Estudo regional da maçonaria no Rio Grande do Sul no séc. XIX: lojas, membros, anticlericalismo, republicanismo e ensino. Referência para a história regional da maçonaria brasileira.",
+      "editora": "EdiUPF",
+      "local": "Passo Fundo",
+      "url": "https://openlibrary.org/works/OL1002606W",
+      "evidencias": [
+        "https://openlibrary.org/works/OL1002606W"
+      ],
+      "status_verificacao": "conferido_web",
+      "potencias": [
+        "gob"
+      ],
+      "identificadores": {
+        "isbn": "8586010405"
+      },
+      "lote": "c05-lusofono"
     },
     {
       "id": "colussi-2000-ensino-laico",
@@ -1392,6 +1669,43 @@
       ]
     },
     {
+      "id": "dias-1980-primordios-maconaria-portugal",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Graça da Silva Dias",
+        "José Sebastião da Silva Dias"
+      ],
+      "titulo": "Os primórdios da maçonaria em Portugal",
+      "ano": 1980,
+      "idioma": "pt",
+      "temas": [
+        "origens",
+        "sociabilidade",
+        "antimaconaria"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Obra monumental (INIC, vários tomos) sobre a maçonaria portuguesa do séc. XVIII ao início do XIX, com processos inquisitoriais e de polícia. Base documental para as origens em Portugal.",
+      "editora": "Instituto Nacional de Investigação Científica",
+      "local": "Lisboa",
+      "url": "https://openlibrary.org/works/OL5443817W",
+      "evidencias": [
+        "https://openlibrary.org/works/OL5443817W"
+      ],
+      "status_verificacao": "conferido_web",
+      "lote": "c05-lusofono"
+    },
+    {
       "id": "drey-marcon-2016-educacao-anglicana",
       "tipo": "artigo",
       "categoria": "academica",
@@ -1634,6 +1948,93 @@
       ]
     },
     {
+      "id": "freimaurer-wiki-brasilien",
+      "tipo": "pagina",
+      "categoria": "divulgacao",
+      "autores": [
+        "Freimaurer-Wiki"
+      ],
+      "titulo": "Brasilien",
+      "ano": null,
+      "idioma": "de",
+      "temas": [
+        "potencias",
+        "historiografia"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1814_1870",
+        "p1871_1918",
+        "p1919_1945",
+        "p1946_1989",
+        "p1990_hoje"
+      ],
+      "confiabilidade": "D",
+      "acesso": "oficial_publico",
+      "licenca": "wiki colaborativo (ver termos do site)",
+      "resumo": "Verbete em alemão do Freimaurer-Wiki sobre a maçonaria no Brasil (história, potências, números). Só pista; útil para a recepção germânica e como índice de links.",
+      "url": "https://www.freimaurer-wiki.de/index.php/Brasilien",
+      "evidencias": [
+        "https://www.freimaurer-wiki.de/index.php/Brasilien"
+      ],
+      "potencias": [
+        "gob",
+        "cmsb",
+        "comab"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/freimaurer-wiki-brasilien.html",
+        "txt/freimaurer-wiki-brasilien.txt"
+      ]
+    },
+    {
+      "id": "freimaurer-wiki-portugal",
+      "tipo": "pagina",
+      "categoria": "divulgacao",
+      "autores": [
+        "Freimaurer-Wiki"
+      ],
+      "titulo": "Portugal",
+      "ano": null,
+      "idioma": "de",
+      "temas": [
+        "potencias",
+        "historiografia"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1814_1870",
+        "p1871_1918",
+        "p1919_1945",
+        "p1946_1989",
+        "p1990_hoje"
+      ],
+      "confiabilidade": "D",
+      "acesso": "oficial_publico",
+      "licenca": "wiki colaborativo (ver termos do site)",
+      "resumo": "Verbete em alemão do Freimaurer-Wiki sobre a maçonaria em Portugal (GOL, GLLP/GLRP, história). Só pista.",
+      "url": "https://www.freimaurer-wiki.de/index.php/Portugal",
+      "evidencias": [
+        "https://www.freimaurer-wiki.de/index.php/Portugal"
+      ],
+      "potencias": [
+        "gol",
+        "glrp"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/freimaurer-wiki-portugal.html",
+        "txt/freimaurer-wiki-portugal.txt"
+      ]
+    },
+    {
       "id": "gamba-torres-2016-resenha",
       "tipo": "artigo",
       "categoria": "academica",
@@ -1667,6 +2068,44 @@
       "volume": "7(2)",
       "lote": "c05-lusofono",
       "status_verificacao": "conferido_web"
+    },
+    {
+      "id": "garibaldi-1860-memorias-v1",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Giuseppe Garibaldi",
+        "Alexandre Dumas (ed.)"
+      ],
+      "titulo": "Memorias de José Garibaldi, volume 1",
+      "ano": 1860,
+      "idioma": "pt",
+      "temas": [
+        "personalidades",
+        "politica"
+      ],
+      "paises": [
+        "br",
+        "uy",
+        "it"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (Project Gutenberg)",
+      "resumo": "Tradução portuguesa (Lisboa, 1860) das memórias de Garibaldi organizadas por Dumas, incluindo o período na Revolução Farroupilha; fonte primária para o mito e a atuação de Garibaldi, maçom, no Rio Grande do Sul.",
+      "url": "https://www.gutenberg.org/ebooks/52847.txt.utf-8",
+      "evidencias": [
+        "https://www.gutenberg.org/ebooks/52847"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/garibaldi-1860-memorias-v1.html",
+        "txt/garibaldi-1860-memorias-v1.txt"
+      ]
     },
     {
       "id": "goaa-1948-revista-maconica",
@@ -1749,6 +2188,44 @@
       "acervo": [
         "pdf/gob-1882-boletim-n2.pdf",
         "txt/gob-1882-boletim-n2.txt"
+      ]
+    },
+    {
+      "id": "goetz-1903-maconaria-sete-setembro",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Goetz de Carvalho"
+      ],
+      "titulo": "A maçonaria e o Sete de Setembro",
+      "ano": 1903,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "personalidades"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "C",
+      "acesso": "aberto",
+      "licenca": "a confirmar (publicado em 1903; data de morte do autor desconhecida)",
+      "resumo": "Opúsculo de 1903 sobre o papel atribuído à maçonaria na independência do Brasil; representa a memória maçônica da Independência no início da República.",
+      "evidencias": [
+        "https://archive.org/details/a-maconaria-e-o-sete-de-setembro"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/a-maconaria-e-o-sete-de-setembro",
+      "identificadores": {
+        "ia": "a-maconaria-e-o-sete-de-setembro"
+      },
+      "acervo": [
+        "pdf/goetz-1903-maconaria-sete-setembro.pdf",
+        "txt/goetz-1903-maconaria-sete-setembro.txt"
       ]
     },
     {
@@ -2005,11 +2482,8 @@
       ],
       "local": "São Paulo",
       "lote": "c05-lusofono",
-      "status_verificacao": "copiado",
-      "acervo": [
-        "html/gomez-2022-vigilancia-patria.html",
-        "txt/gomez-2022-vigilancia-patria.txt"
-      ]
+      "status_verificacao": "conferido_web",
+      "observacoes": "Coleta automática obteve só página vazia (JS/anti-robô); texto integral não copiado."
     },
     {
       "id": "goncalves-2012-periodismo-maconico",
@@ -2644,6 +3118,45 @@
       ]
     },
     {
+      "id": "macedo-costa-1886-questao-religiosa-santa-se",
+      "tipo": "livro",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Antônio de Macedo Costa"
+      ],
+      "titulo": "A questão religiosa do Brazil perante a Santa Sé, ou a missão especial a Roma em 1873",
+      "ano": 1886,
+      "idioma": "pt",
+      "temas": [
+        "religiao",
+        "politica"
+      ],
+      "paises": [
+        "br",
+        "va"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "D. Macedo Costa publica documentos e sua versão da missão Penedo a Roma (1873), em que o governo imperial buscou obter da Santa Sé a desautorização dos bispos. Fonte para a dimensão diplomática do conflito.",
+      "evidencias": [
+        "https://archive.org/details/questoreligios00cost"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/questoreligios00cost",
+      "identificadores": {
+        "ia": "questoreligios00cost"
+      },
+      "acervo": [
+        "pdf/macedo-costa-1886-questao-religiosa-santa-se.pdf",
+        "txt/macedo-costa-1886-questao-religiosa-santa-se.txt"
+      ]
+    },
+    {
       "id": "magalhaes-2017-cacador-pedreiros-livres",
       "tipo": "artigo",
       "categoria": "academica",
@@ -2849,6 +3362,86 @@
       ]
     },
     {
+      "id": "morel-2005-transformacoes-espacos-publicos",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Marco Morel"
+      ],
+      "titulo": "As transformações dos espaços públicos: imprensa, atores políticos e sociabilidades na cidade imperial (1820-1840)",
+      "ano": 2005,
+      "idioma": "pt",
+      "temas": [
+        "sociabilidade",
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Estudo das formas de sociabilidade política no Rio de Janeiro entre 1820 e 1840 (imprensa, associações, sociedades secretas e maçonaria). Referência para a maçonaria no Primeiro Reinado e Regência.",
+      "editora": "Hucitec",
+      "local": "São Paulo",
+      "url": "https://openlibrary.org/works/OL4907414W",
+      "evidencias": [
+        "https://openlibrary.org/works/OL4907414W"
+      ],
+      "status_verificacao": "conferido_web",
+      "identificadores": {
+        "isbn": "8527106647"
+      },
+      "lote": "c05-lusofono"
+    },
+    {
+      "id": "morel-souza-2008-poder-maconaria",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Marco Morel",
+        "Françoise Jean de Oliveira Souza"
+      ],
+      "titulo": "O poder da maçonaria: a história de uma sociedade secreta no Brasil",
+      "ano": 2008,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "potencias",
+        "historiografia"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918",
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Síntese de divulgação acadêmica sobre a história política da maçonaria no Brasil da colônia à República, por dois historiadores universitários. Boa porta de entrada, com bibliografia.",
+      "editora": "Nova Fronteira",
+      "local": "Rio de Janeiro",
+      "url": "https://openlibrary.org/works/OL18628330W",
+      "evidencias": [
+        "https://openlibrary.org/works/OL18628330W"
+      ],
+      "status_verificacao": "conferido_web",
+      "potencias": [
+        "gob"
+      ],
+      "identificadores": {
+        "isbn": "8520920810"
+      },
+      "lote": "c05-lusofono"
+    },
+    {
       "id": "moreno-2021-maconaria-insurreicao",
       "tipo": "artigo",
       "categoria": "academica",
@@ -2976,6 +3569,46 @@
       ]
     },
     {
+      "id": "oliveira-marques-1986-dicionario",
+      "tipo": "livro",
+      "categoria": "enciclopedia",
+      "autores": [
+        "António Henrique de Oliveira Marques"
+      ],
+      "titulo": "Dicionário de maçonaria portuguesa",
+      "ano": 1986,
+      "idioma": "pt",
+      "temas": [
+        "personalidades",
+        "potencias",
+        "historiografia"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918",
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Dicionário em dois volumes com verbetes de lojas, obediências, personalidades e termos da maçonaria portuguesa, baseado em arquivo. Obra de referência indispensável para Portugal.",
+      "editora": "Editorial Delta",
+      "local": "Lisboa",
+      "url": "https://openlibrary.org/works/OL1638315W",
+      "evidencias": [
+        "https://openlibrary.org/works/OL1638315W"
+      ],
+      "status_verificacao": "conferido_web",
+      "potencias": [
+        "gol"
+      ],
+      "lote": "c05-lusofono"
+    },
+    {
       "id": "oliveira-marques-1989-masoneria-portugal-xviii",
       "tipo": "artigo",
       "categoria": "academica",
@@ -3017,6 +3650,47 @@
       ]
     },
     {
+      "id": "oliveira-marques-1990-historia-maconaria-portugal",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "António Henrique de Oliveira Marques"
+      ],
+      "titulo": "História da maçonaria em Portugal",
+      "ano": 1990,
+      "idioma": "pt",
+      "temas": [
+        "potencias",
+        "politica",
+        "historiografia"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "História em vários volumes (Presença, 1990–1997) da maçonaria portuguesa desde as primeiras lojas do séc. XVIII, com base em documentação inédita. Obra-mãe da historiografia portuguesa sobre o tema.",
+      "editora": "Editorial Presença",
+      "local": "Lisboa",
+      "url": "https://openlibrary.org/search?q=Hist%C3%B3ria+da+ma%C3%A7onaria+em+Portugal+Oliveira+Marques",
+      "evidencias": [
+        "https://openlibrary.org/search?q=Hist%C3%B3ria+da+ma%C3%A7onaria+em+Portugal+Oliveira+Marques"
+      ],
+      "status_verificacao": "conferido_web",
+      "potencias": [
+        "gol"
+      ],
+      "observacoes": "Volumes: 1 (1990), 2 (1996), 3 (1997) — confirmar datas por volume.",
+      "lote": "c05-lusofono"
+    },
+    {
       "id": "oliveira-marques-dias-2003-maconaria-porto",
       "tipo": "artigo",
       "categoria": "academica",
@@ -3054,6 +3728,45 @@
       "periodico": "Revista Portuguesa de História",
       "lote": "c05-lusofono",
       "status_verificacao": "conferido_web"
+    },
+    {
+      "id": "paiva-1895-historia-maconaria",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Alfredo de Paiva"
+      ],
+      "titulo": "Historia da maçonaria",
+      "ano": 1895,
+      "idioma": "pt",
+      "temas": [
+        "historiografia",
+        "origens"
+      ],
+      "paises": [
+        "pt",
+        "mundo"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "História geral da maçonaria publicada em 1895, ao gosto da historiografia maçônica oitocentista (origens lendárias, Templo de Salomão, ordens medievais). Documento da autoimagem maçônica portuguesa.",
+      "evidencias": [
+        "https://archive.org/details/historia-da-maconaria"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/historia-da-maconaria",
+      "identificadores": {
+        "ia": "historia-da-maconaria"
+      },
+      "acervo": [
+        "pdf/paiva-1895-historia-maconaria.pdf",
+        "txt/paiva-1895-historia-maconaria.txt"
+      ]
     },
     {
       "id": "palmela-1822-carta-macedo",
@@ -3166,11 +3879,8 @@
         "gob"
       ],
       "lote": "c05-lusofono",
-      "status_verificacao": "copiado",
-      "acervo": [
-        "html/paulo-2026-guinada-conservadora.html",
-        "txt/paulo-2026-guinada-conservadora.txt"
-      ]
+      "status_verificacao": "conferido_web",
+      "observacoes": "Coleta automática obteve só página vazia (JS/anti-robô); texto integral não copiado."
     },
     {
       "id": "pc-1951-kulturkampf-bresil",
@@ -3412,6 +4122,44 @@
       ]
     },
     {
+      "id": "reis-1878-bispo-olinda-perante-historia",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Antônio Manoel dos Reis"
+      ],
+      "titulo": "O bispo de Olinda D. Frei Vital Maria Gonçalves de Oliveira perante a historia",
+      "ano": 1878,
+      "idioma": "pt",
+      "temas": [
+        "religiao",
+        "personalidades"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Biografia apologética de D. Vital publicada logo após sua morte (1878), com reprodução de muitos documentos da Questão Religiosa (pastorais, avisos, peças do processo).",
+      "evidencias": [
+        "https://archive.org/details/obispodeolindad00dosgoog"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/obispodeolindad00dosgoog",
+      "identificadores": {
+        "ia": "obispodeolindad00dosgoog"
+      },
+      "acervo": [
+        "pdf/reis-1878-bispo-olinda-perante-historia.pdf",
+        "txt/reis-1878-bispo-olinda-perante-historia.txt"
+      ]
+    },
+    {
       "id": "ribeiro-2011-america-em-sao-paulo",
       "tipo": "dissertacao",
       "categoria": "tese",
@@ -3448,10 +4196,50 @@
       ],
       "local": "São Paulo",
       "lote": "c05-lusofono",
+      "status_verificacao": "conferido_web",
+      "observacoes": "Coleta automática obteve só página vazia (JS/anti-robô); texto integral não copiado."
+    },
+    {
+      "id": "saldanha-marinho-1874-egreja-estado",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Joaquim Saldanha Marinho (Ganganelli)"
+      ],
+      "titulo": "A egreja e o estado",
+      "ano": 1874,
+      "idioma": "pt",
+      "temas": [
+        "religiao",
+        "politica",
+        "personalidades"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Coletânea dos artigos que Saldanha Marinho, grão-mestre do Grande Oriente dos Beneditinos, publicou sob o pseudônimo Ganganelli no Jornal do Commercio durante a Questão Religiosa, defendendo o padroado, a liberdade de consciência e a maçonaria contra os bispos ultramontanos.",
+      "potencias": [
+        "gob"
+      ],
+      "observacoes": "Há volumes posteriores (1876) no IA: aegrejaeoestado00marigoog.",
+      "evidencias": [
+        "https://archive.org/details/aegrejaeoestado01marigoog"
+      ],
+      "lote": "c05-lusofono",
       "status_verificacao": "copiado",
+      "url": "https://archive.org/details/aegrejaeoestado01marigoog",
+      "identificadores": {
+        "ia": "aegrejaeoestado01marigoog"
+      },
       "acervo": [
-        "html/ribeiro-2011-america-em-sao-paulo.html",
-        "txt/ribeiro-2011-america-em-sao-paulo.txt"
+        "pdf/saldanha-marinho-1874-egreja-estado.pdf",
+        "txt/saldanha-marinho-1874-egreja-estado.txt"
       ]
     },
     {
@@ -3709,6 +4497,88 @@
       ]
     },
     {
+      "id": "sni-1981-pedido-busca-130",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Serviço Nacional de Informações"
+      ],
+      "titulo": "Pedido de Busca nº 130, confidencial, de 11 de setembro de 1981: atividades da maçonaria",
+      "ano": 1981,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "potencias"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "confiabilidade": "A",
+      "acesso": "oficial_publico",
+      "licenca": "documento público desclassificado (Arquivo Nacional / acervo SNI)",
+      "resumo": "Documento do SNI (1981), hoje desclassificado e público, que solicita informações sobre atividades da maçonaria no Brasil durante o governo Figueiredo. Fonte para a vigilância do regime militar sobre as lojas.",
+      "potencias": [
+        "gob",
+        "cmsb",
+        "comab"
+      ],
+      "evidencias": [
+        "https://archive.org/details/pb-no-130-maconaria"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/pb-no-130-maconaria",
+      "identificadores": {
+        "ia": "pb-no-130-maconaria"
+      },
+      "acervo": [
+        "pdf/sni-1981-pedido-busca-130.pdf",
+        "txt/sni-1981-pedido-busca-130.txt"
+      ]
+    },
+    {
+      "id": "sousa-1916-maconaria-portugal",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "José Fernando de Sousa"
+      ],
+      "titulo": "A maçonaria em Portugal",
+      "ano": 1916,
+      "idioma": "pt",
+      "temas": [
+        "antimaconaria",
+        "politica",
+        "religiao"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Obra do engenheiro e jornalista católico José Fernando de Sousa (\"Nemo\"), diretor de A Voz, contra a maçonaria na Primeira República. Fonte hostil do campo católico português.",
+      "evidencias": [
+        "https://archive.org/details/maconaria-em-portugal"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/maconaria-em-portugal",
+      "identificadores": {
+        "ia": "maconaria-em-portugal"
+      },
+      "acervo": [
+        "pdf/sousa-1916-maconaria-portugal.pdf",
+        "txt/sousa-1916-maconaria-portugal.txt"
+      ]
+    },
+    {
       "id": "souza-2024-ditadura-memorias-maconicas",
       "tipo": "artigo",
       "categoria": "academica",
@@ -3828,6 +4698,84 @@
       ]
     },
     {
+      "id": "taxil-1892-misterios-maconaria-revelados",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "Léo Taxil"
+      ],
+      "titulo": "Os mistérios da maçonaria revelados",
+      "ano": 1892,
+      "idioma": "pt",
+      "temas": [
+        "antimaconaria",
+        "ritual"
+      ],
+      "paises": [
+        "pt",
+        "br",
+        "fr"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Tradução portuguesa (1892) de obra de Léo Taxil, cuja campanha antimaçônica foi revelada como fraude pelo próprio autor em 1897. Mostra a circulação da mistificação de Taxil no mundo lusófono.",
+      "observacoes": "Fraude de Taxil: usar só como documento da antimaçonaria.",
+      "evidencias": [
+        "https://archive.org/details/os-misterios-da-maconaria-revelados"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/os-misterios-da-maconaria-revelados",
+      "identificadores": {
+        "ia": "os-misterios-da-maconaria-revelados"
+      },
+      "acervo": [
+        "txt/taxil-1892-misterios-maconaria-revelados.txt"
+      ]
+    },
+    {
+      "id": "uned-maconeria-independencia-brasil",
+      "tipo": "pagina",
+      "categoria": "divulgacao",
+      "autores": [
+        "UNED — Museo Virtual de Historia de la Masonería"
+      ],
+      "titulo": "La masonería y la independencia del Brasil",
+      "ano": null,
+      "idioma": "es",
+      "temas": [
+        "politica",
+        "potencias"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "C",
+      "acesso": "oficial_publico",
+      "licenca": "todos os direitos reservados (página pública)",
+      "resumo": "Texto do museu virtual da UNED (Espanha) sobre o papel de maçons no primeiro governo do Brasil independente e a fundação do GOB em 1822. Divulgação universitária em espanhol.",
+      "url": "https://www.uned.es/universidad/inicio/dam/jcr:088982f3-90d7-4f7a-9e50-226b7273efdc/la%20masoneria%20y%20la%20independencia%20de%20brasil.pdf",
+      "evidencias": [
+        "https://www.uned.es/universidad/inicio/unidad/museo-virtual-historia-masoneria/sala-vi-historia-de-la-masoneria-en-otros-paises/la-masoneria-y-la-independencia-del-brasil.html"
+      ],
+      "potencias": [
+        "gob"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/uned-maconeria-independencia-brasil.pdf",
+        "txt/uned-maconeria-independencia-brasil.txt"
+      ]
+    },
+    {
       "id": "valadares-2014-sociedade-pedreiros-livres",
       "tipo": "artigo",
       "categoria": "academica",
@@ -3863,6 +4811,51 @@
       "volume": "15(23)",
       "lote": "c05-lusofono",
       "status_verificacao": "conferido_web"
+    },
+    {
+      "id": "ventura-2013-historia-maconaria-portugal",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "António Ventura"
+      ],
+      "titulo": "Uma história da maçonaria em Portugal, 1727-1986",
+      "ano": 2013,
+      "idioma": "pt",
+      "temas": [
+        "potencias",
+        "politica"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918",
+        "p1919_1945",
+        "p1946_1989"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Síntese de António Ventura (Univ. de Lisboa) sobre três séculos de maçonaria portuguesa, da primeira loja de Lisboa (1727) à restauração democrática e às novas obediências.",
+      "editora": "Círculo de Leitores",
+      "local": "Lisboa",
+      "url": "https://openlibrary.org/works/OL31535990W",
+      "evidencias": [
+        "https://openlibrary.org/works/OL31535990W"
+      ],
+      "status_verificacao": "conferido_web",
+      "potencias": [
+        "gol",
+        "glrp"
+      ],
+      "identificadores": {
+        "isbn": "9724249395"
+      },
+      "lote": "c05-lusofono"
     },
     {
       "id": "ventura-2019-maconaria-alto-alentejo",
@@ -3946,6 +4939,39 @@
       ]
     },
     {
+      "id": "vieira-1980-protestantismo-maconaria-questao",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "David Gueiros Vieira"
+      ],
+      "titulo": "O protestantismo, a maçonaria e a questão religiosa no Brasil",
+      "ano": 1980,
+      "idioma": "pt",
+      "temas": [
+        "religiao",
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Tese clássica (origem: doutorado na American University) sobre as relações entre protestantismo, maçonaria e liberalismo no Império e seu papel na Questão Religiosa. Obra de referência sobre o conflito de 1872–75.",
+      "editora": "Editora Universidade de Brasília",
+      "local": "Brasília",
+      "url": "https://openlibrary.org/works/OL6165506W",
+      "evidencias": [
+        "https://openlibrary.org/works/OL6165506W"
+      ],
+      "status_verificacao": "conferido_web",
+      "lote": "c05-lusofono"
+    },
+    {
       "id": "vilhena-moraes-1930-gabinete-caxias",
       "tipo": "livro",
       "categoria": "academica",
@@ -3980,6 +5006,121 @@
       },
       "acervo": [
         "txt/vilhena-moraes-1930-gabinete-caxias.txt"
+      ]
+    },
+    {
+      "id": "vital-1873-bispo-olinda-accusadores",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Vital Maria Gonçalves de Oliveira"
+      ],
+      "titulo": "O bispo de Olinda e os seos accusadores no tribunal do bom senso",
+      "ano": 1873,
+      "idioma": "pt",
+      "temas": [
+        "religiao",
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Defesa de D. Vital diante do aviso do governo imperial e das acusações de maçons e liberais por ter interditado irmandades que não expulsaram membros maçons (1873).",
+      "evidencias": [
+        "https://archive.org/details/obispodeolindae00olivgoog"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/obispodeolindae00olivgoog",
+      "identificadores": {
+        "ia": "obispodeolindae00olivgoog"
+      },
+      "acervo": [
+        "pdf/vital-1873-bispo-olinda-accusadores.pdf",
+        "txt/vital-1873-bispo-olinda-accusadores.txt"
+      ]
+    },
+    {
+      "id": "vital-1873-carta-pastoral-ciladas",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Vital Maria Gonçalves de Oliveira"
+      ],
+      "titulo": "Carta pastoral do bispo de Olinda premunindo os seus diocesanos contra as ciladas e maquinações da maçonaria",
+      "ano": 1873,
+      "idioma": "pt",
+      "temas": [
+        "religiao",
+        "antimaconaria"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Carta pastoral de D. Vital (1873) que alerta os fiéis contra a maçonaria e fundamenta a interdição das irmandades, ato que desencadeou o conflito com o governo.",
+      "observacoes": "Data a confirmar na folha de rosto (1873).",
+      "evidencias": [
+        "https://archive.org/details/carta-pastoral-do-bispo-de-olinda-premun"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/carta-pastoral-do-bispo-de-olinda-premun",
+      "identificadores": {
+        "ia": "carta-pastoral-do-bispo-de-olinda-premun"
+      },
+      "acervo": [
+        "pdf/vital-1873-carta-pastoral-ciladas.pdf",
+        "txt/vital-1873-carta-pastoral-ciladas.txt"
+      ]
+    },
+    {
+      "id": "vital-1875-maconaria-jesuitas",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Vital Maria Gonçalves de Oliveira"
+      ],
+      "titulo": "A maçonaria e os jesuitas: instrucção pastoral do Bispo de Olinda aos seus diocesanos",
+      "ano": 1875,
+      "idioma": "pt",
+      "temas": [
+        "religiao",
+        "antimaconaria"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Instrução pastoral de D. Vital, bispo de Olinda, escrita no contexto de sua prisão, que expõe a condenação pontifícia da maçonaria e rebate as acusações contra os jesuítas. Documento central do lado episcopal da Questão Religiosa.",
+      "evidencias": [
+        "https://archive.org/details/amaonariaeosjes00olivgoog"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/amaonariaeosjes00olivgoog",
+      "identificadores": {
+        "ia": "amaonariaeosjes00olivgoog"
+      },
+      "acervo": [
+        "pdf/vital-1875-maconaria-jesuitas.pdf",
+        "txt/vital-1875-maconaria-jesuitas.txt"
       ]
     }
   ]
