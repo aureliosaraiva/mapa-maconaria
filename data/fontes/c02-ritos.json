@@ -2324,6 +2324,830 @@
     "txt/hasselmann-2009-rituale-der-freimaurer.txt"
    ],
    "lote": "c02-ritos"
+  },
+  {
+   "id": "noel-2018-grandes-constitutions-1786",
+   "tipo": "artigo",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "Pierre Noël"
+   ],
+   "titulo": "Les Grandes Constitutions de 1786 – version anglaise",
+   "ano": 2018,
+   "idioma": "fr",
+   "temas": [
+    "documentos_fundadores",
+    "ritos",
+    "regularidade"
+   ],
+   "ritos": [
+    "reaa",
+    "perfeicao"
+   ],
+   "paises": [
+    "fr",
+    "us",
+    "ht"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "B",
+   "acesso": "aberto",
+   "licenca": "todos os direitos reservados (texto disponibilizado publicamente pela GLNC)",
+   "resumo": "Estudo do historiador belga Pierre Noël sobre a gênese das Grandes Constituições de 1786 do REAA, desde a patente de Étienne Morin (Saint-Domingue, 1763) até sua atribuição apócrifa a Frederico II e a versão inglesa adotada em Charleston; síntese crítica útil para o verbete do REAA.",
+   "status_verificacao": "copiado",
+   "pdf": true,
+   "observacoes": "Data = criação do PDF no site; conferir publicação original.",
+   "url": "https://www.glnc.org/document/Les%20Grandes%20Constitutions%20de%201786.pdf",
+   "acervo": [
+    "pdf/noel-2018-grandes-constitutions-1786.pdf",
+    "txt/noel-2018-grandes-constitutions-1786.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "bernheim-1987-estienne-morin-saint-laurent",
+   "tipo": "artigo",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "Alain Bernheim"
+   ],
+   "titulo": "D'Estienne Morin au comte de Saint Laurent (Le 'Bicentenaire' des Grandes Constitutions de 1786 – essai sur les cinq textes de référence du REAA)",
+   "ano": 1987,
+   "idioma": "fr",
+   "temas": [
+    "documentos_fundadores",
+    "ritos",
+    "historiografia"
+   ],
+   "ritos": [
+    "reaa",
+    "perfeicao"
+   ],
+   "paises": [
+    "fr",
+    "us",
+    "ht"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870"
+   ],
+   "confiabilidade": "B",
+   "acesso": "aberto",
+   "licenca": "todos os direitos reservados (reprodução pública no site da GLNC)",
+   "resumo": "Ensaio longo, publicado em Renaissance Traditionnelle nº 68–70 (1986–87), que examina criticamente os cinco textos de referência do REAA (patente de Morin, Constituições de 1762, Grandes Constituições de 1786 e versões posteriores) e sua transmissão até o conde de Saint-Laurent; obra de referência da crítica documental do escocismo.",
+   "status_verificacao": "copiado",
+   "pdf": true,
+   "periodico": "Renaissance Traditionnelle",
+   "volume": "68-70",
+   "url": "https://www.glnc.org/document/D%E2%80%99Estienne%20Morin%20au%20comte%20de%20Saint%20Laurent.pdf",
+   "acervo": [
+    "pdf/bernheim-1987-estienne-morin-saint-laurent.pdf",
+    "txt/bernheim-1987-estienne-morin-saint-laurent.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "sfere-2005-comprendre-ecossisme",
+   "tipo": "documento",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "Société Française d'Études et Recherches sur l'Écossisme (SFERE)"
+   ],
+   "titulo": "Comprendre l'Écossisme – Actes du colloque du 8 octobre 2005",
+   "ano": 2005,
+   "idioma": "fr",
+   "temas": [
+    "ritos",
+    "graus",
+    "esoterismo",
+    "historiografia"
+   ],
+   "ritos": [
+    "reaa",
+    "perfeicao"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1990_hoje"
+   ],
+   "confiabilidade": "B",
+   "acesso": "aberto",
+   "licenca": "todos os direitos reservados",
+   "resumo": "Atas de colóquio com contribuições de Jean-Pierre Brach (EPHE) sobre os fundamentos do esoterismo ocidental e de Irène Mainguy sobre os graus de Perfeição, entre outras; mistura academia e pesquisa maçônica sobre o escocismo.",
+   "status_verificacao": "copiado",
+   "pdf": true,
+   "url": "https://www.glnc.org/document/comprendre%20l'Ecossisme.pdf",
+   "acervo": [
+    "pdf/sfere-2005-comprendre-ecossisme.pdf",
+    "txt/sfere-2005-comprendre-ecossisme.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "lindsay-1958-scottish-rite-for-scotland",
+   "tipo": "capitulo",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "Robert Strathern Lindsay"
+   ],
+   "titulo": "The Scottish Rite for Scotland (cap. sobre as origens das Grandes Constituições)",
+   "ano": 1958,
+   "idioma": "en",
+   "temas": [
+    "ritos",
+    "documentos_fundadores",
+    "potencias"
+   ],
+   "ritos": [
+    "reaa"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870"
+   ],
+   "confiabilidade": "B",
+   "acesso": "aberto",
+   "licenca": "© Supreme Council for Scotland (cópia pública no site da GL BC&Y)",
+   "resumo": "Trecho da história oficial do Supremo Conselho da Escócia (1958), escrita por seu Grande Secretário, discutindo as origens das Grandes Constituições e a chegada do REAA à Escócia; disponível no site da Grande Loja da Colúmbia Britânica e Yukon.",
+   "status_verificacao": "copiado",
+   "pdf": true,
+   "editora": "W. & R. Chambers",
+   "local": "Edinburgh",
+   "url": "https://www.freemasonry.bcy.ca/biography/frederick/origins_of_the_grand_constitutions.pdf",
+   "acervo": [
+    "pdf/lindsay-1958-scottish-rite-for-scotland.pdf",
+    "txt/lindsay-1958-scottish-rite-for-scotland.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "frenchfreemasonry-code-rectified-lodges-1778",
+   "tipo": "pagina",
+   "categoria": "divulgacao",
+   "autores": [
+    "frenchfreemasonry.org"
+   ],
+   "titulo": "Masonic Code of the Reunited and Rectified Lodges (1778)",
+   "ano": null,
+   "idioma": "en",
+   "temas": [
+    "ritos",
+    "documentos_fundadores"
+   ],
+   "ritos": [
+    "rer"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "C",
+   "acesso": "aberto",
+   "licenca": "todos os direitos reservados",
+   "resumo": "Página de divulgação que apresenta e traduz o Código Maçônico das Lojas Reunidas e Retificadas da França, adotado no Convento das Gálias (Lyon, 1778) sob Willermoz e impresso em 1779; texto fundador do RER.",
+   "status_verificacao": "copiado",
+   "ano_original": 1778,
+   "url": "https://www.frenchfreemasonry.org/english/the-rites/the-rectified-scottish-rite-rer/masonic-code-of-the-reunited-and-rectified-lodges-1778",
+   "acervo": [
+    "html/frenchfreemasonry-code-rectified-lodges-1778.html",
+    "txt/frenchfreemasonry-code-rectified-lodges-1778.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "pike-1882-letters-grand-commander",
+   "tipo": "documento",
+   "categoria": "oficial_potencia",
+   "autores": [
+    "Albert Pike"
+   ],
+   "titulo": "Letters of the Grand Commander of the Supreme Council for the Southern Jurisdiction",
+   "ano": 1882,
+   "idioma": "en",
+   "temas": [
+    "ritos",
+    "regularidade",
+    "potencias"
+   ],
+   "ritos": [
+    "reaa"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1882)",
+   "resumo": "Cartas oficiais de Albert Pike como Soberano Grande Comendador sobre questões de jurisdição, regularidade e relações entre Supremos Conselhos; fonte primária para a política do REAA no fim do séc. XIX.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "sc_sj"
+   ],
+   "url": "https://archive.org/details/cu31924030335594",
+   "identificadores": {
+    "ia": "cu31924030335594"
+   },
+   "evidencias": [
+    "https://archive.org/details/cu31924030335594"
+   ],
+   "acervo": [
+    "pdf/pike-1882-letters-grand-commander.pdf",
+    "txt/pike-1882-letters-grand-commander.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "dehoyos-2014-freemasonrys-royal-secret",
+   "tipo": "livro",
+   "categoria": "academica",
+   "autores": [
+    "Arturo de Hoyos",
+    "Alain Bernheim"
+   ],
+   "titulo": "Freemasonry's Royal Secret: the Jamaican 'Francken Manuscript' of the High Degrees",
+   "ano": 2014,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "graus",
+    "documentos_fundadores"
+   ],
+   "ritos": [
+    "perfeicao",
+    "reaa"
+   ],
+   "paises": [
+    "jm",
+    "us",
+    "fr"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "A",
+   "acesso": "comercial",
+   "licenca": "todos os direitos reservados",
+   "resumo": "Edição crítica, com introdução de de Hoyos e Bernheim, do manuscrito de Henry Andrew Francken copiado na Jamaica, que contém os rituais dos 25 graus da Ordem do Real Segredo (Rito de Perfeição), antecessor do REAA.",
+   "status_verificacao": "conferido_web",
+   "editora": "Scottish Rite Research Society",
+   "local": "Washington, DC",
+   "evidencias": [
+    "https://miskatonicbooks.com/product/freemasonrys-royal-secret-the-francken-manuscript-of-the-high-degrees-by-arturo-de-hoyos-33-g-c-grand-archivist-and-grand-historian-introduction-co-authored-with-alain-bernheim-33",
+    "https://sturgisantiques.com/items/freemasonrys-royal-secret-the-jamaican-francken-manuscript-of-the-high-degrees-by-arturo-de-hoyos-hardback-2014"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "sc-njm-2017-francken-manuscript-1783",
+   "tipo": "livro",
+   "categoria": "primaria_historica",
+   "autores": [
+    "Supreme Council, Northern Masonic Jurisdiction (ed.)"
+   ],
+   "titulo": "Francken Manuscript 1783 (fac-símile com transcrição)",
+   "ano": 2017,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "graus",
+    "documentos_fundadores"
+   ],
+   "ritos": [
+    "perfeicao",
+    "reaa"
+   ],
+   "paises": [
+    "us",
+    "jm"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "A",
+   "acesso": "comercial",
+   "licenca": "todos os direitos reservados",
+   "resumo": "Primeira edição oficialmente sancionada do manuscrito Francken de 1783 (Northern Masonic Jurisdiction), com fac-símile colorido e transcrição anotada em páginas espelhadas; fonte primária central para os rituais do Rito de Perfeição.",
+   "status_verificacao": "conferido_web",
+   "potencias": [
+    "sc_njn"
+   ],
+   "ano_original": 1783,
+   "evidencias": [
+    "https://scottishritenmj.org/blog/behind-the-francken-manuscript",
+    "https://nymasoniclibrary.org/recent-acquisitions/fran/"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "snoek-2012-initiating-women-adoption-rite",
+   "tipo": "livro",
+   "categoria": "academica",
+   "autores": [
+    "Jan A. M. Snoek"
+   ],
+   "titulo": "Initiating Women in Freemasonry: The Adoption Rite",
+   "ano": 2012,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "mulheres",
+    "ritos",
+    "graus"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "fr",
+    "nl",
+    "de"
+   ],
+   "periodos": [
+    "p1717_1750",
+    "p1751_1813",
+    "p1814_1870"
+   ],
+   "confiabilidade": "A",
+   "acesso": "comercial",
+   "licenca": "todos os direitos reservados",
+   "resumo": "Monografia acadêmica (Brill, série Aries, vol. 13) que analisa a criação, o conteúdo e a evolução dos rituais do Rito de Adoção, pelo qual mulheres foram iniciadas desde 1744; referência principal para o tema.",
+   "status_verificacao": "conferido_web",
+   "editora": "Brill",
+   "local": "Leiden/Boston",
+   "evidencias": [
+    "https://relbib.de/Record/1654750875",
+    "https://library.holycross.edu/Record/eres_ocn769927262"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "mollier-2004-regulateur-du-macon",
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "Pierre Mollier"
+   ],
+   "titulo": "Le Régulateur du Maçon (1785-'1801'): la fixation des grades symboliques du Rite Français – histoire et documents",
+   "ano": 2004,
+   "idioma": "fr",
+   "temas": [
+    "ritual",
+    "ritos",
+    "graus"
+   ],
+   "ritos": [
+    "frances_moderno"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "A",
+   "acesso": "comercial",
+   "licenca": "todos os direitos reservados",
+   "resumo": "Estudo e edição documental do arquivista do GOdF sobre a fixação dos três graus simbólicos do Rito Francês pela Câmara de Graus (anos 1780) e a impressão do Régulateur; mostra que o texto datado de 1801 corresponde a rituais já fixados em meados dos anos 1780.",
+   "status_verificacao": "conferido_web",
+   "potencias": [
+    "godf"
+   ],
+   "evidencias": [
+    "https://gadlu.info/le-regulateur-du-macon-1785-1801-pierre-mollier"
+   ],
+   "observacoes": "Editora e ano a conferir (A l'Orient, 2004?).",
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "bernheim-1984-decouverte-constitutions-1762",
+   "tipo": "artigo",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "Alain Bernheim"
+   ],
+   "titulo": "Une découverte étonnante concernant les Constitutions de 1762",
+   "ano": 1984,
+   "idioma": "fr",
+   "temas": [
+    "documentos_fundadores",
+    "ritos"
+   ],
+   "ritos": [
+    "perfeicao",
+    "reaa"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "B",
+   "acesso": "impresso",
+   "licenca": "todos os direitos reservados",
+   "resumo": "Artigo que demonstrou que as 'Constituições de 1762' do Rito de Perfeição são versão pouco modificada dos estatutos da Grande Loja da França, tese depois contestada em parte (ex.: Jean-Pierre Lassalle); marco da crítica documental do escocismo.",
+   "status_verificacao": "conferido_web",
+   "periodico": "Renaissance Traditionnelle",
+   "volume": "59",
+   "evidencias": [
+    "https://www.glnc.org/document/Les%20Grandes%20Constitutions%20de%201786.pdf",
+    "https://www.universalfreemasonry.org/en/encyclopedia/constitutions-of-1762"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "anonimo-1834-guia-macons-escocezes",
+   "tipo": "ritual",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Anônimo"
+   ],
+   "titulo": "Guia dos maçons escocezes, ou Regulador dos tres gráus symbolicos do Rito Escocez Antigo e Acceito",
+   "ano": 1834,
+   "idioma": "pt",
+   "temas": [
+    "ritual",
+    "graus"
+   ],
+   "ritos": [
+    "reaa"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "A",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1834)",
+   "resumo": "Ritual-regulador dos três graus simbólicos do REAA impresso no Rio de Janeiro em 1834, logo após a fundação do Supremo Conselho do Brasil (1832); fonte primária-chave para a implantação do escocismo no Brasil imperial.",
+   "status_verificacao": "copiado",
+   "local": "Rio de Janeiro",
+   "potencias": [
+    "sc_reaa_br"
+   ],
+   "url": "https://archive.org/details/guia-dos-macons-escoceses-ou-regulador-dos-tres-graus-simbolicos-do-reaa-rio-janeiro-1834",
+   "identificadores": {
+    "ia": "guia-dos-macons-escoceses-ou-regulador-dos-tres-graus-simbolicos-do-reaa-rio-janeiro-1834"
+   },
+   "evidencias": [
+    "https://archive.org/details/guia-dos-macons-escoceses-ou-regulador-dos-tres-graus-simbolicos-do-reaa-rio-janeiro-1834"
+   ],
+   "acervo": [
+    "txt/anonimo-1834-guia-macons-escocezes.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "browne-1798-master-key",
+   "tipo": "exposicao",
+   "categoria": "primaria_historica",
+   "autores": [
+    "John Browne"
+   ],
+   "titulo": "The Master-Key through all the degrees of a Free-mason's lodge",
+   "ano": 1798,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "graus"
+   ],
+   "ritos": [
+    "emulacao"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1798)",
+   "resumo": "Exposição inglesa (com o texto das 'lectures' parcialmente cifrado) que registra as instruções dos três graus na forma prestoniana de fins do séc. XVIII, antes da União de 1813; fonte para a pré-história do ritual de Emulação.",
+   "status_verificacao": "copiado",
+   "ano_original": 1798,
+   "local": "London",
+   "url": "https://archive.org/details/bim_eighteenth-century_the-master-key-through-a_browne-john_1798",
+   "identificadores": {
+    "ia": "bim_eighteenth-century_the-master-key-through-a_browne-john_1798"
+   },
+   "evidencias": [
+    "https://archive.org/details/bim_eighteenth-century_the-master-key-through-a_browne-john_1798"
+   ],
+   "acervo": [
+    "txt/browne-1798-master-key.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "ashe-1843-masonic-manual",
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "Jonathan Ashe"
+   ],
+   "titulo": "The Masonic Manual, or Lectures on Freemasonry",
+   "ano": 1843,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "simbolismo",
+    "graus"
+   ],
+   "ritos": [
+    "emulacao",
+    "irlandes"
+   ],
+   "paises": [
+    "gb",
+    "ie"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1843)",
+   "resumo": "Reedição (com notas de George Oliver) das palestras de Ashe, de 1814, sobre os graus e seu simbolismo, de inspiração prestoniana/hutchinsoniana; útil para a interpretação moralizante dos graus no início do séc. XIX.",
+   "status_verificacao": "copiado",
+   "ano_original": 1814,
+   "local": "London",
+   "url": "https://archive.org/details/masonicmanualorl00ashe",
+   "identificadores": {
+    "ia": "masonicmanualorl00ashe"
+   },
+   "evidencias": [
+    "https://archive.org/details/masonicmanualorl00ashe"
+   ],
+   "acervo": [
+    "txt/ashe-1843-masonic-manual.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "aasr-1871-manual-lodge-of-perfection",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Ancient and Accepted Scottish Rite (EUA)"
+   ],
+   "titulo": "Manual of the Lodge of Perfection",
+   "ano": 1871,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "graus"
+   ],
+   "ritos": [
+    "reaa",
+    "perfeicao"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1871)",
+   "resumo": "Manual monitorial dos graus inefáveis (4º ao 14º) trabalhados nas Lojas de Perfeição do REAA nos EUA.",
+   "status_verificacao": "copiado",
+   "url": "https://archive.org/details/manualoflodgeofp00free",
+   "identificadores": {
+    "ia": "manualoflodgeofp00free"
+   },
+   "evidencias": [
+    "https://archive.org/details/manualoflodgeofp00free"
+   ],
+   "acervo": [
+    "pdf/aasr-1871-manual-lodge-of-perfection.pdf",
+    "txt/aasr-1871-manual-lodge-of-perfection.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "ragon-1861-nouveau-rituel-kadosh",
+   "tipo": "ritual",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Jean-Marie Ragon"
+   ],
+   "titulo": "Nouveau rituel du Kadosch",
+   "ano": 1861,
+   "idioma": "fr",
+   "temas": [
+    "ritual",
+    "graus"
+   ],
+   "ritos": [
+    "reaa",
+    "frances_moderno"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1861)",
+   "resumo": "Ritual do grau de Cavaleiro Kadosch (30º do REAA) na versão reformada pelo autor maçônico Ragon, que reinterpretou o grau em chave filosófica e anticlerical; fonte para as leituras francesas dos altos graus.",
+   "status_verificacao": "copiado",
+   "observacoes": "Ano não indicado na digitalização; Ragon publicou a série de rituais por volta de 1860–61 (Paris, Collignon) — conferir.",
+   "url": "https://archive.org/details/RagonJMNouveauRituelDeKadosh",
+   "identificadores": {
+    "ia": "RagonJMNouveauRituelDeKadosh"
+   },
+   "evidencias": [
+    "https://archive.org/details/RagonJMNouveauRituelDeKadosh"
+   ],
+   "acervo": [
+    "pdf/ragon-1861-nouveau-rituel-kadosh.pdf",
+    "txt/ragon-1861-nouveau-rituel-kadosh.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "plummer-1923-rosicrucian-manual",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "George Winslow Plummer"
+   ],
+   "titulo": "Rosicrucian Manual for the instruction of postulants",
+   "ano": 1923,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "esoterismo",
+    "ordens_anexas"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1919_1945"
+   ],
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1923)",
+   "resumo": "Manual da Societas Rosicruciana in America, organização rosacruz derivada da tradição da SRIA maçônica mas aberta a não maçons; útil para diferenciar rosacrucianismo maçônico e não maçônico.",
+   "status_verificacao": "copiado",
+   "local": "New York",
+   "url": "https://archive.org/details/rosicrucianmanua00plum",
+   "identificadores": {
+    "ia": "rosicrucianmanua00plum"
+   },
+   "evidencias": [
+    "https://archive.org/details/rosicrucianmanua00plum"
+   ],
+   "acervo": [
+    "pdf/plummer-1923-rosicrucian-manual.pdf",
+    "txt/plummer-1923-rosicrucian-manual.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "royal-order-scotland-1844",
+   "tipo": "documento",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Royal Order of Scotland"
+   ],
+   "titulo": "The Royal Order of Scotland (1844)",
+   "ano": 1844,
+   "idioma": "en",
+   "temas": [
+    "ordens_anexas",
+    "ritual",
+    "graus"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "D",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1844)",
+   "resumo": "Documento de 1844 relativo à Real Ordem da Escócia (graus de Heredom de Kilwinning e Rosy Cross); digitalização sem metadados — usar com cautela até identificar edição.",
+   "status_verificacao": "copiado",
+   "observacoes": "Digitalização sem metadados; o texto é um ensaio histórico (tradição de Bruce/Bannockburn 1314; Grande Loja Provincial em Londres 1696/1730) e pode ser posterior a 1844 — identificar edição e autor antes de citar.",
+   "url": "https://archive.org/details/The_Royal_Order_Of_Scotland_1844",
+   "identificadores": {
+    "ia": "The_Royal_Order_Of_Scotland_1844"
+   },
+   "evidencias": [
+    "https://archive.org/details/The_Royal_Order_Of_Scotland_1844"
+   ],
+   "acervo": [
+    "pdf/royal-order-scotland-1844.pdf",
+    "txt/royal-order-scotland-1844.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "rsi-2022-rituali",
+   "tipo": "ritual",
+   "categoria": "oficial_potencia",
+   "autores": [
+    "Serenissima Gran Loggia del Rito Simbolico Italiano"
+   ],
+   "titulo": "Rituali (edizione ridotta del MMXXII)",
+   "ano": 2022,
+   "idioma": "it",
+   "temas": [
+    "ritual",
+    "graus"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "it"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados (publicação oficial no site)",
+   "resumo": "Edição reduzida, publicada no site oficial, dos rituais do Rito Simbólico Italiano (sistema de origem oitocentista ligado ao Grande Oriente d'Italia, Palazzo Giustiniani); documento oficial público para a estrutura atual do rito.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "goi"
+   ],
+   "local": "Roma",
+   "url": "https://www.ritosimbolico.it/rsi/wp-content/uploads/2022/01/RSI_Rituale_MMXXII.pdf",
+   "acervo": [
+    "pdf/rsi-2022-rituali.pdf",
+    "txt/rsi-2022-rituali.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "sc33br-2021-astreanews-127",
+   "tipo": "periodico",
+   "categoria": "oficial_potencia",
+   "autores": [
+    "Supremo Conselho do Grau 33 do REAA da Maçonaria para a República Federativa do Brasil"
+   ],
+   "titulo": "AstreaNews nº 127 (jul. 2021): O Supremo Conselho e o Simbolismo",
+   "ano": 2021,
+   "idioma": "pt",
+   "temas": [
+    "ritos",
+    "potencias",
+    "regularidade"
+   ],
+   "ritos": [
+    "reaa"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados",
+   "resumo": "Boletim oficial do Supremo Conselho do Brasil (fundado em 1832) com texto sobre a relação entre o Supremo Conselho e os graus simbólicos; útil para a posição institucional sobre jurisdição dos graus 1–3 no REAA brasileiro.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "sc_reaa_br"
+   ],
+   "url": "https://www.sc33.org.br/documents/astreanews/AstreaNews127.pdf",
+   "acervo": [
+    "pdf/sc33br-2021-astreanews-127.pdf",
+    "txt/sc33br-2021-astreanews-127.txt"
+   ],
+   "lote": "c02-ritos"
   }
  ]
 }
