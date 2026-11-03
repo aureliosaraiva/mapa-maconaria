@@ -1,0 +1,902 @@
+{
+ "lote": "c08-referencia",
+ "fontes": [
+  {
+   "id": "wikipedia-pt-2026-maconaria",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (pt)"
+   ],
+   "titulo": "Maçonaria",
+   "ano": 2026,
+   "idioma": "pt",
+   "editora": "Wikimedia Foundation",
+   "url": "https://pt.wikipedia.org/wiki/Ma%C3%A7onaria",
+   "temas": [
+    "historiografia",
+    "origens",
+    "potencias"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-pt-2026-maconaria.html",
+    "txt/wikipedia-pt-2026-maconaria.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em pt (artigo geral sobre a maçonaria), versão consultada em 2026-11-03, com cerca de 102 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://pt.wikipedia.org/wiki/Ma%C3%A7onaria"
+   ]
+  },
+  {
+   "id": "wikipedia-en-2026-freemasonry",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (en)"
+   ],
+   "titulo": "Freemasonry",
+   "ano": 2026,
+   "idioma": "en",
+   "editora": "Wikimedia Foundation",
+   "url": "https://en.wikipedia.org/wiki/Freemasonry",
+   "temas": [
+    "historiografia",
+    "origens",
+    "potencias"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-en-2026-freemasonry.html",
+    "txt/wikipedia-en-2026-freemasonry.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em en (artigo geral sobre a maçonaria), versão consultada em 2026-11-03, com cerca de 149 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://en.wikipedia.org/wiki/Freemasonry"
+   ]
+  },
+  {
+   "id": "wikipedia-fr-2026-franc-maconnerie",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (fr)"
+   ],
+   "titulo": "Franc-maçonnerie",
+   "ano": 2026,
+   "idioma": "fr",
+   "editora": "Wikimedia Foundation",
+   "url": "https://fr.wikipedia.org/wiki/Franc-ma%C3%A7onnerie",
+   "temas": [
+    "historiografia",
+    "origens",
+    "potencias"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-fr-2026-franc-maconnerie.html",
+    "txt/wikipedia-fr-2026-franc-maconnerie.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em fr (artigo geral sobre a maçonaria), versão consultada em 2026-11-03, com cerca de 102 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://fr.wikipedia.org/wiki/Franc-ma%C3%A7onnerie"
+   ]
+  },
+  {
+   "id": "wikipedia-es-2026-francmasoneria",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (es)"
+   ],
+   "titulo": "Francmasonería",
+   "ano": 2026,
+   "idioma": "es",
+   "editora": "Wikimedia Foundation",
+   "url": "https://es.wikipedia.org/wiki/Francmasoner%C3%ADa",
+   "temas": [
+    "historiografia",
+    "origens",
+    "potencias"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-es-2026-francmasoneria.html",
+    "txt/wikipedia-es-2026-francmasoneria.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em es (artigo geral sobre a maçonaria), versão consultada em 2026-11-03, com cerca de 135 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://es.wikipedia.org/wiki/Francmasoner%C3%ADa"
+   ]
+  },
+  {
+   "id": "wikipedia-it-2026-massoneria",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (it)"
+   ],
+   "titulo": "Massoneria",
+   "ano": 2026,
+   "idioma": "it",
+   "editora": "Wikimedia Foundation",
+   "url": "https://it.wikipedia.org/wiki/Massoneria",
+   "temas": [
+    "historiografia",
+    "origens",
+    "potencias"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-it-2026-massoneria.html",
+    "txt/wikipedia-it-2026-massoneria.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em it (artigo geral sobre a maçonaria), versão consultada em 2026-11-03, com cerca de 88 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://it.wikipedia.org/wiki/Massoneria"
+   ]
+  },
+  {
+   "id": "wikipedia-de-2026-freimaurerei",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (de)"
+   ],
+   "titulo": "Freimaurerei",
+   "ano": 2026,
+   "idioma": "de",
+   "editora": "Wikimedia Foundation",
+   "url": "https://de.wikipedia.org/wiki/Freimaurerei",
+   "temas": [
+    "historiografia",
+    "origens",
+    "potencias"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-de-2026-freimaurerei.html",
+    "txt/wikipedia-de-2026-freimaurerei.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em de (artigo geral sobre a maçonaria), versão consultada em 2026-11-03, com cerca de 113 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://de.wikipedia.org/wiki/Freimaurerei"
+   ]
+  },
+  {
+   "id": "wikipedia-nl-2026-vrijmetselarij",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (nl)"
+   ],
+   "titulo": "Vrijmetselarij",
+   "ano": 2026,
+   "idioma": "nl",
+   "editora": "Wikimedia Foundation",
+   "url": "https://nl.wikipedia.org/wiki/Vrijmetselarij",
+   "temas": [
+    "historiografia",
+    "origens",
+    "potencias"
+   ],
+   "paises": [
+    "mundo",
+    "nl",
+    "be"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-nl-2026-vrijmetselarij.html",
+    "txt/wikipedia-nl-2026-vrijmetselarij.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em nl (artigo geral sobre a maçonaria), versão consultada em 2026-11-03, com cerca de 24 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://nl.wikipedia.org/wiki/Vrijmetselarij"
+   ]
+  },
+  {
+   "id": "wikipedia-sv-2026-frimureri",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (sv)"
+   ],
+   "titulo": "Frimureri",
+   "ano": 2026,
+   "idioma": "sv",
+   "editora": "Wikimedia Foundation",
+   "url": "https://sv.wikipedia.org/wiki/Frimureri",
+   "temas": [
+    "historiografia",
+    "origens",
+    "potencias"
+   ],
+   "paises": [
+    "mundo",
+    "se"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-sv-2026-frimureri.html",
+    "txt/wikipedia-sv-2026-frimureri.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em sv (artigo geral sobre a maçonaria), versão consultada em 2026-11-03, com cerca de 27 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://sv.wikipedia.org/wiki/Frimureri"
+   ]
+  },
+  {
+   "id": "wikipedia-pl-2026-wolnomularstwo",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (pl)"
+   ],
+   "titulo": "Wolnomularstwo",
+   "ano": 2026,
+   "idioma": "pl",
+   "editora": "Wikimedia Foundation",
+   "url": "https://pl.wikipedia.org/wiki/Wolnomularstwo",
+   "temas": [
+    "historiografia",
+    "origens",
+    "potencias"
+   ],
+   "paises": [
+    "mundo",
+    "pl"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-pl-2026-wolnomularstwo.html",
+    "txt/wikipedia-pl-2026-wolnomularstwo.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em pl (artigo geral sobre a maçonaria), versão consultada em 2026-11-03, com cerca de 78 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://pl.wikipedia.org/wiki/Wolnomularstwo"
+   ]
+  },
+  {
+   "id": "wikipedia-ru-2026-masonstvo",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (ru)"
+   ],
+   "titulo": "Масонство",
+   "ano": 2026,
+   "idioma": "ru",
+   "editora": "Wikimedia Foundation",
+   "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BE%D0%BD%D1%81%D1%82%D0%B2%D0%BE",
+   "temas": [
+    "historiografia",
+    "origens",
+    "potencias"
+   ],
+   "paises": [
+    "mundo",
+    "ru"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-ru-2026-masonstvo.html",
+    "txt/wikipedia-ru-2026-masonstvo.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em ru (artigo geral sobre a maçonaria), versão consultada em 2026-11-03, com cerca de 98 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BE%D0%BD%D1%81%D1%82%D0%B2%D0%BE"
+   ]
+  },
+  {
+   "id": "wikipedia-pt-2026-maconaria-no-brasil",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (pt)"
+   ],
+   "titulo": "Maçonaria no Brasil",
+   "ano": 2026,
+   "idioma": "pt",
+   "editora": "Wikimedia Foundation",
+   "url": "https://pt.wikipedia.org/wiki/Ma%C3%A7onaria_no_Brasil",
+   "temas": [
+    "politica",
+    "potencias",
+    "historiografia"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-pt-2026-maconaria-no-brasil.html",
+    "txt/wikipedia-pt-2026-maconaria-no-brasil.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em pt (artigo sobre a maçonaria no Brasil), versão consultada em 2026-11-03, com cerca de 16 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://pt.wikipedia.org/wiki/Ma%C3%A7onaria_no_Brasil"
+   ]
+  },
+  {
+   "id": "wikipedia-en-2026-history-of-freemasonry",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (en)"
+   ],
+   "titulo": "History of Freemasonry",
+   "ano": 2026,
+   "idioma": "en",
+   "editora": "Wikimedia Foundation",
+   "url": "https://en.wikipedia.org/wiki/History_of_Freemasonry",
+   "temas": [
+    "origens",
+    "historiografia"
+   ],
+   "paises": [
+    "mundo",
+    "gb"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-en-2026-history-of-freemasonry.html",
+    "txt/wikipedia-en-2026-history-of-freemasonry.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em en (artigo sobre a história da maçonaria), versão consultada em 2026-11-03, com cerca de 121 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://en.wikipedia.org/wiki/History_of_Freemasonry"
+   ]
+  },
+  {
+   "id": "wikipedia-en-2026-anti-masonry",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (en)"
+   ],
+   "titulo": "Anti-Masonry",
+   "ano": 2026,
+   "idioma": "en",
+   "editora": "Wikimedia Foundation",
+   "url": "https://en.wikipedia.org/wiki/Anti-Masonry",
+   "temas": [
+    "antimaconaria",
+    "religiao",
+    "politica"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-en-2026-anti-masonry.html",
+    "txt/wikipedia-en-2026-anti-masonry.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em en (artigo sobre a antimaçonaria), versão consultada em 2026-11-03, com cerca de 85 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://en.wikipedia.org/wiki/Anti-Masonry"
+   ]
+  },
+  {
+   "id": "wikipedia-en-2026-list-of-masonic-grand-lodges",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (en)"
+   ],
+   "titulo": "List of Masonic Grand Lodges",
+   "ano": 2026,
+   "idioma": "en",
+   "editora": "Wikimedia Foundation",
+   "url": "https://en.wikipedia.org/wiki/List_of_Masonic_Grand_Lodges",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-en-2026-list-of-masonic-grand-lodges.html",
+    "txt/wikipedia-en-2026-list-of-masonic-grand-lodges.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em en (lista de grandes lojas por país), versão consultada em 2026-11-03, com cerca de 23 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://en.wikipedia.org/wiki/List_of_Masonic_Grand_Lodges"
+   ]
+  },
+  {
+   "id": "wikipedia-en-2026-masonic-bodies",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (en)"
+   ],
+   "titulo": "Masonic bodies",
+   "ano": 2026,
+   "idioma": "en",
+   "editora": "Wikimedia Foundation",
+   "url": "https://en.wikipedia.org/wiki/Masonic_bodies",
+   "temas": [
+    "ordens_anexas",
+    "ritos",
+    "graus"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-en-2026-masonic-bodies.html",
+    "txt/wikipedia-en-2026-masonic-bodies.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em en (artigo sobre os corpos/organizações maçônicos (altos graus e anexas)), versão consultada em 2026-11-03, com cerca de 25 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://en.wikipedia.org/wiki/Masonic_bodies"
+   ]
+  },
+  {
+   "id": "wikipedia-en-2026-list-of-freemasons",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (en)"
+   ],
+   "titulo": "List of Freemasons",
+   "ano": 2026,
+   "idioma": "en",
+   "editora": "Wikimedia Foundation",
+   "url": "https://en.wikipedia.org/wiki/List_of_Freemasons",
+   "temas": [
+    "personalidades"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-en-2026-list-of-freemasons.html",
+    "txt/wikipedia-en-2026-list-of-freemasons.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em en (lista de maçons notáveis (índice A–Z)), versão consultada em 2026-11-03. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://en.wikipedia.org/wiki/List_of_Freemasons"
+   ]
+  },
+  {
+   "id": "wikipedia-fr-2026-franc-maconnerie-en-france",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (fr)"
+   ],
+   "titulo": "Franc-maçonnerie en France",
+   "ano": 2026,
+   "idioma": "fr",
+   "editora": "Wikimedia Foundation",
+   "url": "https://fr.wikipedia.org/wiki/Franc-ma%C3%A7onnerie_en_France",
+   "temas": [
+    "politica",
+    "potencias",
+    "historiografia"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-fr-2026-franc-maconnerie-en-france.html",
+    "txt/wikipedia-fr-2026-franc-maconnerie-en-france.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em fr (artigo sobre a maçonaria na França), versão consultada em 2026-11-03, com cerca de 97 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://fr.wikipedia.org/wiki/Franc-ma%C3%A7onnerie_en_France"
+   ]
+  },
+  {
+   "id": "wikipedia-es-2026-masoneria-en-espana",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (es)"
+   ],
+   "titulo": "Masonería en España",
+   "ano": 2026,
+   "idioma": "es",
+   "editora": "Wikimedia Foundation",
+   "url": "https://es.wikipedia.org/wiki/Masoner%C3%ADa_en_Espa%C3%B1a",
+   "temas": [
+    "politica",
+    "potencias",
+    "historiografia"
+   ],
+   "paises": [
+    "es"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-es-2026-masoneria-en-espana.html",
+    "txt/wikipedia-es-2026-masoneria-en-espana.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em es (artigo sobre a maçonaria na Espanha), versão consultada em 2026-11-03, com cerca de 33 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://es.wikipedia.org/wiki/Masoner%C3%ADa_en_Espa%C3%B1a"
+   ]
+  },
+  {
+   "id": "wikipedia-it-2026-massoneria-in-italia",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (it)"
+   ],
+   "titulo": "Massoneria in Italia",
+   "ano": 2026,
+   "idioma": "it",
+   "editora": "Wikimedia Foundation",
+   "url": "https://it.wikipedia.org/wiki/Massoneria_in_Italia",
+   "temas": [
+    "politica",
+    "potencias",
+    "historiografia"
+   ],
+   "paises": [
+    "it"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-it-2026-massoneria-in-italia.html",
+    "txt/wikipedia-it-2026-massoneria-in-italia.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em it (artigo sobre a maçonaria na Itália), versão consultada em 2026-11-03, com cerca de 215 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://it.wikipedia.org/wiki/Massoneria_in_Italia"
+   ]
+  },
+  {
+   "id": "wikipedia-en-2026-freemasonry-in-the-united-states",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (en)"
+   ],
+   "titulo": "Freemasonry in the United States",
+   "ano": 2026,
+   "idioma": "en",
+   "editora": "Wikimedia Foundation",
+   "url": "https://en.wikipedia.org/wiki/Freemasonry_in_the_United_States",
+   "temas": [
+    "politica",
+    "potencias",
+    "sociabilidade"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-en-2026-freemasonry-in-the-united-states.html",
+    "txt/wikipedia-en-2026-freemasonry-in-the-united-states.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em en (artigo sobre a maçonaria nos EUA), versão consultada em 2026-11-03, com cerca de 42 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://en.wikipedia.org/wiki/Freemasonry_in_the_United_States"
+   ]
+  },
+  {
+   "id": "wikipedia-en-2026-prince-hall-freemasonry",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (en)"
+   ],
+   "titulo": "Prince Hall Freemasonry",
+   "ano": 2026,
+   "idioma": "en",
+   "editora": "Wikimedia Foundation",
+   "url": "https://en.wikipedia.org/wiki/Prince_Hall_Freemasonry",
+   "temas": [
+    "potencias",
+    "regularidade",
+    "politica"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-en-2026-prince-hall-freemasonry.html",
+    "txt/wikipedia-en-2026-prince-hall-freemasonry.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em en (artigo sobre a maçonaria Prince Hall), versão consultada em 2026-11-03, com cerca de 54 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://en.wikipedia.org/wiki/Prince_Hall_Freemasonry"
+   ]
+  },
+  {
+   "id": "wikipedia-en-2026-women-and-freemasonry",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (en)"
+   ],
+   "titulo": "Women and Freemasonry",
+   "ano": 2026,
+   "idioma": "en",
+   "editora": "Wikimedia Foundation",
+   "url": "https://en.wikipedia.org/wiki/Women_and_Freemasonry",
+   "temas": [
+    "mulheres"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-en-2026-women-and-freemasonry.html",
+    "txt/wikipedia-en-2026-women-and-freemasonry.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em en (artigo sobre mulheres e maçonaria), versão consultada em 2026-11-03, com cerca de 66 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://en.wikipedia.org/wiki/Women_and_Freemasonry"
+   ]
+  },
+  {
+   "id": "wikipedia-en-2026-masonic-ritual-and-symbolism",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (en)"
+   ],
+   "titulo": "Masonic ritual and symbolism",
+   "ano": 2026,
+   "idioma": "en",
+   "editora": "Wikimedia Foundation",
+   "url": "https://en.wikipedia.org/wiki/Masonic_ritual_and_symbolism",
+   "temas": [
+    "ritual",
+    "simbolismo"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-en-2026-masonic-ritual-and-symbolism.html",
+    "txt/wikipedia-en-2026-masonic-ritual-and-symbolism.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em en (artigo sobre ritual e simbolismo maçônicos), versão consultada em 2026-11-03, com cerca de 22 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://en.wikipedia.org/wiki/Masonic_ritual_and_symbolism"
+   ]
+  },
+  {
+   "id": "wikipedia-fr-2026-antimaconnisme",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (fr)"
+   ],
+   "titulo": "Antimaçonnisme",
+   "ano": 2026,
+   "idioma": "fr",
+   "editora": "Wikimedia Foundation",
+   "url": "https://fr.wikipedia.org/wiki/Antima%C3%A7onnisme",
+   "temas": [
+    "antimaconaria"
+   ],
+   "paises": [
+    "fr",
+    "mundo"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-fr-2026-antimaconnisme.html",
+    "txt/wikipedia-fr-2026-antimaconnisme.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em fr (artigo sobre o antimaçonismo), versão consultada em 2026-11-03, com cerca de 109 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://fr.wikipedia.org/wiki/Antima%C3%A7onnisme"
+   ]
+  },
+  {
+   "id": "wikipedia-es-2026-masoneria-en-hispanoamerica",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores da Wikipédia (es)"
+   ],
+   "titulo": "Masonería en Hispanoamérica",
+   "ano": 2026,
+   "idioma": "es",
+   "editora": "Wikimedia Foundation",
+   "url": "https://es.wikipedia.org/wiki/Masoner%C3%ADa_en_Hispanoam%C3%A9rica",
+   "temas": [
+    "politica",
+    "potencias"
+   ],
+   "paises": [
+    "al"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-es-2026-masoneria-en-hispanoamerica.html",
+    "txt/wikipedia-es-2026-masoneria-en-hispanoamerica.txt"
+   ],
+   "resumo": "Verbete da Wikipédia em es (artigo sobre a maçonaria na América hispânica), versão consultada em 2026-11-03, com cerca de 31 notas/referências. Serve sobretudo como mapa de bibliografia e de termos no idioma; afirmações devem ser conferidas nas fontes citadas.",
+   "observacoes": "Nota D: obra colaborativa anônima, usar só como pista e índice de referências.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://es.wikipedia.org/wiki/Masoner%C3%ADa_en_Hispanoam%C3%A9rica"
+   ]
+  }
+ ]
+}
