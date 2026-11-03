@@ -661,7 +661,7 @@
   {
    "id": "blanchard-1887-scotch-rite-illustrated-v1",
    "tipo": "exposicao",
-   "categoria": "antimaconaria",
+   "categoria": "antimaconica",
    "autores": [
     "Jonathan Blanchard"
    ],
@@ -703,7 +703,7 @@
   {
    "id": "blanchard-1887-scotch-rite-illustrated-v2",
    "tipo": "exposicao",
-   "categoria": "antimaconaria",
+   "categoria": "antimaconica",
    "autores": [
     "Jonathan Blanchard"
    ],
@@ -1751,6 +1751,621 @@
    ],
    "local": "New York",
    "observacoes": "falha na cópia: HTTP Error 500: Internal Server Error",
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "schroder-1806-materialien-geschichte",
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "Friedrich Ludwig Schröder"
+   ],
+   "titulo": "Materialien zur Geschichte der Freymaurerey seit der Wiederherstellung der grossen Loge in London 5717",
+   "ano": 1806,
+   "idioma": "de",
+   "temas": [
+    "ritos",
+    "historiografia",
+    "origens"
+   ],
+   "ritos": [
+    "schroder"
+   ],
+   "paises": [
+    "de",
+    "gb"
+   ],
+   "periodos": [
+    "p1717_1750",
+    "p1751_1813"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1806)",
+   "resumo": "Compilação histórica preparada pelo ator e reformador hamburguês F. L. Schröder para fundamentar seu retorno à maçonaria 'inglesa' de três graus, livre de altos graus templários; base intelectual do Rito Schröder.",
+   "status_verificacao": "copiado",
+   "local": "Rudolstadt",
+   "url": "https://archive.org/details/bub_gb_dydBAAAAcAAJ",
+   "identificadores": {
+    "ia": "bub_gb_dydBAAAAcAAJ"
+   },
+   "evidencias": [
+    "https://archive.org/details/bub_gb_dydBAAAAcAAJ"
+   ],
+   "acervo": [
+    "txt/schroder-1806-materialien-geschichte.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "schroder-1805-gedanken-tempelherren",
+   "tipo": "livro",
+   "categoria": "primaria_historica",
+   "autores": [
+    "Friedrich Ludwig Schröder"
+   ],
+   "titulo": "Gedanken von der Beziehung der Freymaurerey auf den Orden der Tempelherren",
+   "ano": 1805,
+   "idioma": "de",
+   "temas": [
+    "ritos",
+    "origens",
+    "esoterismo"
+   ],
+   "ritos": [
+    "schroder",
+    "outros_ritos"
+   ],
+   "paises": [
+    "de"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1805)",
+   "resumo": "Texto crítico de Schröder sobre a suposta filiação templária da maçonaria, alicerce da Estrita Observância Templária; documenta a reação alemã contra os altos graus cavaleirescos no fim do séc. XVIII.",
+   "status_verificacao": "copiado",
+   "url": "https://archive.org/details/bub_gb_yOlAAAAAcAAJ",
+   "identificadores": {
+    "ia": "bub_gb_yOlAAAAAcAAJ"
+   },
+   "evidencias": [
+    "https://archive.org/details/bub_gb_yOlAAAAAcAAJ"
+   ],
+   "acervo": [
+    "pdf/schroder-1805-gedanken-tempelherren.pdf",
+    "txt/schroder-1805-gedanken-tempelherren.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "anonimo-1806-signatstern",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Anônimo (atribuição tradicional a J. C. von Woellner)"
+   ],
+   "titulo": "Der Signatstern, oder die enthüllten sämmtlichen sieben Grade der mystischen Freimaurerei",
+   "ano": 1806,
+   "idioma": "de",
+   "temas": [
+    "ritual",
+    "esoterismo",
+    "graus"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "de"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1806)",
+   "resumo": "Coleção alemã que publica rituais de graus 'místicos' e rosacruzes da maçonaria do séc. XVIII (inclusive da Ordem da Rosa-Cruz de Ouro); fonte primária para os altos graus esotéricos alemães.",
+   "status_verificacao": "copiado",
+   "observacoes": "A atribuição a Woellner vem dos metadados da digitalização; a obra é em geral tida como anônima/coletiva. Conferir na bibliografia.",
+   "url": "https://archive.org/details/bub_gb_5hpBAAAAcAAJ",
+   "identificadores": {
+    "ia": "bub_gb_5hpBAAAAcAAJ"
+   },
+   "evidencias": [
+    "https://archive.org/details/bub_gb_5hpBAAAAcAAJ"
+   ],
+   "acervo": [
+    "txt/anonimo-1806-signatstern.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "anonimo-1803-bruder-st-johannis-asien",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Anônimo"
+   ],
+   "titulo": "Die Brüder St. Johannis des Evangelisten aus Asien in Europa, oder die einzige wahre und ächte Freimaurerei",
+   "ano": 1803,
+   "idioma": "de",
+   "temas": [
+    "ritual",
+    "esoterismo",
+    "graus",
+    "ordens_anexas"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "de",
+    "at"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1803)",
+   "resumo": "Publicação dos rituais e da doutrina dos Irmãos Asiáticos (Fratres Lucis), sistema esotérico de altos graus criado em Viena nos anos 1780 que admitia judeus e cristãos; fonte primária rara.",
+   "status_verificacao": "copiado",
+   "url": "https://archive.org/details/bub_gb_F-hAAAAAcAAJ",
+   "identificadores": {
+    "ia": "bub_gb_F-hAAAAAcAAJ"
+   },
+   "evidencias": [
+    "https://archive.org/details/bub_gb_F-hAAAAAcAAJ"
+   ],
+   "acervo": [
+    "txt/anonimo-1803-bruder-st-johannis-asien.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "gloeden-1850-grosse-landesloge",
+   "tipo": "livro",
+   "categoria": "primaria_historica",
+   "autores": [
+    "Eduard Albert Gustav von Gloeden"
+   ],
+   "titulo": "Aufschluß über mein Verhältnis zum Freimaurer-Orden im Allgemeinen und zu der Grossen Landesloge von Deutschland zu Berlin im Besonderen",
+   "ano": 1850,
+   "idioma": "de",
+   "temas": [
+    "ritos",
+    "potencias",
+    "regularidade"
+   ],
+   "ritos": [
+    "zinnendorf",
+    "sueco"
+   ],
+   "paises": [
+    "de"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1850)",
+   "resumo": "Depoimento de um membro sobre suas relações com a Grande Loja Nacional da Alemanha (sistema de Zinnendorf, de matriz sueca e cristã); útil para conflitos internos e o caráter do sistema no séc. XIX.",
+   "status_verificacao": "copiado",
+   "url": "https://archive.org/details/bub_gb_6N1AAAAAcAAJ",
+   "identificadores": {
+    "ia": "bub_gb_6N1AAAAAcAAJ"
+   },
+   "evidencias": [
+    "https://archive.org/details/bub_gb_6N1AAAAAcAAJ"
+   ],
+   "acervo": [
+    "pdf/gloeden-1850-grosse-landesloge.pdf",
+    "txt/gloeden-1850-grosse-landesloge.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "royale-york-1800-gesetzbuch",
+   "tipo": "documento",
+   "categoria": "oficial_potencia",
+   "autores": [
+    "Große Freymaurer-Loge Royale York zur Freundschaft"
+   ],
+   "titulo": "Gesetzbuch der Grossen Freymaurer-Loge Royale York zur Freundschaft",
+   "ano": 1800,
+   "idioma": "de",
+   "temas": [
+    "documentos_fundadores",
+    "potencias",
+    "ritos"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "de"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1800)",
+   "resumo": "Código de leis da Grande Loja Royal York de Berlim no período da reforma de Ignaz Fessler, que reorganizou seu sistema de graus; fonte para o 'sistema Fessler' e para a diversidade prussiana.",
+   "status_verificacao": "copiado",
+   "local": "Berlin",
+   "url": "https://archive.org/details/10446418bsb",
+   "identificadores": {
+    "ia": "10446418bsb"
+   },
+   "evidencias": [
+    "https://archive.org/details/10446418bsb"
+   ],
+   "acervo": [
+    "txt/royale-york-1800-gesetzbuch.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "anonimo-1794-system-wahrheit-einigkeit-prag",
+   "tipo": "documento",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Loja Wahrheit und Einigkeit zu drey gekrönten Säulen (Praga)"
+   ],
+   "titulo": "System der Freymaurer-Loge Wahrheit und Einigkeit zu drey gekrönten Säulen in P***",
+   "ano": 1794,
+   "idioma": "de",
+   "temas": [
+    "ritual",
+    "ritos",
+    "sociabilidade"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "cz",
+    "at"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1794)",
+   "resumo": "Sistema (regulamentos, organização e ideário) de uma loja de Praga no fim do séc. XVIII, documento do iluminismo maçônico na monarquia dos Habsburgos.",
+   "status_verificacao": "copiado",
+   "observacoes": "IA indica 1594 (erro de digitalização); data provável 1794 — conferir.",
+   "url": "https://archive.org/details/systemderfreyma00unkngoog",
+   "identificadores": {
+    "ia": "systemderfreyma00unkngoog"
+   },
+   "evidencias": [
+    "https://archive.org/details/systemderfreyma00unkngoog"
+   ],
+   "acervo": [
+    "pdf/anonimo-1794-system-wahrheit-einigkeit-prag.pdf",
+    "txt/anonimo-1794-system-wahrheit-einigkeit-prag.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "anonimo-1840-vade-mecum-rit-ecossais",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Anônimo"
+   ],
+   "titulo": "Le vade mecum maçonnique, extrait des statuts, rituels et règlemens de l'ordre au rit écossais",
+   "ano": 1840,
+   "idioma": "fr",
+   "temas": [
+    "ritual",
+    "ritos",
+    "documentos_fundadores"
+   ],
+   "ritos": [
+    "reaa"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1840)",
+   "resumo": "Manual de bolso com extratos dos estatutos, rituais e regulamentos do Rito Escocês na França (Supremo Conselho), esboço histórico e discursos; útil para a prática escocesa na Monarquia de Julho.",
+   "status_verificacao": "copiado",
+   "local": "Paris",
+   "editora": "F. Lebègue",
+   "observacoes": "Metadados do IA atribuem a Rétif de la Bretonne (morto em 1806) — atribuição improvável; tratada como anônima.",
+   "url": "https://archive.org/details/b31958850",
+   "identificadores": {
+    "ia": "b31958850"
+   },
+   "evidencias": [
+    "https://archive.org/details/b31958850"
+   ],
+   "acervo": [
+    "pdf/anonimo-1840-vade-mecum-rit-ecossais.pdf",
+    "txt/anonimo-1840-vade-mecum-rit-ecossais.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "leforestier-1915-plus-secrets-mysteres-hauts-grades",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "René Le Forestier (ed.)"
+   ],
+   "titulo": "Les plus secrets mystères des hauts grades de la maçonnerie dévoilés (1774), réimpression avec une introduction, des notes et un appendice",
+   "ano": 1915,
+   "idioma": "fr",
+   "temas": [
+    "ritual",
+    "graus",
+    "esoterismo"
+   ],
+   "ritos": [
+    "perfeicao",
+    "outros_ritos"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "A",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público provável (original 1774; Le Forestier m. 1951, PD na França desde 2022)",
+   "resumo": "Reedição acadêmica, com introdução e notas de René Le Forestier, de uma coletânea de rituais de altos graus franceses do séc. XVIII (inclui o 'verdadeiro Rosa-Cruz' e graus de Kadosh); documento clássico da proliferação dos altos graus e edição crítica de referência.",
+   "status_verificacao": "copiado",
+   "ano_original": 1774,
+   "observacoes": "Reedição crítica de Le Forestier, tese complementar apresentada à Faculdade de Letras de Paris (1914). Texto original de 1774 (1ª ed. 1766, atribuída a Bérage).",
+   "url": "https://archive.org/details/IA41551413_0047",
+   "identificadores": {
+    "ia": "IA41551413_0047"
+   },
+   "evidencias": [
+    "https://archive.org/details/IA41551413_0047"
+   ],
+   "acervo": [
+    "pdf/leforestier-1915-plus-secrets-mysteres-hauts-grades.pdf",
+    "txt/leforestier-1915-plus-secrets-mysteres-hauts-grades.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "anonimo-1820-manual-masonico-retejador",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Anônimo"
+   ],
+   "titulo": "Manual masónico ó Retejador de todos los ritos de la masonería",
+   "ano": 1820,
+   "idioma": "es",
+   "temas": [
+    "ritual",
+    "ritos",
+    "graus"
+   ],
+   "ritos": [
+    "frances_moderno",
+    "reaa",
+    "adonhiramita"
+   ],
+   "paises": [
+    "es",
+    "fr"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "A",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1820)",
+   "resumo": "Versão espanhola, publicada em Madri durante o Triênio Liberal, de um tuileur de todos os ritos praticados na França (paralelo ao manual de Vuillaume); primeira grande síntese ritual em castelhano.",
+   "status_verificacao": "copiado",
+   "local": "Madrid",
+   "editora": "Librería de Denné",
+   "url": "https://archive.org/details/A224088",
+   "identificadores": {
+    "ia": "A224088"
+   },
+   "evidencias": [
+    "https://archive.org/details/A224088"
+   ],
+   "acervo": [
+    "pdf/anonimo-1820-manual-masonico-retejador.pdf",
+    "txt/anonimo-1820-manual-masonico-retejador.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "webb-1822-monitor-masones-libres",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Thomas Smith Webb"
+   ],
+   "titulo": "El monitor de los masones libres, ó Ilustraciones sobre la masonería",
+   "ano": 1822,
+   "idioma": "es",
+   "temas": [
+    "ritual",
+    "graus"
+   ],
+   "ritos": [
+    "york"
+   ],
+   "paises": [
+    "us",
+    "al"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1822)",
+   "resumo": "Tradução espanhola do monitor de Webb, publicada para lojas hispano-americanas; mostra a difusão do Rito de York (Webb) na América hispânica.",
+   "status_verificacao": "copiado",
+   "observacoes": "Original inglês catalogado pela C01 (webb-1797-freemasons-monitor).",
+   "url": "https://archive.org/details/elmonitordelosma00webbiala",
+   "identificadores": {
+    "ia": "elmonitordelosma00webbiala"
+   },
+   "evidencias": [
+    "https://archive.org/details/elmonitordelosma00webbiala"
+   ],
+   "acervo": [
+    "pdf/webb-1822-monitor-masones-libres.pdf",
+    "txt/webb-1822-monitor-masones-libres.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "cassard-1861-manual-masoneria",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Andrés Cassard"
+   ],
+   "titulo": "Manual de la masonería, ó sea el tejador de los ritos antiguo escocés, francés y de adopción",
+   "ano": 1861,
+   "idioma": "es",
+   "temas": [
+    "ritual",
+    "graus",
+    "ritos"
+   ],
+   "ritos": [
+    "reaa",
+    "frances_moderno"
+   ],
+   "paises": [
+    "us",
+    "cu",
+    "al"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "A",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1861)",
+   "resumo": "Manual em espanhol publicado em Nova York pelo cubano Cassard, com os 33 graus do REAA, o Rito Francês e a Adoção; difundiu o escocismo e o Supremo Conselho de Colón em toda a América Latina.",
+   "status_verificacao": "copiado",
+   "local": "New York",
+   "url": "https://archive.org/details/CassardAManualDeLaMasoneria1861Spanish",
+   "identificadores": {
+    "ia": "CassardAManualDeLaMasoneria1861Spanish"
+   },
+   "evidencias": [
+    "https://archive.org/details/CassardAManualDeLaMasoneria1861Spanish"
+   ],
+   "acervo": [
+    "pdf/cassard-1861-manual-masoneria.pdf",
+    "txt/cassard-1861-manual-masoneria.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "eklund-1909-vagledning-for-frimurare",
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "Anônimo"
+   ],
+   "titulo": "Vägledning för frimurare",
+   "ano": 1909,
+   "idioma": "sv",
+   "temas": [
+    "ritos",
+    "graus",
+    "potencias"
+   ],
+   "ritos": [
+    "sueco"
+   ],
+   "paises": [
+    "se"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público provável (1909, obra anônima)",
+   "resumo": "Versão revista e abreviada de um manual para maçons suecos (anos 1890), centrada na organização da Ordem Sueca de Frimurare, em seu sistema cristão de graus e nas obediências estrangeiras próximas.",
+   "status_verificacao": "copiado",
+   "url": "https://archive.org/details/eklund-b.-p.-vagledning-for-frimurare-1909-ocr",
+   "identificadores": {
+    "ia": "eklund-b.-p.-vagledning-for-frimurare-1909-ocr"
+   },
+   "evidencias": [
+    "https://archive.org/details/eklund-b.-p.-vagledning-for-frimurare-1909-ocr"
+   ],
+   "acervo": [
+    "txt/eklund-1909-vagledning-for-frimurare.txt"
+   ],
+   "lote": "c02-ritos",
+   "editora": "P. B. Eklunds förlag",
+   "local": "Stockholm"
+  },
+  {
+   "id": "hasselmann-2009-rituale-der-freimaurer",
+   "tipo": "livro",
+   "categoria": "academica",
+   "autores": [
+    "Kristiane Hasselmann"
+   ],
+   "titulo": "Die Rituale der Freimaurer: zur Konstitution eines bürgerlichen Habitus im England des 18. Jahrhunderts",
+   "ano": 2009,
+   "idioma": "de",
+   "temas": [
+    "ritual",
+    "sociabilidade",
+    "historiografia"
+   ],
+   "ritos": [
+    "emulacao",
+    "outros_ritos"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "periodos": [
+    "p1717_1750",
+    "p1751_1813"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "CC BY-NC-ND (OAPEN)",
+   "resumo": "Estudo acadêmico (teatro/estudos culturais) sobre os rituais maçônicos ingleses do séc. XVIII como prática performativa que formou o habitus burguês; analisa exposições e catecismos.",
+   "status_verificacao": "copiado",
+   "local": "Bielefeld",
+   "editora": "transcript",
+   "url": "https://archive.org/details/oapen-20.500.12657-22683",
+   "identificadores": {
+    "ia": "oapen-20.500.12657-22683"
+   },
+   "evidencias": [
+    "https://archive.org/details/oapen-20.500.12657-22683"
+   ],
+   "acervo": [
+    "txt/hasselmann-2009-rituale-der-freimaurer.txt"
+   ],
    "lote": "c02-ritos"
   }
  ]
