@@ -2,6 +2,43 @@
   "lote": "c05-lusofono",
   "fontes": [
     {
+      "id": "acioly-luzes-maconaria-pernambuco",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Augusto César Acioly Paz Silva"
+      ],
+      "titulo": "As luzes da maçonaria sobre Pernambuco",
+      "ano": null,
+      "idioma": "pt",
+      "temas": [
+        "origens",
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (repositório institucional / revista OA; direitos dos autores)",
+      "resumo": "Ensaio sobre a chegada e difusão da maçonaria em Pernambuco (Areópago de Itambé, academias e lojas, 1817), discutindo o problema de definir o que conta como maçonaria antes das lojas regulares.",
+      "url": "https://www.ipatrimonio.org/wp-content/uploads/2021/01/ipatrimonio-Triunfo-Maconaria-fonte-Augusto-Cesar-Acioly.pdf",
+      "evidencias": [
+        "https://www.ipatrimonio.org/wp-content/uploads/2021/01/ipatrimonio-Triunfo-Maconaria-fonte-Augusto-Cesar-Acioly.pdf"
+      ],
+      "observacoes": "Texto republicado pelo portal ipatrimonio; ano e publicação original a confirmar.",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/acioly-luzes-maconaria-pernambuco.pdf",
+        "txt/acioly-luzes-maconaria-pernambuco.txt"
+      ]
+    },
+    {
       "id": "acioly-paz-silva-2016-maconaria-republica",
       "tipo": "artigo",
       "categoria": "academica",
@@ -1026,6 +1063,117 @@
       ]
     },
     {
+      "id": "braga-2013-republica-jacobinismo-pernambuco",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Flávia Bruna Ribeiro da Silva Braga"
+      ],
+      "titulo": "República, jacobinismo e liberdade: a Revolução Francesa em Pernambuco (1796-1802)",
+      "ano": 2013,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "sociabilidade"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (repositório institucional / revista OA; direitos dos autores)",
+      "resumo": "Analisa a presença de ideias francesas em Pernambuco entre 1796 e 1802, incluindo o Areópago de Itambé de Arruda Câmara e a conspiração dos Suassunas, frequentemente ligados à pré-história da maçonaria brasileira.",
+      "url": "https://revistas.uece.br/index.php/embornal/article/download/3231/2728",
+      "evidencias": [
+        "https://revistas.uece.br/index.php/embornal/article/download/3231/2728"
+      ],
+      "periodico": "Embornal (ANPUH-CE)",
+      "volume": "4(7)",
+      "paginas": "112-136",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/braga-2013-republica-jacobinismo-pernambuco.pdf",
+        "txt/braga-2013-republica-jacobinismo-pernambuco.txt"
+      ]
+    },
+    {
+      "id": "brasil-1818-alvara-sociedades-secretas",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Reino Unido de Portugal, Brasil e Algarves (D. João VI)"
+      ],
+      "titulo": "Alvará de 30 de março de 1818 (proíbe as sociedades secretas)",
+      "ano": 1818,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "antimaconaria"
+      ],
+      "paises": [
+        "br",
+        "pt"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "oficial_publico",
+      "licenca": "ato normativo (domínio público)",
+      "resumo": "Alvará de D. João VI que declara criminosas as sociedades secretas de qualquer denominação, inclusive as lojas maçônicas, sujeitando seus membros às penas das Ordenações; válido para todo o Reino Unido. Marco legal da repressão joanina após 1817.",
+      "url": "https://www2.camara.leg.br/legin/fed/alvara/anterioresa1824/alvara-39292-30-marco-1818-569195-publicacaooriginal-92444-pe.html",
+      "evidencias": [
+        "https://planalto.gov.br/ccivil_03/Atos/alv/1818/alv-30-3-1818.html"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/brasil-1818-alvara-sociedades-secretas.html",
+        "txt/brasil-1818-alvara-sociedades-secretas.txt"
+      ]
+    },
+    {
+      "id": "brasil-1823-lei-sociedades-secretas",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Império do Brasil (Assembleia Geral Constituinte)"
+      ],
+      "titulo": "Lei de 20 de outubro de 1823 (revoga o alvará de 1818 e regula as sociedades secretas)",
+      "ano": 1823,
+      "idioma": "pt",
+      "temas": [
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "oficial_publico",
+      "licenca": "ato normativo (domínio público)",
+      "resumo": "Lei da Constituinte que anula o alvará de 1818 e os processos dele decorrentes, mas volta a proibir as sociedades secretas, definidas como as que não declaram ao governo existência e fins. Contexto do fechamento do GOB por D. Pedro I e da \"década proibida\".",
+      "url": "https://www2.camara.leg.br/legin/fed/lei_sn/anterioresa1824/lei-40936-20-outubro-1823-574533-publicacaooriginal-97658-pe.html",
+      "evidencias": [
+        "https://www2.camara.leg.br/legin/fed/lei_sn/anterioresa1824/lei-40936-20-outubro-1823-574533-publicacaooriginal-97658-pe.html"
+      ],
+      "potencias": [
+        "gob"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/brasil-1823-lei-sociedades-secretas.html",
+        "txt/brasil-1823-lei-sociedades-secretas.txt"
+      ]
+    },
+    {
       "id": "caldeira-1916-rl-pujanca",
       "tipo": "documento",
       "categoria": "primaria_historica",
@@ -1706,6 +1854,45 @@
       "lote": "c05-lusofono"
     },
     {
+      "id": "dn-2021-chefes-macons-filiacoes",
+      "tipo": "pagina",
+      "categoria": "imprensa",
+      "autores": [
+        "Diário de Notícias"
+      ],
+      "titulo": "Chefes maçons contra lei das filiações secretas",
+      "ano": 2021,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "potencias"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "confiabilidade": "C",
+      "acesso": "oficial_publico",
+      "licenca": "todos os direitos reservados (página pública de imprensa)",
+      "resumo": "Notícia (21/5/2021) sobre a audição de grão-mestres na Assembleia da República acerca de projeto de declaração obrigatória de filiações de titulares de cargos públicos; traz a posição das obediências e evoca a Lei 1901 de 1935.",
+      "url": "https://www.dn.pt/politica/chefes-macons-contra-lei-das-filiacoes-secretas--13752568.html",
+      "evidencias": [
+        "https://www.dn.pt/politica/chefes-macons-contra-lei-das-filiacoes-secretas--13752568.html"
+      ],
+      "potencias": [
+        "gol",
+        "glrp"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/dn-2021-chefes-macons-filiacoes.html",
+        "txt/dn-2021-chefes-macons-filiacoes.txt"
+      ]
+    },
+    {
       "id": "drey-marcon-2016-educacao-anglicana",
       "tipo": "artigo",
       "categoria": "academica",
@@ -1747,6 +1934,78 @@
         "pdf/drey-marcon-2016-educacao-anglicana.pdf",
         "txt/drey-marcon-2016-educacao-anglicana.txt"
       ]
+    },
+    {
+      "id": "espaco-academico-2015-resenha-maconaria-brasil",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Revista Espaço Acadêmico"
+      ],
+      "titulo": "Resenha: SILVA, Michel Goulart da (org.). Maçonaria no Brasil: história, política e sociabilidade",
+      "ano": 2015,
+      "idioma": "pt",
+      "temas": [
+        "historiografia"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (repositório institucional / revista OA; direitos dos autores)",
+      "resumo": "Resenha da coletânea organizada por Michel Goulart da Silva (Paco, 2015), que reúne pesquisas acadêmicas de vários estados; observa que a pesquisa universitária sistemática sobre maçonaria no Brasil só se firmou a partir dos anos 1990.",
+      "url": "https://periodicos.uem.br/ojs/index.php/EspacoAcademico/article/download/28483/14881",
+      "evidencias": [
+        "https://periodicos.uem.br/ojs/index.php/EspacoAcademico/article/download/28483/14881"
+      ],
+      "observacoes": "Autor da resenha a confirmar no PDF.",
+      "periodico": "Revista Espaço Acadêmico",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/espaco-academico-2015-resenha-maconaria-brasil.pdf",
+        "txt/espaco-academico-2015-resenha-maconaria-brasil.txt"
+      ]
+    },
+    {
+      "id": "fernandes-2008-maconaria-implantacao-republica",
+      "tipo": "dissertacao",
+      "categoria": "tese",
+      "autores": [
+        "Liliana Raquel Rodrigues Fernandes"
+      ],
+      "titulo": "Maçonaria e implantação da República",
+      "ano": 2008,
+      "idioma": "pt",
+      "temas": [
+        "politica"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (repositório institucional / revista OA; direitos dos autores)",
+      "resumo": "Dissertação de mestrado (Univ. de Aveiro, 2008) sobre o papel da maçonaria e da Carbonária na revolução de 5 de outubro de 1910 e nos primeiros anos da República portuguesa.",
+      "url": "https://ria.ua.pt/handle/10773/2811",
+      "evidencias": [
+        "https://ria.ua.pt/handle/10773/2811"
+      ],
+      "potencias": [
+        "gol"
+      ],
+      "observacoes": "Repositório RIA inacessível da sessão (timeout); metadados por motor de busca. Copiar em sessão futura.",
+      "editora": "Universidade de Aveiro",
+      "local": "Aveiro",
+      "status_verificacao": "conferido_web",
+      "lote": "c05-lusofono"
     },
     {
       "id": "fernandes-2021-museu-lavradio",
@@ -2484,6 +2743,44 @@
       "lote": "c05-lusofono",
       "status_verificacao": "conferido_web",
       "observacoes": "Coleta automática obteve só página vazia (JS/anti-robô); texto integral não copiado."
+    },
+    {
+      "id": "gomez-2024-loja-vigilancia-patria",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Pilar Ferrer Gomez"
+      ],
+      "titulo": "A loja \"Vigilância da Pátria\" e as transformações da maçonaria brasileira na década proibida (1822-1831)",
+      "ano": 2024,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "potencias"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (repositório institucional / revista OA; direitos dos autores)",
+      "resumo": "Comunicação em simpósio da ANPUH (2024), resumo da pesquisa de mestrado sobre a loja Vigilância da Pátria e a reorganização da maçonaria após a proibição de 1823.",
+      "url": "https://anpuh.org.br/uploads/anais-simposios/pdf/2024-06/1718859600_1af06ddad3392038fe5a8e5d183254a5.pdf",
+      "evidencias": [
+        "https://anpuh.org.br/uploads/anais-simposios/pdf/2024-06/1718859600_1af06ddad3392038fe5a8e5d183254a5.pdf"
+      ],
+      "potencias": [
+        "gob"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/gomez-2024-loja-vigilancia-patria.pdf",
+        "txt/gomez-2024-loja-vigilancia-patria.txt"
+      ]
     },
     {
       "id": "goncalves-2012-periodismo-maconico",
@@ -3730,45 +4027,6 @@
       "status_verificacao": "conferido_web"
     },
     {
-      "id": "paiva-1895-historia-maconaria",
-      "tipo": "livro",
-      "categoria": "historiografia_maconica",
-      "autores": [
-        "Alfredo de Paiva"
-      ],
-      "titulo": "Historia da maçonaria",
-      "ano": 1895,
-      "idioma": "pt",
-      "temas": [
-        "historiografia",
-        "origens"
-      ],
-      "paises": [
-        "pt",
-        "mundo"
-      ],
-      "periodos": [
-        "p1871_1918"
-      ],
-      "confiabilidade": "C",
-      "acesso": "dominio_publico",
-      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
-      "resumo": "História geral da maçonaria publicada em 1895, ao gosto da historiografia maçônica oitocentista (origens lendárias, Templo de Salomão, ordens medievais). Documento da autoimagem maçônica portuguesa.",
-      "evidencias": [
-        "https://archive.org/details/historia-da-maconaria"
-      ],
-      "lote": "c05-lusofono",
-      "status_verificacao": "copiado",
-      "url": "https://archive.org/details/historia-da-maconaria",
-      "identificadores": {
-        "ia": "historia-da-maconaria"
-      },
-      "acervo": [
-        "pdf/paiva-1895-historia-maconaria.pdf",
-        "txt/paiva-1895-historia-maconaria.txt"
-      ]
-    },
-    {
       "id": "palmela-1822-carta-macedo",
       "tipo": "documento",
       "categoria": "primaria_historica",
@@ -4046,6 +4304,44 @@
       ]
     },
     {
+      "id": "portugal-1974-dl-594-direito-associacao",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "República Portuguesa"
+      ],
+      "titulo": "Decreto-Lei n.º 594/74, de 7 de novembro (direito de associação)",
+      "ano": 1974,
+      "idioma": "pt",
+      "temas": [
+        "politica"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "confiabilidade": "A",
+      "acesso": "oficial_publico",
+      "licenca": "ato normativo (domínio público)",
+      "resumo": "Decreto-lei pós-25 de Abril que garante a liberdade de associação e revoga expressamente a Lei n.º 1901, de 21 de maio de 1935, que proibira as sociedades secretas (e com elas a maçonaria) no Estado Novo.",
+      "url": "https://cases.pt/wp-content/uploads/DL_594_74.pdf",
+      "evidencias": [
+        "https://cases.pt/wp-content/uploads/DL_594_74.pdf"
+      ],
+      "potencias": [
+        "gol"
+      ],
+      "observacoes": "Cópia de terceiro (cases.pt); conferir com o Diário do Governo no DRE. A Lei 1901/1935 em si ainda não foi localizada em linha (PENDENCIAS).",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/portugal-1974-dl-594-direito-associacao.pdf",
+        "txt/portugal-1974-dl-594-direito-associacao.txt"
+      ]
+    },
+    {
       "id": "rangel-1822-causa-frades-pedreiros",
       "tipo": "livro",
       "categoria": "primaria_historica",
@@ -4283,6 +4579,46 @@
         "html/santos-franco-2018-maconaria-madeirense.html",
         "pdf/santos-franco-2018-maconaria-madeirense.pdf",
         "txt/santos-franco-2018-maconaria-madeirense.txt"
+      ]
+    },
+    {
+      "id": "santos-junior-2021-trama-fios-discretos",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Ivan Soares dos Santos Júnior"
+      ],
+      "titulo": "Uma trama de fios discretos: alianças interprovinciais das sociedades públicas de Pernambuco (1831-1832)",
+      "ano": 2021,
+      "idioma": "pt",
+      "temas": [
+        "sociabilidade",
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (repositório institucional / revista OA; direitos dos autores)",
+      "resumo": "Estuda a Sociedade Federal e a Sociedade Patriótica Harmonizadora de Pernambuco (1831–32) e suas redes interprovinciais, num momento em que associações públicas e lojas maçônicas se entrelaçavam na política regencial.",
+      "url": "https://periodicos.ufpe.br/revistas/revistaclio/article/download/245665/37992/188448",
+      "evidencias": [
+        "https://periodicos.ufpe.br/revistas/revistaclio/article/download/245665/37992/188448"
+      ],
+      "periodico": "CLIO: Revista de Pesquisa Histórica",
+      "volume": "39(1)",
+      "identificadores": {
+        "doi": "10.22264/clio.issn2525-5649.2021.39.1.15"
+      },
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/santos-junior-2021-trama-fios-discretos.pdf",
+        "txt/santos-junior-2021-trama-fios-discretos.txt"
       ]
     },
     {
