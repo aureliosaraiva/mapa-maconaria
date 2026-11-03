@@ -1,0 +1,1523 @@
+{
+  "lote": "c05-lusofono",
+  "fontes": [
+    {
+      "id": "anonimo-1822-veo-levantado",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "Anônimo"
+      ],
+      "titulo": "O véo levantado, ou, O maçonismo desmascarado",
+      "ano": 1822,
+      "idioma": "pt",
+      "temas": [
+        "antimaconaria",
+        "politica"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Panfleto antimaçônico lisboeta de 1822 que acusa os pedreiros-livres de sistema ímpio e subversivo, típico da reação absolutista ao vintismo. Exemplar da biblioteca do duque de Palmela (Univ. Toronto).",
+      "evidencias": [
+        "https://archive.org/details/ovolevantadoouom00palm"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/ovolevantadoouom00palm",
+      "identificadores": {
+        "ia": "ovolevantadoouom00palm"
+      },
+      "acervo": [
+        "pdf/anonimo-1822-veo-levantado.pdf",
+        "txt/anonimo-1822-veo-levantado.txt"
+      ]
+    },
+    {
+      "id": "anonimo-1875-nova-guia-maconica",
+      "tipo": "ritual",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Anônimo"
+      ],
+      "titulo": "Nova guia maçónica dos ritos escocez e francez",
+      "ano": 1875,
+      "idioma": "pt",
+      "temas": [
+        "ritual",
+        "graus",
+        "ritos"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Guia publicado em Lisboa com quadro de todos os graus dos ritos Escocês e Francês (idade, bateria, insígnias, tempo de trabalho e elementos reservados de reconhecimento). Fonte para a estrutura de graus usada em Portugal no séc. XIX.",
+      "ritos": [
+        "reaa",
+        "frances_moderno"
+      ],
+      "observacoes": "CONTÉM palavras de passe, sinais e toques por extenso: usar só para estrutura de graus; não reproduzir no site (CLAUDE.md regra 5).",
+      "evidencias": [
+        "https://archive.org/details/nova-guia-maconica-dos-ritos-escocez-e-francez-1875"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/nova-guia-maconica-dos-ritos-escocez-e-francez-1875",
+      "identificadores": {
+        "ia": "nova-guia-maconica-dos-ritos-escocez-e-francez-1875"
+      },
+      "acervo": [
+        "pdf/anonimo-1875-nova-guia-maconica.pdf",
+        "txt/anonimo-1875-nova-guia-maconica.txt"
+      ]
+    },
+    {
+      "id": "anonimo-1905-manual-rito-francez",
+      "tipo": "ritual",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Anônimo (Um Cav. Roz. Cruz)"
+      ],
+      "titulo": "Manual do franc-maçon do rito francez ou moderno",
+      "ano": 1905,
+      "idioma": "pt",
+      "temas": [
+        "ritual",
+        "ritos",
+        "graus"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Quarta edição (1905) de manual português do Rito Francês ou Moderno, com descrição de cerimônias e graus. Fonte para o rito praticado no GOLU na Primeira República.",
+      "ritos": [
+        "frances_moderno"
+      ],
+      "potencias": [
+        "gol"
+      ],
+      "observacoes": "Pode conter elementos reservados de reconhecimento; não reproduzir no site.",
+      "evidencias": [
+        "https://archive.org/details/manual-do-franc-mac-on-do-rito-francez-ou-moderno"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/manual-do-franc-mac-on-do-rito-francez-ou-moderno",
+      "identificadores": {
+        "ia": "manual-do-franc-mac-on-do-rito-francez-ou-moderno"
+      },
+      "acervo": [
+        "pdf/anonimo-1905-manual-rito-francez.pdf",
+        "txt/anonimo-1905-manual-rito-francez.txt"
+      ]
+    },
+    {
+      "id": "argus-1916-maconaria-portugal",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "Argus (pseudônimo)"
+      ],
+      "titulo": "A maçonaria em Portugal: cartas da Belgica, 1.a serie",
+      "ano": 1916,
+      "idioma": "pt",
+      "temas": [
+        "antimaconaria",
+        "politica"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Coletânea de cartas publicada em Paris pela Ligue Anti-Maçonique que acusa a maçonaria de controlar a Primeira República portuguesa. Fonte hostil importante para a antimaçonaria católica do período republicano.",
+      "evidencias": [
+        "https://archive.org/details/maonariaemport00argu"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/maonariaemport00argu",
+      "identificadores": {
+        "ia": "maonariaemport00argu"
+      },
+      "acervo": [
+        "pdf/argus-1916-maconaria-portugal.pdf",
+        "txt/argus-1916-maconaria-portugal.txt"
+      ]
+    },
+    {
+      "id": "barreira-1913-palestras-maconicas",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Domingos Pires Barreira"
+      ],
+      "titulo": "Palestras maçônicas realizadas no Palácio do Grande Oriente Luzitano Unido",
+      "ano": 1913,
+      "idioma": "pt",
+      "temas": [
+        "principios",
+        "sociabilidade"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Conferências proferidas no palácio do GOLU, publicadas com autorização do Conselho da Ordem (Lisboa, 1913). Mostra o discurso doutrinário da maçonaria portuguesa nos primeiros anos da República.",
+      "potencias": [
+        "gol"
+      ],
+      "evidencias": [
+        "https://archive.org/details/palestrasman01barr"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/palestrasman01barr",
+      "identificadores": {
+        "ia": "palestrasman01barr"
+      },
+      "acervo": [
+        "pdf/barreira-1913-palestras-maconicas.pdf",
+        "txt/barreira-1913-palestras-maconicas.txt"
+      ]
+    },
+    {
+      "id": "barroso-1937-judaismo-maconaria-comunismo",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "Gustavo Barroso"
+      ],
+      "titulo": "Judaísmo, maçonaria e comunismo",
+      "ano": 1937,
+      "idioma": "pt",
+      "temas": [
+        "antimaconaria",
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "B",
+      "acesso": "restrito",
+      "licenca": "protegida (autor falecido em 1959; domínio público só em 2030)",
+      "resumo": "Obra do ideólogo integralista Gustavo Barroso que funde antissemitismo, antimaçonaria e anticomunismo, típica da conspiração \"judaico-maçônica\" no Brasil dos anos 1930. Fonte hostil, a ser tratada criticamente.",
+      "observacoes": "Não copiado: obra ainda protegida; existe cópia de terceiros no IA.",
+      "status_verificacao": "conferido_web",
+      "url": "https://archive.org/details/BarrosoGustavoJudaimoMaconariaEComunismo",
+      "evidencias": [
+        "https://archive.org/details/BarrosoGustavoJudaimoMaconariaEComunismo"
+      ],
+      "lote": "c05-lusofono"
+    },
+    {
+      "id": "barruel-1809-segredo-revelado",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "Augustin Barruel",
+        "José Agostinho de Macedo (trad.)"
+      ],
+      "titulo": "O segredo revelado, ou, Manifestação do systema dos pedreiros livres, e illuminados",
+      "ano": 1809,
+      "idioma": "pt",
+      "temas": [
+        "antimaconaria",
+        "politica"
+      ],
+      "paises": [
+        "pt",
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Tradução portuguesa, por José Agostinho de Macedo, de extratos das Mémoires de Barruel sobre a conspiração maçônico-iluminista na Revolução Francesa. Mostra a recepção luso-brasileira da tese conspiratória.",
+      "observacoes": "Outros volumes: osegredorevelado13barr, osegredorevelado45barr (IA).",
+      "evidencias": [
+        "https://archive.org/details/osegredorevelado00barr"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/osegredorevelado00barr",
+      "identificadores": {
+        "ia": "osegredorevelado00barr"
+      },
+      "acervo": [
+        "pdf/barruel-1809-segredo-revelado.pdf",
+        "txt/barruel-1809-segredo-revelado.txt"
+      ]
+    },
+    {
+      "id": "boaventura-1829-documento-original",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "Fortunato de São Boaventura"
+      ],
+      "titulo": "Documento original da maçonaria portugueza, ou terceiro ensaio anti-religioso",
+      "ano": 1829,
+      "idioma": "pt",
+      "temas": [
+        "antimaconaria",
+        "religiao",
+        "politica"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Frei Fortunato de São Boaventura, polemista miguelista, publica e comenta uma carta (1826) atribuída a um sacerdote maçom, para denunciar o caráter antirreligioso da maçonaria. Fonte hostil sobre o clima antimaçônico do miguelismo.",
+      "evidencias": [
+        "https://archive.org/details/documento-original-da-mac-onaria-portugueza"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/documento-original-da-mac-onaria-portugueza",
+      "identificadores": {
+        "ia": "documento-original-da-mac-onaria-portugueza"
+      },
+      "acervo": [
+        "pdf/boaventura-1829-documento-original.pdf",
+        "txt/boaventura-1829-documento-original.txt"
+      ]
+    },
+    {
+      "id": "caldeira-1916-rl-pujanca",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Raul Marques Caldeira"
+      ],
+      "titulo": "R. L. Pujança: orador",
+      "ano": 1916,
+      "idioma": "pt",
+      "temas": [
+        "sociabilidade"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "D",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Peça de oratória de 1916 ligada à loja Pujança; documento de vida de loja na Primeira República portuguesa, de interesse local.",
+      "potencias": [
+        "gol"
+      ],
+      "evidencias": [
+        "https://archive.org/details/rl-pujanca-orador"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/rl-pujanca-orador",
+      "identificadores": {
+        "ia": "rl-pujanca-orador"
+      },
+      "acervo": [
+        "pdf/caldeira-1916-rl-pujanca.pdf",
+        "txt/caldeira-1916-rl-pujanca.txt"
+      ]
+    },
+    {
+      "id": "cardoso-1809-pedreiros-livres-iluminados",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "José Anastácio Lopes Cardoso"
+      ],
+      "titulo": "Os pedreiros-livres, e os iluminados, que mais propriamente se deverião denominar os tenebrosos",
+      "ano": 1809,
+      "idioma": "pt",
+      "temas": [
+        "antimaconaria",
+        "politica"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Folheto antimaçônico do contexto das invasões francesas, de José Anastácio Lopes Cardoso, que identifica pedreiros-livres e iluminados com os invasores. Estudado por Pablo Iglesias Magalhães (Revista de História USP, 2017).",
+      "evidencias": [
+        "https://archive.org/details/pedreiros-livres-pestilencial-irmandada"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/pedreiros-livres-pestilencial-irmandada",
+      "identificadores": {
+        "ia": "pedreiros-livres-pestilencial-irmandada"
+      },
+      "acervo": [
+        "txt/cardoso-1809-pedreiros-livres-iluminados.txt"
+      ]
+    },
+    {
+      "id": "cmp-1859-constituicao",
+      "tipo": "documento",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "Confederação Maçónica Portuguesa"
+      ],
+      "titulo": "Constituição da Confederação Maçonica Portugueza",
+      "ano": 1859,
+      "idioma": "pt",
+      "temas": [
+        "potencias"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Constituição de uma das obediências do período de fragmentação da maçonaria portuguesa em meados do séc. XIX, antes da unificação do Grande Oriente Lusitano Unido (1869).",
+      "observacoes": "Exemplar traz recorte do jornal A Voz (c. 1961) colado no fim.",
+      "evidencias": [
+        "https://archive.org/details/constituica-o-da-confederaca-o-mac-onaria-portugueza"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/constituica-o-da-confederaca-o-mac-onaria-portugueza",
+      "identificadores": {
+        "ia": "constituica-o-da-confederaca-o-mac-onaria-portugueza"
+      },
+      "acervo": [
+        "pdf/cmp-1859-constituicao.pdf",
+        "txt/cmp-1859-constituicao.txt"
+      ]
+    },
+    {
+      "id": "coelho-monteiro-1823-maconismo-desmascarado",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "José Luiz Coelho Monteiro"
+      ],
+      "titulo": "O maçonismo desmascarado",
+      "ano": 1823,
+      "idioma": "pt",
+      "temas": [
+        "antimaconaria",
+        "politica"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Opúsculo contrarrevolucionário publicado após a Vilafrancada por professor ligado ao partido de D. Miguel, que pretende provar a nocividade da maçonaria e associá-la a uma conspiração. Documento da antimaçonaria absolutista portuguesa, a ser usado como fonte hostil.",
+      "evidencias": [
+        "https://archive.org/details/o-maconismo-desmascarado"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/o-maconismo-desmascarado",
+      "identificadores": {
+        "ia": "o-maconismo-desmascarado"
+      },
+      "acervo": [
+        "pdf/coelho-monteiro-1823-maconismo-desmascarado.pdf",
+        "txt/coelho-monteiro-1823-maconismo-desmascarado.txt"
+      ]
+    },
+    {
+      "id": "costa-1915-homenagem-heliodoro-salgado",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Salvador José da Costa"
+      ],
+      "titulo": "Homenagem a Heliodoro Salgado",
+      "ano": 1915,
+      "idioma": "pt",
+      "temas": [
+        "personalidades",
+        "politica"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Discurso da secção \"Elias Garcia\" na trasladação dos restos do republicano e livre-pensador Heliodoro Salgado (1915). Fonte sobre a rede maçônico-republicana portuguesa.",
+      "evidencias": [
+        "https://archive.org/details/homenagem-a-heliodoro-salgado"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/homenagem-a-heliodoro-salgado",
+      "identificadores": {
+        "ia": "homenagem-a-heliodoro-salgado"
+      },
+      "acervo": [
+        "pdf/costa-1915-homenagem-heliodoro-salgado.pdf",
+        "txt/costa-1915-homenagem-heliodoro-salgado.txt"
+      ]
+    },
+    {
+      "id": "coustos-1803-procedures-curieuses",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "John Coustos"
+      ],
+      "titulo": "Procédures curieuses de l'Inquisition de Portugal contre les francs-maçons",
+      "ano": 1803,
+      "idioma": "fr",
+      "temas": [
+        "antimaconaria",
+        "religiao",
+        "personalidades"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Edição francesa do relato de John Coustos, joalheiro maçom preso e torturado pela Inquisição de Lisboa em 1743, publicado originalmente em inglês (1746). Fonte primária fundamental sobre a perseguição inquisitorial à maçonaria em Portugal.",
+      "evidencias": [
+        "https://archive.org/details/procdurescurieu00cousgoog"
+      ],
+      "ano_original": 1746,
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/procdurescurieu00cousgoog",
+      "identificadores": {
+        "ia": "procdurescurieu00cousgoog"
+      },
+      "acervo": [
+        "pdf/coustos-1803-procedures-curieuses.pdf",
+        "txt/coustos-1803-procedures-curieuses.txt"
+      ]
+    },
+    {
+      "id": "cunha-1738-provisao-inquisidor",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Nuno da Cunha e Ataíde"
+      ],
+      "titulo": "Provisão do Inquisidor Geral notificando a constituição de Clemente XII contra os pedreiros livres",
+      "ano": 1738,
+      "idioma": "pt",
+      "temas": [
+        "religiao",
+        "antimaconaria"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1717_1750"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Edital do cardeal inquisidor-geral Nuno da Cunha (28/9/1738) que publica em Portugal a bula In eminenti de Clemente XII e proíbe as sociedades de liberi muratori. Marco da recepção da condenação papal no reino.",
+      "evidencias": [
+        "https://archive.org/details/provisa-o-do-inquisidor-geral-de-portugal-nuno-da-cunha"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/provisa-o-do-inquisidor-geral-de-portugal-nuno-da-cunha",
+      "identificadores": {
+        "ia": "provisa-o-do-inquisidor-geral-de-portugal-nuno-da-cunha"
+      },
+      "acervo": [
+        "pdf/cunha-1738-provisao-inquisidor.pdf",
+        "txt/cunha-1738-provisao-inquisidor.txt"
+      ]
+    },
+    {
+      "id": "dias-1843-historia-franc-maconaria",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Miguel António Dias"
+      ],
+      "titulo": "Historia da franc-maçonaria ou dos pedreiros livres",
+      "ano": 1843,
+      "idioma": "pt",
+      "temas": [
+        "historiografia",
+        "origens",
+        "potencias"
+      ],
+      "paises": [
+        "pt",
+        "mundo"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "História geral da maçonaria publicada anonimamente pelo autor da Bibliotheca Maçonica, Miguel António Dias, depois grão-mestre da Maçonaria Eclética (1853–1875). Uma das primeiras sínteses em português; valor sobretudo como documento da autoimagem maçônica oitocentista.",
+      "evidencias": [
+        "https://archive.org/details/histo-ria-da-franc-mac-onaria-ou-dos-pedreiros-livres"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/histo-ria-da-franc-mac-onaria-ou-dos-pedreiros-livres",
+      "identificadores": {
+        "ia": "histo-ria-da-franc-mac-onaria-ou-dos-pedreiros-livres"
+      },
+      "acervo": [
+        "pdf/dias-1843-historia-franc-maconaria.pdf",
+        "txt/dias-1843-historia-franc-maconaria.txt"
+      ]
+    },
+    {
+      "id": "dias-1851-salomao-dia-jerusalem",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Miguel António Dias"
+      ],
+      "titulo": "Salomão ou um dia em Jerusalem: drama allegorico em 5 actos",
+      "ano": 1851,
+      "idioma": "pt",
+      "temas": [
+        "simbolismo",
+        "arte_cultura"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Drama alegórico do autor da Bibliotheca Maçonica (Lisboa, 1851) sobre Salomão e o Templo, tema central do simbolismo maçônico. Exemplo de literatura maçônica portuguesa.",
+      "evidencias": [
+        "https://archive.org/details/saloma-o-ou-um-dia-em-jerusalem"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/saloma-o-ou-um-dia-em-jerusalem",
+      "identificadores": {
+        "ia": "saloma-o-ou-um-dia-em-jerusalem"
+      },
+      "acervo": [
+        "pdf/dias-1851-salomao-dia-jerusalem.pdf",
+        "txt/dias-1851-salomao-dia-jerusalem.txt"
+      ]
+    },
+    {
+      "id": "goaa-1948-revista-maconica",
+      "tipo": "periodico",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "Grande Oriente do Amazonas e Acre"
+      ],
+      "titulo": "Revista Maçonica: Grande Oriente do Amazonas e Acre, nov. 1948",
+      "ano": 1948,
+      "idioma": "pt",
+      "temas": [
+        "potencias",
+        "sociabilidade"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "confiabilidade": "C",
+      "acesso": "aberto",
+      "licenca": "desconhecida (publicação institucional de 1948 divulgada pela Biblioteca Virtual da SEC-AM)",
+      "resumo": "Número de 1948 da revista do Grande Oriente do Amazonas e Acre (Manaus), potência estadual surgida das cisões do séc. XX. Fonte para a maçonaria amazônica.",
+      "potencias": [
+        "go_am"
+      ],
+      "evidencias": [
+        "https://archive.org/details/revista-maconica"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/revista-maconica",
+      "identificadores": {
+        "ia": "revista-maconica"
+      },
+      "acervo": [
+        "pdf/goaa-1948-revista-maconica.pdf",
+        "txt/goaa-1948-revista-maconica.txt"
+      ]
+    },
+    {
+      "id": "gob-1882-boletim-n2",
+      "tipo": "periodico",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "Grande Oriente do Brasil"
+      ],
+      "titulo": "Boletim do Grande Oriente do Brazil: jornal official da maçonaria brazileira, ano 11, n. 2",
+      "ano": 1882,
+      "idioma": "pt",
+      "temas": [
+        "potencias",
+        "sociabilidade"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Número de 1882 do órgão oficial mensal do GOB, com atos administrativos, balaústres e notícias das lojas. Amostra do periódico oficial, base para a história institucional do GOB no Império.",
+      "potencias": [
+        "gob"
+      ],
+      "observacoes": "Identificador per709441 indica origem na coleção de periódicos; procurar outros números na Hemeroteca Digital.",
+      "evidencias": [
+        "https://archive.org/details/per709441_1882_00002"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/per709441_1882_00002",
+      "identificadores": {
+        "ia": "per709441_1882_00002"
+      },
+      "acervo": [
+        "pdf/gob-1882-boletim-n2.pdf",
+        "txt/gob-1882-boletim-n2.txt"
+      ]
+    },
+    {
+      "id": "gol-1822-constituicao",
+      "tipo": "documento",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "Grande Oriente Lusitano"
+      ],
+      "titulo": "Constituição da Maçonaria em Portugal. Primeira parte",
+      "ano": 1822,
+      "idioma": "pt",
+      "temas": [
+        "potencias",
+        "documentos_fundadores"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Segunda edição (Lisboa, Impressão Liberal, 1822) da constituição do Grande Oriente Lusitano, cuja primeira versão é atribuída a 1806. Documento normativo básico da obediência portuguesa no triênio liberal.",
+      "potencias": [
+        "gol"
+      ],
+      "evidencias": [
+        "https://archive.org/details/constituica-o-da-mac-onaria-em-portugal"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/constituica-o-da-mac-onaria-em-portugal",
+      "identificadores": {
+        "ia": "constituica-o-da-mac-onaria-em-portugal"
+      },
+      "acervo": [
+        "pdf/gol-1822-constituicao.pdf",
+        "txt/gol-1822-constituicao.txt"
+      ]
+    },
+    {
+      "id": "gol-1840-constituicao-ordem",
+      "tipo": "documento",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "Grande Oriente Lusitano (Maçonaria do Sul)"
+      ],
+      "titulo": "Constituição da Ordem dos Livres Maçons Portuguezes",
+      "ano": 1840,
+      "idioma": "pt",
+      "temas": [
+        "potencias",
+        "regularidade"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Revisão (1840) da constituição de 1835/36 da chamada Maçonaria do Sul (Oriente Saldanha/Foz-Coa), uma das facções do Grande Oriente Lusitano após as cisões liberais. Documento das divisões maçônicas do liberalismo português.",
+      "potencias": [
+        "gol"
+      ],
+      "evidencias": [
+        "https://archive.org/details/constituica-o-da-ordem-dos-livres-mac-ons-portuguezes"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/constituica-o-da-ordem-dos-livres-mac-ons-portuguezes",
+      "identificadores": {
+        "ia": "constituica-o-da-ordem-dos-livres-mac-ons-portuguezes"
+      },
+      "acervo": [
+        "pdf/gol-1840-constituicao-ordem.pdf",
+        "txt/gol-1840-constituicao-ordem.txt"
+      ]
+    },
+    {
+      "id": "golu-1881-ceremonias-maconaria-symbolica",
+      "tipo": "ritual",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Grande Oriente Lusitano Unido"
+      ],
+      "titulo": "Ceremonias da maçonaria symbolica dos antigos maçons livres e acceites de Portugal",
+      "ano": 1881,
+      "idioma": "pt",
+      "temas": [
+        "ritual",
+        "graus"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Cerimonial oficial dos graus simbólicos publicado sob os auspícios da Suprema Câmara do GOLU (Lisboa, 1881), com posfácio sobre origens e fins da maçonaria. Fonte primária do ritual simbólico português oitocentista.",
+      "ritos": [
+        "reaa"
+      ],
+      "potencias": [
+        "gol"
+      ],
+      "observacoes": "Ritual: não reproduzir palavras/sinais/juramentos no site.",
+      "evidencias": [
+        "https://archive.org/details/ceremonias-da-mac-onaria-symbolica-dos-antigos-mac-ons-livres-e-acceites-de-portugal"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/ceremonias-da-mac-onaria-symbolica-dos-antigos-mac-ons-livres-e-acceites-de-portugal",
+      "identificadores": {
+        "ia": "ceremonias-da-mac-onaria-symbolica-dos-antigos-mac-ons-livres-e-acceites-de-portugal"
+      },
+      "acervo": [
+        "pdf/golu-1881-ceremonias-maconaria-symbolica.pdf",
+        "txt/golu-1881-ceremonias-maconaria-symbolica.txt"
+      ]
+    },
+    {
+      "id": "golu-1905-congresso-peninsula-iberica",
+      "tipo": "documento",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "Grande Oriente Lusitano Unido",
+        "Grande Oriente Español"
+      ],
+      "titulo": "Congresso maçonico das duas potencias maçonicas da Peninsula Iberica",
+      "ano": 1905,
+      "idioma": "pt",
+      "temas": [
+        "potencias",
+        "politica"
+      ],
+      "paises": [
+        "pt",
+        "es"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Relatório do congresso realizado em Lisboa (21–23 jun. 1905) entre o GOLU e a potência espanhola, no Palácio Maçônico. Documenta as relações maçônicas ibéricas às vésperas da República portuguesa.",
+      "potencias": [
+        "gol",
+        "goe"
+      ],
+      "evidencias": [
+        "https://archive.org/details/congresso-maconico-das-duas-potencias-maconicas-da-peninsula-iberica"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/congresso-maconico-das-duas-potencias-maconicas-da-peninsula-iberica",
+      "identificadores": {
+        "ia": "congresso-maconico-das-duas-potencias-maconicas-da-peninsula-iberica"
+      },
+      "acervo": [
+        "pdf/golu-1905-congresso-peninsula-iberica.pdf",
+        "txt/golu-1905-congresso-peninsula-iberica.txt"
+      ]
+    },
+    {
+      "id": "golu-1914-memoria-supremo-conselho",
+      "tipo": "documento",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "Grande Oriente Lusitano Unido"
+      ],
+      "titulo": "Memória: o Supremo Conselho do Grau 33 e o Grande Oriente Lusitano Unido",
+      "ano": 1914,
+      "idioma": "pt",
+      "temas": [
+        "potencias",
+        "regularidade",
+        "ritos"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Memória deliberada pela Grande Loja do GOLU (11/8/1914) sobre as relações e o conflito com o Supremo Conselho do Grau 33, isto é, entre o simbolismo e o REAA em Portugal.",
+      "ritos": [
+        "reaa"
+      ],
+      "potencias": [
+        "gol"
+      ],
+      "evidencias": [
+        "https://archive.org/details/memo-ria.-o-supremo-conselho-de-grau-33-e-o-grande-oriente-lusitano-unido"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/memo-ria.-o-supremo-conselho-de-grau-33-e-o-grande-oriente-lusitano-unido",
+      "identificadores": {
+        "ia": "memo-ria.-o-supremo-conselho-de-grau-33-e-o-grande-oriente-lusitano-unido"
+      },
+      "acervo": [
+        "pdf/golu-1914-memoria-supremo-conselho.pdf",
+        "txt/golu-1914-memoria-supremo-conselho.txt"
+      ]
+    },
+    {
+      "id": "gremio-lusitano-1921-revista-n22",
+      "tipo": "periodico",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "Grémio Lusitano"
+      ],
+      "titulo": "Revista do Grémio Lusitano, n. 22",
+      "ano": 1921,
+      "idioma": "pt",
+      "temas": [
+        "potencias",
+        "sociabilidade"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Número da revista do Grémio Lusitano, associação civil ligada ao Grande Oriente Lusitano, com artigos e notícias da vida maçônica portuguesa no início dos anos 1920.",
+      "potencias": [
+        "gol"
+      ],
+      "evidencias": [
+        "https://archive.org/details/revista-do-gremio-lusitano-n-22"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/revista-do-gremio-lusitano-n-22",
+      "identificadores": {
+        "ia": "revista-do-gremio-lusitano-n-22"
+      },
+      "acervo": [
+        "pdf/gremio-lusitano-1921-revista-n22.pdf"
+      ]
+    },
+    {
+      "id": "gremio-lusitano-1928-principios-preceitos",
+      "tipo": "documento",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "Grémio Lusitano"
+      ],
+      "titulo": "Princípios e preceitos maçónicos",
+      "ano": 1928,
+      "idioma": "pt",
+      "temas": [
+        "principios"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Opúsculo do Grémio Lusitano (associação civil do GOL) que expõe os princípios e preceitos da maçonaria portuguesa no fim da Primeira República. Útil para a vertente liberal/adogmática portuguesa.",
+      "potencias": [
+        "gol"
+      ],
+      "evidencias": [
+        "https://archive.org/details/principios-e-preceitos-mac-onicos"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/principios-e-preceitos-mac-onicos",
+      "identificadores": {
+        "ia": "principios-e-preceitos-mac-onicos"
+      },
+      "acervo": [
+        "pdf/gremio-lusitano-1928-principios-preceitos.pdf",
+        "txt/gremio-lusitano-1928-principios-preceitos.txt"
+      ]
+    },
+    {
+      "id": "guillemain-1823-maconaria-senhoras",
+      "tipo": "ritual",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Louis Guillemain de Saint-Victor"
+      ],
+      "titulo": "Maçonaria das senhoras ou a verdadeira maçonaria de adopção",
+      "ano": 1823,
+      "idioma": "pt",
+      "temas": [
+        "mulheres",
+        "ritual"
+      ],
+      "paises": [
+        "pt",
+        "fr"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Tradução portuguesa (1823, por \"hum Constitucional\") de La vraie maçonnerie d'adoption de Guillemain de Saint-Victor, com os graus da maçonaria de adoção feminina. Indica a circulação do modelo francês de lojas de adoção no mundo lusófono.",
+      "ritos": [
+        "adonhiramita"
+      ],
+      "evidencias": [
+        "https://archive.org/details/mac-onaria-das-senhoras"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/mac-onaria-das-senhoras",
+      "identificadores": {
+        "ia": "mac-onaria-das-senhoras"
+      },
+      "acervo": [
+        "pdf/guillemain-1823-maconaria-senhoras.pdf",
+        "txt/guillemain-1823-maconaria-senhoras.txt"
+      ]
+    },
+    {
+      "id": "guimaraes-1925-maconaria-revelada",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "Gaspar Guimarães"
+      ],
+      "titulo": "A maçonaria revelada",
+      "ano": 1925,
+      "idioma": "pt",
+      "temas": [
+        "antimaconaria"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "C",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND 4.0 (atribuída pelo depositante; direitos do autor não verificados)",
+      "resumo": "Livro publicado em Manaus (Papelaria Velho Lino, 1925) sobre a maçonaria; disponibilizado pela Biblioteca Virtual da SEC-AM. Precisa de leitura para classificar a orientação.",
+      "evidencias": [
+        "https://archive.org/details/maconaria-revelada-a"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/maconaria-revelada-a",
+      "identificadores": {
+        "ia": "maconaria-revelada-a"
+      },
+      "acervo": [
+        "pdf/guimaraes-1925-maconaria-revelada.pdf",
+        "txt/guimaraes-1925-maconaria-revelada.txt"
+      ]
+    },
+    {
+      "id": "loja-federacao-1870-iakin-boaz",
+      "tipo": "periodico",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Joaquim de Almeida da Cunha",
+        "Loja Federação (Coimbra)"
+      ],
+      "titulo": "Iakin e Boaz: jornal da maç. port.",
+      "ano": 1870,
+      "idioma": "pt",
+      "temas": [
+        "sociabilidade",
+        "potencias"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Periódico maçônico de Coimbra (1870) editado pela Loja Federação, do qual saíram três números; atribuído a Joaquim de Almeida da Cunha. Testemunho da imprensa maçônica portuguesa logo após a unificação de 1869.",
+      "evidencias": [
+        "https://archive.org/details/iakin-e-boaz"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/iakin-e-boaz",
+      "identificadores": {
+        "ia": "iakin-e-boaz"
+      },
+      "acervo": [
+        "pdf/loja-federacao-1870-iakin-boaz.pdf",
+        "txt/loja-federacao-1870-iakin-boaz.txt"
+      ]
+    },
+    {
+      "id": "lopes-1829-verdadeiros-interesses",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Joaquim José Pedro Lopes"
+      ],
+      "titulo": "Verdadeiros interesses das potencias da Europa e do Imperio do Brasil relativamente aos actuaes negocios de Portugal",
+      "ano": 1829,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "antimaconaria"
+      ],
+      "paises": [
+        "pt",
+        "br"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Panfleto miguelista de 1829 sobre a crise dinástica luso-brasileira, que atribui à maçonaria parte da agitação liberal. Interesse marginal; pista para o tema maçonaria e independência.",
+      "evidencias": [
+        "https://archive.org/details/verdadeiros-interesses-das-potencias-da-europa-e-do-imperio-do-brasil-relativame"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/verdadeiros-interesses-das-potencias-da-europa-e-do-imperio-do-brasil-relativame",
+      "identificadores": {
+        "ia": "verdadeiros-interesses-das-potencias-da-europa-e-do-imperio-do-brasil-relativame"
+      },
+      "acervo": [
+        "pdf/lopes-1829-verdadeiros-interesses.pdf",
+        "txt/lopes-1829-verdadeiros-interesses.txt"
+      ]
+    },
+    {
+      "id": "macedo-1816-refutacao",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "José Agostinho de Macedo"
+      ],
+      "titulo": "Refutação dos principios methafysicos, e moraes dos pedreiros livres illuminados",
+      "ano": 1816,
+      "idioma": "pt",
+      "temas": [
+        "antimaconaria",
+        "religiao",
+        "principios"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Obra do padre José Agostinho de Macedo, principal polemista antimaçônico português, que contesta os princípios filosóficos e morais atribuídos a maçons e iluminados. Impressa na Impressão Régia.",
+      "evidencias": [
+        "https://archive.org/details/refutaodospr00mace"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/refutaodospr00mace",
+      "identificadores": {
+        "ia": "refutaodospr00mace"
+      },
+      "acervo": [
+        "pdf/macedo-1816-refutacao.pdf",
+        "txt/macedo-1816-refutacao.txt"
+      ]
+    },
+    {
+      "id": "macedo-costa-1875-maconaria-oposicao",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Antônio de Macedo Costa"
+      ],
+      "titulo": "A maçonaria em oposição á moral, á Igreja e ao Estado",
+      "ano": 1875,
+      "idioma": "pt",
+      "temas": [
+        "religiao",
+        "antimaconaria",
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Carta pastoral do bispo do Pará, D. Antônio de Macedo Costa, companheiro de D. Vital na Questão Religiosa, que condena a maçonaria em termos morais, eclesiásticos e políticos. Documento do lado episcopal do conflito.",
+      "evidencias": [
+        "https://archive.org/details/a-maconaria-em-oposicao-a-moral-a-igreja-e-ao-estado-dom-antonio-de-macedo-costa-1875"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/a-maconaria-em-oposicao-a-moral-a-igreja-e-ao-estado-dom-antonio-de-macedo-costa-1875",
+      "identificadores": {
+        "ia": "a-maconaria-em-oposicao-a-moral-a-igreja-e-ao-estado-dom-antonio-de-macedo-costa-1875"
+      },
+      "acervo": [
+        "pdf/macedo-costa-1875-maconaria-oposicao.pdf",
+        "txt/macedo-costa-1875-maconaria-oposicao.txt"
+      ]
+    },
+    {
+      "id": "mendes-1873-discurso-questao-religiosa",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Cândido Mendes de Almeida"
+      ],
+      "titulo": "Discurso sobre a questão religiosa, proferido no Senado em 30 de junho de 1873",
+      "ano": 1873,
+      "idioma": "pt",
+      "temas": [
+        "religiao",
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Discurso parlamentar do senador Cândido Mendes de Almeida, defensor dos bispos D. Vital e D. Macedo Costa, sobre o conflito entre o governo imperial, as irmandades com maçons e o episcopado. Documento central da Questão Religiosa.",
+      "potencias": [
+        "gob"
+      ],
+      "evidencias": [
+        "https://archive.org/details/discurso-sobre-a-questao-religiosa"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/discurso-sobre-a-questao-religiosa",
+      "identificadores": {
+        "ia": "discurso-sobre-a-questao-religiosa"
+      },
+      "acervo": [
+        "pdf/mendes-1873-discurso-questao-religiosa.pdf",
+        "txt/mendes-1873-discurso-questao-religiosa.txt"
+      ]
+    },
+    {
+      "id": "palmela-1822-carta-macedo",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Anônimo (atrib. Pedro de Sousa Holstein, duque de Palmela)"
+      ],
+      "titulo": "Carta ao muito reverendo padre José Agostinho de Macedo sobre os constitucionaes e liberaes",
+      "ano": 1822,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "antimaconaria"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Uma de três cartas anônimas impressas em Lisboa em 1822 contra José Agostinho de Macedo, por vezes associadas ao duque de Palmela. Documenta a polêmica entre liberais e o principal antimaçon português.",
+      "evidencias": [
+        "https://archive.org/details/cartaaomuitoreve00unse"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/cartaaomuitoreve00unse",
+      "identificadores": {
+        "ia": "cartaaomuitoreve00unse"
+      },
+      "acervo": [
+        "pdf/palmela-1822-carta-macedo.pdf",
+        "txt/palmela-1822-carta-macedo.txt"
+      ]
+    },
+    {
+      "id": "pessoa-1935-associacoes-secretas",
+      "tipo": "artigo",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Fernando Pessoa"
+      ],
+      "titulo": "Associações secretas",
+      "ano": 1935,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "antimaconaria",
+        "personalidades"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Artigo de Fernando Pessoa no Diário de Lisboa (4/2/1935) contra o projeto de lei do deputado José Cabral que proibia as associações secretas em Portugal. Defende a maçonaria como associação iniciática e critica a lógica do projeto; é peça central do debate que antecedeu a Lei n.º 1901 de 1935 sob Salazar.",
+      "potencias": [
+        "gol"
+      ],
+      "observacoes": "Há também a reedição em folheto (A maçonaria, s.d.) no IA: gri_33125000109633 — ver pessoa-1935-maconaria-folheto.",
+      "evidencias": [
+        "https://archive.org/details/associacoes-secretas"
+      ],
+      "periodico": "Diário de Lisboa",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/associacoes-secretas",
+      "identificadores": {
+        "ia": "associacoes-secretas"
+      },
+      "acervo": [
+        "pdf/pessoa-1935-associacoes-secretas.pdf",
+        "txt/pessoa-1935-associacoes-secretas.txt"
+      ]
+    },
+    {
+      "id": "pessoa-1935-maconaria-folheto",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Fernando Pessoa"
+      ],
+      "titulo": "A maçonaria: comentando o projecto de lei do deputado José Cabral",
+      "ano": 1935,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "antimaconaria"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Folheto de 8 páginas que reproduz o texto de Pessoa contra o projeto de José Cabral apresentado à Assembleia Nacional. Exemplar digitalizado pelo Getty Research Institute; útil para conferir o texto do artigo de 1935.",
+      "observacoes": "IA data 1900 por erro de catalogação; o texto é de 1935.",
+      "evidencias": [
+        "https://archive.org/details/gri_33125000109633"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/gri_33125000109633",
+      "identificadores": {
+        "ia": "gri_33125000109633"
+      },
+      "acervo": [
+        "pdf/pessoa-1935-maconaria-folheto.pdf",
+        "txt/pessoa-1935-maconaria-folheto.txt"
+      ]
+    },
+    {
+      "id": "rangel-1822-causa-frades-pedreiros",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "José Máximo Pinto da Fonseca Rangel"
+      ],
+      "titulo": "Causa dos frades e dos pedreiros livres no tribunal da Prudencia",
+      "ano": 1822,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "religiao",
+        "antimaconaria"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "Folheto anônimo do Porto (1822), atribuído a J. M. P. da F. Rangel, que confronta os argumentos de frades e de maçons no contexto da Revolução Liberal de 1820. Exemplar da University of Toronto (Fisher).",
+      "evidencias": [
+        "https://archive.org/details/causadosfradesed00rang"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/causadosfradesed00rang",
+      "identificadores": {
+        "ia": "causadosfradesed00rang"
+      },
+      "acervo": [
+        "pdf/rangel-1822-causa-frades-pedreiros.pdf",
+        "txt/rangel-1822-causa-frades-pedreiros.txt"
+      ]
+    },
+    {
+      "id": "vilhena-moraes-1930-gabinete-caxias",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Eugênio Vilhena de Moraes"
+      ],
+      "titulo": "O Gabinete Caxias e a anistia aos bispos na Questão Religiosa",
+      "ano": 1930,
+      "idioma": "pt",
+      "temas": [
+        "religiao",
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "a confirmar (autor falecido em 1950? — verificar data de morte; se antes de 1955, domínio público)",
+      "resumo": "Estudo do historiador católico Eugênio Vilhena de Moraes, com documentos do Itamaraty, sobre a anistia aos bispos D. Vital e D. Macedo Costa (1875) pelo gabinete Caxias. Leitura católica, mas baseada em arquivo.",
+      "evidencias": [
+        "https://archive.org/details/o-gabinete-caxias-e-a-anistia-aos-bispos-na-questao-religiosa-prof.-eugenio-vilhena-de-moraes-1930"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/o-gabinete-caxias-e-a-anistia-aos-bispos-na-questao-religiosa-prof.-eugenio-vilhena-de-moraes-1930",
+      "identificadores": {
+        "ia": "o-gabinete-caxias-e-a-anistia-aos-bispos-na-questao-religiosa-prof.-eugenio-vilhena-de-moraes-1930"
+      },
+      "acervo": [
+        "txt/vilhena-moraes-1930-gabinete-caxias.txt"
+      ]
+    }
+  ]
+}
