@@ -869,6 +869,889 @@
     "txt/sc-sj-1872-scottish-rite-statutes.txt"
    ],
    "lote": "c02-ritos"
+  },
+  {
+   "id": "perfect-ceremonies-1871-craft-masonry",
+   "tipo": "ritual",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Anônimo"
+   ],
+   "titulo": "The Perfect Ceremonies of Craft Masonry, as taught in the Unions Emulation Lodge of Improvement",
+   "ano": 1871,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "graus"
+   ],
+   "ritos": [
+    "emulacao"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "periodos": [
+    "p1814_1870",
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1871)",
+   "resumo": "Ritual impresso (sem autorização oficial) das cerimônias dos três graus segundo a Emulation Lodge of Improvement de Londres, que fixou a forma de trabalho mais difundida na UGLE após a União de 1813; fonte central para o Rito de Emulação histórico.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "ugle"
+   ],
+   "local": "London",
+   "url": "https://archive.org/details/perfectceremoni00freegoog",
+   "identificadores": {
+    "ia": "perfectceremoni00freegoog"
+   },
+   "evidencias": [
+    "https://archive.org/details/perfectceremoni00freegoog"
+   ],
+   "acervo": [
+    "pdf/perfect-ceremonies-1871-craft-masonry.pdf",
+    "txt/perfect-ceremonies-1871-craft-masonry.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "carlile-1860-manual-three-first-degrees",
+   "tipo": "exposicao",
+   "categoria": "antimaconica",
+   "autores": [
+    "Richard Carlile"
+   ],
+   "titulo": "A Manual of the Three First Degrees of Freemasonry, with an introductory key-stone to the Royal Arch",
+   "ano": 1860,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "antimaconaria",
+    "graus",
+    "ordens_anexas"
+   ],
+   "ritos": [
+    "emulacao"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1860)",
+   "resumo": "Reedição da exposição publicada por Carlile nos anos 1820 na revista The Republican, com os rituais da maçonaria inglesa pós-União e do Arco Real; testemunho do ritual inglês do início do séc. XIX, escrito por um radical crítico da Ordem.",
+   "status_verificacao": "copiado",
+   "ano_original": 1825,
+   "url": "https://archive.org/details/manualofthreefir00carl",
+   "identificadores": {
+    "ia": "manualofthreefir00carl"
+   },
+   "evidencias": [
+    "https://archive.org/details/manualofthreefir00carl"
+   ],
+   "acervo": [
+    "txt/carlile-1860-manual-three-first-degrees.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "how-1881-freemasons-manual",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Jeremiah How"
+   ],
+   "titulo": "The Freemason's Manual, or Illustrations of Masonry",
+   "ano": 1881,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "graus",
+    "ordens_anexas"
+   ],
+   "ritos": [
+    "emulacao",
+    "outros_ritos"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1881)",
+   "resumo": "Manual monitorial inglês que, além dos graus da UGLE, descreve os graus de Marca, Arco Real, Templários, Rosa-Cruz e outros praticados na Inglaterra vitoriana; panorama útil das ordens anexas britânicas.",
+   "status_verificacao": "copiado",
+   "local": "London",
+   "url": "https://archive.org/details/freemasonsmanua00howgoog",
+   "identificadores": {
+    "ia": "freemasonsmanua00howgoog"
+   },
+   "evidencias": [
+    "https://archive.org/details/freemasonsmanua00howgoog"
+   ],
+   "acervo": [
+    "txt/how-1881-freemasons-manual.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "glmmm-1882-constitutions-mark-master",
+   "tipo": "documento",
+   "categoria": "oficial_potencia",
+   "autores": [
+    "Grand Lodge of Mark Master Masons of England and Wales"
+   ],
+   "titulo": "Constitutions of the Grand Lodge of Mark Master Masons of England and Wales and the Colonies",
+   "ano": 1882,
+   "idioma": "en",
+   "temas": [
+    "ordens_anexas",
+    "potencias",
+    "documentos_fundadores"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1882)",
+   "resumo": "Constituições oficiais da Grande Loja de Mestres Maçons da Marca da Inglaterra (fundada em 1856), que organiza o grau de Marca fora da UGLE; documento normativo da ordem anexa.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "marca"
+   ],
+   "url": "https://archive.org/details/dli.ministry.11486",
+   "identificadores": {
+    "ia": "dli.ministry.11486"
+   },
+   "evidencias": [
+    "https://archive.org/details/dli.ministry.11486"
+   ],
+   "acervo": [
+    "pdf/glmmm-1882-constitutions-mark-master.pdf",
+    "txt/glmmm-1882-constitutions-mark-master.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "robertson-1888-cryptic-rite",
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "John Ross Robertson"
+   ],
+   "titulo": "The Cryptic Rite: its origin and introduction on this continent",
+   "ano": 1888,
+   "idioma": "en",
+   "temas": [
+    "ordens_anexas",
+    "ritos",
+    "origens"
+   ],
+   "ritos": [
+    "york",
+    "canadense"
+   ],
+   "paises": [
+    "ca",
+    "us"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1888)",
+   "resumo": "História dos graus crípticos e de sua chegada à América do Norte, com documentos sobre as origens controversas (Rito de Perfeição, Baltimore, Charleston); obra do historiador maçônico canadense Robertson.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "cryptic"
+   ],
+   "local": "Toronto",
+   "url": "https://archive.org/details/crypticriteitso00drumgoog",
+   "identificadores": {
+    "ia": "crypticriteitso00drumgoog"
+   },
+   "evidencias": [
+    "https://archive.org/details/crypticriteitso00drumgoog"
+   ],
+   "acervo": [
+    "pdf/robertson-1888-cryptic-rite.pdf",
+    "txt/robertson-1888-cryptic-rite.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "sargant-1880-royal-arch-companion",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Thomas Sargant"
+   ],
+   "titulo": "The Royal Arch Companion: a manual of Royal Arch masonry",
+   "ano": 1880,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "ordens_anexas",
+    "graus"
+   ],
+   "ritos": [
+    "york",
+    "canadense"
+   ],
+   "paises": [
+    "ca"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1880)",
+   "resumo": "Manual monitorial canadense dos graus capitulares (Marca, Past Master, Mui Excelente Mestre e Arco Real), com cerimônias públicas e regulamentos.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "arco_real"
+   ],
+   "url": "https://archive.org/details/cihm_13008",
+   "identificadores": {
+    "ia": "cihm_13008"
+   },
+   "evidencias": [
+    "https://archive.org/details/cihm_13008"
+   ],
+   "acervo": [
+    "pdf/sargant-1880-royal-arch-companion.pdf",
+    "txt/sargant-1880-royal-arch-companion.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "caswell-1878-hand-book-chapter",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Thomas H. Caswell"
+   ],
+   "titulo": "The Hand-book of the Chapter: monitorial instructions in the degrees of Mark Master, Past Master, Most Excellent Master and Royal Arch",
+   "ano": 1878,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "ordens_anexas",
+    "graus"
+   ],
+   "ritos": [
+    "york"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1878)",
+   "resumo": "Monitor oficial-oficioso dos graus capitulares do Rito de York na Califórnia; parte pública (monitorial) das cerimônias do Arco Real.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "arco_real"
+   ],
+   "local": "San Francisco",
+   "url": "https://archive.org/details/handbookofchapte00caswrich",
+   "identificadores": {
+    "ia": "handbookofchapte00caswrich"
+   },
+   "evidencias": [
+    "https://archive.org/details/handbookofchapte00caswrich"
+   ],
+   "acervo": [
+    "pdf/caswell-1878-hand-book-chapter.pdf",
+    "txt/caswell-1878-hand-book-chapter.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "edinburgh-ra-chapter-1911-history",
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "Edinburgh Royal Arch Chapter No. 1"
+   ],
+   "titulo": "History of the Edinburgh Royal Arch Chapter No. 1, extracted from the records of its minutes",
+   "ano": 1911,
+   "idioma": "en",
+   "temas": [
+    "ordens_anexas",
+    "origens"
+   ],
+   "ritos": [
+    "escoces_craft"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1911)",
+   "resumo": "História baseada nas atas do capítulo de Arco Real mais antigo de Edimburgo, com extratos documentais do séc. XVIII; útil para as origens do Arco Real na Escócia.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "arco_real"
+   ],
+   "url": "https://archive.org/details/cu31924030342210",
+   "identificadores": {
+    "ia": "cu31924030342210"
+   },
+   "evidencias": [
+    "https://archive.org/details/cu31924030342210"
+   ],
+   "acervo": [
+    "pdf/edinburgh-ra-chapter-1911-history.pdf",
+    "txt/edinburgh-ra-chapter-1911-history.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "ny-1878-ritual-of-the-commandery",
+   "tipo": "ritual",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Knights Templar (Grand Commandery of New York)"
+   ],
+   "titulo": "The Ritual of the Commandery: work, lectures and monitorial of the Orders of Red Cross, Knight Templar and Knight of Malta",
+   "ano": 1878,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "ordens_anexas",
+    "graus"
+   ],
+   "ritos": [
+    "york"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1878)",
+   "resumo": "Ritual das ordens de cavalaria do Rito de York (Cruz Vermelha, Cavaleiro Templário, Cavaleiro de Malta) tal como trabalhadas nas comendadorias de Nova York.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "templarios_maconicos"
+   ],
+   "url": "https://archive.org/details/ritualofcommande00newy",
+   "identificadores": {
+    "ia": "ritualofcommande00newy"
+   },
+   "evidencias": [
+    "https://archive.org/details/ritualofcommande00newy"
+   ],
+   "acervo": [
+    "pdf/ny-1878-ritual-of-the-commandery.pdf",
+    "txt/ny-1878-ritual-of-the-commandery.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "michigan-1871-knights-templar-tactics",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Grand Commandery of Knights Templar of Michigan"
+   ],
+   "titulo": "Knights Templar Tactics and Drill, with the working text and burial service",
+   "ano": 1871,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "ordens_anexas"
+   ],
+   "ritos": [
+    "york"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1871)",
+   "resumo": "Manual de evoluções militares, textos de trabalho e serviço fúnebre dos Templários maçônicos de Michigan; ilustra a dimensão uniformizada/militar das comendadorias americanas.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "templarios_maconicos"
+   ],
+   "url": "https://archive.org/details/knightstemplart00garfgoog",
+   "identificadores": {
+    "ia": "knightstemplart00garfgoog"
+   },
+   "evidencias": [
+    "https://archive.org/details/knightstemplart00garfgoog"
+   ],
+   "acervo": [
+    "pdf/michigan-1871-knights-templar-tactics.pdf",
+    "txt/michigan-1871-knights-templar-tactics.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "creigh-1867-knights-templar-pennsylvania",
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "Alfred Creigh"
+   ],
+   "titulo": "History of the Knights Templar of the State of Pennsylvania, 1794–1867",
+   "ano": 1867,
+   "idioma": "en",
+   "temas": [
+    "ordens_anexas",
+    "potencias"
+   ],
+   "ritos": [
+    "york"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870"
+   ],
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1867)",
+   "resumo": "História documental dos Templários maçônicos na Pensilvânia desde 1794, com transcrição de documentos originais; útil para a cronologia da ordem nos EUA.",
+   "status_verificacao": "copiado",
+   "url": "https://archive.org/details/historyofknights00crei",
+   "identificadores": {
+    "ia": "historyofknights00crei"
+   },
+   "evidencias": [
+    "https://archive.org/details/historyofknights00crei"
+   ],
+   "acervo": [
+    "pdf/creigh-1867-knights-templar-pennsylvania.pdf",
+    "txt/creigh-1867-knights-templar-pennsylvania.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "oes-1897-adoptive-rite-ritual",
+   "tipo": "ritual",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Order of the Eastern Star"
+   ],
+   "titulo": "Adoptive Rite Ritual: organization, government and ceremonies of chapters of the Order of the Eastern Star",
+   "ano": 1897,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "ordens_anexas",
+    "mulheres"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1897)",
+   "resumo": "Ritual oficial do 'Rito de Adoção' americano (Estrela do Oriente) com cerimônias de capítulo e instalação.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "estrela_oriente"
+   ],
+   "url": "https://archive.org/details/adoptiveriteritu00orde",
+   "identificadores": {
+    "ia": "adoptiveriteritu00orde"
+   },
+   "evidencias": [
+    "https://archive.org/details/adoptiveriteritu00orde"
+   ],
+   "acervo": [
+    "pdf/oes-1897-adoptive-rite-ritual.pdf",
+    "txt/oes-1897-adoptive-rite-ritual.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "tatem-1867-monitor-eastern-star",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "John H. Tatem"
+   ],
+   "titulo": "The Monitor of the Eastern Star",
+   "ano": 1867,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "ordens_anexas",
+    "mulheres"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1867)",
+   "resumo": "Monitor antigo da Estrela do Oriente, anterior à General Grand Chapter (1876), útil para a fase de formação da ordem.",
+   "status_verificacao": "copiado",
+   "url": "https://archive.org/details/monitorofeastern00tate",
+   "identificadores": {
+    "ia": "monitorofeastern00tate"
+   },
+   "evidencias": [
+    "https://archive.org/details/monitorofeastern00tate"
+   ],
+   "acervo": [
+    "pdf/tatem-1867-monitor-eastern-star.pdf",
+    "txt/tatem-1867-monitor-eastern-star.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "engle-1901-general-history-eastern-star",
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "Willis D. Engle"
+   ],
+   "titulo": "A General History of the Order of the Eastern Star",
+   "ano": 1901,
+   "idioma": "en",
+   "temas": [
+    "ordens_anexas",
+    "mulheres",
+    "potencias"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1814_1870",
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1901)",
+   "resumo": "História geral da Estrela do Oriente desde Rob Morris (anos 1850) até a organização em capítulos e grandes capítulos; obra de referência da própria ordem.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "estrela_oriente"
+   ],
+   "local": "Indianapolis",
+   "url": "https://archive.org/details/generalhistoryof00engl",
+   "identificadores": {
+    "ia": "generalhistoryof00engl"
+   },
+   "evidencias": [
+    "https://archive.org/details/generalhistoryof00engl"
+   ],
+   "acervo": [
+    "txt/engle-1901-general-history-eastern-star.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "kenaston-1917-history-eastern-star",
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "Jean M'Kee Kenaston"
+   ],
+   "titulo": "History of the Order of the Eastern Star, with an authentic biography of the founder, Rob. Morris",
+   "ano": 1917,
+   "idioma": "en",
+   "temas": [
+    "ordens_anexas",
+    "mulheres",
+    "personalidades"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1814_1870",
+    "p1871_1918"
+   ],
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1917)",
+   "resumo": "História da Estrela do Oriente acompanhada de biografia de Rob Morris; compila documentos e cronologias da ordem.",
+   "status_verificacao": "conferido_web",
+   "potencias": [
+    "estrela_oriente"
+   ],
+   "url": "https://archive.org/details/historyoforderof00kena",
+   "identificadores": {
+    "ia": "historyoforderof00kena"
+   },
+   "evidencias": [
+    "https://archive.org/details/historyoforderof00kena"
+   ],
+   "observacoes": "PDF de 55 MB não copiado (só txt); https://archive.org/download/historyoforderof00kena/historyoforderof00kena.pdf; txt IA falhou (HTTP Error 500: Internal Server Error); usado pdftotext",
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "root-1903-mystic-shrine",
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "George L. Root (comp.)"
+   ],
+   "titulo": "The Ancient Arabic Order of the Nobles of the Mystic Shrine for North America",
+   "ano": 1903,
+   "idioma": "en",
+   "temas": [
+    "ordens_anexas",
+    "sociabilidade"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1903)",
+   "resumo": "Compilação sobre a origem (com a lenda 'árabe'), organização e templos do Shrine, ordem fundada em Nova York em 1872 por maçons; distinguir a narrativa lendária da fundação documentada.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "shriners"
+   ],
+   "url": "https://archive.org/details/ancientarabicord00root",
+   "identificadores": {
+    "ia": "ancientarabicord00root"
+   },
+   "evidencias": [
+    "https://archive.org/details/ancientarabicord00root"
+   ],
+   "acervo": [
+    "pdf/root-1903-mystic-shrine.pdf",
+    "txt/root-1903-mystic-shrine.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "melish-1921-history-imperial-council-shrine",
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "William B. Melish"
+   ],
+   "titulo": "The History of the Imperial Council, Ancient Arabic Order Nobles of the Mystic Shrine for North America, 1872–1921",
+   "ano": 1921,
+   "idioma": "en",
+   "temas": [
+    "ordens_anexas",
+    "potencias"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1871_1918",
+    "p1919_1945"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1921)",
+   "resumo": "História oficial do Conselho Imperial do Shrine, com atas resumidas e dados de templos e membros até 1921; fonte institucional principal.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "shriners"
+   ],
+   "url": "https://archive.org/details/historyimperial00histgoog",
+   "identificadores": {
+    "ia": "historyimperial00histgoog"
+   },
+   "evidencias": [
+    "https://archive.org/details/historyimperial00histgoog"
+   ],
+   "acervo": [
+    "pdf/melish-1921-history-imperial-council-shrine.pdf",
+    "txt/melish-1921-history-imperial-council-shrine.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "rcc-1872-statutes-red-cross-constantine",
+   "tipo": "documento",
+   "categoria": "oficial_potencia",
+   "autores": [
+    "Knights of the Red Cross of Constantine"
+   ],
+   "titulo": "Statutes of the Imperial, Ecclesiastical, Military and Masonic Order of the Knights of the Red Cross of Constantine",
+   "ano": 1872,
+   "idioma": "en",
+   "temas": [
+    "ordens_anexas",
+    "documentos_fundadores"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "us",
+    "gb"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1872)",
+   "resumo": "Estatutos da Ordem da Cruz Vermelha de Constantino (ordem cristã reservada a maçons do Arco Real), na versão americana; documento normativo de ordem anexa pouco estudada.",
+   "status_verificacao": "copiado",
+   "url": "https://archive.org/details/statutesofimperi00knig",
+   "identificadores": {
+    "ia": "statutesofimperi00knig"
+   },
+   "evidencias": [
+    "https://archive.org/details/statutesofimperi00knig"
+   ],
+   "acervo": [
+    "pdf/rcc-1872-statutes-red-cross-constantine.pdf",
+    "txt/rcc-1872-statutes-red-cross-constantine.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "chase-1870-text-book-cryptic-masonry",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Jackson H. Chase"
+   ],
+   "titulo": "The Text Book of Cryptic Masonry: a manual of instructions in the degrees of Royal Master, Select Master and Super-Excellent Master",
+   "ano": 1870,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "ordens_anexas",
+    "graus"
+   ],
+   "ritos": [
+    "york"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1870)",
+   "resumo": "Manual monitorial dos graus crípticos (Real Mestre, Mestre Eleito e Super-Excelente Mestre) do Rito de York americano, com histórico e cerimônias públicas dos conselhos.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "cryptic"
+   ],
+   "local": "New York",
+   "url": "https://archive.org/details/textbookofcrypti00chasrich",
+   "identificadores": {
+    "ia": "textbookofcrypti00chasrich"
+   },
+   "evidencias": [
+    "https://archive.org/details/textbookofcrypti00chasrich"
+   ],
+   "acervo": [
+    "pdf/chase-1870-text-book-cryptic-masonry.pdf",
+    "txt/chase-1870-text-book-cryptic-masonry.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "macoy-1876-ritual-eastern-star",
+   "tipo": "ritual",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Robert Macoy"
+   ],
+   "titulo": "Ritual of the Order of the Eastern Star: a book of instruction",
+   "ano": 1876,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "ordens_anexas",
+    "mulheres"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1876)",
+   "resumo": "Ritual da Ordem da Estrela do Oriente organizado por Macoy a partir do sistema de Rob Morris; documento-base da ordem paramaçônica mista mais difundida nos EUA.",
+   "status_verificacao": "conferido_web",
+   "potencias": [
+    "estrela_oriente"
+   ],
+   "local": "New York",
+   "observacoes": "falha na cópia: HTTP Error 500: Internal Server Error",
+   "lote": "c02-ritos"
   }
  ]
 }
