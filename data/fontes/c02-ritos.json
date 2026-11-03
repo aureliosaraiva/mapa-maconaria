@@ -1718,42 +1718,6 @@
    "lote": "c02-ritos"
   },
   {
-   "id": "macoy-1876-ritual-eastern-star",
-   "tipo": "ritual",
-   "categoria": "ritual_publicado",
-   "autores": [
-    "Robert Macoy"
-   ],
-   "titulo": "Ritual of the Order of the Eastern Star: a book of instruction",
-   "ano": 1876,
-   "idioma": "en",
-   "temas": [
-    "ritual",
-    "ordens_anexas",
-    "mulheres"
-   ],
-   "ritos": [
-    "outros_ritos"
-   ],
-   "paises": [
-    "us"
-   ],
-   "periodos": [
-    "p1871_1918"
-   ],
-   "confiabilidade": "B",
-   "acesso": "dominio_publico",
-   "licenca": "domínio público (publicado em 1876)",
-   "resumo": "Ritual da Ordem da Estrela do Oriente organizado por Macoy a partir do sistema de Rob Morris; documento-base da ordem paramaçônica mista mais difundida nos EUA.",
-   "status_verificacao": "conferido_web",
-   "potencias": [
-    "estrela_oriente"
-   ],
-   "local": "New York",
-   "observacoes": "falha na cópia: HTTP Error 500: Internal Server Error",
-   "lote": "c02-ritos"
-  },
-  {
    "id": "schroder-1806-materialien-geschichte",
    "tipo": "livro",
    "categoria": "historiografia_maconica",
@@ -3142,6 +3106,498 @@
    "acervo": [
     "pdf/sc33br-2021-astreanews-127.pdf",
     "txt/sc33br-2021-astreanews-127.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "sfmo-swedish-rite-pagina",
+   "tipo": "pagina",
+   "categoria": "oficial_potencia",
+   "autores": [
+    "Svenska Frimurare Orden"
+   ],
+   "titulo": "The Swedish Rite (página oficial)",
+   "ano": null,
+   "idioma": "en",
+   "temas": [
+    "ritos",
+    "graus",
+    "potencias"
+   ],
+   "ritos": [
+    "sueco"
+   ],
+   "paises": [
+    "se",
+    "fi"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1990_hoje"
+   ],
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados",
+   "resumo": "Página institucional da Ordem Sueca de Maçons apresentando o Rito Sueco: sistema cristão de onze graus progressivos, estruturado sob o duque Carlos (futuro Carlos XIII), e a Ordem Real de Carlos XIII; dado institucional atual.",
+   "status_verificacao": "copiado",
+   "url": "https://frimurarorden.se/en/start/the-swedish-rite/",
+   "acervo": [
+    "html/sfmo-swedish-rite-pagina.html",
+    "txt/sfmo-swedish-rite-pagina.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "willen-2011-resenha-ullgren-hemligheternas",
+   "tipo": "artigo",
+   "categoria": "academica",
+   "autores": [
+    "Marcus Willén"
+   ],
+   "titulo": "Resenha de Peter Ullgren, Hemligheternas brödraskap: om de svenska frimurarnas historia (2010)",
+   "ano": 2011,
+   "idioma": "sv",
+   "temas": [
+    "ritos",
+    "historiografia",
+    "esoterismo"
+   ],
+   "ritos": [
+    "sueco"
+   ],
+   "paises": [
+    "se"
+   ],
+   "periodos": [
+    "p1717_1750",
+    "p1751_1813"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "CC BY (revista de acesso aberto)",
+   "resumo": "Resenha crítica na revista 1700-tal que discute o livro de Ullgren sobre a história da maçonaria sueca, apontando que os rituais do 'sistema sueco' de caráter cristão só foram fixados como norma em 1800, após revisão dirigida pelo duque Carlos, e comentando a mística da corte gustaviana.",
+   "status_verificacao": "copiado",
+   "periodico": "1700-tal: Nordic Journal for Eighteenth-Century Studies",
+   "url": "https://septentrio.uit.no/index.php/1700/article/download/2595/2438/9946",
+   "acervo": [
+    "pdf/willen-2011-resenha-ullgren-hemligheternas.pdf",
+    "txt/willen-2011-resenha-ullgren-hemligheternas.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "ullgren-2010-hemligheternas-brodraskap",
+   "tipo": "livro",
+   "categoria": "academica",
+   "autores": [
+    "Peter Ullgren"
+   ],
+   "titulo": "Hemligheternas brödraskap: om de svenska frimurarnas historia",
+   "ano": 2010,
+   "idioma": "sv",
+   "temas": [
+    "ritos",
+    "potencias",
+    "esoterismo",
+    "historiografia"
+   ],
+   "ritos": [
+    "sueco"
+   ],
+   "paises": [
+    "se"
+   ],
+   "periodos": [
+    "p1717_1750",
+    "p1751_1813",
+    "p1814_1870"
+   ],
+   "confiabilidade": "A",
+   "acesso": "comercial",
+   "licenca": "todos os direitos reservados",
+   "resumo": "História de divulgação, escrita por historiador universitário, da maçonaria sueca desde 1735, com capítulo sobre o duque Carlos e a mística maçônica a partir de arquivos da Ordem Sueca.",
+   "status_verificacao": "conferido_web",
+   "editora": "Norstedts",
+   "local": "Stockholm",
+   "evidencias": [
+    "https://septentrio.uit.no/index.php/1700/article/download/2595/2438/9946"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "munter-1794-statutenbuch-tempelherren",
+   "tipo": "livro",
+   "categoria": "primaria_historica",
+   "autores": [
+    "Friedrich Münter (ed.)"
+   ],
+   "titulo": "Statutenbuch des Ordens der Tempelherren",
+   "ano": 1794,
+   "idioma": "de",
+   "temas": [
+    "origens",
+    "ordens_anexas",
+    "historiografia"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "de",
+    "dk"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1794)",
+   "resumo": "Edição da regra dos Templários medievais pelo erudito dinamarquês Münter, ele próprio maçom, publicada em meio ao debate alemão sobre a suposta herança templária da maçonaria (Estrita Observância); fonte para o mito templário.",
+   "status_verificacao": "copiado",
+   "local": "Berlin",
+   "url": "https://archive.org/details/statutenbuchdes00tempgoog",
+   "identificadores": {
+    "ia": "statutenbuchdes00tempgoog"
+   },
+   "evidencias": [
+    "https://archive.org/details/statutenbuchdes00tempgoog"
+   ],
+   "acervo": [
+    "txt/munter-1794-statutenbuch-tempelherren.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "merzdorf-1877-geheimstatuten-tempelherren",
+   "tipo": "livro",
+   "categoria": "primaria_historica",
+   "autores": [
+    "Theodor Merzdorf (ed.)"
+   ],
+   "titulo": "Die Geheimstatuten des Ordens der Tempelherren nach der Abschrift eines vorgeblich im vatikanischen Archive befindlichen Manuscriptes",
+   "ano": 1877,
+   "idioma": "de",
+   "temas": [
+    "origens",
+    "esoterismo",
+    "antimaconaria"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "de"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1877)",
+   "resumo": "Publicação de supostos 'estatutos secretos' dos Templários, texto hoje considerado falsificação ligada a círculos maçônicos/neotemplários; peça central da controvérsia sobre doutrinas secretas templárias.",
+   "status_verificacao": "copiado",
+   "local": "Halle",
+   "url": "https://archive.org/details/diegeheimstatut00schwgoog",
+   "identificadores": {
+    "ia": "diegeheimstatut00schwgoog"
+   },
+   "evidencias": [
+    "https://archive.org/details/diegeheimstatut00schwgoog"
+   ],
+   "acervo": [
+    "pdf/merzdorf-1877-geheimstatuten-tempelherren.pdf",
+    "txt/merzdorf-1877-geheimstatuten-tempelherren.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "prutz-1879-geheimlehre-tempelherren",
+   "tipo": "livro",
+   "categoria": "academica",
+   "autores": [
+    "Hans Prutz"
+   ],
+   "titulo": "Geheimlehre und Geheimstatuten des Tempelherren-Ordens: eine kritische Untersuchung",
+   "ano": 1879,
+   "idioma": "de",
+   "temas": [
+    "origens",
+    "historiografia",
+    "esoterismo"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "de"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "A",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1879)",
+   "resumo": "Exame crítico do historiador Prutz sobre a alegada doutrina secreta dos Templários e os 'estatutos secretos' publicados por Merzdorf; referência acadêmica para desconstruir a narrativa templária de origem da maçonaria.",
+   "status_verificacao": "copiado",
+   "local": "Berlin",
+   "url": "https://archive.org/details/geheimlehreundg00prutgoog",
+   "identificadores": {
+    "ia": "geheimlehreundg00prutgoog"
+   },
+   "evidencias": [
+    "https://archive.org/details/geheimlehreundg00prutgoog"
+   ],
+   "acervo": [
+    "pdf/prutz-1879-geheimlehre-tempelherren.pdf",
+    "txt/prutz-1879-geheimlehre-tempelherren.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "wilcke-1860-geschichte-tempelherren",
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "Wilhelm Ferdinand Wilcke"
+   ],
+   "titulo": "Geschichte des Ordens der Tempelherren, nebst Bericht über seine Beziehungen zu den Freimaurern",
+   "ano": 1860,
+   "idioma": "de",
+   "temas": [
+    "origens",
+    "ordens_anexas"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "de"
+   ],
+   "periodos": [
+    "medieval",
+    "p1751_1813"
+   ],
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1860)",
+   "resumo": "História dos Templários com parte dedicada às relações reais e alegadas entre a ordem e os maçons (Estrita Observância, graus templários); exemplo da literatura oitocentista sobre o tema.",
+   "status_verificacao": "copiado",
+   "ano_original": 1826,
+   "local": "Halle",
+   "url": "https://archive.org/details/geschichtedesor00wilcgoog",
+   "identificadores": {
+    "ia": "geschichtedesor00wilcgoog"
+   },
+   "evidencias": [
+    "https://archive.org/details/geschichtedesor00wilcgoog"
+   ],
+   "acervo": [
+    "pdf/wilcke-1860-geschichte-tempelherren.pdf",
+    "txt/wilcke-1860-geschichte-tempelherren.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "demolay-historia-pagina",
+   "tipo": "pagina",
+   "categoria": "oficial_potencia",
+   "autores": [
+    "DeMolay International"
+   ],
+   "titulo": "History (DeMolay International)",
+   "ano": null,
+   "idioma": "en",
+   "temas": [
+    "ordens_anexas",
+    "potencias"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1919_1945",
+    "p1990_hoje"
+   ],
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados",
+   "resumo": "Página oficial com a história da Ordem DeMolay, fundada em Kansas City em 1919 por Frank S. Land para rapazes, sob patrocínio maçônico; dado institucional (datas variam entre fontes: janeiro/março de 1919).",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "demolay"
+   ],
+   "url": "https://beademolay.org/about/history/",
+   "acervo": [
+    "html/demolay-historia-pagina.html",
+    "txt/demolay-historia-pagina.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "freimaurerwiki-schroder-rite",
+   "tipo": "pagina",
+   "categoria": "divulgacao",
+   "autores": [
+    "Freimaurer-Wiki"
+   ],
+   "titulo": "Schröder Rite",
+   "ano": null,
+   "idioma": "en",
+   "temas": [
+    "ritos",
+    "ritual"
+   ],
+   "ritos": [
+    "schroder"
+   ],
+   "paises": [
+    "de",
+    "br"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1990_hoje"
+   ],
+   "confiabilidade": "C",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA? (conferir)",
+   "resumo": "Verbete do Freimaurer-Wiki sobre o Rito Schröder: ritual de três graus apresentado em Hamburgo em 1801 por F. L. Schröder, difundido por manuscritos, ainda praticado na Alemanha e no Brasil; útil como pista e para dados atuais.",
+   "status_verificacao": "copiado",
+   "url": "https://www.freimaurer-wiki.de/index.php/En:_Schr%C3%B6der_Rite",
+   "acervo": [
+    "html/freimaurerwiki-schroder-rite.html",
+    "txt/freimaurerwiki-schroder-rite.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "freimaurerwiki-modern-rite-brazil",
+   "tipo": "pagina",
+   "categoria": "divulgacao",
+   "autores": [
+    "Freimaurer-Wiki"
+   ],
+   "titulo": "Modern Rite in Brazil",
+   "ano": null,
+   "idioma": "en",
+   "temas": [
+    "ritos",
+    "potencias"
+   ],
+   "ritos": [
+    "frances_moderno"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1814_1870",
+    "p1946_1989"
+   ],
+   "confiabilidade": "C",
+   "acesso": "aberto",
+   "licenca": "conferir",
+   "resumo": "Verbete sobre o Rito Moderno (Francês) no Brasil, com cronologia de seus corpos de altos graus (inclusive a denominação de Supremo Conselho do Rito Moderno para o Brasil em 1976); pista a conferir em fontes primárias.",
+   "status_verificacao": "copiado",
+   "url": "https://freimaurer-wiki.de/index.php/En:_Modern_Rite_in_Brazil",
+   "acervo": [
+    "html/freimaurerwiki-modern-rite-brazil.html",
+    "txt/freimaurerwiki-modern-rite-brazil.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "glireland-1858-constitutions-ahiman-rezon",
+   "tipo": "documento",
+   "categoria": "oficial_potencia",
+   "autores": [
+    "Grand Lodge of Ireland"
+   ],
+   "titulo": "Constitutions of Freemasonry, or Ahiman Rezon; to which are added lectures, charges and a masonic ritual",
+   "ano": 1858,
+   "idioma": "en",
+   "temas": [
+    "documentos_fundadores",
+    "ritual",
+    "potencias"
+   ],
+   "ritos": [
+    "irlandes"
+   ],
+   "paises": [
+    "ie"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1858)",
+   "resumo": "Constituições oficiais da Grande Loja da Irlanda com palestras, encargos e um ritual (parte pública); fonte para a forma irlandesa de trabalho e sua regulamentação no meio do séc. XIX.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "gl_irlanda"
+   ],
+   "local": "Dublin",
+   "url": "https://archive.org/details/cu31924030300853",
+   "identificadores": {
+    "ia": "cu31924030300853"
+   },
+   "evidencias": [
+    "https://archive.org/details/cu31924030300853"
+   ],
+   "acervo": [
+    "pdf/glireland-1858-constitutions-ahiman-rezon.pdf",
+    "txt/glireland-1858-constitutions-ahiman-rezon.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "macoy-1876-ritual-eastern-star",
+   "tipo": "ritual",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Robert Macoy"
+   ],
+   "titulo": "Ritual of the Order of the Eastern Star: a book of instruction",
+   "ano": 1876,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "ordens_anexas",
+    "mulheres"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1876)",
+   "resumo": "Ritual da Ordem da Estrela do Oriente organizado por Macoy a partir do sistema de Rob Morris; documento-base da ordem paramaçônica mista mais difundida nos EUA.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "estrela_oriente"
+   ],
+   "local": "New York",
+   "url": "https://archive.org/details/ritualoforderofe00maco",
+   "identificadores": {
+    "ia": "ritualoforderofe00maco"
+   },
+   "evidencias": [
+    "https://archive.org/details/ritualoforderofe00maco"
+   ],
+   "acervo": [
+    "pdf/macoy-1876-ritual-eastern-star.pdf",
+    "txt/macoy-1876-ritual-eastern-star.txt"
    ],
    "lote": "c02-ritos"
   }
