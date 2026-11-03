@@ -3676,6 +3676,620 @@
       "acesso": "dominio_publico",
       "licenca": "domínio público",
       "lote": "c01-fundadores"
+    },
+    {
+      "id": "ramsay-1737-discours",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Andrew Michael Ramsay"
+      ],
+      "titulo": "Discours de Ramsay (Discours prononcé à la réception des francs-maçons)",
+      "ano": 1737,
+      "idioma": "fr",
+      "temas": [
+        "documentos_fundadores",
+        "origens",
+        "principios"
+      ],
+      "resumo": "Discurso do cavaleiro Ramsay, orador da loja parisiense, preparado para 1736–37, que apresenta a maçonaria como herdeira das ordens de cavalaria das Cruzadas e como projeto de união universal das nações e de enciclopédia do saber. Considerado ponto de partida ideológico dos altos graus 'escoceses' e cavalheirescos.",
+      "local": "Paris",
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1717_1750"
+      ],
+      "titulo_traduzido": "Discurso de Ramsay",
+      "observacoes": "Há duas versões (1736 Épernay e 1737 impressa); conferir qual o Wikisource transcreve.",
+      "acervo": [
+        "html/ramsay-1737-discours.html",
+        "txt/ramsay-1737-discours.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://fr.wikisource.org/wiki/Discours_de_Ramsay",
+      "evidencias": [
+        "https://fr.wikisource.org/wiki/Discours_de_Ramsay"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "entick-1756-constitutions",
+      "tipo": "documento",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "James Anderson",
+        "John Entick (ed.)"
+      ],
+      "titulo": "The Constitutions of the Antient and Honourable Fraternity of Free and Accepted Masons (ed. Entick)",
+      "ano": 1756,
+      "idioma": "en",
+      "temas": [
+        "documentos_fundadores",
+        "potencias"
+      ],
+      "resumo": "Terceira edição do livro de constituições da Grande Loja de Londres ('Moderns'), revista por John Entick, que restaura em parte o texto de 1723 e atualiza listas e regulamentos.",
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "potencias": [
+        "moderns"
+      ],
+      "acervo": [
+        "txt/entick-1756-constitutions.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/bim_eighteenth-century_the-constitutions-of-the_anderson-james_1756",
+      "identificadores": {
+        "ia": "bim_eighteenth-century_the-constitutions-of-the_anderson-james_1756"
+      },
+      "evidencias": [
+        "https://archive.org/details/bim_eighteenth-century_the-constitutions-of-the_anderson-james_1756"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "noorthouck-1784-constitutions",
+      "tipo": "documento",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "John Noorthouck (ed.)"
+      ],
+      "titulo": "Constitutions of the Antient Fraternity of Free and Accepted Masons (ed. Noorthouck)",
+      "ano": 1784,
+      "idioma": "en",
+      "temas": [
+        "documentos_fundadores",
+        "potencias",
+        "historiografia"
+      ],
+      "resumo": "Edição de 1784 das constituições dos 'Moderns', reescrita por John Noorthouck, com história ampliada da Grande Loja (incluindo o Freemasons' Hall) e regulamentos. Fonte importante para a Grande Loja no século XVIII.",
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "potencias": [
+        "moderns"
+      ],
+      "acervo": [
+        "txt/noorthouck-1784-constitutions.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/bim_eighteenth-century_constitutions-of-the-ant_anderson-james_1784",
+      "identificadores": {
+        "ia": "bim_eighteenth-century_constitutions-of-the-ant_anderson-james_1784"
+      },
+      "evidencias": [
+        "https://archive.org/details/bim_eighteenth-century_constitutions-of-the-ant_anderson-james_1784"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "dermott-1783-ahiman-rezon-abridged",
+      "tipo": "documento",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "Laurence Dermott",
+        "Grande Loja da Pensilvânia"
+      ],
+      "titulo": "Ahiman Rezon Abridged and Digested",
+      "ano": 1783,
+      "idioma": "en",
+      "temas": [
+        "documentos_fundadores",
+        "potencias"
+      ],
+      "resumo": "Versão resumida do Ahiman Rezon de Dermott editada para a Grande Loja da Pensilvânia (Filadélfia, 1783), com sermão e regulamentos; mostra a implantação da tradição 'Antient' nos EUA independentes.",
+      "local": "Filadélfia",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "potencias": [
+        "antients",
+        "gl_estaduais_eua"
+      ],
+      "acervo": [
+        "txt/dermott-1783-ahiman-rezon-abridged.txt",
+        "pdf/dermott-1783-ahiman-rezon-abridged.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/ahimanrezonabrid00derm",
+      "identificadores": {
+        "ia": "ahimanrezonabrid00derm"
+      },
+      "evidencias": [
+        "https://archive.org/details/ahimanrezonabrid00derm"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "larudan-1774-francs-macons-ecrases",
+      "tipo": "exposicao",
+      "categoria": "antimaconica",
+      "autores": [
+        "Abbé Larudan (atrib.)"
+      ],
+      "titulo": "Les Francs-Maçons écrasés, suite du livre intitulé L'Ordre des Francs-Maçons trahi",
+      "ano": 1774,
+      "idioma": "fr",
+      "temas": [
+        "antimaconaria",
+        "ritual",
+        "origens"
+      ],
+      "resumo": "Exposição hostil (1ª ed. 1747) que pretende continuar L'Ordre des Francs-Maçons trahi, atribuindo à maçonaria origem cromwelliana e fins políticos; descreve graus e cerimônias. Reedição de 1774.",
+      "ano_original": 1747,
+      "local": "Amsterdã",
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1717_1750"
+      ],
+      "titulo_traduzido": "Os franco-maçons esmagados",
+      "observacoes": "Item do IA atribui a Pérau; a bibliografia atribui ao abade Larudan.",
+      "acervo": [
+        "txt/larudan-1774-francs-macons-ecrases.txt",
+        "pdf/larudan-1774-francs-macons-ecrases.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/PerauGLLesFrancsMaconsEcrasesSuiteDuLivreIntituleLOrdreDesFrancsMaconsTrahi1774",
+      "identificadores": {
+        "ia": "PerauGLLesFrancsMaconsEcrasesSuiteDuLivreIntituleLOrdreDesFrancsMaconsTrahi1774"
+      },
+      "evidencias": [
+        "https://archive.org/details/PerauGLLesFrancsMaconsEcrasesSuiteDuLivreIntituleLOrdreDesFrancsMaconsTrahi1774"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "macoy-1869-general-history-cyclopedia",
+      "tipo": "verbete",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Robert Macoy"
+      ],
+      "titulo": "General History, Cyclopedia and Dictionary of Freemasonry",
+      "ano": 1869,
+      "idioma": "en",
+      "temas": [
+        "historiografia",
+        "ritos",
+        "ordens_anexas"
+      ],
+      "resumo": "Dicionário e história geral de Robert Macoy, editor maçônico nova-iorquino e organizador da Ordem da Estrela do Oriente, com verbetes sobre graus, ritos e ordens anexas nos EUA.",
+      "local": "Nova York",
+      "editora": "Masonic Publishing Co.",
+      "paises": [
+        "us",
+        "mundo"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/macoy-1869-general-history-cyclopedia.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/cu31924030273225",
+      "identificadores": {
+        "ia": "cu31924030273225"
+      },
+      "evidencias": [
+        "https://archive.org/details/cu31924030273225"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "oliver-1855-revelations-square",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "George Oliver"
+      ],
+      "titulo": "The Revelations of a Square",
+      "ano": 1855,
+      "idioma": "en",
+      "temas": [
+        "historiografia",
+        "sociabilidade",
+        "personalidades"
+      ],
+      "resumo": "Narrativa ficcional de Oliver em que um esquadro relata a vida das lojas inglesas do século XVIII (Desaguliers, Anderson, Dermott, Preston); mistura tradição oral e invenção, útil como fonte de anedotas a conferir.",
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "D",
+      "acervo": [
+        "txt/oliver-1855-revelations-square.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/revelationsofsqu00oliv",
+      "identificadores": {
+        "ia": "revelationsofsqu00oliv"
+      },
+      "evidencias": [
+        "https://archive.org/details/revelationsofsqu00oliv"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "paton-1871-origin-1717-exploded",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Chalmers Izett Paton"
+      ],
+      "titulo": "The Origin of Freemasonry: The 1717 Theory Exploded",
+      "ano": 1871,
+      "idioma": "en",
+      "temas": [
+        "origens",
+        "historiografia"
+      ],
+      "resumo": "Polêmica do escocês C. I. Paton contra a tese de que a maçonaria especulativa nasceu em 1717 (defendida por Findel e outros), argumentando pela continuidade com as lojas operativas.",
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1600_1716",
+        "p1717_1750"
+      ],
+      "confiabilidade": "C",
+      "acervo": [
+        "txt/paton-1871-origin-1717-exploded.txt",
+        "pdf/paton-1871-origin-1717-exploded.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/originfreemason00patogoog",
+      "identificadores": {
+        "ia": "originfreemason00patogoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/originfreemason00patogoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "paton-1872-jurisprudence",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Chalmers Izett Paton"
+      ],
+      "titulo": "Freemasonry and its Jurisprudence, according to the Ancient Landmarks and Charges",
+      "ano": 1872,
+      "idioma": "en",
+      "temas": [
+        "principios",
+        "regularidade",
+        "documentos_fundadores"
+      ],
+      "resumo": "Tratado sobre direito maçônico e landmarks a partir dos Old Charges e das constituições inglesas e escocesas; contraponto britânico a Mackey.",
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/paton-1872-jurisprudence.txt",
+        "pdf/paton-1872-jurisprudence.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/cu31924030300192",
+      "identificadores": {
+        "ia": "cu31924030300192"
+      },
+      "evidencias": [
+        "https://archive.org/details/cu31924030300192"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "gould-1882-history-vol2",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Robert Freke Gould"
+      ],
+      "titulo": "The History of Freemasonry (vol. 2)",
+      "ano": 1882,
+      "idioma": "en",
+      "temas": [
+        "historiografia",
+        "origens",
+        "documentos_fundadores"
+      ],
+      "resumo": "Segundo volume da História de Gould, dedicado aos Old Charges, às lojas escocesas e às lendas do ofício. Ver gould-1884-history-vol1.",
+      "local": "Londres",
+      "editora": "Thomas C. Jack",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/gould-1882-history-vol2.txt",
+        "pdf/gould-1882-history-vol2.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/historyoffreemas02gouluoft",
+      "identificadores": {
+        "ia": "historyoffreemas02gouluoft"
+      },
+      "evidencias": [
+        "https://archive.org/details/historyoffreemas02gouluoft"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "gould-1882-history-vol3",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Robert Freke Gould"
+      ],
+      "titulo": "The History of Freemasonry (vol. 3)",
+      "ano": 1882,
+      "idioma": "en",
+      "temas": [
+        "historiografia",
+        "potencias",
+        "regularidade"
+      ],
+      "resumo": "Terceiro volume da História de Gould, com a Grande Loja de 1717, os Antients e a maçonaria na Escócia e Irlanda.",
+      "local": "Londres",
+      "editora": "Thomas C. Jack",
+      "paises": [
+        "gb",
+        "ie"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "potencias": [
+        "moderns",
+        "antients",
+        "gl_escocia",
+        "gl_irlanda"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/gould-1882-history-vol3.txt",
+        "pdf/gould-1882-history-vol3.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/historyoffreemas03gouluoft",
+      "identificadores": {
+        "ia": "historyoffreemas03gouluoft"
+      },
+      "evidencias": [
+        "https://archive.org/details/historyoffreemas03gouluoft"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "qcl-1889-aqc-vol2",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Loja Quatuor Coronati nº 2076",
+        "G. W. Speth (ed.)"
+      ],
+      "titulo": "Ars Quatuor Coronatorum, vol. 2 (1889)",
+      "ano": 1889,
+      "idioma": "en",
+      "temas": [
+        "historiografia",
+        "origens"
+      ],
+      "resumo": "Atas da Loja Quatuor Coronati nº 2076 (Londres), primeira loja de pesquisa maçônica; volumes iniciais com estudos de Gould, Hughan, Speth, Woodford e outros sobre Old Charges, origens, lojas antigas e ritual, além de transcrições de documentos. Volume em domínio público.",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/qcl-1889-aqc-vol2.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/ArsQuatuorCoronatorumVol21889",
+      "identificadores": {
+        "ia": "ArsQuatuorCoronatorumVol21889"
+      },
+      "evidencias": [
+        "https://archive.org/details/ArsQuatuorCoronatorumVol21889"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "qcl-1891-aqc-vol4",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Loja Quatuor Coronati nº 2076",
+        "G. W. Speth (ed.)"
+      ],
+      "titulo": "Ars Quatuor Coronatorum, vol. 4 (1891)",
+      "ano": 1891,
+      "idioma": "en",
+      "temas": [
+        "historiografia",
+        "origens"
+      ],
+      "resumo": "Atas da Loja Quatuor Coronati nº 2076 (Londres), primeira loja de pesquisa maçônica; volumes iniciais com estudos de Gould, Hughan, Speth, Woodford e outros sobre Old Charges, origens, lojas antigas e ritual, além de transcrições de documentos. Volume em domínio público.",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/qcl-1891-aqc-vol4.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/ArsQuuatuorCoronatorumVol41891",
+      "identificadores": {
+        "ia": "ArsQuuatuorCoronatorumVol41891"
+      },
+      "evidencias": [
+        "https://archive.org/details/ArsQuuatuorCoronatorumVol41891"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "qcl-1892-aqc-vol5",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Loja Quatuor Coronati nº 2076",
+        "G. W. Speth (ed.)"
+      ],
+      "titulo": "Ars Quatuor Coronatorum, vol. 5 (1892)",
+      "ano": 1892,
+      "idioma": "en",
+      "temas": [
+        "historiografia",
+        "origens"
+      ],
+      "resumo": "Atas da Loja Quatuor Coronati nº 2076 (Londres), primeira loja de pesquisa maçônica; volumes iniciais com estudos de Gould, Hughan, Speth, Woodford e outros sobre Old Charges, origens, lojas antigas e ritual, além de transcrições de documentos. Volume em domínio público.",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/qcl-1892-aqc-vol5.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/ArsQuatuorCoronatorumVol51892",
+      "identificadores": {
+        "ia": "ArsQuatuorCoronatorumVol51892"
+      },
+      "evidencias": [
+        "https://archive.org/details/ArsQuatuorCoronatorumVol51892"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "qcl-1897-aqc-vol10",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Loja Quatuor Coronati nº 2076",
+        "G. W. Speth (ed.)"
+      ],
+      "titulo": "Ars Quatuor Coronatorum, vol. 10 (1897)",
+      "ano": 1897,
+      "idioma": "en",
+      "temas": [
+        "historiografia",
+        "origens"
+      ],
+      "resumo": "Atas da Loja Quatuor Coronati nº 2076 (Londres), primeira loja de pesquisa maçônica; volumes iniciais com estudos de Gould, Hughan, Speth, Woodford e outros sobre Old Charges, origens, lojas antigas e ritual, além de transcrições de documentos. Volume em domínio público.",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/qcl-1897-aqc-vol10.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/ArsQuatuorCoronatorumVol.101897",
+      "identificadores": {
+        "ia": "ArsQuatuorCoronatorumVol.101897"
+      },
+      "evidencias": [
+        "https://archive.org/details/ArsQuatuorCoronatorumVol.101897"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
     }
   ]
 }
