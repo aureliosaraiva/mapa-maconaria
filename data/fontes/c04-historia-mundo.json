@@ -3424,6 +3424,892 @@
       "periodico": "Histoire & Civilisations",
       "paginas": "72-85",
       "lote": "c04-historia-mundo"
+    },
+    {
+      "id": "qcl-1890-aqc-vol3",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Lodge Quatuor Coronati No. 2076"
+      ],
+      "titulo": "Ars Quatuor Coronatorum, vol. 3 (1890)",
+      "ano": 1890,
+      "idioma": "en",
+      "url": "https://archive.org/details/ArsQuatuorCoronatorumVol031890",
+      "identificadores": {
+        "ia": "ArsQuatuorCoronatorumVol031890"
+      },
+      "temas": [
+        "historiografia",
+        "origens",
+        "documentos_fundadores",
+        "ritual"
+      ],
+      "paises": [
+        "gb",
+        "mundo"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado em 1890; autores do período falecidos há mais de 70 anos — conferir por artigo)",
+      "status_verificacao": "copiado",
+      "resumo": "Volume 3 das atas da Loja Quatuor Coronati, primeira loja de pesquisa maçônica (Londres, 1886): reúne conferências, discussões, notas e reproduções de documentos da 'escola autêntica' (Gould, Hughan, Speth, Crawley e outros). Fonte central da historiografia maçônica britânica; consultar o sumário do volume para os artigos específicos.",
+      "evidencias": [
+        "https://archive.org/details/ArsQuatuorCoronatorumVol031890"
+      ],
+      "potencias": [
+        "ugle"
+      ],
+      "periodico": "Ars Quatuor Coronatorum",
+      "volume": "3",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/qcl-1890-aqc-vol3.txt"
+      ]
+    },
+    {
+      "id": "qcl-1893-aqc-vol6",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Lodge Quatuor Coronati No. 2076"
+      ],
+      "titulo": "Ars Quatuor Coronatorum, vol. 6 (1893)",
+      "ano": 1893,
+      "idioma": "en",
+      "url": "https://archive.org/details/ArsQuatuorCoronatorumVol061893",
+      "identificadores": {
+        "ia": "ArsQuatuorCoronatorumVol061893"
+      },
+      "temas": [
+        "historiografia",
+        "origens",
+        "documentos_fundadores",
+        "ritual"
+      ],
+      "paises": [
+        "gb",
+        "mundo"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado em 1893; autores do período falecidos há mais de 70 anos — conferir por artigo)",
+      "status_verificacao": "copiado",
+      "resumo": "Volume 6 das atas da Loja Quatuor Coronati, primeira loja de pesquisa maçônica (Londres, 1886): reúne conferências, discussões, notas e reproduções de documentos da 'escola autêntica' (Gould, Hughan, Speth, Crawley e outros). Fonte central da historiografia maçônica britânica; consultar o sumário do volume para os artigos específicos.",
+      "evidencias": [
+        "https://archive.org/details/ArsQuatuorCoronatorumVol061893"
+      ],
+      "potencias": [
+        "ugle"
+      ],
+      "periodico": "Ars Quatuor Coronatorum",
+      "volume": "6",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/qcl-1893-aqc-vol6.txt"
+      ]
+    },
+    {
+      "id": "qcl-1894-aqc-vol7",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Lodge Quatuor Coronati No. 2076"
+      ],
+      "titulo": "Ars Quatuor Coronatorum, vol. 7 (1894)",
+      "ano": 1894,
+      "idioma": "en",
+      "url": "https://archive.org/details/ArsQuatuorCoronatorumVol071894",
+      "identificadores": {
+        "ia": "ArsQuatuorCoronatorumVol071894"
+      },
+      "temas": [
+        "historiografia",
+        "origens",
+        "documentos_fundadores",
+        "ritual"
+      ],
+      "paises": [
+        "gb",
+        "mundo"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado em 1894; autores do período falecidos há mais de 70 anos — conferir por artigo)",
+      "status_verificacao": "copiado",
+      "resumo": "Volume 7 das atas da Loja Quatuor Coronati, primeira loja de pesquisa maçônica (Londres, 1886): reúne conferências, discussões, notas e reproduções de documentos da 'escola autêntica' (Gould, Hughan, Speth, Crawley e outros). Fonte central da historiografia maçônica britânica; consultar o sumário do volume para os artigos específicos.",
+      "evidencias": [
+        "https://archive.org/details/ArsQuatuorCoronatorumVol071894"
+      ],
+      "potencias": [
+        "ugle"
+      ],
+      "periodico": "Ars Quatuor Coronatorum",
+      "volume": "7",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/qcl-1894-aqc-vol7.txt"
+      ]
+    },
+    {
+      "id": "qcl-1895-aqc-vol8",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Lodge Quatuor Coronati No. 2076"
+      ],
+      "titulo": "Ars Quatuor Coronatorum, vol. 8 (1895)",
+      "ano": 1895,
+      "idioma": "en",
+      "url": "https://archive.org/details/ArsQuatuorCoronatorumVol081895",
+      "identificadores": {
+        "ia": "ArsQuatuorCoronatorumVol081895"
+      },
+      "temas": [
+        "historiografia",
+        "origens",
+        "documentos_fundadores",
+        "ritual"
+      ],
+      "paises": [
+        "gb",
+        "mundo"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado em 1895; autores do período falecidos há mais de 70 anos — conferir por artigo)",
+      "status_verificacao": "copiado",
+      "resumo": "Volume 8 das atas da Loja Quatuor Coronati, primeira loja de pesquisa maçônica (Londres, 1886): reúne conferências, discussões, notas e reproduções de documentos da 'escola autêntica' (Gould, Hughan, Speth, Crawley e outros). Fonte central da historiografia maçônica britânica; consultar o sumário do volume para os artigos específicos.",
+      "evidencias": [
+        "https://archive.org/details/ArsQuatuorCoronatorumVol081895"
+      ],
+      "potencias": [
+        "ugle"
+      ],
+      "periodico": "Ars Quatuor Coronatorum",
+      "volume": "8",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/qcl-1895-aqc-vol8.txt"
+      ]
+    },
+    {
+      "id": "qcl-1896-aqc-vol9",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Lodge Quatuor Coronati No. 2076"
+      ],
+      "titulo": "Ars Quatuor Coronatorum, vol. 9 (1896)",
+      "ano": 1896,
+      "idioma": "en",
+      "url": "https://archive.org/details/ArsQuatuorCoronatorumVol091896",
+      "identificadores": {
+        "ia": "ArsQuatuorCoronatorumVol091896"
+      },
+      "temas": [
+        "historiografia",
+        "origens",
+        "documentos_fundadores",
+        "ritual"
+      ],
+      "paises": [
+        "gb",
+        "mundo"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado em 1896; autores do período falecidos há mais de 70 anos — conferir por artigo)",
+      "status_verificacao": "copiado",
+      "resumo": "Volume 9 das atas da Loja Quatuor Coronati, primeira loja de pesquisa maçônica (Londres, 1886): reúne conferências, discussões, notas e reproduções de documentos da 'escola autêntica' (Gould, Hughan, Speth, Crawley e outros). Fonte central da historiografia maçônica britânica; consultar o sumário do volume para os artigos específicos.",
+      "evidencias": [
+        "https://archive.org/details/ArsQuatuorCoronatorumVol091896"
+      ],
+      "potencias": [
+        "ugle"
+      ],
+      "periodico": "Ars Quatuor Coronatorum",
+      "volume": "9",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/qcl-1896-aqc-vol9.txt"
+      ]
+    },
+    {
+      "id": "qcl-1898-aqc-vol11",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Lodge Quatuor Coronati No. 2076"
+      ],
+      "titulo": "Ars Quatuor Coronatorum, vol. 11 (1898)",
+      "ano": 1898,
+      "idioma": "en",
+      "url": "https://archive.org/details/ArsQuatuorCoronatorumVol111898",
+      "identificadores": {
+        "ia": "ArsQuatuorCoronatorumVol111898"
+      },
+      "temas": [
+        "historiografia",
+        "origens",
+        "documentos_fundadores",
+        "ritual"
+      ],
+      "paises": [
+        "gb",
+        "mundo"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado em 1898; autores do período falecidos há mais de 70 anos — conferir por artigo)",
+      "status_verificacao": "copiado",
+      "resumo": "Volume 11 das atas da Loja Quatuor Coronati, primeira loja de pesquisa maçônica (Londres, 1886): reúne conferências, discussões, notas e reproduções de documentos da 'escola autêntica' (Gould, Hughan, Speth, Crawley e outros). Fonte central da historiografia maçônica britânica; consultar o sumário do volume para os artigos específicos.",
+      "evidencias": [
+        "https://archive.org/details/ArsQuatuorCoronatorumVol111898"
+      ],
+      "potencias": [
+        "ugle"
+      ],
+      "periodico": "Ars Quatuor Coronatorum",
+      "volume": "11",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/qcl-1898-aqc-vol11.txt"
+      ]
+    },
+    {
+      "id": "qcl-1899-aqc-vol12",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Lodge Quatuor Coronati No. 2076"
+      ],
+      "titulo": "Ars Quatuor Coronatorum, vol. 12 (1899)",
+      "ano": 1899,
+      "idioma": "en",
+      "url": "https://archive.org/details/ArsQuatuorCoronatorumVol121899",
+      "identificadores": {
+        "ia": "ArsQuatuorCoronatorumVol121899"
+      },
+      "temas": [
+        "historiografia",
+        "origens",
+        "documentos_fundadores",
+        "ritual"
+      ],
+      "paises": [
+        "gb",
+        "mundo"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado em 1899; autores do período falecidos há mais de 70 anos — conferir por artigo)",
+      "status_verificacao": "copiado",
+      "resumo": "Volume 12 das atas da Loja Quatuor Coronati, primeira loja de pesquisa maçônica (Londres, 1886): reúne conferências, discussões, notas e reproduções de documentos da 'escola autêntica' (Gould, Hughan, Speth, Crawley e outros). Fonte central da historiografia maçônica britânica; consultar o sumário do volume para os artigos específicos.",
+      "evidencias": [
+        "https://archive.org/details/ArsQuatuorCoronatorumVol121899"
+      ],
+      "potencias": [
+        "ugle"
+      ],
+      "periodico": "Ars Quatuor Coronatorum",
+      "volume": "12",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/qcl-1899-aqc-vol12.txt"
+      ]
+    },
+    {
+      "id": "qcl-1900-aqc-vol13",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Lodge Quatuor Coronati No. 2076"
+      ],
+      "titulo": "Ars Quatuor Coronatorum, vol. 13 (1900)",
+      "ano": 1900,
+      "idioma": "en",
+      "url": "https://archive.org/details/ArsQuatuorCoronatorumVol131900",
+      "identificadores": {
+        "ia": "ArsQuatuorCoronatorumVol131900"
+      },
+      "temas": [
+        "historiografia",
+        "origens",
+        "documentos_fundadores",
+        "ritual"
+      ],
+      "paises": [
+        "gb",
+        "mundo"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado em 1900; autores do período falecidos há mais de 70 anos — conferir por artigo)",
+      "status_verificacao": "copiado",
+      "resumo": "Volume 13 das atas da Loja Quatuor Coronati, primeira loja de pesquisa maçônica (Londres, 1886): reúne conferências, discussões, notas e reproduções de documentos da 'escola autêntica' (Gould, Hughan, Speth, Crawley e outros). Fonte central da historiografia maçônica britânica; consultar o sumário do volume para os artigos específicos.",
+      "evidencias": [
+        "https://archive.org/details/ArsQuatuorCoronatorumVol131900"
+      ],
+      "potencias": [
+        "ugle"
+      ],
+      "periodico": "Ars Quatuor Coronatorum",
+      "volume": "13",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/qcl-1900-aqc-vol13.txt"
+      ]
+    },
+    {
+      "id": "qcl-1901-aqc-vol14",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Lodge Quatuor Coronati No. 2076"
+      ],
+      "titulo": "Ars Quatuor Coronatorum, vol. 14 (1901)",
+      "ano": 1901,
+      "idioma": "en",
+      "url": "https://archive.org/details/ArsQuatuorCoronatorumVol141901",
+      "identificadores": {
+        "ia": "ArsQuatuorCoronatorumVol141901"
+      },
+      "temas": [
+        "historiografia",
+        "origens",
+        "documentos_fundadores",
+        "ritual"
+      ],
+      "paises": [
+        "gb",
+        "mundo"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado em 1901; autores do período falecidos há mais de 70 anos — conferir por artigo)",
+      "status_verificacao": "copiado",
+      "resumo": "Volume 14 das atas da Loja Quatuor Coronati, primeira loja de pesquisa maçônica (Londres, 1886): reúne conferências, discussões, notas e reproduções de documentos da 'escola autêntica' (Gould, Hughan, Speth, Crawley e outros). Fonte central da historiografia maçônica britânica; consultar o sumário do volume para os artigos específicos.",
+      "evidencias": [
+        "https://archive.org/details/ArsQuatuorCoronatorumVol141901"
+      ],
+      "potencias": [
+        "ugle"
+      ],
+      "periodico": "Ars Quatuor Coronatorum",
+      "volume": "14",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/qcl-1901-aqc-vol14.txt"
+      ]
+    },
+    {
+      "id": "qcl-1902-aqc-vol15",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Lodge Quatuor Coronati No. 2076"
+      ],
+      "titulo": "Ars Quatuor Coronatorum, vol. 15 (1902)",
+      "ano": 1902,
+      "idioma": "en",
+      "url": "https://archive.org/details/ArsQuatuorCoronatorumVol151902",
+      "identificadores": {
+        "ia": "ArsQuatuorCoronatorumVol151902"
+      },
+      "temas": [
+        "historiografia",
+        "origens",
+        "documentos_fundadores",
+        "ritual"
+      ],
+      "paises": [
+        "gb",
+        "mundo"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado em 1902; autores do período falecidos há mais de 70 anos — conferir por artigo)",
+      "status_verificacao": "copiado",
+      "resumo": "Volume 15 das atas da Loja Quatuor Coronati, primeira loja de pesquisa maçônica (Londres, 1886): reúne conferências, discussões, notas e reproduções de documentos da 'escola autêntica' (Gould, Hughan, Speth, Crawley e outros). Fonte central da historiografia maçônica britânica; consultar o sumário do volume para os artigos específicos.",
+      "evidencias": [
+        "https://archive.org/details/ArsQuatuorCoronatorumVol151902"
+      ],
+      "potencias": [
+        "ugle"
+      ],
+      "periodico": "Ars Quatuor Coronatorum",
+      "volume": "15",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/qcl-1902-aqc-vol15.txt"
+      ]
+    },
+    {
+      "id": "qcl-1903-aqc-vol16",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Lodge Quatuor Coronati No. 2076"
+      ],
+      "titulo": "Ars Quatuor Coronatorum, vol. 16 (1903)",
+      "ano": 1903,
+      "idioma": "en",
+      "url": "https://archive.org/details/ArsQuatuorCoronatorumVol161903",
+      "identificadores": {
+        "ia": "ArsQuatuorCoronatorumVol161903"
+      },
+      "temas": [
+        "historiografia",
+        "origens",
+        "documentos_fundadores",
+        "ritual"
+      ],
+      "paises": [
+        "gb",
+        "mundo"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado em 1903; autores do período falecidos há mais de 70 anos — conferir por artigo)",
+      "status_verificacao": "copiado",
+      "resumo": "Volume 16 das atas da Loja Quatuor Coronati, primeira loja de pesquisa maçônica (Londres, 1886): reúne conferências, discussões, notas e reproduções de documentos da 'escola autêntica' (Gould, Hughan, Speth, Crawley e outros). Fonte central da historiografia maçônica britânica; consultar o sumário do volume para os artigos específicos.",
+      "evidencias": [
+        "https://archive.org/details/ArsQuatuorCoronatorumVol161903"
+      ],
+      "potencias": [
+        "ugle"
+      ],
+      "periodico": "Ars Quatuor Coronatorum",
+      "volume": "16",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/qcl-1903-aqc-vol16.txt"
+      ]
+    },
+    {
+      "id": "qcl-1904-aqc-vol17",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Lodge Quatuor Coronati No. 2076"
+      ],
+      "titulo": "Ars Quatuor Coronatorum, vol. 17 (1904)",
+      "ano": 1904,
+      "idioma": "en",
+      "url": "https://archive.org/details/ArsQuatuorCoronatorumVol171904",
+      "identificadores": {
+        "ia": "ArsQuatuorCoronatorumVol171904"
+      },
+      "temas": [
+        "historiografia",
+        "origens",
+        "documentos_fundadores",
+        "ritual"
+      ],
+      "paises": [
+        "gb",
+        "mundo"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado em 1904; autores do período falecidos há mais de 70 anos — conferir por artigo)",
+      "status_verificacao": "copiado",
+      "resumo": "Volume 17 das atas da Loja Quatuor Coronati, primeira loja de pesquisa maçônica (Londres, 1886): reúne conferências, discussões, notas e reproduções de documentos da 'escola autêntica' (Gould, Hughan, Speth, Crawley e outros). Fonte central da historiografia maçônica britânica; consultar o sumário do volume para os artigos específicos.",
+      "evidencias": [
+        "https://archive.org/details/ArsQuatuorCoronatorumVol171904"
+      ],
+      "potencias": [
+        "ugle"
+      ],
+      "periodico": "Ars Quatuor Coronatorum",
+      "volume": "17",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/qcl-1904-aqc-vol17.txt"
+      ]
+    },
+    {
+      "id": "qcl-1905-aqc-vol18",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Lodge Quatuor Coronati No. 2076"
+      ],
+      "titulo": "Ars Quatuor Coronatorum, vol. 18 (1905)",
+      "ano": 1905,
+      "idioma": "en",
+      "url": "https://archive.org/details/ArsQuatuorCoronatorumVol181905",
+      "identificadores": {
+        "ia": "ArsQuatuorCoronatorumVol181905"
+      },
+      "temas": [
+        "historiografia",
+        "origens",
+        "documentos_fundadores",
+        "ritual"
+      ],
+      "paises": [
+        "gb",
+        "mundo"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado em 1905; autores do período falecidos há mais de 70 anos — conferir por artigo)",
+      "status_verificacao": "copiado",
+      "resumo": "Volume 18 das atas da Loja Quatuor Coronati, primeira loja de pesquisa maçônica (Londres, 1886): reúne conferências, discussões, notas e reproduções de documentos da 'escola autêntica' (Gould, Hughan, Speth, Crawley e outros). Fonte central da historiografia maçônica britânica; consultar o sumário do volume para os artigos específicos.",
+      "evidencias": [
+        "https://archive.org/details/ArsQuatuorCoronatorumVol181905"
+      ],
+      "potencias": [
+        "ugle"
+      ],
+      "periodico": "Ars Quatuor Coronatorum",
+      "volume": "18",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/qcl-1905-aqc-vol18.pdf",
+        "txt/qcl-1905-aqc-vol18.txt"
+      ]
+    },
+    {
+      "id": "qcl-1906-aqc-vol19",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Lodge Quatuor Coronati No. 2076"
+      ],
+      "titulo": "Ars Quatuor Coronatorum, vol. 19 (1906)",
+      "ano": 1906,
+      "idioma": "en",
+      "url": "https://archive.org/details/ArsQuatuorCoronatorumVol191906",
+      "identificadores": {
+        "ia": "ArsQuatuorCoronatorumVol191906"
+      },
+      "temas": [
+        "historiografia",
+        "origens",
+        "documentos_fundadores",
+        "ritual"
+      ],
+      "paises": [
+        "gb",
+        "mundo"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado em 1906; autores do período falecidos há mais de 70 anos — conferir por artigo)",
+      "status_verificacao": "copiado",
+      "resumo": "Volume 19 das atas da Loja Quatuor Coronati, primeira loja de pesquisa maçônica (Londres, 1886): reúne conferências, discussões, notas e reproduções de documentos da 'escola autêntica' (Gould, Hughan, Speth, Crawley e outros). Fonte central da historiografia maçônica britânica; consultar o sumário do volume para os artigos específicos.",
+      "evidencias": [
+        "https://archive.org/details/ArsQuatuorCoronatorumVol191906"
+      ],
+      "potencias": [
+        "ugle"
+      ],
+      "periodico": "Ars Quatuor Coronatorum",
+      "volume": "19",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/qcl-1906-aqc-vol19.txt"
+      ]
+    },
+    {
+      "id": "qcl-1908-aqc-vol21",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Lodge Quatuor Coronati No. 2076"
+      ],
+      "titulo": "Ars Quatuor Coronatorum, vol. 21 (1908)",
+      "ano": 1908,
+      "idioma": "en",
+      "url": "https://archive.org/details/ArsQuatuorCoronatorumVol211908",
+      "identificadores": {
+        "ia": "ArsQuatuorCoronatorumVol211908"
+      },
+      "temas": [
+        "historiografia",
+        "origens",
+        "documentos_fundadores",
+        "ritual"
+      ],
+      "paises": [
+        "gb",
+        "mundo"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado em 1908; autores do período falecidos há mais de 70 anos — conferir por artigo)",
+      "status_verificacao": "copiado",
+      "resumo": "Volume 21 das atas da Loja Quatuor Coronati, primeira loja de pesquisa maçônica (Londres, 1886): reúne conferências, discussões, notas e reproduções de documentos da 'escola autêntica' (Gould, Hughan, Speth, Crawley e outros). Fonte central da historiografia maçônica britânica; consultar o sumário do volume para os artigos específicos.",
+      "evidencias": [
+        "https://archive.org/details/ArsQuatuorCoronatorumVol211908"
+      ],
+      "potencias": [
+        "ugle"
+      ],
+      "periodico": "Ars Quatuor Coronatorum",
+      "volume": "21",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/qcl-1908-aqc-vol21.txt"
+      ]
+    },
+    {
+      "id": "wolfstieg-1920-werden-wesen",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "August Wolfstieg"
+      ],
+      "titulo": "Werden und Wesen der Freimaurerei: Ursprung und Entwicklung der Freimaurerei",
+      "ano": 1920,
+      "idioma": "de",
+      "url": "https://archive.org/details/bub_gb_MjjaX5C6rxgC",
+      "identificadores": {
+        "ia": "bub_gb_MjjaX5C6rxgC"
+      },
+      "temas": [
+        "origens",
+        "historiografia",
+        "principios"
+      ],
+      "paises": [
+        "de",
+        "gb",
+        "mundo"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (Wolfstieg morreu em 1922)",
+      "status_verificacao": "copiado",
+      "resumo": "Síntese do bibliotecário e bibliógrafo da maçonaria alemã (autor da Bibliographie der freimaurerischen Literatur) sobre as origens e a evolução da maçonaria, discutindo criticamente as teorias de origem.",
+      "evidencias": [
+        "https://archive.org/details/bub_gb_MjjaX5C6rxgC"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/wolfstieg-1920-werden-wesen.txt"
+      ]
+    },
+    {
+      "id": "boos-1892-freimaurerei-basel",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Heinrich Boos"
+      ],
+      "titulo": "Geschichte der Freimaurerei in Basel, 1744–1891",
+      "ano": 1892,
+      "idioma": "de",
+      "url": "https://archive.org/details/geschichtederfre00boos",
+      "identificadores": {
+        "ia": "geschichtederfre00boos"
+      },
+      "temas": [
+        "potencias",
+        "sociabilidade"
+      ],
+      "paises": [
+        "ch"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (Boos morreu em 1917)",
+      "status_verificacao": "copiado",
+      "resumo": "História das lojas de Basileia de 1744 a 1891, preparada por um historiador universitário a partir dos arquivos locais, útil para a maçonaria suíça e o Rito Escocês Retificado na Suíça.",
+      "evidencias": [
+        "https://archive.org/details/geschichtederfre00boos"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/boos-1892-freimaurerei-basel.pdf",
+        "txt/boos-1892-freimaurerei-basel.txt"
+      ]
+    },
+    {
+      "id": "pfeilschifter-1868-freimaurerei-oesterreich",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Johann Baptist von Pfeilschifter"
+      ],
+      "titulo": "Beiträge zu einer Geschichte der Freimaurerei in Österreich",
+      "ano": 1868,
+      "idioma": "de",
+      "url": "https://archive.org/details/10434677bsb",
+      "identificadores": {
+        "ia": "10434677bsb"
+      },
+      "temas": [
+        "politica",
+        "antimaconaria"
+      ],
+      "paises": [
+        "at"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (século XIX)",
+      "status_verificacao": "copiado",
+      "resumo": "Contribuições à história da maçonaria na Áustria, de perspectiva conservadora e católica, publicadas quando se discutia a legalização das lojas na Cisleitânia.",
+      "evidencias": [
+        "https://archive.org/details/10434677bsb"
+      ],
+      "observacoes": "Perspectiva hostil; usar como documento do debate austríaco.",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/pfeilschifter-1868-freimaurerei-oesterreich.pdf",
+        "txt/pfeilschifter-1868-freimaurerei-oesterreich.txt"
+      ]
+    },
+    {
+      "id": "rosen-1890-ennemie-sociale",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "Paul Rosen"
+      ],
+      "titulo": "L'ennemie sociale: histoire documentée des faits et gestes de la franc-maçonnerie de 1717 à 1890 en France, en Belgique et en Italie",
+      "ano": 1890,
+      "idioma": "fr",
+      "url": "https://archive.org/details/lennemiesocialeh00rose",
+      "identificadores": {
+        "ia": "lennemiesocialeh00rose"
+      },
+      "temas": [
+        "antimaconaria",
+        "politica"
+      ],
+      "paises": [
+        "fr",
+        "be",
+        "it"
+      ],
+      "periodos": [
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "D",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (1890)",
+      "status_verificacao": "copiado",
+      "resumo": "Obra antimaçônica de 1890 que compila documentos e acusações contra as obediências da França, Bélgica e Itália, apresentando a maçonaria como inimiga da sociedade cristã. Documento do antimaçonismo católico da época de Humanum genus.",
+      "evidencias": [
+        "https://archive.org/details/lennemiesocialeh00rose"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/rosen-1890-ennemie-sociale.pdf",
+        "txt/rosen-1890-ennemie-sociale.txt"
+      ]
     }
   ]
 }
