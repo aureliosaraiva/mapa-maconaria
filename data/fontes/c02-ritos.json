@@ -1,0 +1,874 @@
+{
+ "lote": "c02-ritos",
+ "fontes": [
+  {
+   "id": "delaulnaye-1813-thuileur",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "François-Henri-Stanislas de L'Aulnaye"
+   ],
+   "titulo": "Thuileur des trente-trois degrés de l'écossisme du rit ancien, dit accepté",
+   "ano": 1813,
+   "idioma": "fr",
+   "temas": [
+    "ritual",
+    "ritos",
+    "graus"
+   ],
+   "ritos": [
+    "reaa"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "A",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1813)",
+   "resumo": "Tuileur (manual de reconhecimento) dos 33 graus do Rito Escocês Antigo e Aceito publicado em Paris pouco depois da introdução do rito na França; descreve graus, decorações, sinais e lendas, e acrescenta a retificação de outros sistemas. Fonte primária essencial para a estrutura inicial do REAA na França.",
+   "status_verificacao": "copiado",
+   "editora": "Delaunay",
+   "local": "Paris",
+   "url": "https://archive.org/details/bub_gb_oA2g78w5igEC",
+   "identificadores": {
+    "ia": "bub_gb_oA2g78w5igEC"
+   },
+   "evidencias": [
+    "https://archive.org/details/bub_gb_oA2g78w5igEC"
+   ],
+   "acervo": [
+    "pdf/delaulnaye-1813-thuileur.pdf",
+    "txt/delaulnaye-1813-thuileur.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "vuillaume-1820-manuel-maconnique",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Claude-André Vuillaume"
+   ],
+   "titulo": "Manuel maçonnique, ou Tuileur de tous les rites de maçonnerie pratiqués en France",
+   "ano": 1820,
+   "idioma": "fr",
+   "temas": [
+    "ritual",
+    "ritos",
+    "graus"
+   ],
+   "ritos": [
+    "frances_moderno",
+    "reaa",
+    "adonhiramita",
+    "outros_ritos"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "A",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1820)",
+   "resumo": "Manual-tuileur que reúne em um volume a estrutura de graus dos ritos praticados na França no início do séc. XIX (Francês/Moderno, Escocês, Adonhiramita e outros), com descrição das lojas, catecismos e decorações. Muito citado pela historiografia como retrato do panorama ritualístico francês da Restauração.",
+   "status_verificacao": "copiado",
+   "local": "Paris",
+   "url": "https://archive.org/details/VuillaumeCAManuelMaconniqueOuTuileurDeTousLesRitesDeMaconneriePratiquesEnFrance1820",
+   "identificadores": {
+    "ia": "VuillaumeCAManuelMaconniqueOuTuileurDeTousLesRitesDeMaconneriePratiquesEnFrance1820"
+   },
+   "evidencias": [
+    "https://archive.org/details/VuillaumeCAManuelMaconniqueOuTuileurDeTousLesRitesDeMaconneriePratiquesEnFrance1820"
+   ],
+   "acervo": [
+    "pdf/vuillaume-1820-manuel-maconnique.pdf",
+    "txt/vuillaume-1820-manuel-maconnique.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "bazot-1828-tuileur-expert-rit-francais",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Étienne-François Bazot"
+   ],
+   "titulo": "Le Tuileur expert des sept grades du rit français",
+   "ano": 1828,
+   "idioma": "fr",
+   "temas": [
+    "ritual",
+    "graus"
+   ],
+   "ritos": [
+    "frances_moderno"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1828)",
+   "resumo": "Tuileur dedicado aos sete graus do Rito Francês (três simbólicos e quatro ordens de sabedoria), útil para comparar com o Régulateur de 1801 e documentar a prática do Grande Oriente da França no começo do séc. XIX.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "godf"
+   ],
+   "url": "https://archive.org/details/BazotEFLeTuileurExpertDesSeptGradesDuRitFrancais1828",
+   "identificadores": {
+    "ia": "BazotEFLeTuileurExpertDesSeptGradesDuRitFrancais1828"
+   },
+   "evidencias": [
+    "https://archive.org/details/BazotEFLeTuileurExpertDesSeptGradesDuRitFrancais1828"
+   ],
+   "acervo": [
+    "pdf/bazot-1828-tuileur-expert-rit-francais.pdf",
+    "txt/bazot-1828-tuileur-expert-rit-francais.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "tuileur-abraham-1812",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Anônimo (atribuído a Abraham)"
+   ],
+   "titulo": "Tuileur d'Abraham",
+   "ano": 1812,
+   "idioma": "fr",
+   "temas": [
+    "ritual",
+    "graus"
+   ],
+   "ritos": [
+    "reaa",
+    "outros_ritos"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1812)",
+   "resumo": "Tuileur francês de 1812 que descreve numerosos graus escoceses e de outros sistemas circulantes no Império; útil para o estudo da proliferação de altos graus antes da consolidação dos 33 graus.",
+   "status_verificacao": "copiado",
+   "observacoes": "Autoria e data conforme o título da digitalização; conferir na bibliografia (Kloss, Wolfstieg) antes de citar.",
+   "url": "https://archive.org/details/TuileurDAbraham1812",
+   "identificadores": {
+    "ia": "TuileurDAbraham1812"
+   },
+   "evidencias": [
+    "https://archive.org/details/TuileurDAbraham1812"
+   ],
+   "acervo": [
+    "pdf/tuileur-abraham-1812.pdf",
+    "txt/tuileur-abraham-1812.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "anonimo-1801-regulateur-du-macon",
+   "tipo": "ritual",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Grand Orient de France (atribuído)"
+   ],
+   "titulo": "Le Régulateur du maçon (graus simbólicos)",
+   "ano": 1801,
+   "idioma": "fr",
+   "temas": [
+    "ritual",
+    "graus"
+   ],
+   "ritos": [
+    "frances_moderno"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "A",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1801)",
+   "resumo": "Primeira edição impressa dos rituais dos três graus simbólicos do Rito Francês, fixados pelo Grande Oriente da França a partir dos trabalhos da Câmara de Graus dos anos 1780; base do Rito Moderno e de seus derivados no mundo latino, inclusive o Brasil.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "godf"
+   ],
+   "observacoes": "A digitalização do IA traz o grau de Mestre; conferir se contém o volume completo.",
+   "url": "https://archive.org/details/LeRgulateurDuMaaonTroisiemeGradeOuGradeDeMaitre1801",
+   "identificadores": {
+    "ia": "LeRgulateurDuMaaonTroisiemeGradeOuGradeDeMaitre1801"
+   },
+   "evidencias": [
+    "https://archive.org/details/LeRgulateurDuMaaonTroisiemeGradeOuGradeDeMaitre1801"
+   ],
+   "acervo": [
+    "pdf/anonimo-1801-regulateur-du-macon.pdf",
+    "txt/anonimo-1801-regulateur-du-macon.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "guillemain-1787-recueil-precieux",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Louis Guillemain de Saint-Victor"
+   ],
+   "titulo": "Recueil précieux de la maçonnerie adonhiramite",
+   "ano": 1787,
+   "idioma": "fr",
+   "temas": [
+    "ritual",
+    "ritos",
+    "graus"
+   ],
+   "ritos": [
+    "adonhiramita"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "A",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1787)",
+   "resumo": "Coletânea que expõe os catecismos e cerimônias dos primeiros graus da maçonaria dita adonhiramita, na qual a lenda central gira em torno de Adoniram; obra fundadora do Rito Adonhiramita, que teve grande difusão no Brasil no séc. XIX.",
+   "status_verificacao": "copiado",
+   "url": "https://archive.org/details/recueilprcieuxd00guilgoog",
+   "identificadores": {
+    "ia": "recueilprcieuxd00guilgoog"
+   },
+   "evidencias": [
+    "https://archive.org/details/recueilprcieuxd00guilgoog"
+   ],
+   "acervo": [
+    "pdf/guillemain-1787-recueil-precieux.pdf",
+    "txt/guillemain-1787-recueil-precieux.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "guillemain-1787-origine-adonhiramite",
+   "tipo": "livro",
+   "categoria": "primaria_historica",
+   "autores": [
+    "Louis Guillemain de Saint-Victor"
+   ],
+   "titulo": "Origine de la maçonnerie adonhiramite, ou nouvelles observations critiques et raisonnées",
+   "ano": 1787,
+   "idioma": "fr",
+   "temas": [
+    "ritos",
+    "simbolismo",
+    "origens"
+   ],
+   "ritos": [
+    "adonhiramita"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1787)",
+   "resumo": "Ensaio do mesmo autor do Recueil précieux, com especulações sobre a origem egípcia e antiga dos mistérios maçônicos e justificativa da vertente adonhiramita; documento da imaginação histórica maçônica do fim do séc. XVIII.",
+   "status_verificacao": "copiado",
+   "url": "https://archive.org/details/originedelamaon00saingoog",
+   "identificadores": {
+    "ia": "originedelamaon00saingoog"
+   },
+   "evidencias": [
+    "https://archive.org/details/originedelamaon00saingoog"
+   ],
+   "acervo": [
+    "pdf/guillemain-1787-origine-adonhiramite.pdf",
+    "txt/guillemain-1787-origine-adonhiramite.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "guillemain-1783-adoption-maconnerie-dames",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Louis Guillemain de Saint-Victor"
+   ],
+   "titulo": "L'Adoption, ou la maçonnerie des dames",
+   "ano": 1783,
+   "idioma": "fr",
+   "temas": [
+    "ritual",
+    "mulheres",
+    "graus"
+   ],
+   "ritos": [
+    "outros_ritos"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "A",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1783)",
+   "resumo": "Ritual da maçonaria de adoção (lojas femininas ligadas a lojas masculinas) do séc. XVIII, com os graus de Aprendiza, Companheira, Mestra e Mestra Perfeita; fonte primária para o estudo das mulheres na maçonaria francesa pré-revolucionária.",
+   "status_verificacao": "copiado",
+   "url": "https://archive.org/details/StVictorLGDeLAdoptionOuLaMaonnerieDesDames1783",
+   "identificadores": {
+    "ia": "StVictorLGDeLAdoptionOuLaMaonnerieDesDames1783"
+   },
+   "evidencias": [
+    "https://archive.org/details/StVictorLGDeLAdoptionOuLaMaonnerieDesDames1783"
+   ],
+   "acervo": [
+    "pdf/guillemain-1783-adoption-maconnerie-dames.pdf",
+    "txt/guillemain-1783-adoption-maconnerie-dames.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "bedarride-1845-ordre-misraim",
+   "tipo": "livro",
+   "categoria": "primaria_historica",
+   "autores": [
+    "Marc Bédarride"
+   ],
+   "titulo": "De l'Ordre maçonnique de Misraïm, depuis sa création jusqu'à nos jours",
+   "ano": 1845,
+   "idioma": "fr",
+   "temas": [
+    "ritos",
+    "esoterismo",
+    "origens"
+   ],
+   "ritos": [
+    "memphis_misraim"
+   ],
+   "paises": [
+    "fr",
+    "it"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1845)",
+   "resumo": "História apologética do Rito de Misraïm escrita por um de seus fundadores na França, com a lenda de origem bíblico-egípcia e a narrativa dos conflitos com o Grande Oriente; documento primário do rito, a ser lido criticamente (cronologia lendária).",
+   "status_verificacao": "copiado",
+   "url": "https://archive.org/details/BedarrideMDeLOrdreMaconniqueDeMisraim1845",
+   "identificadores": {
+    "ia": "BedarrideMDeLOrdreMaconniqueDeMisraim1845"
+   },
+   "evidencias": [
+    "https://archive.org/details/BedarrideMDeLOrdreMaconniqueDeMisraim1845"
+   ],
+   "acervo": [
+    "pdf/bedarride-1845-ordre-misraim.pdf",
+    "txt/bedarride-1845-ordre-misraim.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "marconis-yarker-1882-lectures-chapter-senate-council",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Jacques-Étienne Marconis de Nègre",
+    "John Yarker"
+   ],
+   "titulo": "Lectures of a Chapter, Senate & Council according to the forms of the Antient and Primitive Rite",
+   "ano": 1882,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "graus",
+    "esoterismo"
+   ],
+   "ritos": [
+    "memphis_misraim",
+    "primitivo"
+   ],
+   "paises": [
+    "gb",
+    "fr"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1882)",
+   "resumo": "Tradução e adaptação inglesa por Yarker das instruções de Marconis para os graus capitulares, senatoriais e de conselho do Rito Antigo e Primitivo (Memphis); mostra a transmissão do rito egípcio da França para a Grã-Bretanha.",
+   "status_verificacao": "copiado",
+   "local": "London",
+   "url": "https://archive.org/details/lecturesachapte00yarkgoog",
+   "identificadores": {
+    "ia": "lecturesachapte00yarkgoog"
+   },
+   "evidencias": [
+    "https://archive.org/details/lecturesachapte00yarkgoog"
+   ],
+   "acervo": [
+    "pdf/marconis-yarker-1882-lectures-chapter-senate-council.pdf",
+    "txt/marconis-yarker-1882-lectures-chapter-senate-council.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "burt-1879-egyptian-masonic-history-memphis",
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "Calvin C. Burt"
+   ],
+   "titulo": "Egyptian Masonic History of the Original and Unabridged Ancient and Ninety-six Degree Rite of Memphis",
+   "ano": 1879,
+   "idioma": "en",
+   "temas": [
+    "ritos",
+    "graus",
+    "esoterismo"
+   ],
+   "ritos": [
+    "memphis_misraim"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1879)",
+   "resumo": "História e organização do Rito de Memphis de 96 graus nos Estados Unidos, escrita por seu principal promotor americano; útil para a nomenclatura dos graus e para as disputas de legitimidade, mas apologética.",
+   "status_verificacao": "copiado",
+   "local": "Utica, NY",
+   "url": "https://archive.org/details/cu31924030318806",
+   "identificadores": {
+    "ia": "cu31924030318806"
+   },
+   "evidencias": [
+    "https://archive.org/details/cu31924030318806"
+   ],
+   "acervo": [
+    "pdf/burt-1879-egyptian-masonic-history-memphis.pdf",
+    "txt/burt-1879-egyptian-masonic-history-memphis.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "egyptian-rite-memphis-1889-ritual-canada",
+   "tipo": "ritual",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Egyptian Rite of Memphis (Sovereign Sanctuary, Canadá)"
+   ],
+   "titulo": "Ritual of the A. & A. Egyptian Rite of Memphis 96°; also constitution and by-laws",
+   "ano": 1889,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "graus"
+   ],
+   "ritos": [
+    "memphis_misraim"
+   ],
+   "paises": [
+    "ca"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1889)",
+   "resumo": "Ritual impresso de um santuário canadense do Rito Egípcio de Memphis, acompanhado de constituição e regulamentos; documento oficial do rito na América do Norte.",
+   "status_verificacao": "copiado",
+   "url": "https://archive.org/details/cihm_03246",
+   "identificadores": {
+    "ia": "cihm_03246"
+   },
+   "evidencias": [
+    "https://archive.org/details/cihm_03246"
+   ],
+   "acervo": [
+    "pdf/egyptian-rite-memphis-1889-ritual-canada.pdf",
+    "txt/egyptian-rite-memphis-1889-ritual-canada.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "yarker-1909-arcane-schools",
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "John Yarker"
+   ],
+   "titulo": "The Arcane Schools: a review of their origin and antiquity, with a general history of Freemasonry",
+   "ano": 1909,
+   "idioma": "en",
+   "temas": [
+    "origens",
+    "esoterismo",
+    "ritos"
+   ],
+   "ritos": [
+    "memphis_misraim",
+    "primitivo"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1909)",
+   "resumo": "Síntese de um dos principais difusores dos ritos egípcios e de altos graus na Inglaterra, que liga a maçonaria a escolas iniciáticas antigas; vale como testemunho da corrente esotérica e como fonte de informações sobre ritos marginais, não como história crítica.",
+   "status_verificacao": "copiado",
+   "local": "Belfast",
+   "url": "https://archive.org/details/b24886002",
+   "identificadores": {
+    "ia": "b24886002"
+   },
+   "evidencias": [
+    "https://archive.org/details/b24886002"
+   ],
+   "acervo": [
+    "pdf/yarker-1909-arcane-schools.pdf",
+    "txt/yarker-1909-arcane-schools.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "mcclenachan-1884-book-scottish-rite",
+   "tipo": "livro",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Charles T. McClenachan"
+   ],
+   "titulo": "The Book of the Ancient and Accepted Scottish Rite of Freemasonry",
+   "ano": 1884,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "graus",
+    "ritos"
+   ],
+   "ritos": [
+    "reaa"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1884)",
+   "resumo": "Manual monitorial da Jurisdição Norte dos EUA com instruções para todos os graus do REAA (do 4º ao 33º), descrição de decorações, lendas e textos de constituições; fonte padrão para a versão norte-americana do rito.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "sc_njn"
+   ],
+   "ano_original": 1867,
+   "observacoes": "Edição digitalizada de 1899 (ano do IA); 1ª ed. 1867.",
+   "url": "https://archive.org/details/bookofancientac00mccl",
+   "identificadores": {
+    "ia": "bookofancientac00mccl"
+   },
+   "evidencias": [
+    "https://archive.org/details/bookofancientac00mccl"
+   ],
+   "acervo": [
+    "pdf/mcclenachan-1884-book-scottish-rite.pdf",
+    "txt/mcclenachan-1884-book-scottish-rite.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "folger-1881-scottish-rite-33-degrees",
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "Robert B. Folger"
+   ],
+   "titulo": "The Ancient and Accepted Scottish Rite in Thirty-three Degrees",
+   "ano": 1881,
+   "idioma": "en",
+   "temas": [
+    "ritos",
+    "graus",
+    "regularidade"
+   ],
+   "ritos": [
+    "reaa",
+    "perfeicao"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1881)",
+   "resumo": "História do REAA (antes conhecido como Rito de Perfeição) nos EUA, com reprodução de documentos e defesa do Supremo Conselho de Cerneau na controvérsia de legitimidade; documentos úteis, interpretação partidária.",
+   "status_verificacao": "copiado",
+   "ano_original": 1862,
+   "url": "https://archive.org/details/cu31924030324812",
+   "identificadores": {
+    "ia": "cu31924030324812"
+   },
+   "evidencias": [
+    "https://archive.org/details/cu31924030324812"
+   ],
+   "acervo": [
+    "pdf/folger-1881-scottish-rite-33-degrees.pdf",
+    "txt/folger-1881-scottish-rite-33-degrees.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "blanchard-1887-scotch-rite-illustrated-v1",
+   "tipo": "exposicao",
+   "categoria": "antimaconaria",
+   "autores": [
+    "Jonathan Blanchard"
+   ],
+   "titulo": "Scotch Rite Masonry Illustrated: the complete ritual of the Ancient and Accepted Scottish Rite, vol. 1",
+   "ano": 1887,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "antimaconaria",
+    "graus"
+   ],
+   "ritos": [
+    "reaa"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1887)",
+   "resumo": "Exposição hostil, publicada pelo presidente do Wheaton College e militante antimaçom, que reproduz rituais dos graus 4º–18º do REAA; documento da antimaçonaria americana e também fonte de comparação ritual (uso crítico).",
+   "status_verificacao": "copiado",
+   "url": "https://archive.org/details/scotchritemasonr01blan",
+   "identificadores": {
+    "ia": "scotchritemasonr01blan"
+   },
+   "evidencias": [
+    "https://archive.org/details/scotchritemasonr01blan"
+   ],
+   "acervo": [
+    "pdf/blanchard-1887-scotch-rite-illustrated-v1.pdf",
+    "txt/blanchard-1887-scotch-rite-illustrated-v1.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "blanchard-1887-scotch-rite-illustrated-v2",
+   "tipo": "exposicao",
+   "categoria": "antimaconaria",
+   "autores": [
+    "Jonathan Blanchard"
+   ],
+   "titulo": "Scotch Rite Masonry Illustrated, vol. 2",
+   "ano": 1887,
+   "idioma": "en",
+   "temas": [
+    "ritual",
+    "antimaconaria",
+    "graus"
+   ],
+   "ritos": [
+    "reaa"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1887)",
+   "resumo": "Segundo volume da exposição de Blanchard, com os graus 19º–33º do REAA; uso crítico como fonte hostil.",
+   "status_verificacao": "copiado",
+   "url": "https://archive.org/details/scotchritemasonr02blan",
+   "identificadores": {
+    "ia": "scotchritemasonr02blan"
+   },
+   "evidencias": [
+    "https://archive.org/details/scotchritemasonr02blan"
+   ],
+   "acervo": [
+    "txt/blanchard-1887-scotch-rite-illustrated-v2.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "sherman-1890-brief-history-scottish-rite",
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "Edwin A. Sherman"
+   ],
+   "titulo": "New Edition of the Brief History of the Ancient and Accepted Scottish Rite of Freemasonry",
+   "ano": 1890,
+   "idioma": "en",
+   "temas": [
+    "ritos",
+    "potencias"
+   ],
+   "ritos": [
+    "reaa"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1814_1870",
+    "p1871_1918"
+   ],
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1890)",
+   "resumo": "Breve história do REAA nos EUA e na Califórnia, com listas de corpos e oficiais; útil para dados institucionais do séc. XIX.",
+   "status_verificacao": "copiado",
+   "url": "https://archive.org/details/neweditionofbrie00sherrich",
+   "identificadores": {
+    "ia": "neweditionofbrie00sherrich"
+   },
+   "evidencias": [
+    "https://archive.org/details/neweditionofbrie00sherrich"
+   ],
+   "acervo": [
+    "pdf/sherman-1890-brief-history-scottish-rite.pdf",
+    "txt/sherman-1890-brief-history-scottish-rite.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "loth-1875-scottish-rite-emblems",
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "J. T. Loth"
+   ],
+   "titulo": "The Ancient and Accepted Scottish Rite: illustrations of the emblems of the thirty-three degrees",
+   "ano": 1875,
+   "idioma": "en",
+   "temas": [
+    "simbolismo",
+    "graus"
+   ],
+   "ritos": [
+    "reaa"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1875)",
+   "resumo": "Álbum de ilustrações dos emblemas e joias dos 33 graus do REAA com breves explicações; fonte iconográfica.",
+   "status_verificacao": "copiado",
+   "url": "https://archive.org/details/cu31924030318541",
+   "identificadores": {
+    "ia": "cu31924030318541"
+   },
+   "evidencias": [
+    "https://archive.org/details/cu31924030318541"
+   ],
+   "acervo": [
+    "pdf/loth-1875-scottish-rite-emblems.pdf",
+    "txt/loth-1875-scottish-rite-emblems.txt"
+   ],
+   "lote": "c02-ritos"
+  },
+  {
+   "id": "sc-sj-1872-scottish-rite-statutes",
+   "tipo": "documento",
+   "categoria": "oficial_potencia",
+   "autores": [
+    "Supreme Council 33°, Southern Jurisdiction"
+   ],
+   "titulo": "Ancient and Accepted Scottish Rite of Freemasonry (constituições e estatutos)",
+   "ano": 1872,
+   "idioma": "en",
+   "temas": [
+    "documentos_fundadores",
+    "ritos",
+    "potencias"
+   ],
+   "ritos": [
+    "reaa"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (publicado em 1872)",
+   "resumo": "Publicação oficial do Supremo Conselho da Jurisdição Sul (Charleston/Washington) do período de Albert Pike, com Grandes Constituições de 1786 e estatutos; base para o estudo do texto normativo do REAA.",
+   "status_verificacao": "copiado",
+   "potencias": [
+    "sc_sj"
+   ],
+   "observacoes": "Conferir conteúdo exato (título genérico no IA).",
+   "url": "https://archive.org/details/cu31924030325017",
+   "identificadores": {
+    "ia": "cu31924030325017"
+   },
+   "evidencias": [
+    "https://archive.org/details/cu31924030325017"
+   ],
+   "acervo": [
+    "pdf/sc-sj-1872-scottish-rite-statutes.pdf",
+    "txt/sc-sj-1872-scottish-rite-statutes.txt"
+   ],
+   "lote": "c02-ritos"
+  }
+ ]
+}
