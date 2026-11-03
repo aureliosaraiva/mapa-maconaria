@@ -43,6 +43,43 @@
    ]
   },
   {
+   "categoria": "historiografia_maconica",
+   "tipo": "site",
+   "confiabilidade": "B",
+   "acesso": "desconhecido",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "direitos do autor",
+   "id": "bessel-recognition-lists",
+   "autores": [
+    "Paul M. Bessel"
+   ],
+   "titulo": "Masonic recognition lists and statistics (bessel.org)",
+   "ano": null,
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "prince_hall"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "url": "http://bessel.org/",
+   "status_verificacao": "pista",
+   "resumo": "Site pessoal de Paul M. Bessel com tabelas de reconhecimento entre grandes lojas, estatísticas de membros nos EUA e histórico do reconhecimento da maçonaria Prince Hall; referência clássica citada pelo plano da C03.",
+   "observacoes": "Em 2026-11-03 o domínio redirecionava para site de apostas (domínio perdido). Recuperar via Wayback Machine com autorização (ver PENDENCIAS C03).",
+   "lote": "c03-potencias",
+   "evidencias": [
+    "http://bessel.org/"
+   ]
+  },
+  {
    "categoria": "oficial_potencia",
    "tipo": "periodico",
    "confiabilidade": "C",
@@ -2160,6 +2197,43 @@
   },
   {
    "categoria": "oficial_potencia",
+   "tipo": "artigo",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "glct-2009-20-years-mutual-recognition",
+   "autores": [
+    "Grand Lodge of Connecticut"
+   ],
+   "titulo": "20 Years of Mutual Recognition (Prince Hall and Connecticut)",
+   "ano": null,
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua",
+    "prince_hall"
+   ],
+   "paises": [
+    "us"
+   ],
+   "url": "https://www.phoenixmasonry.org/20_years_of_mutual_recognition.htm",
+   "status_verificacao": "pista",
+   "resumo": "Texto da Grande Loja de Connecticut, reproduzido em Phoenixmasonry, sobre o reconhecimento mútuo com a Prince Hall Grand Lodge de Connecticut (votado em 14/10/1989, primeiro caso nos EUA) e sua difusão nas duas décadas seguintes.",
+   "observacoes": "Servidor fora do ar na coleta (2026-11-03); ano provável 2009 (20 anos de 1989), a confirmar.",
+   "lote": "c03-potencias",
+   "evidencias": [
+    "https://www.phoenixmasonry.org/20_years_of_mutual_recognition.htm"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
    "tipo": "pagina",
    "confiabilidade": "C",
    "acesso": "oficial_publico",
@@ -2707,6 +2781,41 @@
    "url": "https://www.glmmg.org.br/historia/",
    "evidencias": [
     "https://www.glmmg.org.br/historia/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "site",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "glnf-2026-site",
+   "autores": [
+    "Grande Loge Nationale Française"
+   ],
+   "titulo": "Site officiel de la Grande Loge Nationale Française",
+   "ano": 2026,
+   "idioma": "fr",
+   "potencias": [
+    "glnf"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "url": "https://www.glnf.fr/",
+   "status_verificacao": "pista",
+   "resumo": "Site oficial da GLNF, a obediência francesa reconhecida pela UGLE (origem em 1913). Não copiado.",
+   "observacoes": "HTTP 403 (proteção anti-robô) em 2026-11-03; não contornado. Ver PENDENCIAS C03.",
+   "lote": "c03-potencias",
+   "evidencias": [
+    "https://www.glnf.fr/"
    ]
   },
   {
@@ -3891,6 +4000,44 @@
    "url": "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21461/x.pdf",
    "evidencias": [
     "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21461/x.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "site",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "ritos"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "sc-njn-2026-site",
+   "autores": [
+    "Supreme Council, 33°, Northern Masonic Jurisdiction, U.S.A."
+   ],
+   "titulo": "Scottish Rite, NMJ — official site",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "sc_njn"
+   ],
+   "ritos": [
+    "reaa"
+   ],
+   "paises": [
+    "us"
+   ],
+   "url": "https://scottishritenmj.org/",
+   "status_verificacao": "pista",
+   "resumo": "Site oficial do Supremo Conselho da Jurisdição Maçônica Norte dos EUA (1813/1867). Não copiado.",
+   "observacoes": "HTTP 403 em 2026-11-03; ver PENDENCIAS C03.",
+   "lote": "c03-potencias",
+   "evidencias": [
+    "https://scottishritenmj.org/"
    ]
   },
   {
