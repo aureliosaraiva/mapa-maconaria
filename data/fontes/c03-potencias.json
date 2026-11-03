@@ -44,6 +44,46 @@
   },
   {
    "categoria": "oficial_potencia",
+   "tipo": "periodico",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "cimal-2020-revista-diciembre",
+   "autores": [
+    "Confederación Masónica Interamericana"
+   ],
+   "titulo": "Revista CMI, n.º 1, año 1 (diciembre 2020)",
+   "ano": 2020,
+   "idioma": "es",
+   "potencias": [
+    "cimal",
+    "goi"
+   ],
+   "paises": [
+    "al",
+    "mundo"
+   ],
+   "resumo": "Primeiro número da revista oficial da Confederação Maçônica Interamericana (26 p.): mensagens da direção, notícias das grandes lojas membros, histórico da confederação desde 1947 e atividades regionais.",
+   "observacoes": "PDF hospedado no site do GOI.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "pdf/cimal-2020-revista-diciembre.pdf",
+    "txt/cimal-2020-revista-diciembre.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.grandeoriente.it/wp-content/uploads/2021/01/RevistaCMI-Diciembre2020-1.pdf",
+   "evidencias": [
+    "https://www.grandeoriente.it/wp-content/uploads/2021/01/RevistaCMI-Diciembre2020-1.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
    "tipo": "documento",
    "confiabilidade": "C",
    "acesso": "oficial_publico",
@@ -1919,6 +1959,167 @@
    ]
   },
   {
+   "categoria": "primaria_historica",
+   "tipo": "documento",
+   "confiabilidade": "C",
+   "acesso": "aberto",
+   "temas": [
+    "potencias",
+    "regularidade",
+    "documentos_fundadores"
+   ],
+   "periodos": [
+    "p1946_1989"
+   ],
+   "licenca": "texto institucional de 1961; transcrição em portal público",
+   "id": "fmnetwork-1961-strasbourg-appeal",
+   "autores": [
+    "Potências maçônicas signatárias (Estrasburgo, 1961)"
+   ],
+   "titulo": "The Strasburg Appeal (Appel de Strasbourg), 22 January 1961 — English transcription",
+   "ano": 1961,
+   "idioma": "en",
+   "potencias": [
+    "clipsas",
+    "godf",
+    "goaustria",
+    "gobe"
+   ],
+   "paises": [
+    "fr",
+    "mundo"
+   ],
+   "resumo": "Transcrição inglesa do Apelo de Estrasburgo, assinado em 22/1/1961 pelas potências reunidas na cidade: proclama a urgência de restaurar a 'cadeia de união' rompida por exclusões incompatíveis com as Constituições de Anderson e a liberdade de consciência; documento fundador do CLIPSAS.",
+   "observacoes": "Transcrição em freemasonry.network (portal de divulgação da maçonaria liberal); procurar o original francês em fonte oficial (CLIPSAS/GOdF).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/fmnetwork-1961-strasbourg-appeal.html",
+    "txt/fmnetwork-1961-strasbourg-appeal.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://freemasonry.network/liberals/international-organizations-liberal-freemasonry/clipsas/the-strasburg-appeal/",
+   "evidencias": [
+    "https://freemasonry.network/liberals/international-organizations-liberal-freemasonry/clipsas/the-strasburg-appeal/"
+   ]
+  },
+  {
+   "categoria": "divulgacao",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "aberto",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (portal público)",
+   "id": "fmnetwork-2026-clipsas",
+   "autores": [
+    "freemasonry.network"
+   ],
+   "titulo": "C.L.I.P.S.A.S.",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "clipsas"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "resumo": "Página de portal sobre a maçonaria liberal que apresenta o CLIPSAS (criado em 22/1/1961 por iniciativa do GOdF e de outras 11 obediências), seus documentos (Apelo de Estrasburgo) e obediências membros.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/fmnetwork-2026-clipsas.html",
+    "txt/fmnetwork-2026-clipsas.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://freemasonry.network/liberals/international-organizations-liberal-freemasonry/clipsas/",
+   "evidencias": [
+    "https://freemasonry.network/liberals/international-organizations-liberal-freemasonry/clipsas/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "gla-2026-logias",
+   "autores": [
+    "Gran Logia de la Argentina de Libres y Aceptados Masones"
+   ],
+   "titulo": "Logias de la Obediencia",
+   "ano": 2026,
+   "idioma": "es",
+   "potencias": [
+    "gl_argentina"
+   ],
+   "paises": [
+    "ar"
+   ],
+   "resumo": "Lista oficial das lojas da Gran Logia de la Argentina, com número, dias de trabalho e endereço, organizadas por localidade; base para contagem de lojas (data de coleta 2026-11-03).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/gla-2026-logias.html",
+    "txt/gla-2026-logias.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.masoneria-argentina.org.ar/sobre-la-gla/logias-de-la-obediencia/",
+   "evidencias": [
+    "https://www.masoneria-argentina.org.ar/sobre-la-gla/logias-de-la-obediencia/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "historiografia",
+    "politica"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "gla-2026-origenes",
+   "autores": [
+    "Gran Logia de la Argentina de Libres y Aceptados Masones"
+   ],
+   "titulo": "Orígenes en el país de la Gran Logia de Argentina",
+   "ano": 2026,
+   "idioma": "es",
+   "potencias": [
+    "gl_argentina"
+   ],
+   "paises": [
+    "ar"
+   ],
+   "resumo": "Histórico oficial das origens da maçonaria argentina: a discutida Logia Independencia (c. 1795, autorizada pela Grande Loja Geral Escocesa da França), a homônima de 1810 dirigida por Julián B. Álvarez, o debate historiográfico Canter × Lappas sobre sua existência e o caminho até a Gran Logia (1857).",
+   "observacoes": "Registra divergência historiográfica explícita (Canter nega, Lappas afirma a loja de c. 1795).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/gla-2026-origenes.html",
+    "txt/gla-2026-origenes.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.masoneria-argentina.org.ar/que-es-la-masoneria/origenes-en-el-pais/",
+   "evidencias": [
+    "https://www.masoneria-argentina.org.ar/que-es-la-masoneria/origenes-en-el-pais/"
+   ]
+  },
+  {
    "categoria": "oficial_potencia",
    "tipo": "pagina",
    "confiabilidade": "C",
@@ -2000,6 +2201,47 @@
    "url": "https://www.gldf.org/franc-maconnerie/trois-siecles-dhistoire/",
    "evidencias": [
     "https://www.gldf.org/franc-maconnerie/trois-siecles-dhistoire/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "documento",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "documentos_fundadores",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "gle-2026-constituciones",
+   "autores": [
+    "Gran Logia de España"
+   ],
+   "titulo": "Constitución y Reglamentos Generales de la Gran Logia de España",
+   "ano": 2025,
+   "idioma": "es",
+   "potencias": [
+    "gle"
+   ],
+   "paises": [
+    "es"
+   ],
+   "resumo": "Texto integral (página oficial) da Constituição e dos Regulamentos Gerais da GLE: registro legal como associação em 16/10/1980 (Ministério do Interior, n.º 37.256), reformas de 1999, 2024 e 2025; define soberania, princípios de regularidade, órgãos (Gran Asamblea, Gran Maestro) e grandes lojas provinciais.",
+   "observacoes": "Versão consolidada até a Gran Asamblea Extraordinária de 25/1/2025 (Toledo).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/gle-2026-constituciones.html",
+    "txt/gle-2026-constituciones.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.gle.org/masoneria/constituciones-gle/",
+   "evidencias": [
+    "https://www.gle.org/masoneria/constituciones-gle/"
    ]
   },
   {
@@ -2124,6 +2366,47 @@
    "url": "https://glff.org/histoire-de-la-franc-maconnerie/",
    "evidencias": [
     "https://glff.org/histoire-de-la-franc-maconnerie/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "politica"
+   ],
+   "periodos": [
+    "p1946_1989"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "gli-2026-birth",
+   "autores": [
+    "Grand Lodge of India"
+   ],
+   "titulo": "The Birth of the Grand Lodge of India",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "gl_india",
+    "ugle",
+    "gl_escocia",
+    "gl_irlanda"
+   ],
+   "paises": [
+    "in"
+   ],
+   "resumo": "Relato oficial da criação da Grande Loja da Índia: reunião dos grão-mestres de Inglaterra, Irlanda e Escócia em Londres (out. 1959), comitê diretor de irmãos indianos presidido por Sir Harold Williams e constituição em 24/11/1961 no Ashoka Hotel, Nova Délhi, com delegações das três grandes lojas.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/gli-2026-birth.html",
+    "txt/gli-2026-birth.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://grandlodgeofindia.in/gli_fm_indiahistory.php",
+   "evidencias": [
+    "https://grandlodgeofindia.in/gli_fm_indiahistory.php"
    ]
   },
   {
@@ -2285,8 +2568,8 @@
    "paises": [
     "jp"
    ],
-   "resumo": "Histórico oficial da maçonaria no Japão: primeira loja em Yokohama (Sphinx, Irlanda, 1862), lojas inglesas e escocesa no assentamento estrangeiro, destruição no terremoto de 1923, suspensão e confisco na guerra, retomada em 1946 sob a Grande Loja das Filipinas, primeira iniciação de japoneses em 1950 e formação da Grande Loja do Japão (1957).",
-   "observacoes": "Códigos 'gl_japao' e 'gl_filipinas' propostos; ano 1957 da GL do Japão a conferir no texto.",
+   "resumo": "Histórico oficial da maçonaria no Japão: primeira loja em Yokohama (Sphinx, Irlanda, 1862), lojas inglesas e escocesa no assentamento estrangeiro, destruição no terremoto de 1923, suspensão e confisco na guerra, retomada em 1946 sob a Grande Loja das Filipinas, primeira iniciação de japoneses em 1950 e formação da Grande Loja do Japão (1/5/1957).",
+   "observacoes": "Códigos 'gl_japao' e 'gl_filipinas' propostos.",
    "lote": "c03-potencias",
    "acervo": [
     "html/gljapan-2026-history.html",
@@ -2331,7 +2614,7 @@
     "pt",
     "gb"
    ],
-   "resumo": "Histórico oficial da Grande Loja Legal de Portugal: da fundação da Grande Loja de Londres (1717) e das Constituições de Anderson (1723) à primeira loja em Lisboa, fundada por comerciantes britânicos c. 1727 e regularizada em 1735 junto a Londres (n.º 135), até a criação da GLLP/GLRP em 1991 como potência reconhecida pela UGLE.",
+   "resumo": "Histórico oficial da Grande Loja Legal de Portugal: da fundação da Grande Loja de Londres (1717) e das Constituições de Anderson (1723) à primeira loja em Lisboa, fundada por comerciantes britânicos c. 1727 e regularizada em 1735 junto a Londres (n.º 135), até a criação da GLLP/GLRP em 29/6/1991 como potência reconhecida pela UGLE.",
    "observacoes": "A página data a reunião de 1717 em 24 de julho (provável lapso por 24 de junho); registrar como divergência de fonte institucional.",
    "lote": "c03-potencias",
    "acervo": [
@@ -2496,7 +2779,7 @@
    "paises": [
     "ca"
    ],
-   "resumo": "Linha do tempo oficial da maçonaria em Ontário: primeiro maçom registrado no Canadá (Lord Alexander, 1634), primeira loja em Annapolis (1738), lojas militares, Grande Loja Provincial do Alto Canadá (1795), 'Schismatic Grand Lodge' de Niagara (1802) e a Grande Loja do Canadá (1855).",
+   "resumo": "Linha do tempo oficial da maçonaria em Ontário: primeiro maçom registrado no Canadá (Lord Alexander, 1634), primeira loja em Annapolis (1738), lojas militares, Grande Loja Provincial do Alto Canadá (1795), 'Schismatic Grand Lodge' de Niagara (1802) e a Grande Loja do Canadá (outubro de 1855).",
    "observacoes": "'gl_canada_on' é código proposto.",
    "lote": "c03-potencias",
    "acervo": [
@@ -2555,6 +2838,91 @@
    "acesso": "oficial_publico",
    "temas": [
     "potencias",
+    "politica"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870",
+    "p1871_1918"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "glperu-2026-historia",
+   "autores": [
+    "Gran Logia de los Antiguos Libres y Aceptados Masones de la República del Perú"
+   ],
+   "titulo": "Historia de la Masonería (en el Perú)",
+   "ano": 2026,
+   "idioma": "es",
+   "potencias": [
+    "gl_peru"
+   ],
+   "ritos": [
+    "reaa"
+   ],
+   "paises": [
+    "pe"
+   ],
+   "resumo": "Histórico oficial da maçonaria peruana: lojas da época da independência, fundação do Supremo Conselho do Peru em 2/11/1830 e da primeira Gran Logia del Perú em 23/6/1831, mudanças de nome e reorganizações até a grande loja atual.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/glperu-2026-historia.html",
+    "txt/glperu-2026-historia.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://glperu.org.pe/historia/",
+   "evidencias": [
+    "https://glperu.org.pe/historia/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "politica"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1946_1989"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "glsa-2026-history",
+   "autores": [
+    "Grand Lodge of South Africa"
+   ],
+   "titulo": "History (About us)",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "gl_africa_sul",
+    "gon"
+   ],
+   "paises": [
+    "za",
+    "nl"
+   ],
+   "resumo": "Histórico oficial da Grande Loja da África do Sul: a loja De Goede Hoop, fundada no Cabo em 1772 sob o Grande Oriente dos Países Baixos (n.º 12), seu recesso por tensões de hierarquia colonial e religião, a reativação em 1794 e seu papel como loja n.º 1 da Grand Lodge of Southern Africa, formada em 22/4/1961 a partir das lojas de constituição holandesa.",
+   "observacoes": "Códigos 'gl_africa_sul' e 'gon' (Grande Oriente dos Países Baixos) propostos.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/glsa-2026-history.html",
+    "txt/glsa-2026-history.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://grandlodge.org.za/web/about-us.asp",
+   "evidencias": [
+    "https://grandlodge.org.za/web/about-us.asp"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
     "origens",
     "personalidades"
    ],
@@ -2590,6 +2958,128 @@
    "url": "https://www.grandlodgescotland.com/our-history-2/",
    "evidencias": [
     "https://www.grandlodgescotland.com/our-history-2/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "glva-2026-about",
+   "autores": [
+    "Grand Lodge of Ancient, Free and Accepted Masons of Virginia"
+   ],
+   "titulo": "About the Grand Lodge of Virginia",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "gl_estaduais_eua"
+   ],
+   "paises": [
+    "us"
+   ],
+   "resumo": "Página institucional da Grande Loja da Virgínia: fundada em 1778 por nove lojas; declara mais de 300 lojas e mais de 33 mil membros (2025) e cita estimativa de 4,7 milhões de maçons no mundo (número institucional sem fonte).",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/glva-2026-about.html",
+    "txt/glva-2026-about.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://grandlodgeofvirginia.org/aboutglova/",
+   "evidencias": [
+    "https://grandlodgeofvirginia.org/aboutglova/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade",
+    "principios"
+   ],
+   "periodos": [
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "goaustria-2026-clipsas",
+   "autores": [
+    "Großorient von Österreich"
+   ],
+   "titulo": "CLIPSAS (Worldwide)",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "goaustria",
+    "clipsas"
+   ],
+   "paises": [
+    "at",
+    "mundo"
+   ],
+   "resumo": "Página de um membro fundador sobre o CLIPSAS, criado em Estrasburgo em 22/1/1961 para defender a soberania das lojas e obediências em crenças, ritos e símbolos; resume o Apelo de Estrasburgo (restabelecer a 'cadeia de união' segundo as Constituições de 1723) e informa que o CLIPSAS é membro do ECOSOC da ONU desde 2011, com o GO da Áustria como escritório de ligação em Viena desde 2012.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/goaustria-2026-clipsas.html",
+    "txt/goaustria-2026-clipsas.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.freimaurer.at/en/worldwide/",
+   "evidencias": [
+    "https://www.freimaurer.at/en/worldwide/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "goaustria-2026-geschichte",
+   "autores": [
+    "Großorient von Österreich"
+   ],
+   "titulo": "Geschichte (Großorient von Österreich)",
+   "ano": 2026,
+   "idioma": "de",
+   "potencias": [
+    "goaustria",
+    "clipsas",
+    "ugle"
+   ],
+   "paises": [
+    "at"
+   ],
+   "resumo": "Histórico oficial do Grande Oriente da Áustria: exigências da UGLE à Grande Loja de Viena no início dos anos 1950 (rompimento com irmãos 'irregulares') como condição de reconhecimento, fundação da Unabhängige Freimaurer Loge Wien em 24/9/1955, criação do Grande Oriente em fevereiro de 1961 e sua participação, entre as 11 obediências signatárias, no Apelo de Estrasburgo e na criação do CLIPSAS.",
+   "observacoes": "'goaustria' é código proposto.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/goaustria-2026-geschichte.html",
+    "txt/goaustria-2026-geschichte.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://www.freimaurer.at/geschichte/",
+   "evidencias": [
+    "https://www.freimaurer.at/geschichte/"
    ]
   },
   {
@@ -3038,6 +3528,47 @@
    "confiabilidade": "C",
    "acesso": "oficial_publico",
    "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "periodos": [
+    "p1919_1945",
+    "p1946_1989"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "gomg-2026-nossa-historia",
+   "autores": [
+    "Grande Oriente de Minas Gerais"
+   ],
+   "titulo": "Nossa História (GOMG)",
+   "ano": 2026,
+   "idioma": "pt",
+   "potencias": [
+    "go_mg",
+    "gob",
+    "comab"
+   ],
+   "paises": [
+    "br"
+   ],
+   "resumo": "Histórico oficial do Grande Oriente de Minas Gerais: fundação em 12/9/1944 em Belo Horizonte por seis lojas, tratado de amizade com o GOB (30/8/1957, decreto GOB 1.789), convênio de incorporação de 1960 (decreto 1.877), sede própria inaugurada em 21/4/1970 (hoje do GOB) e trajetória até a liderança da cisão de 1973 e da COMAB.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/gomg-2026-nossa-historia.html",
+    "txt/gomg-2026-nossa-historia.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://gomg.org.br/nossa-historia/",
+   "evidencias": [
+    "https://gomg.org.br/nossa-historia/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
     "potencias"
    ],
    "periodos": [
@@ -3197,6 +3728,128 @@
    "url": "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21464/x.pdf",
    "evidencias": [
     "https://cmsb.org.br/download/4227/xviii-wcrmgl-jerusalem/21464/x.pdf"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "personalidades",
+    "politica"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "phglma-2026-african-lodge-459",
+   "autores": [
+    "Prince Hall Grand Lodge of Massachusetts"
+   ],
+   "titulo": "African Lodge #459",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "prince_hall",
+    "moderns",
+    "gl_irlanda"
+   ],
+   "paises": [
+    "us",
+    "gb"
+   ],
+   "resumo": "Histórico oficial da African Lodge: iniciação de Prince Hall e 14 homens negros em 6/3/1775 na loja militar irlandesa n.º 441 (38.º Regimento), organização da African Lodge em 3/7/1776, petição à Grande Loja da Inglaterra em 2/3/1784 e carta de 29/9/1784 como African Lodge n.º 459.",
+   "observacoes": "Outras fontes dão 20/9/1784 para a carta; registrar divergência.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/phglma-2026-african-lodge-459.html",
+    "txt/phglma-2026-african-lodge-459.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://princehall.org/african-lodge-459/",
+   "evidencias": [
+    "https://princehall.org/african-lodge-459/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "personalidades"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870",
+    "p1990_hoje"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "phglma-2026-prince-hall-freemasonry",
+   "autores": [
+    "Prince Hall Grand Lodge of Massachusetts"
+   ],
+   "titulo": "Prince Hall Freemasonry",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "prince_hall"
+   ],
+   "paises": [
+    "us"
+   ],
+   "resumo": "Visão institucional da maçonaria Prince Hall, retomando a cronologia da African Lodge (1775–1784) e a formação da grande loja que leva o nome do fundador; útil para o verbete sobre maçonaria afro-americana e reconhecimento.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/phglma-2026-prince-hall-freemasonry.html",
+    "txt/phglma-2026-prince-hall-freemasonry.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://princehall.org/prince-hall-freemasonry/",
+   "evidencias": [
+    "https://princehall.org/prince-hall-freemasonry/"
+   ]
+  },
+  {
+   "categoria": "oficial_potencia",
+   "tipo": "pagina",
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "temas": [
+    "potencias",
+    "personalidades"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870"
+   ],
+   "licenca": "todos os direitos reservados (página oficial pública)",
+   "id": "phglny-2026-history",
+   "autores": [
+    "Most Worshipful Prince Hall Grand Lodge of New York"
+   ],
+   "titulo": "Our History",
+   "ano": 2026,
+   "idioma": "en",
+   "potencias": [
+    "prince_hall"
+   ],
+   "paises": [
+    "us"
+   ],
+   "resumo": "Histórico oficial da Prince Hall Grand Lodge de Nova York: lojas militares em Boston em 1775, carta-fac-símile concedida pela African Lodge de Boston em 16/2/1812 para a African Lodge de Nova York (depois Boyer Lodge n.º 1), lojas Rising Sun e Hiram (1826) e a United Grand Lodge do Estado de Nova York, organizada em março de 1848.",
+   "lote": "c03-potencias",
+   "acervo": [
+    "html/phglny-2026-history.html",
+    "txt/phglny-2026-history.txt"
+   ],
+   "status_verificacao": "copiado",
+   "url": "https://princehallny.org/about/history.html",
+   "evidencias": [
+    "https://princehallny.org/about/history.html"
    ]
   },
   {
