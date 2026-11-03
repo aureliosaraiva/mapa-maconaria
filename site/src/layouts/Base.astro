@@ -1,0 +1,90 @@
+---
+import '@fontsource-variable/literata/wght.css';
+import '@fontsource-variable/inter/wght.css';
+import '../styles/global.css';
+import { url } from '../lib/dados.js';
+
+interface Props { titulo: string; descricao?: string; indexar?: boolean; leitura?: boolean }
+const { titulo, descricao = 'Enciclopédia da maçonaria com fontes citadas por afirmação e divergências entre potências, ritos, países e épocas lado a lado.', indexar = false, leitura = false } = Astro.props;
+const atual = Astro.url.pathname.replace(/\/$/, '');
+const menu: [string, string][] = [
+  ['verbetes', 'Verbetes'],
+  ['linha-do-tempo', 'Linha do tempo'],
+  ['grafo', 'Grafo'],
+  ['fontes', 'Fontes'],
+  ['metodologia', 'Metodologia'],
+];
+const ativo = (p: string) => { const a = url(p).replace(/\/$/, ''); return atual === a || atual.startsWith(a + '/'); };
+---
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={descricao} />
+    <meta name="robots" content="noindex" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" type="image/svg+xml" href={url('favicon.svg')} />
+    <title>{titulo} · Enciclopédia da Maçonaria</title>
+    <script is:inline>
+      (function () {
+        var d = document.documentElement; d.classList.add('js');
+        try { var t = localStorage.getItem('tema'); if (t === 'claro' || t === 'escuro') d.dataset.tema = t; } catch (e) {}
+      })();
+    </script>
+    <slot name="head" />
+  </head>
+  <body>
+    <a class="pular" href="#conteudo">Pular para o conteúdo</a>
+    <header class="cabecalho">
+      <div class="barra">
+        <a class="marca" href={url('')}>
+          <svg class="marca-simbolo" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><path d="M16 4 L27 26 M16 4 L5 26" stroke="currentColor" stroke-width="2.2" fill="none" stroke-linecap="round"/><path d="M6 16 L16 27 L26 16" stroke="currentColor" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity=".6"/></svg>
+          <span>Enciclopédia da Maçonaria</span>
+        </a>
+        <nav aria-label="Principal" class="menu">
+          <ul>
+            {menu.map(([p, r]) => <li><a href={url(p)} aria-current={ativo(p) ? 'page' : undefined}>{r}</a></li>)}
+          </ul>
+        </nav>
+        <div class="acoes">
+          <a class="botao-icone" href={url('buscar')} aria-label="Buscar no site">
+            <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M16.5 16.5 L21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+          </a>
+          <button type="button" class="botao-icone so-js-inline" id="alternar-tema" aria-label="Alternar tema claro ou escuro" aria-pressed="false">
+            <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+          </button>
+        </div>
+      </div>
+    </header>
+    <main id="conteudo" tabindex="-1" class:list={['principal', { 'principal-leitura': leitura }]} data-pagefind-body={indexar ? '' : undefined}>
+      <slot />
+    </main>
+    <footer class="rodape">
+      <div class="rodape-interno">
+        <p><strong>Enciclopédia da Maçonaria</strong> — reunião organizada do que já foi publicado sobre maçonaria, em qualquer idioma, com a fonte de cada afirmação. Nem apologia nem denúncia: as versões divergentes ficam lado a lado.</p>
+        <p>Rituais são descritos no nível da literatura publicada (estrutura, temas, lendas e simbolismo), sem reproduzir palavras, sinais, toques ou juramentos. Os direitos sobre as obras consultadas pertencem aos seus autores; nenhum texto integral protegido é reproduzido. Textos próprios e código sob <a href="https://github.com/aureliosaraiva/mapa-maconaria/blob/main/LICENSE">licença MIT</a>.</p>
+        <nav aria-label="Rodapé"><ul>
+          <li><a href={url('metodologia')}>Metodologia</a></li>
+          <li><a href={url('fontes')}>Catálogo de fontes</a></li>
+          <li><a href={url('buscar')}>Buscar</a></li>
+          <li><a href="https://github.com/aureliosaraiva/mapa-maconaria">Código e dados</a></li>
+        </ul></nav>
+      </div>
+    </footer>
+    <script>
+      const raiz = document.documentElement;
+      const botao = document.getElementById('alternar-tema');
+      const escuro = () => raiz.dataset.tema ? raiz.dataset.tema === 'escuro' : matchMedia('(prefers-color-scheme: dark)').matches;
+      const sinc = () => botao?.setAttribute('aria-pressed', String(escuro()));
+      sinc();
+      botao?.addEventListener('click', () => {
+        const novo = escuro() ? 'claro' : 'escuro';
+        raiz.dataset.tema = novo;
+        try { localStorage.setItem('tema', novo); } catch { /* sem armazenamento */ }
+        sinc();
+        window.dispatchEvent(new CustomEvent('tema-mudou'));
+      });
+    </script>
+  </body>
+</html>

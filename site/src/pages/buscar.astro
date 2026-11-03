@@ -1,0 +1,26 @@
+---
+import Base from '../layouts/Base.astro';
+import { url } from '../lib/dados.js';
+---
+<Base titulo="Buscar" descricao="Busca em verbetes, fontes e linha do tempo.">
+  <header class="cabeca-pagina">
+    <h1>Buscar</h1>
+    <p class="chamada">Procure um verbete, um autor, uma obra ou uma data.</p>
+  </header>
+  <div id="busca" class="so-js"></div>
+  <noscript><p class="nota-caixa">A busca precisa de JavaScript. Sem ele, navegue pelos <a href={url('verbetes')}>verbetes</a> ou pelo <a href={url('fontes')}>catálogo de fontes</a>.</p></noscript>
+  <Fragment slot="head"><link rel="stylesheet" href={url('pagefind/pagefind-ui.css')} /></Fragment>
+  <script is:inline define:vars={{ base: url('') }}>
+    const s = document.createElement('script');
+    s.src = base + 'pagefind/pagefind-ui.js';
+    s.onload = () => {
+      // eslint-disable-next-line no-undef
+      new PagefindUI({ element: '#busca', showSubResults: true, showImages: false, autofocus: true,
+        translations: { placeholder: 'Ex.: Anderson, Rito Escocês, Questão Religiosa', zero_results: 'Nada encontrado para [SEARCH_TERM]', clear_search: 'Limpar', load_more: 'Mais resultados', search_label: 'Buscar no site', filters_label: 'Filtros' } });
+      const q = new URLSearchParams(location.search).get('q');
+      if (q) setTimeout(() => { const c = document.querySelector('#busca input'); if (c) { c.value = q; c.dispatchEvent(new Event('input')); } }, 80);
+    };
+    s.onerror = () => { document.getElementById('busca').textContent = 'A busca fica disponível no site publicado (depois do build com Pagefind).'; };
+    document.head.appendChild(s);
+  </script>
+</Base>

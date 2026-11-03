@@ -1,0 +1,18 @@
+---
+// Etiquetas de rito, potência, país, período e tema (CLAUDE.md regra 4).
+import { TEMAS, RITOS, POTENCIAS, PAISES, PERIODOS, rot } from '../lib/rotulos.js';
+interface Props { item: any; temas?: boolean }
+const { item, temas = true } = Astro.props;
+const grupos: [string, any, string[]][] = [
+  ['País', PAISES, item.paises || []],
+  ['Período', PERIODOS, item.periodos || []],
+  ['Rito', RITOS, item.ritos || []],
+  ['Potência', POTENCIAS, item.potencias || []],
+  ...(temas ? [['Tema', TEMAS, item.temas || []] as [string, any, string[]]] : []),
+];
+---
+{grupos.some(([, , v]) => v.length > 0) && (
+  <ul class="etiquetas">
+    {grupos.flatMap(([g, mapa, vals]) => vals.map((c) => <li class="etiqueta" title={g}><span class="visualmente-oculto">{g}: </span>{rot(mapa, c)}</li>))}
+  </ul>
+)}

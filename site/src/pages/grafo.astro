@@ -1,0 +1,74 @@
+---
+import Base from '../layouts/Base.astro';
+import cytoscapeBuild from 'cytoscape';
+import { url, verbetes, verbetePorId, fontePorId, citacaoCurta } from '../lib/dados.js';
+import { CATEGORIAS, rot } from '../lib/rotulos.js';
+import { elementosGrafo, corCategoria } from '../lib/grafo.js';
+
+const { nos, arestas, lista } = elementosGrafo();
+const elementos: any[] = [...nos, ...arestas];
+// Posições calculadas no build (layout 'cose' sem tela): o navegador só desenha ('preset').
+if (nos.length) {
+  const cy = cytoscapeBuild({ headless: true, elements: elementos, styleEnabled: true, style: [{ selector: 'node', style: { width: 'data(tam)', height: 'data(tam)' } }] });
+  cy.layout({ name: 'cose', animate: false, randomize: true, nodeRepulsion: () => 9000, idealEdgeLength: () => 90, padding: 20 } as any).run();
+  const pos = Object.fromEntries(cy.nodes().map((n) => [n.id(), n.position()]));
+  for (const el of elementos) if (!('source' in el.data)) el.position = { x: Math.round(pos[el.data.id].x), y: Math.round(pos[el.data.id].y) };
+}
+const cats = [...new Set(verbetes.map((v) => v.categoria))];
+---
+<Base titulo="Grafo" descricao="Mapa das relações entre verbetes da enciclopédia.">
+  <header class="cabeca-pagina">
+    <p class="sobretitulo">Conexões</p>
+    <h1>Grafo de relações</h1>
+    <p class="chamada">Cada ponto é um verbete; cada linha, uma relação registrada (verbetes relacionados e conexões com fonte própria, como filiação, cisão ou reconhecimento).</p>
+  </header>
+  {nos.length === 0 ? <p class="vazio">O grafo aparece quando houver verbetes publicados.</p> : (<>
+    <form class="filtros so-js" id="filtros-grafo" onsubmit="return false" aria-label="Filtrar o grafo">
+      <div><label for="g-cat">Categoria</label><select id="g-cat"><option value="">Todas</option>{cats.map((c) => <option value={c}>{rot(CATEGORIAS, c)}</option>)}</select></div>
+      <div><label for="g-ir">Ir para o verbete</label><select id="g-ir"><option value="">Escolha…</option>{verbetes.map((v) => <option value={url(`verbetes/${v.id}`)}>{v.titulo}</option>)}</select></div>
+    </form>
+    <div class="grafo-caixa so-js"><div id="grafo" role="img" aria-label="Grafo das relações entre verbetes. A lista abaixo descreve as mesmas relações."></div></div>
+    <noscript><p class="nota-caixa">O desenho precisa de JavaScript. Todas as relações estão na lista abaixo.</p></noscript>
+    <h2>Legenda</h2>
+    <ul class="legenda">{cats.map((c) => <li><span class="amostra" style={`background:${corCategoria(c)}`}></span>{rot(CATEGORIAS, c)}</li>)}</ul>
+    <h2 id="lista-relacoes">As relações em lista</h2>
+    {lista.length === 0 ? <p class="contagem">Ainda não há relações registradas entre os verbetes.</p> : (
+      <div class="tabela-rolagem"><table class="tabela">
+        <thead><tr><th scope="col">De</th><th scope="col">Relação</th><th scope="col">Para</th><th scope="col">Fonte</th></tr></thead>
+        <tbody>{lista.map((a) => (
+          <tr>
+            <td><a href={url(`verbetes/${a.origem}`)}>{verbetePorId[a.origem].titulo}</a></td>
+            <td>{a.rel}</td>
+            <td><a href={url(`verbetes/${a.destino}`)}>{verbetePorId[a.destino].titulo}</a></td>
+            <td>{a.fontes?.length ? a.fontes.map((s, i) => <>{i > 0 && '; '}{fontePorId[s] ? <a href={url(`fontes/${s}`)}>{citacaoCurta(fontePorId[s])}</a> : s}</>) : <span class="contagem">ver os verbetes</span>}</td>
+          </tr>
+        ))}</tbody>
+      </table></div>
+    )}
+    <script type="application/json" id="dados-grafo" set:html={JSON.stringify(elementos)}></script>
+  </>)}
+  <script>
+    import cytoscape from 'cytoscape';
+    const dados = document.getElementById('dados-grafo');
+    if (dados) {
+      const css = () => { const s = getComputedStyle(document.documentElement); return { texto: s.getPropertyValue('--grafo-texto').trim() || '#1c1f26', fundo: s.getPropertyValue('--grafo-fundo').trim() || '#fff' }; };
+      const estilo = (): any[] => { const c = css(); return [
+        { selector: 'node', style: { 'background-color': 'data(cor)', label: 'data(label)', width: 'data(tam)', height: 'data(tam)', 'font-size': 11, color: c.texto,
+          'font-family': 'Inter Variable, system-ui, sans-serif', 'text-valign': 'bottom', 'text-margin-y': 4, 'text-wrap': 'wrap', 'text-max-width': '120px',
+          'text-background-color': c.fundo, 'text-background-opacity': 0.85, 'text-background-padding': '2px' } },
+        { selector: 'edge', style: { width: 1.6, 'line-color': '#9aa0aa', 'curve-style': 'bezier', 'target-arrow-shape': 'data(seta)', 'target-arrow-color': '#9aa0aa', opacity: 0.8 } },
+        { selector: 'edge[tipo = "conexao"]', style: { 'line-color': '#b08a3a', 'target-arrow-color': '#b08a3a', width: 2.2 } },
+        { selector: '.oculto', style: { display: 'none' } },
+      ]; };
+      const cy = cytoscape({ container: document.getElementById('grafo'), elements: JSON.parse(dados.textContent!), style: estilo(), layout: { name: 'preset', padding: 20 } as any, minZoom: 0.2, maxZoom: 3, wheelSensitivity: 0.3 });
+      cy.on('tap', 'node', (ev) => { const h = ev.target.data('href'); if (h) location.href = h; });
+      const cat = document.getElementById('g-cat') as HTMLSelectElement;
+      cat.addEventListener('change', () => cy.batch(() => {
+        cy.nodes().forEach((n) => { n.toggleClass('oculto', !!cat.value && n.data('categoria') !== cat.value && !n.neighborhood('node').some((m) => m.data('categoria') === cat.value)); });
+      }));
+      const ir = document.getElementById('g-ir') as HTMLSelectElement;
+      ir.addEventListener('change', () => { if (ir.value) location.href = ir.value; });
+      window.addEventListener('tema-mudou', () => cy.style(estilo() as any));
+    }
+  </script>
+</Base>

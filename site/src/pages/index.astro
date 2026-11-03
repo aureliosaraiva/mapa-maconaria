@@ -1,0 +1,54 @@
+---
+import Base from '../layouts/Base.astro';
+import { url, verbetes, fontes, eventos, lotes } from '../lib/dados.js';
+import { CATEGORIAS, DESCR_CATEGORIA, IDIOMAS, rot } from '../lib/rotulos.js';
+const porCat = Object.keys(CATEGORIAS).map((c) => [c, verbetes.filter((v) => v.categoria === c).length] as [string, number]);
+const idiomas = [...new Set(fontes.map((f) => f.idioma))];
+const recentes = [...verbetes].sort((a, b) => String(b.atualizado || '').localeCompare(String(a.atualizado || ''))).slice(0, 6);
+---
+<Base titulo="Início" indexar>
+  <header class="cabeca-pagina">
+    <p class="sobretitulo">Enciclopédia com fontes</p>
+    <h1>Maçonaria: ritos, graus, potências, documentos e história</h1>
+    <p class="chamada">Uma reunião organizada do que já foi publicado sobre a maçonaria, em qualquer idioma. Cada afirmação aponta para a obra de onde veio, e as versões que divergem — entre potências, ritos, países e épocas — ficam lado a lado, sem eleger uma “correta”.</p>
+    <form action={url('buscar')} method="get" role="search" class="busca-inicio">
+      <label for="q" class="visualmente-oculto">Buscar</label>
+      <input id="q" name="q" type="search" placeholder="Ex.: Anderson, REAA, Grande Oriente do Brasil, Questão Religiosa" />
+      <button type="submit">Buscar</button>
+    </form>
+  </header>
+  <ul class="numeros">
+    <li><strong>{verbetes.length}</strong> verbetes</li>
+    <li><strong>{fontes.length}</strong> fontes catalogadas</li>
+    <li><strong>{idiomas.length}</strong> idiomas nas fontes</li>
+    <li><strong>{eventos.length}</strong> datas na linha do tempo</li>
+  </ul>
+  {verbetes.length === 0 && (
+    <p class="vazio">Os verbetes estão em preparação: nesta fase o projeto está reunindo e conferindo as fontes. Enquanto isso, o <a href={url('fontes')}>catálogo de fontes</a> já pode ser consultado ({fontes.length} obras em {lotes.length} lotes; idiomas: {idiomas.map((i) => rot(IDIOMAS, i)).join(', ')}).</p>
+  )}
+  <h2>Categorias</h2>
+  <ul class="grade">
+    {porCat.map(([c, n]) => (
+      <li class="cartao">
+        <h3>{n > 0 ? <a href={url(`verbetes#cat-${c}`)}>{CATEGORIAS[c]}</a> : CATEGORIAS[c]}</h3>
+        <p>{DESCR_CATEGORIA[c]}</p>
+        <span class="meta">{n === 0 ? 'Em preparação' : n === 1 ? '1 verbete' : `${n} verbetes`}</span>
+      </li>
+    ))}
+  </ul>
+  {recentes.length > 0 && (<>
+    <h2>Verbetes recentes</h2>
+    <ul class="grade">
+      {recentes.map((v) => (
+        <li class="cartao"><h3><a href={url(`verbetes/${v.id}`)}>{v.titulo}</a></h3><p>{v.resumo}</p></li>
+      ))}
+    </ul>
+  </>)}
+  <h2>Como ler esta enciclopédia</h2>
+  <p>Maçonaria não é uma só: há potências “regulares” e “liberais”, ritos com estruturas de graus diferentes e práticas que mudam de país para país. Por isso cada verbete é etiquetado com o rito, a potência, o país e o período a que se refere. Rituais são descritos no nível do que a literatura publicada já expõe, sem reproduzir palavras, sinais, toques ou juramentos. Veja a <a href={url('metodologia')}>metodologia</a>.</p>
+</Base>
+<style>
+  .busca-inicio { display: flex; gap: .5rem; max-width: 40rem; margin-top: 1.2rem; }
+  .busca-inicio input { flex: 1; font: inherit; padding: .6rem .8rem; border: 1px solid var(--borda-forte); border-radius: 8px; background: var(--superficie); color: var(--texto); }
+  .busca-inicio button { font: inherit; padding: .6rem 1rem; border-radius: 8px; border: 0; background: var(--link); color: var(--fundo); cursor: pointer; }
+</style>

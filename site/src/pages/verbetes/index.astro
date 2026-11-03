@@ -1,0 +1,64 @@
+---
+import Base from '../../layouts/Base.astro';
+import Etiquetas from '../../components/Etiquetas.astro';
+import { url, verbetes } from '../../lib/dados.js';
+import { CATEGORIAS, DESCR_CATEGORIA, PAISES, RITOS, rot } from '../../lib/rotulos.js';
+const cats = Object.keys(CATEGORIAS).filter((c) => verbetes.some((v) => v.categoria === c));
+const extras = [...new Set(verbetes.map((v) => v.categoria))].filter((c) => !CATEGORIAS[c]);
+const todasCats = [...cats, ...extras];
+const paises = [...new Set(verbetes.flatMap((v) => v.paises || []))].sort();
+const ritos = [...new Set(verbetes.flatMap((v) => v.ritos || []))].sort();
+---
+<Base titulo="Verbetes" descricao="Todos os verbetes da enciclopédia, por categoria.">
+  <header class="cabeca-pagina">
+    <p class="sobretitulo">Enciclopédia</p>
+    <h1>Verbetes</h1>
+    <p class="chamada">{verbetes.length === 0 ? 'Ainda não há verbetes publicados.' : `${verbetes.length} verbetes em ${todasCats.length} categorias.`}</p>
+  </header>
+  {verbetes.length === 0 ? (
+    <p class="vazio">Os verbetes serão escritos a partir das fontes já catalogadas. Enquanto isso, consulte o <a href={url('fontes')}>catálogo de fontes</a>.</p>
+  ) : (<>
+    <form class="filtros so-js" id="filtros-verbetes" onsubmit="return false" aria-label="Filtrar verbetes">
+      <div><label for="f-texto">Texto</label><input id="f-texto" type="search" placeholder="título ou resumo" /></div>
+      <div><label for="f-cat">Categoria</label><select id="f-cat"><option value="">Todas</option>{todasCats.map((c) => <option value={c}>{rot(CATEGORIAS, c)}</option>)}</select></div>
+      <div><label for="f-pais">País</label><select id="f-pais"><option value="">Todos</option>{paises.map((p) => <option value={p}>{rot(PAISES, p)}</option>)}</select></div>
+      <div><label for="f-rito">Rito</label><select id="f-rito"><option value="">Todos</option>{ritos.map((r) => <option value={r}>{rot(RITOS, r)}</option>)}</select></div>
+    </form>
+    <p class="contagem so-js" id="v-contagem" aria-live="polite"></p>
+    {todasCats.map((c) => (
+      <section id={`cat-${c}`} class="secao-cat">
+        <h2>{rot(CATEGORIAS, c)}</h2>
+        {DESCR_CATEGORIA[c] && <p class="contagem">{DESCR_CATEGORIA[c]}</p>}
+        <ul class="grade">
+          {verbetes.filter((v) => v.categoria === c).map((v) => (
+            <li class="cartao item-verbete" data-cat={c} data-paises={(v.paises || []).join(' ')} data-ritos={(v.ritos || []).join(' ')}
+                data-texto={`${v.titulo} ${(v.nomes_alternativos || []).join(' ')} ${v.resumo || ''}`.toLowerCase()}>
+              <h3><a href={url(`verbetes/${v.id}`)}>{v.titulo}</a></h3>
+              <p>{v.resumo}</p>
+              <Etiquetas item={v} temas={false} />
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </>)}
+  <script>
+    const form = document.getElementById('filtros-verbetes');
+    if (form) {
+      const $ = (id: string) => document.getElementById(id) as HTMLInputElement;
+      const aplicar = () => {
+        const t = $('f-texto').value.toLowerCase().trim(), c = $('f-cat').value, p = $('f-pais').value, r = $('f-rito').value;
+        let n = 0;
+        document.querySelectorAll<HTMLElement>('.item-verbete').forEach((el) => {
+          const ok = (!t || el.dataset.texto!.includes(t)) && (!c || el.dataset.cat === c)
+            && (!p || el.dataset.paises!.split(' ').includes(p)) && (!r || el.dataset.ritos!.split(' ').includes(r));
+          el.hidden = !ok; if (ok) n++;
+        });
+        document.querySelectorAll<HTMLElement>('.secao-cat').forEach((s) => { s.hidden = !s.querySelector('.item-verbete:not([hidden])'); });
+        $('v-contagem').textContent = `Mostrando ${n} verbete(s).`;
+      };
+      form.addEventListener('input', aplicar);
+      aplicar();
+    }
+  </script>
+</Base>

@@ -1,0 +1,68 @@
+---
+import Base from '../layouts/Base.astro';
+import Etiquetas from '../components/Etiquetas.astro';
+import { url, eventos, verbetePorId, fontePorId, citacaoCurta, formatarData, anoDe } from '../lib/dados.js';
+import { PAISES, TEMAS, rot } from '../lib/rotulos.js';
+const seculo = (a: number) => (a < 0 ? `Antes de Cristo` : `Século ${['', 'I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII','XIII','XIV','XV','XVI','XVII','XVIII','XIX','XX','XXI'][Math.floor((a - 1) / 100) + 1] || Math.floor((a - 1) / 100) + 1}`);
+const grupos: [string, any[]][] = [];
+for (const e of eventos) {
+  const s = seculo(anoDe(e.data));
+  if (!grupos.length || grupos[grupos.length - 1][0] !== s) grupos.push([s, []]);
+  grupos[grupos.length - 1][1].push(e);
+}
+const paises = [...new Set(eventos.flatMap((e) => e.paises || []))].sort();
+const temas = [...new Set(eventos.flatMap((e) => e.temas || []))].sort();
+---
+<Base titulo="Linha do tempo" descricao="Datas marcantes da maçonaria no Brasil e no mundo, com fontes." indexar>
+  <header class="cabeca-pagina">
+    <p class="sobretitulo">Cronologia</p>
+    <h1>Linha do tempo</h1>
+    <p class="chamada">{eventos.length ? `${eventos.length} datas, cada uma com a fonte que a sustenta. Quando as obras discordam, a divergência aparece junto.` : 'Ainda não há datas registradas.'}</p>
+  </header>
+  {eventos.length === 0 ? <p class="vazio">A linha do tempo será montada junto com os verbetes de eventos.</p> : (<>
+    <form class="filtros so-js" id="filtros-linha" onsubmit="return false" aria-label="Filtrar a linha do tempo">
+      <div><label for="l-pais">País</label><select id="l-pais"><option value="">Todos</option>{paises.map((p) => <option value={p}>{rot(PAISES, p)}</option>)}</select></div>
+      <div><label for="l-tema">Tema</label><select id="l-tema"><option value="">Todos</option>{temas.map((t) => <option value={t}>{rot(TEMAS, t)}</option>)}</select></div>
+      <div><label for="l-de">De (ano)</label><input id="l-de" type="number" inputmode="numeric" /></div>
+      <div><label for="l-ate">Até (ano)</label><input id="l-ate" type="number" inputmode="numeric" /></div>
+    </form>
+    <p class="contagem so-js" id="l-contagem" aria-live="polite"></p>
+    {grupos.map(([s, evs]) => (
+      <section class="grupo-linha">
+        <h2 class="decada">{s}</h2>
+        <ol class="linha">
+          {evs.map((e) => (
+            <li id={`ev-${e.id}`} class="ev" data-paises={(e.paises || []).join(' ')} data-temas={(e.temas || []).join(' ')} data-ano={anoDe(e.data)}>
+              <span class="data">{formatarData(e.data, e.aproximada)}{e.data_fim ? ` – ${formatarData(e.data_fim, e.aproximada)}` : ''}</span>
+              <h3>{e.verbete && verbetePorId[e.verbete] ? <a href={url(`verbetes/${e.verbete}`)}>{e.titulo}</a> : e.titulo}</h3>
+              <p>{e.resumo}</p>
+              {e.divergencia && <p class="nota-caixa"><strong>Divergência:</strong> {e.divergencia}</p>}
+              <Etiquetas item={e} temas={false} />
+              <p class="contagem">Fonte{(e.fontes || []).length > 1 ? 's' : ''}: {(e.fontes || []).map((s, i) => <>{i > 0 && '; '}{fontePorId[s] ? <a href={url(`fontes/${s}`)}>{citacaoCurta(fontePorId[s])}</a> : s}</>)}{e.localizacao ? `, ${e.localizacao}` : ''}</p>
+            </li>
+          ))}
+        </ol>
+      </section>
+    ))}
+  </>)}
+  <script>
+    const form = document.getElementById('filtros-linha');
+    if (form) {
+      const $ = (id: string) => document.getElementById(id) as HTMLInputElement;
+      const aplicar = () => {
+        const p = $('l-pais').value, t = $('l-tema').value, de = parseInt($('l-de').value), ate = parseInt($('l-ate').value);
+        let n = 0;
+        document.querySelectorAll<HTMLElement>('.ev').forEach((el) => {
+          const a = Number(el.dataset.ano);
+          const ok = (!p || el.dataset.paises!.split(' ').includes(p)) && (!t || el.dataset.temas!.split(' ').includes(t))
+            && (isNaN(de) || a >= de) && (isNaN(ate) || a <= ate);
+          el.hidden = !ok; if (ok) n++;
+        });
+        document.querySelectorAll<HTMLElement>('.grupo-linha').forEach((g) => { g.hidden = !g.querySelector('.ev:not([hidden])'); });
+        $('l-contagem').textContent = `Mostrando ${n} data(s).`;
+      };
+      form.addEventListener('input', aplicar);
+      aplicar();
+    }
+  </script>
+</Base>

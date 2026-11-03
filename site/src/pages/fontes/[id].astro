@@ -1,0 +1,48 @@
+---
+import Base from '../../layouts/Base.astro';
+import Etiquetas from '../../components/Etiquetas.astro';
+import { url, fontes, fontePorId, citadaPor, autorCurto, anoFonte, formatarData } from '../../lib/dados.js';
+import { TIPOS, CATEGORIAS_FONTE, IDIOMAS, ACESSO, CONFIABILIDADE, STATUS_FONTE, rot } from '../../lib/rotulos.js';
+export function getStaticPaths() { return fontes.map((f) => ({ params: { id: f.id } })); }
+const f = fontePorId[Astro.params.id];
+const verbs = citadaPor[f.id] || [];
+const evs = citadaPor['__ev__' + f.id] || [];
+const ids = Object.entries(f.identificadores || {});
+const linkId = (k: string, v: string) => ({ doi: `https://doi.org/${v}`, ia: `https://archive.org/details/${v}`, wikidata: `https://www.wikidata.org/wiki/${v}`, hathitrust: `https://catalog.hathitrust.org/Record/${v}`, oclc: `https://www.worldcat.org/oclc/${v}`, handle: `https://hdl.handle.net/${v}` } as Record<string, string>)[k];
+const linkSeguro = (u: string | null | undefined) => (u && /^https?:\/\//.test(u) ? u : null);
+---
+<Base titulo={`${autorCurto(f)} (${anoFonte(f)})`} descricao={f.resumo || f.titulo} indexar leitura>
+  <header class="cabeca-pagina">
+    <p class="sobretitulo"><a href={url('fontes')}>Fonte</a> · {rot(CATEGORIAS_FONTE, f.categoria)}</p>
+    <h1>{f.titulo}</h1>
+    {f.titulo_traduzido && <p class="contagem">{f.titulo_traduzido}</p>}
+    <p class="chamada">{(f.autores || []).join('; ')} · {anoFonte(f)}{f.ano_original && f.ano_original !== f.ano ? ` (original de ${f.ano_original})` : ''}</p>
+    <Etiquetas item={f} />
+  </header>
+  {f.resumo && <p>{f.resumo}</p>}
+  <dl class="ficha">
+    <dt>Tipo</dt><dd>{rot(TIPOS, f.tipo)}</dd>
+    <dt>Idioma</dt><dd>{rot(IDIOMAS, f.idioma)}</dd>
+    {f.editora && <><dt>Editora</dt><dd>{f.editora}{f.local ? `, ${f.local}` : ''}</dd></>}
+    {f.periodico && <><dt>Periódico</dt><dd>{f.periodico}{f.volume ? `, v. ${f.volume}` : ''}{f.paginas ? `, p. ${f.paginas}` : ''}</dd></>}
+    <dt>Confiabilidade</dt><dd>{CONFIABILIDADE[f.confiabilidade] || f.confiabilidade}</dd>
+    <dt>Acesso</dt><dd>{rot(ACESSO, f.acesso)}{f.licenca ? ` — ${f.licenca}` : ''}</dd>
+    <dt>Situação</dt><dd>{rot(STATUS_FONTE, f.status_verificacao)}</dd>
+    {linkSeguro(f.url) && <><dt>Onde ler</dt><dd><a href={f.url} rel="noopener">{f.url}</a></dd></>}
+    {ids.length > 0 && <><dt>Identificadores</dt><dd>{ids.map(([k, v], i) => <>{i > 0 && ' · '}{k}: {linkId(k, v) ? <a href={linkId(k, v)} rel="noopener">{v}</a> : v}</>)}</dd></>}
+    {f.observacoes && <><dt>Observações</dt><dd>{f.observacoes}</dd></>}
+    <dt>Código</dt><dd><code>{f.id}</code></dd>
+  </dl>
+  {(f.evidencias || []).filter(linkSeguro).length > 0 && (<>
+    <h2>Registros que confirmam os dados</h2>
+    <ul>{f.evidencias.filter(linkSeguro).map((e) => <li><a href={e} rel="noopener">{e}</a></li>)}</ul>
+  </>)}
+  {verbs.length > 0 && (<>
+    <h2>Citada nos verbetes</h2>
+    <ul>{verbs.map((v) => <li><a href={url(`verbetes/${v.id}`)}>{v.titulo}</a></li>)}</ul>
+  </>)}
+  {evs.length > 0 && (<>
+    <h2>Citada na linha do tempo</h2>
+    <ul>{evs.map((e) => <li><a href={url(`linha-do-tempo#ev-${e.id}`)}>{formatarData(e.data, e.aproximada)} — {e.titulo}</a></li>)}</ul>
+  </>)}
+</Base>

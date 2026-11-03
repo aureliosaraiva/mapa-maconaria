@@ -1,0 +1,39 @@
+---
+import Base from '../layouts/Base.astro';
+import { url, fontes, verbetes, eventos, lotes } from '../lib/dados.js';
+import { CONFIABILIDADE, ACESSO, IDIOMAS, rot } from '../lib/rotulos.js';
+const conta = (k: string) => { const c: Record<string, number> = {}; for (const f of fontes) c[f[k]] = (c[f[k]] || 0) + 1; return c; };
+const conf = conta('confiabilidade'), acesso = conta('acesso'), idioma = Object.entries(conta('idioma')).sort((a, b) => b[1] - a[1]);
+---
+<Base titulo="Metodologia" descricao="Como a enciclopédia é feita: fontes, confiabilidade, pluralidade, rituais e neutralidade." indexar leitura>
+  <header class="cabeca-pagina">
+    <p class="sobretitulo">Sobre o projeto</p>
+    <h1>Metodologia</h1>
+    <p class="chamada">Como esta enciclopédia é feita, e o que ela deliberadamente não faz.</p>
+  </header>
+  <h2>Uma fonte para cada afirmação</h2>
+  <p>Todo dado factual de um verbete aponta, em nota, para uma obra do <a href={url('fontes')}>catálogo de fontes</a>, com página ou seção quando houver. Os textos são paráfrases: citação literal só aparece quando a obra está em domínio público, é curta e vem entre aspas com a fonte. O texto integral das obras consultadas fica num acervo privado de pesquisa e nunca é publicado; um verificador automático compara os textos do site com esse acervo para impedir trechos copiados.</p>
+  <h2>Maçonaria no plural</h2>
+  <p>Não existe uma maçonaria única. Potências “regulares” e “liberais” divergem sobre a obrigatoriedade da crença no Grande Arquiteto do Universo, sobre a presença de mulheres e sobre quais landmarks valem; ritos diferentes organizam os graus de formas diferentes; práticas mudam de país para país e de época para época. Os verbetes registram essas versões lado a lado, dizendo quem afirma o quê, sem eleger uma delas como a “correta”. Por isso cada informação é etiquetada com rito, potência, país e período.</p>
+  <h2>Rituais e segredo</h2>
+  <p>Muitos rituais foram publicados ao longo de três séculos — exposições do século XVIII, monitores impressos, edições acadêmicas. A enciclopédia descreve, com base nessa literatura, a estrutura dos graus, seus temas, lendas e simbolismo. Ela <strong>não reproduz</strong> palavras de passe, sinais, toques nem juramentos por extenso; um verificador automático procura esse tipo de conteúdo antes de cada publicação, e casos duvidosos ficam fora do site até revisão humana.</p>
+  <h2>Neutralidade</h2>
+  <p>Nem apologia nem denúncia. A antimaçonaria e as teorias conspiratórias (a fraude de Léo Taxil, os <em>Protocolos</em>, Barruel, os “Illuminati”) são tratadas como fenômenos históricos, com fontes acadêmicas. Dizer que alguém “era maçom” exige evidência documental (ata, registro de loja, biografia acadêmica); lendas são marcadas como lendas.</p>
+  <h2 id="confiabilidade">Confiabilidade das fontes</h2>
+  <div class="tabela-rolagem largo"><table class="tabela">
+    <thead><tr><th scope="col">Nota</th><th scope="col">Significado</th><th scope="col">Fontes</th></tr></thead>
+    <tbody>{Object.entries(CONFIABILIDADE).map(([k, v]) => <tr><td><strong>{k}</strong></td><td>{v.slice(4)}</td><td><a href={url(`fontes?confiabilidade=${k}`)}>{conf[k] || 0}</a></td></tr>)}</tbody>
+  </table></div>
+  <p>Sites oficiais de potências (nota C) são ótimos para dados institucionais — fundação, sede, número de lojas — e fracos para história. Blogs e textos anônimos (nota D) servem apenas como pista para chegar a uma fonte melhor.</p>
+  <h2>Só o que é acessível legalmente</h2>
+  <p>O projeto reúne apenas material em domínio público, de acesso aberto, sites oficiais e páginas públicas. Obras só disponíveis comercialmente ou impressas entram no catálogo como referência.</p>
+  <ul>{Object.entries(acesso).sort((a, b) => b[1] - a[1]).map(([k, n]) => <li>{rot(ACESSO, k)}: {n}</li>)}</ul>
+  <h2>Em números</h2>
+  <ul>
+    <li>{fontes.length} fontes em {lotes.length} lotes; idiomas: {idioma.map(([k, n]) => `${rot(IDIOMAS, k)} (${n})`).join(', ') || '—'}</li>
+    <li>{verbetes.length} verbetes ({verbetes.filter((v) => v.status === 'revisado').length} revisados)</li>
+    <li>{eventos.length} datas na linha do tempo</li>
+  </ul>
+  <h2>Dados abertos e código</h2>
+  <p>O catálogo de fontes, os verbetes e a linha do tempo são arquivos abertos no <a href="https://github.com/aureliosaraiva/mapa-maconaria">repositório do projeto</a>, sob licença MIT para os textos próprios. Os direitos sobre as obras consultadas pertencem aos seus autores.</p>
+</Base>

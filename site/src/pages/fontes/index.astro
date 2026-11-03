@@ -1,0 +1,64 @@
+---
+import Base from '../../layouts/Base.astro';
+import { url, fontes, lotes, autorCurto, anoFonte } from '../../lib/dados.js';
+import { TEMAS, IDIOMAS, TIPOS, ACESSO, PAISES, CONFIABILIDADE, rot } from '../../lib/rotulos.js';
+const conta = (k: string) => {
+  const c: Record<string, number> = {};
+  for (const f of fontes) for (const v of [].concat(f[k] ?? [])) c[v] = (c[v] || 0) + 1;
+  return Object.entries(c).sort((a, b) => b[1] - a[1]);
+};
+const temas = conta('temas'), idiomas = conta('idioma'), tipos = conta('tipo'), acessos = conta('acesso'), paises = conta('paises'), confs = conta('confiabilidade').sort();
+---
+<Base titulo="Fontes" descricao="Catálogo de fontes sobre maçonaria, em vários idiomas, com confiabilidade e acesso.">
+  <header class="cabeca-pagina">
+    <p class="sobretitulo">Catálogo</p>
+    <h1>Fontes</h1>
+    <p class="chamada">{fontes.length} obras e documentos em {idiomas.length} idiomas, reunidos em {lotes.length} lotes de pesquisa. Cada fonte recebe uma nota de confiabilidade de A a D (veja a <a href={url('metodologia#confiabilidade')}>metodologia</a>).</p>
+  </header>
+  {fontes.length === 0 ? <p class="vazio">O catálogo ainda está vazio.</p> : (<>
+    <form class="filtros so-js" id="filtros-fontes" onsubmit="return false" aria-label="Filtrar fontes">
+      <div class="largo"><label for="ff-texto">Texto (autor, título, resumo)</label><input id="ff-texto" type="search" /></div>
+      <div><label for="ff-tema">Tema</label><select id="ff-tema" data-campo="temas"><option value="">Todos</option>{temas.map(([c, n]) => <option value={c}>{rot(TEMAS, c)} ({n})</option>)}</select></div>
+      <div><label for="ff-idioma">Idioma</label><select id="ff-idioma" data-campo="idioma"><option value="">Todos</option>{idiomas.map(([c, n]) => <option value={c}>{rot(IDIOMAS, c)} ({n})</option>)}</select></div>
+      <div><label for="ff-pais">País</label><select id="ff-pais" data-campo="paises"><option value="">Todos</option>{paises.map(([c, n]) => <option value={c}>{rot(PAISES, c)} ({n})</option>)}</select></div>
+      <div><label for="ff-tipo">Tipo</label><select id="ff-tipo" data-campo="tipo"><option value="">Todos</option>{tipos.map(([c, n]) => <option value={c}>{rot(TIPOS, c)} ({n})</option>)}</select></div>
+      <div><label for="ff-conf">Confiabilidade</label><select id="ff-conf" data-campo="confiabilidade"><option value="">Todas</option>{confs.map(([c, n]) => <option value={c}>{c} ({n})</option>)}</select></div>
+      <div><label for="ff-acesso">Acesso</label><select id="ff-acesso" data-campo="acesso"><option value="">Todos</option>{acessos.map(([c, n]) => <option value={c}>{rot(ACESSO, c)} ({n})</option>)}</select></div>
+      <button type="reset">Limpar</button>
+    </form>
+    <p class="contagem so-js" id="ff-contagem" aria-live="polite"></p>
+    <ul class="lista-fontes" id="lista-fontes">
+      {fontes.map((f) => (
+        <li data-temas={(f.temas || []).join(' ')} data-idioma={f.idioma} data-paises={(f.paises || []).join(' ')} data-tipo={f.tipo}
+            data-confiabilidade={f.confiabilidade} data-acesso={f.acesso}
+            data-texto={`${(f.autores || []).join(' ')} ${f.titulo} ${f.titulo_traduzido || ''} ${f.resumo || ''}`.toLowerCase()}>
+          <a class="tit" href={url(`fontes/${f.id}`)}>{autorCurto(f)} ({anoFonte(f)}). {f.titulo}</a>
+          <div class="meta">{rot(TIPOS, f.tipo)} · {rot(IDIOMAS, f.idioma)} · <abbr title={CONFIABILIDADE[f.confiabilidade]}>confiabilidade {f.confiabilidade}</abbr> · {rot(ACESSO, f.acesso)}</div>
+        </li>
+      ))}
+    </ul>
+  </>)}
+  <script>
+    const form = document.getElementById('filtros-fontes') as HTMLFormElement | null;
+    if (form) {
+      const itens = [...document.querySelectorAll<HTMLElement>('#lista-fontes > li')];
+      const texto = document.getElementById('ff-texto') as HTMLInputElement;
+      const sels = [...form.querySelectorAll<HTMLSelectElement>('select')];
+      const cont = document.getElementById('ff-contagem')!;
+      const aplicar = () => {
+        const t = texto.value.toLowerCase().trim();
+        let n = 0;
+        for (const el of itens) {
+          const ok = (!t || el.dataset.texto!.includes(t)) && sels.every((s) => !s.value || (el.dataset[s.dataset.campo!] || '').split(' ').includes(s.value));
+          el.hidden = !ok; if (ok) n++;
+        }
+        cont.textContent = `Mostrando ${n} de ${itens.length} fontes.`;
+      };
+      form.addEventListener('input', aplicar);
+      form.addEventListener('reset', () => setTimeout(aplicar));
+      const q = new URLSearchParams(location.search);
+      for (const s of sels) { const v = q.get(s.dataset.campo!); if (v) s.value = v; }
+      aplicar();
+    }
+  </script>
+</Base>

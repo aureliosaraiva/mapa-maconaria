@@ -1,0 +1,8 @@
+---
+import Base from '../layouts/Base.astro';
+import { url } from '../lib/dados.js';
+---
+<Base titulo="Página não encontrada">
+  <h1>Página não encontrada</h1>
+  <p>Talvez o verbete ainda não exista. Tente a <a href={url('buscar')}>busca</a> ou a lista de <a href={url('verbetes')}>verbetes</a>.</p>
+</Base>

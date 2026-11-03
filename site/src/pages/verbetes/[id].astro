@@ -1,0 +1,53 @@
+---
+import Base from '../../layouts/Base.astro';
+import Etiquetas from '../../components/Etiquetas.astro';
+import { url, verbetes, verbetePorId, fontePorId, citacaoCurta, eventos, formatarData, arestasGrafo } from '../../lib/dados.js';
+import { CATEGORIAS, rot } from '../../lib/rotulos.js';
+
+export function getStaticPaths() {
+  return verbetes.map((v) => ({ params: { id: v.id } }));
+}
+const v = verbetePorId[Astro.params.id];
+const { Content } = v;
+const arestas = arestasGrafo();
+const ligados = arestas
+  .filter((a) => a.origem === v.id || a.destino === v.id)
+  .map((a) => ({ outro: verbetePorId[a.origem === v.id ? a.destino : a.origem], rel: a.rel, entrada: a.destino === v.id && a.origem !== v.id }));
+const datas = v.datas ? [formatarData(v.datas.inicio, v.datas.aproximada), formatarData(v.datas.fim, v.datas.aproximada)].filter(Boolean).join(' – ') : '';
+const evs = eventos.filter((e) => e.verbete === v.id);
+---
+<Base titulo={v.titulo} descricao={v.resumo} indexar leitura>
+  <article data-pagefind-filter={`categoria:${rot(CATEGORIAS, v.categoria)}`}>
+    <header class="cabeca-pagina">
+      <p class="sobretitulo"><a href={url(`verbetes#cat-${v.categoria}`)}>{rot(CATEGORIAS, v.categoria)}</a></p>
+      <h1>{v.titulo}</h1>
+      {v.nomes_alternativos?.length > 0 && <p class="contagem">Também: {v.nomes_alternativos.join(' · ')}</p>}
+      {datas && <p class="contagem">{datas}</p>}
+      <p class="resumo-verbete">{v.resumo}</p>
+      <Etiquetas item={v} />
+      {v.status !== 'revisado' && <p class="contagem">Rascunho: ainda não passou por revisão.</p>}
+    </header>
+    {v.sensivel && <p class="aviso-sensivel">Este verbete trata de conteúdo ritual. Ele descreve apenas o que a literatura publicada já expõe (estrutura, temas, lendas e simbolismo), sem reproduzir palavras, sinais, toques ou juramentos.</p>}
+    <div class="verbete-corpo"><Content /></div>
+
+    <h2>Fontes deste verbete</h2>
+    <ul>
+      {(v.fontes || []).map((s) => {
+        const f = fontePorId[s];
+        return f
+          ? <li><a href={url(`fontes/${s}`)}>{citacaoCurta(f)}</a>. <em>{f.titulo}</em>.</li>
+          : <li>{s} <span class="contagem">(fora do catálogo)</span></li>;
+      })}
+    </ul>
+    {ligados.length > 0 && (<>
+      <h2>Ver também</h2>
+      <ul>
+        {ligados.map((l) => <li><a href={url(`verbetes/${l.outro.id}`)}>{l.outro.titulo}</a> <span class="contagem">({l.entrada ? `${l.rel}, a partir de lá` : l.rel})</span></li>)}
+      </ul>
+    </>)}
+    {evs.length > 0 && (<>
+      <h2>Na linha do tempo</h2>
+      <ul>{evs.map((e) => <li><a href={url(`linha-do-tempo#ev-${e.id}`)}>{formatarData(e.data, e.aproximada)} — {e.titulo}</a></li>)}</ul>
+    </>)}
+  </article>
+</Base>
