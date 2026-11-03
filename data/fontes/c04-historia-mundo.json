@@ -884,6 +884,1441 @@
       "acervo": [
         "txt/lantoine-1930-histoire-fm-francaise.txt"
       ]
+    },
+    {
+      "id": "onnerfors-2009-swedish-st-barthelemy",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Andreas Önnerfors"
+      ],
+      "titulo": "Swedish Freemasonry in the Caribbean: How St. Barthélemy turned into an Island of the IXth Province",
+      "ano": 2009,
+      "idioma": "en",
+      "periodico": "REHMLAC+ – Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+      "url": "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/6854",
+      "temas": [
+        "potencias",
+        "ritos",
+        "sociabilidade"
+      ],
+      "paises": [
+        "se",
+        "bl"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (REHMLAC+, acesso aberto)",
+      "status_verificacao": "copiado",
+      "resumo": "Estuda a loja da ilha sueca de São Bartolomeu (1797–1807) e seus vínculos com a Grande Loja da Suécia, com base em fontes inéditas sobre rituais, organização e ideologia. Mostra a transposição do Rito Sueco para o Caribe colonial.",
+      "evidencias": [
+        "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/6854"
+      ],
+      "volume": "1(1)",
+      "paginas": "16-41",
+      "ritos": [
+        "sueco"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/onnerfors-2009-swedish-st-barthelemy.pdf",
+        "txt/onnerfors-2009-swedish-st-barthelemy.txt"
+      ]
+    },
+    {
+      "id": "maes-2010-belgian-revolution",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Anaïs Maes"
+      ],
+      "titulo": "Freemasonry as a Patriotic Society? The 1830 Belgian Revolution",
+      "ano": 2010,
+      "idioma": "en",
+      "periodico": "REHMLAC+ – Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+      "url": "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/6593",
+      "temas": [
+        "politica",
+        "sociabilidade"
+      ],
+      "paises": [
+        "be",
+        "nl"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (REHMLAC+, acesso aberto)",
+      "status_verificacao": "copiado",
+      "resumo": "Analisa as reações das lojas belgas à revolução de 1830 e distingue patriotismo de nacionalismo no discurso maçônico. Mostra como a identidade patriótica das lojas foi gradualmente nacionalizada após a independência.",
+      "evidencias": [
+        "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/6593"
+      ],
+      "volume": "2(2)",
+      "paginas": "1-17",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/maes-2010-belgian-revolution.pdf",
+        "txt/maes-2010-belgian-revolution.txt"
+      ]
+    },
+    {
+      "id": "martinez-2017-global-history-freemasonry",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Ricardo Martínez Esquivel"
+      ],
+      "titulo": "Global History and Freemasonry: 300 years of Modernity, Sociability and Imperialism",
+      "ano": 2017,
+      "idioma": "en",
+      "periodico": "REHMLAC+ – Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+      "url": "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/31496",
+      "temas": [
+        "historiografia",
+        "sociabilidade",
+        "politica"
+      ],
+      "paises": [
+        "mundo"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (REHMLAC+, acesso aberto)",
+      "status_verificacao": "copiado",
+      "resumo": "Ensaio programático que propõe estudar a maçonaria como fenômeno de história global: lojas fundadas por agentes das companhias comerciais em portos ultramarinos e expandidas com os imperialismos, integrando depois elites nativas.",
+      "evidencias": [
+        "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/31496"
+      ],
+      "identificadores": {
+        "doi": "10.15517/rehmlac.v9i2.31496"
+      },
+      "volume": "9(2)",
+      "paginas": "1-18",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/martinez-2017-global-history-freemasonry.pdf",
+        "txt/martinez-2017-global-history-freemasonry.txt"
+      ]
+    },
+    {
+      "id": "prescott-sommers-2017-apple-tree",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Andrew Prescott",
+        "Susan Mitchell Sommers"
+      ],
+      "titulo": "Searching for the Apple Tree: Revisiting the Earliest Years of Organized English Freemasonry",
+      "ano": 2017,
+      "idioma": "en",
+      "periodico": "REHMLAC+ – Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+      "url": "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/31500",
+      "temas": [
+        "origens",
+        "historiografia",
+        "potencias",
+        "documentos_fundadores"
+      ],
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1600_1716",
+        "p1717_1750"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (REHMLAC+, acesso aberto)",
+      "status_verificacao": "copiado",
+      "resumo": "Reexamina criticamente a narrativa da fundação da Grande Loja de Londres em 1717 na taverna Goose and Gridiron, mostrando que ela depende quase só do relato de Anderson em 1738. Os autores propõem que a organização efetiva data de 1721, com a eleição do duque de Montagu.",
+      "evidencias": [
+        "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/31500"
+      ],
+      "identificadores": {
+        "doi": "10.15517/rehmlac.v9i2.31500"
+      },
+      "volume": "9(2)",
+      "paginas": "19-46",
+      "potencias": [
+        "ugle",
+        "moderns"
+      ],
+      "observacoes": "Artigo-chave do debate do tricentenário (2017) sobre a data de 1717.",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/prescott-sommers-2017-apple-tree.pdf",
+        "txt/prescott-sommers-2017-apple-tree.txt"
+      ]
+    },
+    {
+      "id": "loder-2013-paradoxical-continuity",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Max A. Loder"
+      ],
+      "titulo": "Paradoxical Continuity: Antimasonry as a Progression of Masonic Ideals",
+      "ano": 2013,
+      "idioma": "en",
+      "periodico": "REHMLAC+ – Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+      "url": "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/10362",
+      "temas": [
+        "antimaconaria",
+        "politica"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (REHMLAC+, acesso aberto)",
+      "status_verificacao": "copiado",
+      "resumo": "Interpreta o antimaçonismo americano posterior ao caso Morgan como continuidade, e não negação, dos ideais republicanos que a maçonaria dizia encarnar. Explica o colapso das lojas nos anos 1830–1840.",
+      "evidencias": [
+        "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/10362"
+      ],
+      "volume": "5(1)",
+      "paginas": "80-96",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/loder-2013-paradoxical-continuity.pdf",
+        "txt/loder-2013-paradoxical-continuity.txt"
+      ]
+    },
+    {
+      "id": "saunier-2011-europe-napoleonienne",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Éric Saunier"
+      ],
+      "titulo": "La franc-maçonnerie dans l'Europe napoléonienne: de l'échec de l'Europe maçonnique française à la transformation de la société des maçons",
+      "ano": 2011,
+      "idioma": "fr",
+      "periodico": "REHMLAC+ – Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+      "url": "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/6584",
+      "temas": [
+        "politica",
+        "sociabilidade",
+        "potencias"
+      ],
+      "paises": [
+        "fr",
+        "it",
+        "mundo"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (REHMLAC+, acesso aberto)",
+      "status_verificacao": "copiado",
+      "resumo": "Revê a historiografia da maçonaria sob Napoleão: em vez de simples instrumento do Império, as lojas criadas entre 1804 e 1815 geraram novas formas de sociabilidade e transformaram o perfil social dos maçons na Europa ocupada.",
+      "evidencias": [
+        "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/6584"
+      ],
+      "volume": "3(1)",
+      "paginas": "21-32",
+      "potencias": [
+        "godf"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/saunier-2011-europe-napoleonienne.pdf",
+        "txt/saunier-2011-europe-napoleonienne.txt"
+      ]
+    },
+    {
+      "id": "saunier-2014-epreuve-revolution",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Éric Saunier"
+      ],
+      "titulo": "La Franc-maçonnerie à l'épreuve de la Révolution française: une expérience aux origines de la Franc-maçonnerie libérale",
+      "ano": 2014,
+      "idioma": "fr",
+      "periodico": "REHMLAC+ – Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+      "url": "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/18200",
+      "temas": [
+        "politica",
+        "regularidade",
+        "historiografia"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (REHMLAC+, acesso aberto)",
+      "status_verificacao": "copiado",
+      "resumo": "Analisa como a crise revolucionária desorganizou as lojas francesas e como a reconstrução pós-1795 lançou as bases da maçonaria liberal do século XIX. Contraria o mito da maçonaria como autora da Revolução.",
+      "evidencias": [
+        "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/18200"
+      ],
+      "potencias": [
+        "godf"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/saunier-2014-epreuve-revolution.pdf",
+        "txt/saunier-2014-epreuve-revolution.txt"
+      ]
+    },
+    {
+      "id": "saunier-2009-prosopographie",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Éric Saunier"
+      ],
+      "titulo": "La prosopographie: une nouvelle voie pour l'histoire de la Franc-maçonnerie",
+      "ano": 2009,
+      "idioma": "fr",
+      "periodico": "REHMLAC+ – Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+      "url": "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/6616",
+      "temas": [
+        "historiografia"
+      ],
+      "paises": [
+        "fr",
+        "mundo"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (REHMLAC+, acesso aberto)",
+      "status_verificacao": "copiado",
+      "resumo": "Reflexão metodológica sobre o uso da prosopografia (biografia coletiva de membros de lojas) na renovação da historiografia maçônica francesa desde os anos 1980.",
+      "evidencias": [
+        "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/6616"
+      ],
+      "volume": "1(2)",
+      "paginas": "38-43",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/saunier-2009-prosopographie.pdf",
+        "txt/saunier-2009-prosopographie.txt"
+      ]
+    },
+    {
+      "id": "harland-jacobs-2013-global-brotherhood",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Jessica Harland-Jacobs"
+      ],
+      "titulo": "Global Brotherhood: Freemasonry, Empires, and Globalization",
+      "ano": 2013,
+      "idioma": "en",
+      "periodico": "REHMLAC+ – Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+      "url": "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/22543",
+      "temas": [
+        "politica",
+        "sociabilidade",
+        "historiografia"
+      ],
+      "paises": [
+        "gb",
+        "mundo",
+        "in"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (REHMLAC+, acesso aberto)",
+      "status_verificacao": "copiado",
+      "resumo": "Síntese da autora de Builders of Empire sobre a maçonaria como rede global associada aos impérios europeus, especialmente o britânico, e como agente precoce da globalização. Discute inclusão e exclusão de não europeus.",
+      "evidencias": [
+        "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/22543"
+      ],
+      "paginas": "70-88",
+      "potencias": [
+        "ugle"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/harland-jacobs-2013-global-brotherhood.pdf",
+        "txt/harland-jacobs-2013-global-brotherhood.txt"
+      ]
+    },
+    {
+      "id": "reyes-rich-2012-gender-racial-trouble",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Guillermo de los Reyes Heredia",
+        "Paul J. Rich"
+      ],
+      "titulo": "Gender, Sexual, and Racial Trouble: The Crossroads of North American Freemasonry in the Twenty-First Century",
+      "ano": 2012,
+      "idioma": "en",
+      "periodico": "REHMLAC+ – Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+      "url": "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/12190",
+      "temas": [
+        "mulheres",
+        "regularidade",
+        "potencias"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (REHMLAC+, acesso aberto)",
+      "status_verificacao": "copiado",
+      "resumo": "Discute os dilemas contemporâneos da maçonaria norte-americana diante de gênero, orientação sexual e raça: exclusão das mulheres, reconhecimento da Prince Hall e declínio de membros.",
+      "evidencias": [
+        "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/12190"
+      ],
+      "paginas": "157-170",
+      "potencias": [
+        "gl_estaduais_eua",
+        "prince_hall"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/reyes-rich-2012-gender-racial-trouble.pdf",
+        "txt/reyes-rich-2012-gender-racial-trouble.txt"
+      ]
+    },
+    {
+      "id": "khalturin-2015-kabbalah-russian",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Yuriy Khalturin"
+      ],
+      "titulo": "Kabbalah, Symbolism and Metaphysics in Russian Freemasonry of the XVIIIth–XIXth centuries",
+      "ano": 2015,
+      "idioma": "en",
+      "periodico": "REHMLAC+ – Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+      "url": "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/19946",
+      "temas": [
+        "esoterismo",
+        "simbolismo"
+      ],
+      "paises": [
+        "ru"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (REHMLAC+, acesso aberto)",
+      "status_verificacao": "copiado",
+      "resumo": "Examina a recepção da cabala e da metafísica cristã esotérica nos círculos maçônicos russos (rosa-cruzes de Moscou, Lopukhin), situando-os no misticismo europeu.",
+      "evidencias": [
+        "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/19946"
+      ],
+      "volume": "7(1)",
+      "paginas": "128-140",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/khalturin-2015-kabbalah-russian.pdf",
+        "txt/khalturin-2015-kabbalah-russian.txt"
+      ]
+    },
+    {
+      "id": "fragale-2023-dinamarca-1943",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Luca Irwin Fragale"
+      ],
+      "titulo": "Masonería, resistencia y rescate de los judíos en Dinamarca (1943)",
+      "ano": 2023,
+      "idioma": "es",
+      "periodico": "REHMLAC+ – Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+      "url": "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/53108",
+      "temas": [
+        "politica",
+        "antimaconaria"
+      ],
+      "paises": [
+        "dk"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (REHMLAC+, acesso aberto)",
+      "status_verificacao": "copiado",
+      "resumo": "Estuda o papel de maçons dinamarqueses na resistência à ocupação alemã e no resgate dos judeus para a Suécia em outubro de 1943.",
+      "evidencias": [
+        "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/53108"
+      ],
+      "identificadores": {
+        "doi": "10.15517/rehmlac.v15i2.53108"
+      },
+      "volume": "15(2)",
+      "paginas": "1-23",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/fragale-2023-dinamarca-1943.pdf",
+        "txt/fragale-2023-dinamarca-1943.txt"
+      ]
+    },
+    {
+      "id": "sanchez-2023-mundo-islamico",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Esteban Sánchez Solano"
+      ],
+      "titulo": "Masonería y el mundo islámico: modernidad y reformismo en las sociedades árabes, siglos XVIII y XIX",
+      "ano": 2023,
+      "idioma": "es",
+      "periodico": "REHMLAC+ – Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+      "url": "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/54585",
+      "temas": [
+        "politica",
+        "religiao",
+        "sociabilidade"
+      ],
+      "paises": [
+        "eg",
+        "tr",
+        "mundo"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (REHMLAC+, acesso aberto)",
+      "status_verificacao": "copiado",
+      "resumo": "Panorama da implantação da maçonaria no mundo árabe e otomano e de sua relação com o reformismo islâmico e a modernização, com atenção a figuras como al-Afghani e Abd el-Kader.",
+      "evidencias": [
+        "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/54585"
+      ],
+      "identificadores": {
+        "doi": "10.15517/rehmlac.v15i2.54585"
+      },
+      "volume": "15(2)",
+      "paginas": "24-47",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/sanchez-2023-mundo-islamico.pdf",
+        "txt/sanchez-2023-mundo-islamico.txt"
+      ]
+    },
+    {
+      "id": "garcia-flores-2023-antimasonerias",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Marco Antonio García Robles",
+        "Marco Antonio Flores Zavala"
+      ],
+      "titulo": "Las antimasonerías: de las teorías de las conspiraciones y herejías a las heterodoxias",
+      "ano": 2023,
+      "idioma": "es",
+      "periodico": "REHMLAC+ – Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+      "url": "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/54952",
+      "temas": [
+        "antimaconaria",
+        "historiografia"
+      ],
+      "paises": [
+        "mundo"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918",
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (REHMLAC+, acesso aberto)",
+      "status_verificacao": "copiado",
+      "resumo": "Apresentação de dossiê sobre antimaçonarias, que propõe tipologia (conspiracionista, religiosa, política) e balanço historiográfico do tema.",
+      "evidencias": [
+        "https://archivo.revistas.ucr.ac.cr/index.php/rehmlac/article/view/54952"
+      ],
+      "identificadores": {
+        "doi": "10.15517/rehmlac.v15i1.54952"
+      },
+      "volume": "15(1)",
+      "paginas": "I-IX",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/garcia-flores-2023-antimasonerias.pdf",
+        "txt/garcia-flores-2023-antimasonerias.txt"
+      ]
+    },
+    {
+      "id": "deschamps-2017-britain-india",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Simon Deschamps"
+      ],
+      "titulo": "From Britain to India: Freemasonry as a Connective Force of Empire",
+      "ano": 2017,
+      "idioma": "en",
+      "periodico": "E-rea – Revue électronique d'études sur le monde anglophone",
+      "url": "https://journals.openedition.org/erea/5853",
+      "temas": [
+        "politica",
+        "sociabilidade"
+      ],
+      "paises": [
+        "gb",
+        "in"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (OpenEdition)",
+      "status_verificacao": "conferido_web",
+      "resumo": "Mostra como as lojas aproximaram a Grã-Bretanha e a Índia britânica, facilitando a circulação de pessoas, informação e ideias numa rede imperial e oferecendo aos expatriados um ambiente de 'britanidade'.",
+      "evidencias": [
+        "https://journals.openedition.org/erea/5853"
+      ],
+      "identificadores": {
+        "doi": "10.4000/erea.5853"
+      },
+      "volume": "14(2)",
+      "potencias": [
+        "ugle"
+      ],
+      "lote": "c04-historia-mundo",
+      "observacoes": "Cópia não feita: site protegido por filtro anti-robô (Anubis); metadados conferidos via Crossref/DOAJ."
+    },
+    {
+      "id": "deschamps-2017-merchant-networks-india",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Simon Deschamps"
+      ],
+      "titulo": "Merchant and Masonic Networks in Eighteenth-Century Colonial India",
+      "ano": 2017,
+      "idioma": "en",
+      "periodico": "XVII-XVIII. Revue de la Société d'études anglo-américaines des XVIIe et XVIIIe siècles",
+      "url": "https://journals.openedition.org/1718/828",
+      "temas": [
+        "sociabilidade",
+        "politica"
+      ],
+      "paises": [
+        "in",
+        "gb"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (OpenEdition)",
+      "status_verificacao": "conferido_web",
+      "resumo": "Estuda o papel das lojas na economia comercial da Índia colonial no século XVIII, mostrando pelos quadros de membros a forte presença de comerciantes ligados à Companhia das Índias Orientais.",
+      "evidencias": [
+        "https://journals.openedition.org/1718/828"
+      ],
+      "identificadores": {
+        "doi": "10.4000/1718.828"
+      },
+      "volume": "74",
+      "lote": "c04-historia-mundo",
+      "observacoes": "Cópia não feita: site protegido por filtro anti-robô (Anubis); metadados conferidos via Crossref/DOAJ."
+    },
+    {
+      "id": "deschamps-2021-ritual-display-empire",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Simon Deschamps"
+      ],
+      "titulo": "Masonic Ritual and the Display of Empire in 19th-Century India and Beyond",
+      "ano": 2021,
+      "idioma": "en",
+      "periodico": "Cahiers victoriens et édouardiens",
+      "url": "https://journals.openedition.org/cve/8990",
+      "temas": [
+        "politica",
+        "ritual",
+        "sociabilidade"
+      ],
+      "paises": [
+        "in",
+        "gb"
+      ],
+      "periodos": [
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (OpenEdition)",
+      "status_verificacao": "conferido_web",
+      "resumo": "Mostra que procissões, lançamentos de pedra fundamental e banquetes maçônicos integravam a encenação pública do poder colonial britânico na Índia, contribuindo para uma cultura imperial compartilhada.",
+      "evidencias": [
+        "https://journals.openedition.org/cve/8990"
+      ],
+      "identificadores": {
+        "doi": "10.4000/cve.8990"
+      },
+      "volume": "93",
+      "lote": "c04-historia-mundo",
+      "observacoes": "Cópia não feita: site protegido por filtro anti-robô (Anubis); metadados conferidos via Crossref/DOAJ."
+    },
+    {
+      "id": "saunier-2002-fm-revolution-historiographie",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Éric Saunier"
+      ],
+      "titulo": "Franc-maçonnerie et Révolution française: vers une nouvelle orientation historiographique",
+      "ano": 2002,
+      "idioma": "fr",
+      "periodico": "Cahiers d'histoire. Revue d'histoire critique",
+      "url": "https://journals.openedition.org/chrhc/1672",
+      "temas": [
+        "historiografia",
+        "politica"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (OpenEdition)",
+      "status_verificacao": "conferido_web",
+      "resumo": "Balanço historiográfico sobre a relação entre maçonaria e Revolução Francesa, do mito do complô (Barruel) às abordagens sociais e culturais recentes.",
+      "evidencias": [
+        "https://journals.openedition.org/chrhc/1672"
+      ],
+      "identificadores": {
+        "doi": "10.4000/chrhc.1672"
+      },
+      "observacoes": "Cópia não feita: OpenEdition protegido por filtro anti-robô (Anubis); metadados conferidos via Crossref (DOI 10.4000/chrhc.1672).",
+      "lote": "c04-historia-mundo",
+      "volume": "87"
+    },
+    {
+      "id": "kiyasov-2024-france-prerevolutionary",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Sergey E. Kiyasov"
+      ],
+      "titulo": "Freemasonry in pre-revolutionary France (1773–1789)",
+      "ano": 2024,
+      "idioma": "ru",
+      "periodico": "Izvestiya of Saratov University. History. International Relations",
+      "url": "https://imo.sgu.ru/sites/imo.sgu.ru/files/text-pdf/2024/12/istoriya_2024_4-494-499.pdf",
+      "temas": [
+        "potencias",
+        "politica"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY 4.0",
+      "status_verificacao": "copiado",
+      "resumo": "Trata da formação das estruturas nacionais da maçonaria francesa entre a criação do Grande Oriente (1773) e 1789, com destaque para o papel da casa de Orléans e dos líderes maçônicos às vésperas da Revolução.",
+      "evidencias": [
+        "https://imo.sgu.ru/sites/imo.sgu.ru/files/text-pdf/2024/12/istoriya_2024_4-494-499.pdf"
+      ],
+      "identificadores": {
+        "doi": "10.18500/1819-4907-2024-24-4-494-499"
+      },
+      "volume": "24(4)",
+      "paginas": "494-499",
+      "potencias": [
+        "godf"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/kiyasov-2024-france-prerevolutionary.pdf",
+        "txt/kiyasov-2024-france-prerevolutionary.txt"
+      ]
+    },
+    {
+      "id": "kiyasov-2022-enlightenment-england",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Sergey E. Kiyasov"
+      ],
+      "titulo": "The Age of Enlightenment and the transformation of freemasonry in England",
+      "ano": 2022,
+      "idioma": "ru",
+      "periodico": "Izvestiya of Saratov University. History. International Relations",
+      "url": "https://imo.sgu.ru/sites/imo.sgu.ru/files/text-pdf/2022/05/istoriya_2022_1_57-64.pdf",
+      "temas": [
+        "origens",
+        "potencias"
+      ],
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY 4.0",
+      "status_verificacao": "copiado",
+      "resumo": "Discute a formação da Grande Loja da Inglaterra e a transformação das organizações maçônicas no contexto político pós-revolucionário inglês e do Iluminismo.",
+      "evidencias": [
+        "https://imo.sgu.ru/sites/imo.sgu.ru/files/text-pdf/2022/05/istoriya_2022_1_57-64.pdf"
+      ],
+      "identificadores": {
+        "doi": "10.18500/1819-4907-2022-22-1-57-64"
+      },
+      "volume": "22(1)",
+      "paginas": "57-64",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/kiyasov-2022-enlightenment-england.pdf",
+        "txt/kiyasov-2022-enlightenment-england.txt"
+      ]
+    },
+    {
+      "id": "kiyasov-2025-early-ideology-england",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Sergey E. Kiyasov"
+      ],
+      "titulo": "The formation of early Masonic ideology in England in the 16th and 17th centuries",
+      "ano": 2025,
+      "idioma": "ru",
+      "periodico": "Izvestiya of Saratov University. History. International Relations",
+      "url": "https://imo.sgu.ru/sites/imo.sgu.ru/files/text-pdf/2025/12/istoriya_2025_4-482-487.pdf",
+      "temas": [
+        "origens",
+        "principios"
+      ],
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716"
+      ],
+      "confiabilidade": "C",
+      "acesso": "aberto",
+      "licenca": "CC BY 4.0",
+      "status_verificacao": "copiado",
+      "resumo": "Relaciona a ideologia maçônica inicial às utopias de Thomas More e Francis Bacon, que teriam influenciado os maçons londrinos e os autores das Constituições.",
+      "evidencias": [
+        "https://imo.sgu.ru/sites/imo.sgu.ru/files/text-pdf/2025/12/istoriya_2025_4-482-487.pdf"
+      ],
+      "identificadores": {
+        "doi": "10.18500/1819-4907-2025-25-4-482-487"
+      },
+      "volume": "25(4)",
+      "paginas": "482-487",
+      "observacoes": "Tese de influência utópica é interpretativa; contrastar com Stevenson e Prescott.",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/kiyasov-2025-early-ideology-england.pdf",
+        "txt/kiyasov-2025-early-ideology-england.txt"
+      ]
+    },
+    {
+      "id": "kurylev-2025-belarus",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Konstantin P. Kurylev"
+      ],
+      "titulo": "Freemasonry in Belarus from its inception to 1917: character and features",
+      "ano": 2025,
+      "idioma": "ru",
+      "periodico": "RUDN Journal of World History",
+      "url": "https://journals.rudn.ru/world-history/article/viewFile/43962/24771",
+      "temas": [
+        "potencias",
+        "politica",
+        "sociabilidade"
+      ],
+      "paises": [
+        "by",
+        "pl",
+        "ru"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY 4.0",
+      "status_verificacao": "copiado",
+      "resumo": "Reconstitui a história das lojas nas terras bielorrussas, da influência polonesa no século XVIII à proibição de 1822 e às lojas do início do século XX, até 1917.",
+      "evidencias": [
+        "https://journals.rudn.ru/world-history/article/viewFile/43962/24771"
+      ],
+      "identificadores": {
+        "doi": "10.22363/2312-8127-2025-17-1-108-124"
+      },
+      "volume": "17(1)",
+      "paginas": "108-124",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/kurylev-2025-belarus.pdf",
+        "txt/kurylev-2025-belarus.txt"
+      ]
+    },
+    {
+      "id": "markovich-2025-yugoslavia-1945",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Slobodan G. Markovich"
+      ],
+      "titulo": "Attitudes of Yugoslav authorities to Freemasonry in Yugoslavia since 1945",
+      "ano": 2025,
+      "idioma": "en",
+      "periodico": "Istorija 20. veka",
+      "url": "https://istorija20veka.rs/wp-content/uploads/2025/07/2025_2-5_mar_363-386.pdf",
+      "temas": [
+        "politica",
+        "antimaconaria",
+        "potencias"
+      ],
+      "paises": [
+        "rs",
+        "hr"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND",
+      "status_verificacao": "copiado",
+      "resumo": "Explica por que a maçonaria não pôde ser reativada na Iugoslávia comunista (1945–47), descreve círculos maçônicos em Belgrado nos anos 1950–60 e o Supremo Conselho no exílio, e mostra semelhanças entre a retórica dos serviços secretos iugoslavos e a antimaçonaria clerical e pró-nazista.",
+      "evidencias": [
+        "https://istorija20veka.rs/wp-content/uploads/2025/07/2025_2-5_mar_363-386.pdf"
+      ],
+      "identificadores": {
+        "doi": "10.29362/ist20veka.2025.2.mar.363-386"
+      },
+      "volume": "43(2)",
+      "paginas": "363-386",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/markovich-2025-yugoslavia-1945.pdf",
+        "txt/markovich-2025-yugoslavia-1945.txt"
+      ]
+    },
+    {
+      "id": "drecin-2020-paris-peace-conference",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Mihai D. Drecin"
+      ],
+      "titulo": "Freemasonry and the Paris Peace Conference (January 1919 – June 1920)",
+      "ano": 2020,
+      "idioma": "en",
+      "periodico": "Annals of the Academy of Romanian Scientists. Series on History and Archaeology",
+      "url": "https://aos.ro/wp-content/anale/IVol12Nr2Art.3.pdf",
+      "temas": [
+        "politica"
+      ],
+      "paises": [
+        "ro",
+        "fr"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "C",
+      "acesso": "aberto",
+      "licenca": "acesso aberto",
+      "status_verificacao": "copiado",
+      "resumo": "Examina a percepção da delegação romena na Conferência de Paz sobre o peso da maçonaria nas decisões territoriais e os contatos de políticos romenos com lojas francesas.",
+      "evidencias": [
+        "https://aos.ro/wp-content/anale/IVol12Nr2Art.3.pdf"
+      ],
+      "identificadores": {
+        "doi": "10.56082/annalsarscihist.2020.2.21"
+      },
+      "volume": "12(2)",
+      "paginas": "21-31",
+      "observacoes": "Reproduz percepções de época sobre influência maçônica; usar com cautela.",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/drecin-2020-paris-peace-conference.pdf",
+        "txt/drecin-2020-paris-peace-conference.txt"
+      ]
+    },
+    {
+      "id": "ocal-2024-turkiye-dissolution",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Enver Emre Öcal"
+      ],
+      "titulo": "Masonik kaynaklara göre Cumhuriyet döneminde Türkiye masonlarının yaşadığı uyutma ve bölünme olayları",
+      "ano": 2024,
+      "idioma": "tr",
+      "periodico": "Yakın Dönem Türkiye Araştırmaları",
+      "url": "https://cdn.istanbul.edu.tr/file/JTA6CLJ8T5/E88FAD3D1077462ABBB82E04A3C4F822",
+      "temas": [
+        "potencias",
+        "politica",
+        "regularidade"
+      ],
+      "paises": [
+        "tr"
+      ],
+      "periodos": [
+        "p1919_1945",
+        "p1946_1989"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC 4.0",
+      "status_verificacao": "copiado",
+      "resumo": "Com base em fontes maçônicas, traça a história da maçonaria turca na República: o 'adormecimento' das lojas em 1935, a reativação após 1948 e a grande cisão posterior. Remonta ao Grande Oriente otomano criado após 1908.",
+      "evidencias": [
+        "https://cdn.istanbul.edu.tr/file/JTA6CLJ8T5/E88FAD3D1077462ABBB82E04A3C4F822"
+      ],
+      "identificadores": {
+        "doi": "10.26650/YTA2024-1460527"
+      },
+      "volume": "46",
+      "paginas": "1-42",
+      "titulo_traduzido": "Segundo fontes maçônicas, os episódios de dissolução e cisão vividos pelos maçons da Turquia no período republicano",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/ocal-2024-turkiye-dissolution.pdf",
+        "txt/ocal-2024-turkiye-dissolution.txt"
+      ]
+    },
+    {
+      "id": "ture-2026-periodicals-ottoman",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Esra Türe"
+      ],
+      "titulo": "Meşrutiyet'ten Cumhuriyet'in ilk yıllarına süreli yayınlarda masonluk",
+      "ano": 2026,
+      "idioma": "tr",
+      "periodico": "Yakın Dönem Türkiye Araştırmaları",
+      "url": "https://cdn.istanbul.edu.tr/file/JTA6CLJ8T5/EA9BE172EF5C4F5D8B5E08EF244BE115",
+      "temas": [
+        "politica",
+        "antimaconaria",
+        "sociabilidade"
+      ],
+      "paises": [
+        "tr"
+      ],
+      "periodos": [
+        "p1871_1918",
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC 4.0",
+      "status_verificacao": "copiado",
+      "resumo": "Analisa como a maçonaria foi tratada nos periódicos otomanos e turcos do Primeiro Período Constitucional aos primeiros anos da República, entre defesa e suspeita.",
+      "evidencias": [
+        "https://cdn.istanbul.edu.tr/file/JTA6CLJ8T5/EA9BE172EF5C4F5D8B5E08EF244BE115"
+      ],
+      "identificadores": {
+        "doi": "10.26650/YTA2026.1639350"
+      },
+      "volume": "49",
+      "paginas": "1-22",
+      "titulo_traduzido": "A maçonaria nos periódicos, da era constitucional aos primeiros anos da República",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/ture-2026-periodicals-ottoman.pdf",
+        "txt/ture-2026-periodicals-ottoman.txt"
+      ]
+    },
+    {
+      "id": "holm-2008-finland",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Nils G. Holm"
+      ],
+      "titulo": "Freemasonry and its social position in Finland",
+      "ano": 2008,
+      "idioma": "en",
+      "periodico": "Scripta Instituti Donneriani Aboensis",
+      "url": "https://journal.fi/scripta/article/view/67327",
+      "temas": [
+        "sociabilidade",
+        "antimaconaria",
+        "religiao"
+      ],
+      "paises": [
+        "fi"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1871_1918",
+        "p1919_1945",
+        "p1946_1989"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY 4.0",
+      "status_verificacao": "conferido_web",
+      "resumo": "Examina a maçonaria na Finlândia desde meados do século XVIII e as suspeitas e hostilidades que enfrentou de indivíduos, igrejas e organizações sociais ao longo do tempo.",
+      "evidencias": [
+        "https://journal.fi/scripta/article/view/67327"
+      ],
+      "identificadores": {
+        "doi": "10.30674/scripta.67327"
+      },
+      "volume": "20",
+      "lote": "c04-historia-mundo",
+      "observacoes": "Cópia não feita: site protegido por filtro anti-robô (Anubis); metadados conferidos via Crossref/DOAJ."
+    },
+    {
+      "id": "rebok-winkle-2019-humboldt",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Sandra Rebok",
+        "Timothy Winkle"
+      ],
+      "titulo": "„Mason without apron“ – Alexander von Humboldt and the world of freemasonry",
+      "ano": 2019,
+      "idioma": "en",
+      "periodico": "HiN – Alexander von Humboldt im Netz",
+      "url": "https://www.hin-online.de/index.php/hin/article/view/274",
+      "temas": [
+        "personalidades"
+      ],
+      "paises": [
+        "de",
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-SA",
+      "status_verificacao": "copiado",
+      "resumo": "Investiga se Alexander von Humboldt foi de fato maçom, como afirmam listas de 'maçons ilustres': não se encontrou prova de iniciação, mas o artigo analisa sua rede de amigos maçons e sua afinidade com ideais da fraternidade.",
+      "evidencias": [
+        "https://www.hin-online.de/index.php/hin/article/view/274"
+      ],
+      "identificadores": {
+        "doi": "10.18443/274"
+      },
+      "volume": "20(38)",
+      "observacoes": "Exemplo de verificação de 'fulano era maçom' (CLAUDE.md regra 6).",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/rebok-winkle-2019-humboldt.pdf",
+        "txt/rebok-winkle-2019-humboldt.txt"
+      ]
+    },
+    {
+      "id": "varga-2025-banat",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Attila Carol Varga"
+      ],
+      "titulo": "The German Freemason settlers and the development of Freemasonry in Banat in the 18th and 19th centuries",
+      "ano": 2025,
+      "idioma": "en",
+      "periodico": "Swedish Journal of Romanian Studies",
+      "url": "https://journals.lub.lu.se/sjrs/article/view/27406",
+      "temas": [
+        "sociabilidade",
+        "potencias"
+      ],
+      "paises": [
+        "ro",
+        "at",
+        "hu"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY 4.0",
+      "status_verificacao": "copiado",
+      "resumo": "Mostra que as lojas do Banat, trazidas por colonos austríacos, mantinham contato com as elites centro-europeias e abriam espaço social a comerciantes, militares e funcionários fora das estruturas tradicionais.",
+      "evidencias": [
+        "https://journals.lub.lu.se/sjrs/article/view/27406"
+      ],
+      "identificadores": {
+        "doi": "10.35824/sjrs.v8i2.27406"
+      },
+      "volume": "8(2)",
+      "paginas": "207-216",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/varga-2025-banat.pdf",
+        "txt/varga-2025-banat.txt"
+      ]
+    },
+    {
+      "id": "varga-2024-oscar-ii-romania",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Attila Carol Varga"
+      ],
+      "titulo": "King Oscar II of Sweden and his connections with the Romanian freemasonry",
+      "ano": 2024,
+      "idioma": "en",
+      "periodico": "Swedish Journal of Romanian Studies",
+      "url": "https://journals.lub.lu.se/sjrs/article/view/25931",
+      "temas": [
+        "personalidades",
+        "potencias"
+      ],
+      "paises": [
+        "se",
+        "ro"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY 4.0",
+      "status_verificacao": "copiado",
+      "resumo": "Trata das relações entre as maçonarias sueca e romena promovidas pelo rei Óscar II, feito membro honorário da Grande Loja Nacional da Romênia em sua visita a Bucareste em 1885.",
+      "evidencias": [
+        "https://journals.lub.lu.se/sjrs/article/view/25931"
+      ],
+      "identificadores": {
+        "doi": "10.35824/sjrs.v7i2.25931"
+      },
+      "volume": "7(2)",
+      "paginas": "156-163",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/varga-2024-oscar-ii-romania.pdf",
+        "txt/varga-2024-oscar-ii-romania.txt"
+      ]
+    },
+    {
+      "id": "savchenko-2024-ukraine",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Viktor Savchenko",
+        "Vira Kudlach"
+      ],
+      "titulo": "Masonic Movement in Central and Southern Ukraine in the 19th century: Loss of Hopes for Emancipation",
+      "ano": 2024,
+      "idioma": "uk",
+      "periodico": "Eminak",
+      "url": "https://www.eminak.net.ua/index.php/eminak/article/view/712",
+      "temas": [
+        "politica",
+        "sociabilidade"
+      ],
+      "paises": [
+        "ua",
+        "ru",
+        "pl"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY 4.0",
+      "status_verificacao": "copiado",
+      "resumo": "Estuda as lojas da Ucrânia central e meridional na primeira metade do século XIX e sua contribuição à cultura e às ideias de emancipação nacional, até a proibição de 1822 e a repressão posterior.",
+      "evidencias": [
+        "https://www.eminak.net.ua/index.php/eminak/article/view/712"
+      ],
+      "identificadores": {
+        "doi": "10.33782/eminak2024.2(46).712"
+      },
+      "paginas": "186-203",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/savchenko-2024-ukraine.pdf",
+        "txt/savchenko-2024-ukraine.txt"
+      ]
+    },
+    {
+      "id": "karosanidze-2024-afghani-egypt",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Tinatin Karosanidze"
+      ],
+      "titulo": "Jamal Ad-Din Al-Afghani and Freemasons in Egypt",
+      "ano": 2024,
+      "idioma": "en",
+      "periodico": "Free University Journal of Asian Studies",
+      "url": "https://journals.org.ge/index.php/asianstudies/article/view/185",
+      "temas": [
+        "politica",
+        "personalidades",
+        "religiao"
+      ],
+      "paises": [
+        "eg"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "C",
+      "acesso": "aberto",
+      "licenca": "acesso aberto",
+      "status_verificacao": "copiado",
+      "resumo": "Aborda a atuação política de lojas no Egito do século XIX e a passagem do reformista muçulmano Jamal al-Din al-Afghani por elas, ligada à oposição ao quediva e à influência europeia.",
+      "evidencias": [
+        "https://journals.org.ge/index.php/asianstudies/article/view/185"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/karosanidze-2024-afghani-egypt.pdf",
+        "txt/karosanidze-2024-afghani-egypt.txt"
+      ]
+    },
+    {
+      "id": "rekasiute-2025-lithuanian-press",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Kotryna Rekašiūtė"
+      ],
+      "titulo": "„The Fellowship of Compassion“, or Freemasons in late 19th – early 20th Century Lithuanian Periodical Press",
+      "ano": 2025,
+      "idioma": "lt",
+      "periodico": "Knygotyra",
+      "url": "https://www.zurnalai.vu.lt/knygotyra/article/view/42846",
+      "temas": [
+        "antimaconaria",
+        "sociabilidade"
+      ],
+      "paises": [
+        "lt",
+        "ru",
+        "de"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY 4.0",
+      "status_verificacao": "copiado",
+      "resumo": "Levanta e analisa as publicações sobre maçons na imprensa lituana do fim do século XIX e início do XX, na Lituânia prussiana e nas terras lituanas do Império Russo, e a imagem da maçonaria que elas transmitiam.",
+      "evidencias": [
+        "https://www.zurnalai.vu.lt/knygotyra/article/view/42846"
+      ],
+      "identificadores": {
+        "doi": "10.15388/Knygotyra.2025.84.4"
+      },
+      "volume": "84",
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/rekasiute-2025-lithuanian-press.pdf",
+        "txt/rekasiute-2025-lithuanian-press.txt"
+      ]
+    },
+    {
+      "id": "rahiminia-2022-persia-cagiara",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Dariush Rahiminia"
+      ],
+      "titulo": "La luce nell'oblio: illuminismo e massoneria nella Persia cagiara",
+      "ano": 2022,
+      "idioma": "it",
+      "periodico": "Cambio. Rivista sulle trasformazioni sociali",
+      "url": "https://oaj.fupress.net/index.php/cambio/article/view/10642",
+      "temas": [
+        "politica",
+        "sociabilidade"
+      ],
+      "paises": [
+        "ir"
+      ],
+      "periodos": [
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY 4.0",
+      "status_verificacao": "copiado",
+      "resumo": "Estuda a recepção do Iluminismo e da maçonaria na Pérsia qajar, das faramush-khaneh de Malkam Khan às lojas ligadas à Revolução Constitucional de 1906.",
+      "evidencias": [
+        "https://oaj.fupress.net/index.php/cambio/article/view/10642"
+      ],
+      "identificadores": {
+        "doi": "10.36253/cambio-10642"
+      },
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/rahiminia-2022-persia-cagiara.pdf",
+        "txt/rahiminia-2022-persia-cagiara.txt"
+      ]
     }
   ]
 }
