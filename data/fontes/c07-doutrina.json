@@ -1262,6 +1262,495 @@
         "txt/guillemain-1774-maconnerie-femmes.txt",
         "pdf/guillemain-1774-maconnerie-femmes.pdf"
       ]
+    },
+    {
+      "id": "ferrer-benimeli-2018-mujeres-masoneria-espanola",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "José Antonio Ferrer Benimeli"
+      ],
+      "titulo": "Las mujeres y la masonería española en el siglo XIX",
+      "ano": 2018,
+      "idioma": "es",
+      "url": "https://doi.org/10.15517/rehmlac.v10i2.35680",
+      "temas": [
+        "mulheres"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-SA (REHMLAC+)",
+      "resumo": "Panorama do principal historiador da maçonaria espanhola sobre a presença feminina nas lojas espanholas oitocentistas: lojas de adoção, iniciações isoladas e debates internos sobre a admissão de mulheres.",
+      "evidencias": [
+        "https://doi.org/10.15517/rehmlac.v10i2.35680"
+      ],
+      "periodico": "REHMLAC+ (Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña)",
+      "paises": [
+        "es"
+      ],
+      "identificadores": {
+        "doi": "10.15517/rehmlac.v10i2.35680"
+      },
+      "volume": "10(2)",
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/ferrer-benimeli-2018-mujeres-masoneria-espanola.txt",
+        "pdf/ferrer-benimeli-2018-mujeres-masoneria-espanola.pdf"
+      ]
+    },
+    {
+      "id": "hottinger-2017-masonas-republicanas",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Sylvia Hottinger Craig"
+      ],
+      "titulo": "Resenha de: Natividad Ortiz Albear, Masonas y republicanas. La historia de 5 mujeres comprometidas con los valores republicanos y la masonería (Oviedo: EntreAcacias, 2017)",
+      "ano": 2017,
+      "idioma": "es",
+      "url": "https://doi.org/10.15517/rehmlac.v9i2.30451",
+      "temas": [
+        "mulheres",
+        "politica",
+        "personalidades"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-SA (REHMLAC+)",
+      "resumo": "Resenha do livro de Natividad Ortiz Albear (2017) que reconstitui as biografias de cinco mulheres iniciadas na maçonaria espanhola e engajadas no republicanismo, ligando maçonaria feminina, laicismo e emancipação política; pista para a obra, que é comercial.",
+      "evidencias": [
+        "https://doi.org/10.15517/rehmlac.v9i2.30451"
+      ],
+      "periodico": "REHMLAC+ (Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña)",
+      "paises": [
+        "es"
+      ],
+      "identificadores": {
+        "doi": "10.15517/rehmlac.v9i2.30451"
+      },
+      "volume": "9(2)",
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/hottinger-2017-masonas-republicanas.txt",
+        "pdf/hottinger-2017-masonas-republicanas.pdf"
+      ]
+    },
+    {
+      "id": "ruiz-sanchez-2019-iglesia-masoneria",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "José-Leonardo Ruiz Sánchez"
+      ],
+      "titulo": "A vueltas con el enfrentamiento entre la Iglesia católica y la masonería: una mirada desde los documentos pontificios",
+      "ano": 2019,
+      "idioma": "es",
+      "url": "https://doi.org/10.15517/rehmlac.v11i1.37158",
+      "temas": [
+        "religiao",
+        "historiografia"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-SA (REHMLAC+)",
+      "resumo": "Releitura historiográfica do conflito Igreja × maçonaria a partir do corpus de documentos papais dos séculos XVIII–XX, discutindo motivos doutrinais e políticos das condenações.",
+      "evidencias": [
+        "https://doi.org/10.15517/rehmlac.v11i1.37158"
+      ],
+      "periodico": "REHMLAC+ (Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña)",
+      "paises": [
+        "va",
+        "es",
+        "mundo"
+      ],
+      "identificadores": {
+        "doi": "10.15517/rehmlac.v11i1.37158"
+      },
+      "volume": "11(1)",
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/ruiz-sanchez-2019-iglesia-masoneria.txt",
+        "pdf/ruiz-sanchez-2019-iglesia-masoneria.pdf"
+      ]
+    },
+    {
+      "id": "chanta-2018-prensa-catolica-salvador",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "René Antonio Chanta Martínez"
+      ],
+      "titulo": "Antilaicismo, anticomunismo y críticas a la masonería en la prensa católica salvadoreña",
+      "ano": 2018,
+      "idioma": "es",
+      "url": "https://doi.org/10.15517/rehmlac.v10i1.32419",
+      "temas": [
+        "religiao",
+        "antimaconaria"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-SA (REHMLAC+)",
+      "resumo": "Analisa como a imprensa católica de El Salvador associou maçonaria, laicismo e comunismo no séc. XX; caso latino-americano da recepção das condenações eclesiásticas.",
+      "evidencias": [
+        "https://doi.org/10.15517/rehmlac.v10i1.32419"
+      ],
+      "periodico": "REHMLAC+ (Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña)",
+      "paises": [
+        "sv"
+      ],
+      "identificadores": {
+        "doi": "10.15517/rehmlac.v10i1.32419"
+      },
+      "volume": "10(1)",
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/chanta-2018-prensa-catolica-salvador.txt",
+        "pdf/chanta-2018-prensa-catolica-salvador.pdf"
+      ]
+    },
+    {
+      "id": "khalturin-2015-kabbalah-russian-freemasonry",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Yuriy Khalturin"
+      ],
+      "titulo": "Kabbalah, Symbolism and Metaphysics in Russian Freemasonry of the XVIIIth–XIXth centuries",
+      "ano": 2015,
+      "idioma": "en",
+      "url": "https://doi.org/10.15517/rehmlac.v7i1.19946",
+      "temas": [
+        "esoterismo",
+        "simbolismo"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-SA (REHMLAC+)",
+      "resumo": "Estuda a recepção da cabala e do simbolismo hermético na maçonaria russa (rosacrucianos de Novikov, martinismo), mostrando a vertente esotérica dos altos graus no Império Russo.",
+      "evidencias": [
+        "https://doi.org/10.15517/rehmlac.v7i1.19946"
+      ],
+      "periodico": "REHMLAC+ (Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña)",
+      "paises": [
+        "ru"
+      ],
+      "identificadores": {
+        "doi": "10.15517/rehmlac.v7i1.19946"
+      },
+      "volume": "7(1)",
+      "lote": "c07-doutrina",
+      "status_verificacao": "conferido_web",
+      "observacoes": "Cópia falhou em 2026-11-03: curl https://doi.org/10.15517/rehmlac.v7i1.19946: curl: (22) The requested URL returned error: 503"
+    },
+    {
+      "id": "ortiz-albear-2010-mujeres-rito-adopcion",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Natividad Ortiz Albear"
+      ],
+      "titulo": "La integración de las mujeres en la masonería española a través del rito de adopción (1868–1936)",
+      "ano": 2010,
+      "idioma": "es",
+      "url": "https://revistas.usal.es/index.php/0213-2087/article/view/6024",
+      "temas": [
+        "mulheres",
+        "ritos"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (Ediciones Universidad de Salamanca)",
+      "resumo": "Estuda as lojas de adoção na Espanha entre o Sexênio Democrático e a Guerra Civil: estrutura, graus, perfil social das iniciadas e limites da integração feminina.",
+      "evidencias": [
+        "https://revistas.usal.es/index.php/0213-2087/article/view/6024"
+      ],
+      "periodico": "Studia Historica. Historia Contemporánea",
+      "paises": [
+        "es"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/ortiz-albear-2010-mujeres-rito-adopcion.txt",
+        "pdf/ortiz-albear-2010-mujeres-rito-adopcion.pdf"
+      ]
+    },
+    {
+      "id": "mola-2010-masoneria-religion-escuela-italiana",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Aldo A. Mola"
+      ],
+      "titulo": "Masonería y enseñanza de la Religión en la escuela italiana durante la época liberal",
+      "ano": 2010,
+      "idioma": "es",
+      "url": "https://revistas.usal.es/index.php/0212-0267/article/view/6892",
+      "temas": [
+        "religiao",
+        "politica",
+        "principios"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (Ediciones Universidad de Salamanca)",
+      "resumo": "Mola, historiador do Grande Oriente d'Italia, analisa a atuação maçônica na disputa pelo ensino religioso nas escolas italianas (1860–1922), eixo da laicidade e do conflito com a Igreja.",
+      "evidencias": [
+        "https://revistas.usal.es/index.php/0212-0267/article/view/6892"
+      ],
+      "periodico": "Historia de la Educación",
+      "paises": [
+        "it"
+      ],
+      "potencias": [
+        "goi"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/mola-2010-masoneria-religion-escuela-italiana.txt",
+        "pdf/mola-2010-masoneria-religion-escuela-italiana.pdf"
+      ]
+    },
+    {
+      "id": "fernandez-cabrelli-2010-iglesia-masoneria-uruguay",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Alfonso Fernández Cabrelli"
+      ],
+      "titulo": "Iglesia y Masonería en la reforma de la escuela uruguaya",
+      "ano": 2010,
+      "idioma": "es",
+      "url": "https://revistas.usal.es/index.php/0212-0267/article/view/6893",
+      "temas": [
+        "religiao",
+        "politica"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (Ediciones Universidad de Salamanca)",
+      "resumo": "Trata do confronto entre Igreja e maçonaria na reforma escolar laica do Uruguai (José Pedro Varela, séc. XIX), exemplo do papel maçônico na laicização educacional latino-americana.",
+      "evidencias": [
+        "https://revistas.usal.es/index.php/0212-0267/article/view/6893"
+      ],
+      "periodico": "Historia de la Educación",
+      "paises": [
+        "uy"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/fernandez-cabrelli-2010-iglesia-masoneria-uruguay.txt",
+        "pdf/fernandez-cabrelli-2010-iglesia-masoneria-uruguay.pdf"
+      ]
+    },
+    {
+      "id": "rodrigues-1994-semana-teologia-igreja-maconaria",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Abílio de Sousa Rodrigues"
+      ],
+      "titulo": "Semana de Teologia do Porto sobre «Igreja e Maçonaria»",
+      "ano": 1994,
+      "idioma": "pt",
+      "url": "https://revistas.ucp.pt/index.php/lusitaniasacra/article/view/7838",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (Universidade Católica Portuguesa)",
+      "resumo": "Relato da semana teológica do Porto dedicada à relação Igreja–maçonaria, com as posições de teólogos e de representantes maçônicos portugueses após a Declaração da CDF de 1983.",
+      "evidencias": [
+        "https://revistas.ucp.pt/index.php/lusitaniasacra/article/view/7838"
+      ],
+      "periodico": "Lusitania Sacra",
+      "paises": [
+        "pt"
+      ],
+      "identificadores": {
+        "doi": "10.34632/lusitaniasacra.1994.7838"
+      },
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/rodrigues-1994-semana-teologia-igreja-maconaria.txt",
+        "pdf/rodrigues-1994-semana-teologia-igreja-maconaria.pdf"
+      ]
+    },
+    {
+      "id": "willen-2015-resenha-heidle-snoek-womens-agency",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Marcus Willén"
+      ],
+      "titulo": "Resenha de: Alexandra Heidle & Jan A. M. Snoek (eds.), Women's Agency and Ritual in Mixed and Female Masonic Orders",
+      "ano": 2015,
+      "idioma": "en",
+      "url": "https://septentrio.uit.no/index.php/1700/article/view/3295",
+      "temas": [
+        "mulheres",
+        "ritual"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY",
+      "resumo": "Resenha da coletânea de Heidle e Snoek (Brill, 2008) sobre agência feminina e ritual em ordens maçônicas mistas e femininas; serve de pista para a obra, que é comercial.",
+      "evidencias": [
+        "https://septentrio.uit.no/index.php/1700/article/view/3295"
+      ],
+      "periodico": "Sjuttonhundratal",
+      "paises": [
+        "mundo"
+      ],
+      "identificadores": {
+        "doi": "10.7557/4.3295"
+      },
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/willen-2015-resenha-heidle-snoek-womens-agency.txt",
+        "pdf/willen-2015-resenha-heidle-snoek-womens-agency.pdf"
+      ]
+    },
+    {
+      "id": "bakker-2015-resenha-crescent-compass",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Justine Bakker"
+      ],
+      "titulo": "Book Review: Angel Millar, The Crescent and the Compass: Islam, Freemasonry, Esotericism and Revolution in the Modern Age",
+      "ano": 2015,
+      "idioma": "en",
+      "url": "https://correspondencesjournal.com/ojs/ojs/index.php/home/article/download/33/34",
+      "temas": [
+        "religiao",
+        "esoterismo"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND",
+      "resumo": "Resenha acadêmica do livro de Angel Millar sobre islã, maçonaria e esoterismo (Irã, Turquia, Egito); aponta os limites da obra e serve de pista sobre maçonaria no mundo islâmico.",
+      "evidencias": [
+        "https://correspondencesjournal.com/ojs/ojs/index.php/home/article/download/33/34"
+      ],
+      "periodico": "Correspondences: Journal for the Study of Esotericism",
+      "paises": [
+        "tr",
+        "ir",
+        "eg"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/bakker-2015-resenha-crescent-compass.txt",
+        "pdf/bakker-2015-resenha-crescent-compass.pdf"
+      ]
+    },
+    {
+      "id": "deschamps-2017-resenha-femmes-lumieres",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Simon Deschamps"
+      ],
+      "titulo": "Resenha de: Cécile Révauger e Jacques Charles Lemaire (dir.), Les Femmes et la Franc-maçonnerie des Lumières à nos jours",
+      "ano": 2017,
+      "idioma": "fr",
+      "url": "https://journals.openedition.org/1718/933",
+      "temas": [
+        "mulheres",
+        "historiografia"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND (OpenEdition)",
+      "resumo": "Resenha da coletânea organizada por Cécile Révauger e J. C. Lemaire (2013) sobre mulheres e maçonaria do séc. XVIII ao presente; resume as contribuições e serve de pista para a obra.",
+      "evidencias": [
+        "https://journals.openedition.org/1718/933"
+      ],
+      "periodico": "XVII-XVIII. Revue de la Société d'études anglo-américaines des XVIIe et XVIIIe siècles",
+      "paises": [
+        "fr",
+        "gb"
+      ],
+      "identificadores": {
+        "doi": "10.4000/1718.933"
+      },
+      "lote": "c07-doutrina",
+      "status_verificacao": "conferido_web",
+      "observacoes": "OpenEdition exige desafio anti-robô (Anubis): cópia não feita, não contornar."
+    },
+    {
+      "id": "leroyer-2023-secret-maconnique",
+      "tipo": "tese",
+      "categoria": "academica",
+      "autores": [
+        "Dominique Leroyer"
+      ],
+      "titulo": "D'un secret qui n'en serait pas un... : paradoxes communicationnels du \"secret maçonnique\"",
+      "ano": 2023,
+      "idioma": "fr",
+      "url": "https://theses.hal.science/tel-04389984",
+      "temas": [
+        "principios",
+        "sociabilidade"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (HAL)",
+      "resumo": "Tese de doutorado em ciências da informação e comunicação sobre o segredo maçônico como dispositivo comunicacional paradoxal (segredo proclamado, conteúdos publicados); útil para o verbete sobre segredo/sigilo.",
+      "evidencias": [
+        "https://theses.hal.science/tel-04389984"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "observacoes": "HAL exige desafio anti-robô (Anubis): cópia não feita, não contornar. Baixar manualmente (ver COLETA.md).",
+      "lote": "c07-doutrina",
+      "status_verificacao": "conferido_web"
+    },
+    {
+      "id": "brown-peroy-2016-secret-angleterre",
+      "tipo": "tese",
+      "categoria": "academica",
+      "autores": [
+        "Amanda Brown-Peroy"
+      ],
+      "titulo": "La franc-maçonnerie et la notion de secret dans l'Angleterre du XXe siècle : de la Seconde Guerre mondiale à nos jours",
+      "ano": 2016,
+      "idioma": "fr",
+      "url": "https://theses.hal.science/tel-01900353",
+      "temas": [
+        "principios",
+        "religiao",
+        "sociabilidade"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (HAL)",
+      "resumo": "Tese sobre a noção de segredo na maçonaria inglesa (UGLE) desde 1939: polêmicas públicas, abertura institucional dos anos 1980–2000 e relação com igrejas e imprensa.",
+      "evidencias": [
+        "https://theses.hal.science/tel-01900353"
+      ],
+      "paises": [
+        "gb"
+      ],
+      "potencias": [
+        "ugle"
+      ],
+      "observacoes": "HAL exige desafio anti-robô (Anubis): cópia não feita.",
+      "lote": "c07-doutrina",
+      "status_verificacao": "conferido_web"
     }
   ]
 }
