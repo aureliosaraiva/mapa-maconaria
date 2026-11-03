@@ -2,6 +2,194 @@
   "lote": "c05-lusofono",
   "fontes": [
     {
+      "id": "acioly-paz-silva-2016-maconaria-republica",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Augusto César Acioly Paz Silva"
+      ],
+      "titulo": "Maçonaria e República: confrontos, conflitos, tensões e atuação sociopolítica de maçons em Pernambuco nas décadas de 1930 e 1940",
+      "ano": 2016,
+      "idioma": "pt",
+      "temas": [
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Discute confrontos e tensões entre maçonaria e República no Brasil, com foco na atuação social de maçons no início do regime republicano.",
+      "url": "https://doi.org/10.15517/rehmlac.v7i2.22766",
+      "identificadores": {
+        "doi": "10.15517/rehmlac.v7i2.22766"
+      },
+      "evidencias": [
+        "https://doi.org/10.15517/rehmlac.v7i2.22766"
+      ],
+      "periodico": "Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+      "volume": "7(2)",
+      "lote": "c05-lusofono",
+      "status_verificacao": "conferido_web"
+    },
+    {
+      "id": "alberton-1981-igreja-maconaria",
+      "tipo": "artigo",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Valério Alberton"
+      ],
+      "titulo": "Igreja e Maçonaria",
+      "ano": 1981,
+      "idioma": "pt",
+      "temas": [
+        "religiao"
+      ],
+      "paises": [
+        "br",
+        "mundo"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY 4.0",
+      "resumo": "Artigo de 1981 na REB sobre a posição da Igreja diante da maçonaria no período pós-conciliar, às vésperas do novo Código de Direito Canônico (1983) e da declaração da CDF.",
+      "url": "https://doi.org/10.29386/reb.v41i163.3705",
+      "identificadores": {
+        "doi": "10.29386/reb.v41i163.3705"
+      },
+      "evidencias": [
+        "https://doi.org/10.29386/reb.v41i163.3705"
+      ],
+      "periodico": "Revista Eclesiástica Brasileira",
+      "volume": "41(163)",
+      "paginas": "510-521",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/alberton-1981-igreja-maconaria.html",
+        "txt/alberton-1981-igreja-maconaria.txt"
+      ]
+    },
+    {
+      "id": "almeri-2008-maconaria-ditadura",
+      "tipo": "dissertacao",
+      "categoria": "tese",
+      "autores": [
+        "Tatiana Martins Alméri"
+      ],
+      "titulo": "Posicionamentos da instituição maçônica no processo político ditatorial brasileiro (1964): da visão liberal ao conservadorismo",
+      "ano": null,
+      "idioma": "pt",
+      "temas": [
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (repositório institucional / revista OA; direitos dos autores)",
+      "resumo": "Dissertação de mestrado em Sociologia (PUC-SP) sobre as posições oficiais das potências maçônicas diante do golpe de 1964 e da ditadura, mostrando a passagem de um discurso liberal ao conservadorismo.",
+      "url": "https://repositorio.pucsp.br/jspui/bitstream/handle/3836/1/Tatiana%20Martins%20Almeri.pdf",
+      "evidencias": [
+        "https://repositorio.pucsp.br/jspui/bitstream/handle/3836/1/Tatiana%20Martins%20Almeri.pdf"
+      ],
+      "potencias": [
+        "gob",
+        "cmsb"
+      ],
+      "observacoes": "Ano a confirmar na folha de rosto (download recusado pelo repositório na coleta automática).",
+      "editora": "Pontifícia Universidade Católica de São Paulo",
+      "local": "São Paulo",
+      "lote": "c05-lusofono",
+      "status_verificacao": "conferido_web"
+    },
+    {
+      "id": "almeri-2013-entrevista-ditadura",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Tatiana Martins Alméri"
+      ],
+      "titulo": "Posicionamento da instituição maçônica no processo político ditatorial brasileiro (1964): da visão liberal ao conservadorismo",
+      "ano": 2013,
+      "idioma": "pt",
+      "temas": [
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-SA (REHMLAC+, Univ. de Costa Rica)",
+      "resumo": "Apresentação/entrevista na REHMLAC+ sobre a dissertação de Alméri (PUC-SP): a cúpula maçônica apoiou oficialmente o golpe e o regime de 1964, embora parte dos maçons divergisse.",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/4898301.pdf",
+      "evidencias": [
+        "https://dialnet.unirioja.es/descarga/articulo/4898301.pdf"
+      ],
+      "potencias": [
+        "gob",
+        "cmsb"
+      ],
+      "volume": "5(1)",
+      "periodico": "REHMLAC+ (Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña)",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/almeri-2013-entrevista-ditadura.pdf",
+        "txt/almeri-2013-entrevista-ditadura.txt"
+      ]
+    },
+    {
+      "id": "andrade-2010-vocabulario-politico-1817",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Breno Gontijo Andrade"
+      ],
+      "titulo": "VOCABULÁRIO POLÍTICO E MAÇONARIA NA REVOLUÇÃO PERNAMBUCANA DE 1817",
+      "ano": 2010,
+      "idioma": "pt",
+      "temas": [
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Estudo do vocabulário político associado à maçonaria nos documentos da Revolução Pernambucana de 1817.",
+      "url": "https://doi.org/10.5216/o.v10i1.9519",
+      "identificadores": {
+        "doi": "10.5216/o.v10i1.9519"
+      },
+      "evidencias": [
+        "https://doi.org/10.5216/o.v10i1.9519"
+      ],
+      "periodico": "OPSIS",
+      "volume": "10(1)",
+      "lote": "c05-lusofono",
+      "status_verificacao": "conferido_web"
+    },
+    {
       "id": "anonimo-1822-veo-levantado",
       "tipo": "livro",
       "categoria": "antimaconica",
@@ -165,6 +353,329 @@
       "acervo": [
         "pdf/argus-1916-maconaria-portugal.pdf",
         "txt/argus-1916-maconaria-portugal.txt"
+      ]
+    },
+    {
+      "id": "arnaut-2017-introducao-maconaria",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "António Arnaut"
+      ],
+      "titulo": "Introdução à Maçonaria",
+      "ano": 2017,
+      "idioma": "pt",
+      "temas": [
+        "principios",
+        "potencias"
+      ],
+      "paises": [
+        "pt",
+        "mundo"
+      ],
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "confiabilidade": "B",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Introdução à maçonaria por António Arnaut, ex-grão-mestre do GOL e político socialista, publicada pela Imprensa da Universidade de Coimbra. Expõe a visão do GOL (adogmática) sobre história e princípios.",
+      "url": "https://doi.org/10.14195/978-989-26-1328-4",
+      "identificadores": {
+        "doi": "10.14195/978-989-26-1328-4"
+      },
+      "evidencias": [
+        "https://doi.org/10.14195/978-989-26-1328-4"
+      ],
+      "editora": "Imprensa da Universidade de Coimbra",
+      "potencias": [
+        "gol"
+      ],
+      "observacoes": "Verificar se a IUC disponibiliza PDF aberto (UC Digitalis).",
+      "lote": "c05-lusofono",
+      "status_verificacao": "conferido_web"
+    },
+    {
+      "id": "arriada-tambara-2018-maconaria-educacao",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Eduardo Arriada",
+        "Elomar Tambara"
+      ],
+      "titulo": "Maçonaria e Educação - Poucos mas bons",
+      "ano": 2018,
+      "idioma": "pt",
+      "temas": [
+        "sociabilidade"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918",
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-ND 4.0",
+      "resumo": "Analisa a elitização da maçonaria brasileira e sua relação com a educação (escolas de lojas, projetos educacionais), com casos do Rio Grande do Sul.",
+      "url": "https://doi.org/10.14393/che-v17n2-2018-10",
+      "identificadores": {
+        "doi": "10.14393/che-v17n2-2018-10"
+      },
+      "evidencias": [
+        "https://doi.org/10.14393/che-v17n2-2018-10"
+      ],
+      "periodico": "Cadernos de História da Educação",
+      "volume": "17(2)",
+      "paginas": "439",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/arriada-tambara-2018-maconaria-educacao.html",
+        "txt/arriada-tambara-2018-maconaria-educacao.txt"
+      ]
+    },
+    {
+      "id": "aslan-1973-enigma-genese",
+      "tipo": "artigo",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Nicola Aslan"
+      ],
+      "titulo": "O Enigma da Gênese da Maçonaria Especulativa",
+      "ano": 1973,
+      "idioma": "pt",
+      "temas": [
+        "origens"
+      ],
+      "paises": [
+        "mundo"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "confiabilidade": "C",
+      "acesso": "aberto",
+      "licenca": "CC BY 4.0",
+      "resumo": "Artigo do historiador maçom Nicola Aslan, publicado na revista católica REB em 1973, sobre o problema da passagem da maçonaria operativa à especulativa. Sinal de diálogo católico-maçônico pós-conciliar no Brasil.",
+      "url": "https://doi.org/10.29386/reb.v33i131.4275",
+      "identificadores": {
+        "doi": "10.29386/reb.v33i131.4275"
+      },
+      "evidencias": [
+        "https://doi.org/10.29386/reb.v33i131.4275"
+      ],
+      "periodico": "Revista Eclesiástica Brasileira",
+      "volume": "33(131)",
+      "paginas": "675-690",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/aslan-1973-enigma-genese.html",
+        "txt/aslan-1973-enigma-genese.txt"
+      ]
+    },
+    {
+      "id": "assis-2010-etnografia-pedreiros-livres",
+      "tipo": "dissertacao",
+      "categoria": "tese",
+      "autores": [
+        "Manoel Wellington de Assis"
+      ],
+      "titulo": "A etnografia dos pedreiros livres da Loja Cavaleiros de Salomão",
+      "ano": 2010,
+      "idioma": "pt",
+      "temas": [
+        "sociabilidade",
+        "ritual"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (repositório institucional / revista OA; direitos dos autores)",
+      "resumo": "Dissertação em Ciências das Religiões (UFPB, 2010) que faz etnografia de uma loja de João Pessoa, descrevendo vida de loja, sociabilidade e percepção dos rituais pelos membros.",
+      "url": "https://repositorio.ufpb.br/jspui/bitstream/tede/4171/1/arquivototal.pdf",
+      "evidencias": [
+        "https://repositorio.ufpb.br/jspui/handle/tede/4171"
+      ],
+      "editora": "Universidade Federal da Paraíba",
+      "local": "João Pessoa",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/assis-2010-etnografia-pedreiros-livres.pdf",
+        "txt/assis-2010-etnografia-pedreiros-livres.txt"
+      ]
+    },
+    {
+      "id": "azevedo-1997-maconaria-historia-historiografia",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "CELIA M. MARINHO DE AZEVEDO"
+      ],
+      "titulo": "MAÇONARIA: HISTÓRIA E HISTORIOGRAFIA",
+      "ano": 1997,
+      "idioma": "pt",
+      "temas": [
+        "historiografia"
+      ],
+      "paises": [
+        "br",
+        "mundo"
+      ],
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Balanço historiográfico de Célia Marinho de Azevedo (Revista USP, dossiê de 1997) sobre a pesquisa acerca da maçonaria, propondo tratá-la como objeto acadêmico e não só de memorialistas maçons ou antimaçons.",
+      "url": "https://doi.org/10.11606/issn.2316-9036.v0i32p178-189",
+      "identificadores": {
+        "doi": "10.11606/issn.2316-9036.v0i32p178-189"
+      },
+      "evidencias": [
+        "https://doi.org/10.11606/issn.2316-9036.v0i32p178-189"
+      ],
+      "periodico": "Revista USP",
+      "volume": "0(32)",
+      "paginas": "178",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/azevedo-1997-maconaria-historia-historiografia.html",
+        "pdf/azevedo-1997-maconaria-historia-historiografia.pdf",
+        "txt/azevedo-1997-maconaria-historia-historiografia.txt"
+      ]
+    },
+    {
+      "id": "barata-1994-maconaria-ilustracao",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Alexandre M. Barata"
+      ],
+      "titulo": "A maçonaria e a ilustração brasileira",
+      "ano": 1994,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "sociabilidade"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918",
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Alexandre Barata reavalia a atuação da maçonaria brasileira no fim do séc. XIX e início do XX (laicização, ciência, ensino), contestando a tese de sua irrelevância depois da Questão Religiosa. Síntese de \"Luzes e sombras\".",
+      "url": "https://doi.org/10.1590/s0104-59701994000100007",
+      "identificadores": {
+        "doi": "10.1590/s0104-59701994000100007"
+      },
+      "evidencias": [
+        "https://doi.org/10.1590/s0104-59701994000100007"
+      ],
+      "periodico": "História, Ciências, Saúde-Manguinhos",
+      "volume": "1(1)",
+      "paginas": "78-99",
+      "lote": "c05-lusofono",
+      "status_verificacao": "conferido_web"
+    },
+    {
+      "id": "barata-2002-maconaria-sociabilidade-independencia",
+      "tipo": "tese",
+      "categoria": "tese",
+      "autores": [
+        "Alexandre Mansur Barata"
+      ],
+      "titulo": "Maçonaria, sociabilidade ilustrada e independência (Brasil, 1790-1822)",
+      "ano": 2002,
+      "idioma": "pt",
+      "temas": [
+        "sociabilidade",
+        "politica"
+      ],
+      "paises": [
+        "br",
+        "pt"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Tese de doutorado (Unicamp, 2002) de Alexandre Mansur Barata sobre a maçonaria como forma de sociabilidade ilustrada no mundo luso-brasileiro de 1790 a 1822 e seu papel na independência. Base da obra publicada em 2006; referência obrigatória.",
+      "url": "https://doi.org/10.47749/t/unicamp.2002.236160",
+      "identificadores": {
+        "doi": "10.47749/t/unicamp.2002.236160"
+      },
+      "evidencias": [
+        "https://doi.org/10.47749/t/unicamp.2002.236160"
+      ],
+      "editora": "Universidade Estadual de Campinas",
+      "potencias": [
+        "gob",
+        "gol"
+      ],
+      "local": "Campinas",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/barata-2002-maconaria-sociabilidade-independencia.html",
+        "txt/barata-2002-maconaria-sociabilidade-independencia.txt"
+      ]
+    },
+    {
+      "id": "barbero-2021-tabuleiro-esquadro",
+      "tipo": "tese",
+      "categoria": "tese",
+      "autores": [
+        "Rafael Bedenik Barbero"
+      ],
+      "titulo": "O tabuleiro, o esquadro e as tintas: sociabilidade maçônica na década de 1870",
+      "ano": 2021,
+      "idioma": "pt",
+      "temas": [
+        "sociabilidade",
+        "religiao"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "C",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (repositório institucional / revista OA; direitos dos autores)",
+      "resumo": "Trabalho de conclusão de curso (UFS, 2021) sobre a sociabilidade maçônica nos anos 1870, a partir da imprensa; nível de graduação.",
+      "url": "https://ri.ufs.br/bitstream/riufs/16171/2/Rafael_Bedenik_Barbero.pdf",
+      "evidencias": [
+        "https://ri.ufs.br/bitstream/riufs/16171/2/Rafael_Bedenik_Barbero.pdf"
+      ],
+      "observacoes": "Monografia de graduação (tipo tese por falta de categoria mais precisa).",
+      "editora": "Universidade Federal de Sergipe",
+      "local": "São Cristóvão",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/barbero-2021-tabuleiro-esquadro.pdf",
+        "txt/barbero-2021-tabuleiro-esquadro.txt"
       ]
     },
     {
@@ -398,6 +909,91 @@
       ]
     },
     {
+      "id": "carvalho-2010-pequena-historia",
+      "tipo": "artigo",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "William Almeida de Carvalho"
+      ],
+      "titulo": "Pequena história da maçonaria no Brasil",
+      "ano": 2010,
+      "idioma": "pt",
+      "temas": [
+        "potencias",
+        "regularidade",
+        "historiografia"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1814_1870",
+        "p1871_1918",
+        "p1919_1945",
+        "p1946_1989",
+        "p1990_hoje"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-SA (REHMLAC+, Univ. de Costa Rica)",
+      "resumo": "Panorama da maçonaria brasileira a partir do GOB, com ênfase nas cisões de 1927 (Grandes Lojas) e 1973 (Grandes Orientes independentes/COMAB), atribuídas sobretudo a disputas eleitorais e não doutrinárias. Autor é pesquisador maçom ligado ao GOB.",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/3268641.pdf",
+      "evidencias": [
+        "https://dialnet.unirioja.es/descarga/articulo/3268641.pdf"
+      ],
+      "potencias": [
+        "gob",
+        "cmsb",
+        "comab"
+      ],
+      "volume": "2(1)",
+      "periodico": "REHMLAC+ (Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña)",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/carvalho-2010-pequena-historia.pdf",
+        "txt/carvalho-2010-pequena-historia.txt"
+      ]
+    },
+    {
+      "id": "cloclet-carvalho-2019-ultramontanismo",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Ana Rosa Cloclet da Silva",
+        "Thais Da Rocha Carvalho"
+      ],
+      "titulo": "Ultramontanismo, Maçonaria e Protestantismo no contexto da Questão Religiosa (1872-1875)",
+      "ano": 2019,
+      "idioma": "pt",
+      "temas": [
+        "religiao",
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Analisa a Questão Religiosa (1872–75) no cruzamento de ultramontanismo, maçonaria e protestantismo, como etapa da reconfiguração entre religioso e secular no Brasil.",
+      "url": "https://doi.org/10.15603/2176-1078/er.v33n2p27-53",
+      "identificadores": {
+        "doi": "10.15603/2176-1078/er.v33n2p27-53"
+      },
+      "evidencias": [
+        "https://doi.org/10.15603/2176-1078/er.v33n2p27-53"
+      ],
+      "periodico": "Estudos de Religião",
+      "volume": "33(2)",
+      "paginas": "27",
+      "lote": "c05-lusofono",
+      "status_verificacao": "conferido_web"
+    },
+    {
       "id": "cmp-1859-constituicao",
       "tipo": "documento",
       "categoria": "oficial_potencia",
@@ -471,6 +1067,93 @@
       "acervo": [
         "pdf/coelho-monteiro-1823-maconismo-desmascarado.pdf",
         "txt/coelho-monteiro-1823-maconismo-desmascarado.txt"
+      ]
+    },
+    {
+      "id": "colussi-2000-ensino-laico",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Eliane Lucia Colussi"
+      ],
+      "titulo": "A maçonaria brasileira e a defesa do ensino laico (século XIX)",
+      "ano": 2000,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "sociabilidade"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Eliane Colussi trata da defesa do ensino laico pela maçonaria brasileira no séc. XIX, ligando-a ao anticlericalismo e às escolas mantidas por lojas.",
+      "url": "https://doi.org/10.5433/2238-3018.2000v6n0p47",
+      "identificadores": {
+        "doi": "10.5433/2238-3018.2000v6n0p47"
+      },
+      "evidencias": [
+        "https://doi.org/10.5433/2238-3018.2000v6n0p47"
+      ],
+      "periodico": "História & Ensino",
+      "volume": "6(0)",
+      "paginas": "47",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/colussi-2000-ensino-laico.html",
+        "pdf/colussi-2000-ensino-laico.pdf",
+        "txt/colussi-2000-ensino-laico.txt"
+      ]
+    },
+    {
+      "id": "colussi-2003-secularizacao",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Eliane Lucia Colussi"
+      ],
+      "titulo": "Espaços de secularização no século XIX: a atuação da maçonaria no Brasil e no Uruguai",
+      "ano": 2003,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "religiao"
+      ],
+      "paises": [
+        "br",
+        "uy"
+      ],
+      "periodos": [
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Compara a atuação da maçonaria nos processos de secularização do Brasil e do Uruguai no séc. XIX, em perspectiva de conexões.",
+      "url": "https://doi.org/10.15448/1980-864x.2003.2.24021",
+      "identificadores": {
+        "doi": "10.15448/1980-864x.2003.2.24021"
+      },
+      "evidencias": [
+        "https://doi.org/10.15448/1980-864x.2003.2.24021"
+      ],
+      "periodico": "Estudos Ibero-Americanos",
+      "volume": "29(2)",
+      "paginas": "103",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/colussi-2003-secularizacao.html",
+        "pdf/colussi-2003-secularizacao.pdf",
+        "txt/colussi-2003-secularizacao.txt"
       ]
     },
     {
@@ -549,6 +1232,47 @@
       "acervo": [
         "pdf/coustos-1803-procedures-curieuses.pdf",
         "txt/coustos-1803-procedures-curieuses.txt"
+      ]
+    },
+    {
+      "id": "covolan-reis-2018-conflito-igreja-maconaria",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Fernanda Cristina COVOLAN",
+        "Karoline Müller REIS"
+      ],
+      "titulo": "CONFLITO ENTRE IGREJA E MAÇONARIA NO APAGAR DAS LUZES IMPERIAIS: A QUESTÃO\n            RELIGIOSA DENTRO DE UM ESTADO CATÓLICO",
+      "ano": 2018,
+      "idioma": "pt",
+      "temas": [
+        "religiao",
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "C",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Artigo jurídico-histórico sobre o conflito entre Igreja e maçonaria no fim do Império (Questão Religiosa) e suas implicações para o padroado.",
+      "url": "https://doi.org/10.18762/1983-5019.20180010",
+      "identificadores": {
+        "doi": "10.18762/1983-5019.20180010"
+      },
+      "evidencias": [
+        "https://doi.org/10.18762/1983-5019.20180010"
+      ],
+      "periodico": "Revista Ius et Iustitia Eletrônica",
+      "volume": "18(1)",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/covolan-reis-2018-conflito-igreja-maconaria.html",
+        "txt/covolan-reis-2018-conflito-igreja-maconaria.txt"
       ]
     },
     {
@@ -666,6 +1390,283 @@
         "pdf/dias-1851-salomao-dia-jerusalem.pdf",
         "txt/dias-1851-salomao-dia-jerusalem.txt"
       ]
+    },
+    {
+      "id": "drey-marcon-2016-educacao-anglicana",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Vinicius Drey",
+        "Telmo Marcon"
+      ],
+      "titulo": "MAÇONARIA E EDUCAÇÃO ANGLICANA NO RIO GRANDE DO SUL",
+      "ano": 2016,
+      "idioma": "pt",
+      "temas": [
+        "sociabilidade",
+        "religiao"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Estuda a articulação entre a Igreja Episcopal Anglicana e a maçonaria na fundação do Instituto Anglicano Barão do Rio Branco (Erechim/RS) no início do séc. XX.",
+      "url": "https://doi.org/10.5216/rpp.v12i2.33662",
+      "identificadores": {
+        "doi": "10.5216/rpp.v12i2.33662"
+      },
+      "evidencias": [
+        "https://doi.org/10.5216/rpp.v12i2.33662"
+      ],
+      "periodico": "Poíesis Pedagógica",
+      "volume": "12(2)",
+      "paginas": "5-24",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/drey-marcon-2016-educacao-anglicana.html",
+        "pdf/drey-marcon-2016-educacao-anglicana.pdf",
+        "txt/drey-marcon-2016-educacao-anglicana.txt"
+      ]
+    },
+    {
+      "id": "fernandes-2021-museu-lavradio",
+      "tipo": "dissertacao",
+      "categoria": "tese",
+      "autores": [
+        "Raniel da Conceição Fernandes"
+      ],
+      "titulo": "Formação de museus em instituições maçônicas: uma análise do Museu Maçônico do Grande Oriente do Brasil no Palácio do Lavradio",
+      "ano": 2021,
+      "idioma": "pt",
+      "temas": [
+        "potencias",
+        "arte_cultura"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (repositório institucional / revista OA; direitos dos autores)",
+      "resumo": "Dissertação (UnB, 2021) sobre a formação do museu do GOB no Palácio do Lavradio (Rio de Janeiro), seu acervo e sua função memorial.",
+      "url": "http://repositorio.unb.br/bitstream/10482/41482/1/2021_RanieldaConceicaoFernandes.pdf",
+      "evidencias": [
+        "https://repositorio.unb.br/handle/10482/41482"
+      ],
+      "potencias": [
+        "gob"
+      ],
+      "editora": "Universidade de Brasília",
+      "local": "Brasília",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/fernandes-2021-museu-lavradio.pdf",
+        "txt/fernandes-2021-museu-lavradio.txt"
+      ]
+    },
+    {
+      "id": "ferreira-1963-jose-bonifacio-maconaria",
+      "tipo": "artigo",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Tito Lívio Ferreira"
+      ],
+      "titulo": "José Bonifácio e a maçonaria",
+      "ano": 1963,
+      "idioma": "pt",
+      "temas": [
+        "personalidades",
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "C",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC 4.0",
+      "resumo": "Artigo de Tito Lívio Ferreira (Revista de História USP, 1963) sobre José Bonifácio e a maçonaria na independência, com interpretação própria da origem política da maçonaria. Datado, mas muito citado.",
+      "url": "https://doi.org/10.11606/issn.2316-9141.rh.1963.122128",
+      "identificadores": {
+        "doi": "10.11606/issn.2316-9141.rh.1963.122128"
+      },
+      "evidencias": [
+        "https://doi.org/10.11606/issn.2316-9141.rh.1963.122128"
+      ],
+      "periodico": "Revista de História",
+      "volume": "27(55)",
+      "paginas": "171",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/ferreira-1963-jose-bonifacio-maconaria.html",
+        "pdf/ferreira-1963-jose-bonifacio-maconaria.pdf",
+        "txt/ferreira-1963-jose-bonifacio-maconaria.txt"
+      ]
+    },
+    {
+      "id": "ferrer-benimeli-2014-resenha-ventura",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "José Antonio Ferrer Benimeli"
+      ],
+      "titulo": "Reseña: Uma história da maçonaria em Portugal 1727-1986, de António Ventura",
+      "ano": 2014,
+      "idioma": "es",
+      "temas": [
+        "historiografia"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Resenha de Ferrer Benimeli sobre \"Uma história da maçonaria em Portugal 1727-1986\" de António Ventura, situando a obra na historiografia ibérica.",
+      "url": "https://doi.org/10.15517/rehmlac.v6i1.22538",
+      "identificadores": {
+        "doi": "10.15517/rehmlac.v6i1.22538"
+      },
+      "evidencias": [
+        "https://doi.org/10.15517/rehmlac.v6i1.22538"
+      ],
+      "periodico": "Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+      "volume": "6(1)",
+      "lote": "c05-lusofono",
+      "status_verificacao": "conferido_web"
+    },
+    {
+      "id": "francisco-2018-maconaria-abolicao-sp",
+      "tipo": "tese",
+      "categoria": "tese",
+      "autores": [
+        "Renata Ribeiro Francisco"
+      ],
+      "titulo": "A maçonaria e o processo da abolição em São Paulo",
+      "ano": 2018,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "sociabilidade"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Tese de doutorado (FFLCH-USP, 2018) sobre a participação de maçons e lojas paulistas no processo abolicionista em São Paulo, com fontes de lojas e imprensa.",
+      "url": "https://doi.org/10.11606/t.8.2018.tde-22112018-120958",
+      "identificadores": {
+        "doi": "10.11606/t.8.2018.tde-22112018-120958"
+      },
+      "evidencias": [
+        "https://doi.org/10.11606/t.8.2018.tde-22112018-120958"
+      ],
+      "editora": "Universidade de São Paulo",
+      "potencias": [
+        "gob"
+      ],
+      "local": "São Paulo",
+      "lote": "c05-lusofono",
+      "status_verificacao": "conferido_web"
+    },
+    {
+      "id": "francisco-2019-memoria-abolicao",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Renata Ribeiro Francisco"
+      ],
+      "titulo": "MEMÓRIA DA ABOLIÇÃO NA MAÇONARIA PAULISTA",
+      "ano": 2019,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "sociabilidade"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918",
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Analisa como a maçonaria paulista construiu no espaço público uma memória de protagonismo na abolição, distinguindo representação de atuação efetiva.",
+      "url": "https://doi.org/10.11606/issn.1983-6023.sank.2019.169147",
+      "identificadores": {
+        "doi": "10.11606/issn.1983-6023.sank.2019.169147"
+      },
+      "evidencias": [
+        "https://doi.org/10.11606/issn.1983-6023.sank.2019.169147"
+      ],
+      "periodico": "Sankofa (São Paulo)",
+      "volume": "12(23)",
+      "paginas": "25-50",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/francisco-2019-memoria-abolicao.html",
+        "pdf/francisco-2019-memoria-abolicao.pdf",
+        "txt/francisco-2019-memoria-abolicao.txt"
+      ]
+    },
+    {
+      "id": "gamba-torres-2016-resenha",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Mateus Gamba Torres"
+      ],
+      "titulo": "Resenha: Maçonaria no Brasil: história, política e sociabilidade",
+      "ano": 2016,
+      "idioma": "pt",
+      "temas": [
+        "historiografia"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Resenha na REHMLAC+ da coletânea \"Maçonaria no Brasil: história, política e sociabilidade\", útil como guia dos autores atuais.",
+      "url": "https://doi.org/10.15517/rehmlac.v7i2.22772",
+      "identificadores": {
+        "doi": "10.15517/rehmlac.v7i2.22772"
+      },
+      "evidencias": [
+        "https://doi.org/10.15517/rehmlac.v7i2.22772"
+      ],
+      "periodico": "Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+      "volume": "7(2)",
+      "lote": "c05-lusofono",
+      "status_verificacao": "conferido_web"
     },
     {
       "id": "goaa-1948-revista-maconica",
@@ -967,6 +1968,201 @@
       ]
     },
     {
+      "id": "gomez-2022-vigilancia-patria",
+      "tipo": "dissertacao",
+      "categoria": "tese",
+      "autores": [
+        "Pilar Ferrer Gomez"
+      ],
+      "titulo": "A vigilância da pátria: a ação da maçonaria brasileira durante a década proibida (1822-1831)",
+      "ano": 2022,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "potencias",
+        "antimaconaria"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Dissertação de mestrado (USP, 2022) sobre a atuação da maçonaria brasileira entre o fechamento do GOB em 1822 e a reabertura de 1831, a chamada \"década proibida\", com ênfase na vigilância política e nas redes clandestinas.",
+      "url": "https://doi.org/10.11606/d.8.2022.tde-06102022-120353",
+      "identificadores": {
+        "doi": "10.11606/d.8.2022.tde-06102022-120353"
+      },
+      "evidencias": [
+        "https://doi.org/10.11606/d.8.2022.tde-06102022-120353"
+      ],
+      "editora": "Universidade de São Paulo",
+      "potencias": [
+        "gob"
+      ],
+      "local": "São Paulo",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/gomez-2022-vigilancia-patria.html",
+        "txt/gomez-2022-vigilancia-patria.txt"
+      ]
+    },
+    {
+      "id": "goncalves-2012-periodismo-maconico",
+      "tipo": "dissertacao",
+      "categoria": "tese",
+      "autores": [
+        "Thiago Werneck Gonçalves"
+      ],
+      "titulo": "Periodismo maçônico e cultura política na Corte imperial brasileira (1871-1874)",
+      "ano": 2012,
+      "idioma": "pt",
+      "temas": [
+        "sociabilidade",
+        "politica",
+        "religiao"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (repositório institucional / revista OA; direitos dos autores)",
+      "resumo": "Dissertação de mestrado (UFF, 2012) que analisa a imprensa maçônica do Rio de Janeiro, em especial o Boletim do Grande Oriente do Brazil do \"Círculo do Lavradio\", nos anos da Questão Religiosa, como espaço de cultura política.",
+      "url": "https://www.historia.uff.br/stricto/td/1588.pdf",
+      "evidencias": [
+        "https://www.historia.uff.br/stricto/td/1588.pdf"
+      ],
+      "potencias": [
+        "gob"
+      ],
+      "editora": "Universidade Federal Fluminense",
+      "local": "Niterói",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/goncalves-2012-periodismo-maconico.pdf",
+        "txt/goncalves-2012-periodismo-maconico.txt"
+      ]
+    },
+    {
+      "id": "goulart-da-silva-2010-macons-brasileiros-historia",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Michel Goulart da Silva"
+      ],
+      "titulo": "Os maçons brasileiros e sua história",
+      "ano": 2010,
+      "idioma": "pt",
+      "temas": [
+        "historiografia"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-SA (REHMLAC+, Univ. de Costa Rica)",
+      "resumo": "Balanço da produção historiográfica sobre a maçonaria no Brasil, distinguindo a literatura memorialística maçônica da produção acadêmica recente.",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/8637264.pdf",
+      "evidencias": [
+        "https://dialnet.unirioja.es/descarga/articulo/8637264.pdf"
+      ],
+      "volume": "2(1)",
+      "periodico": "REHMLAC+ (Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña)",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/goulart-da-silva-2010-macons-brasileiros-historia.pdf",
+        "txt/goulart-da-silva-2010-macons-brasileiros-historia.txt"
+      ]
+    },
+    {
+      "id": "goulart-da-silva-2012-resenha-poder-maconaria",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Michel Goulart da Silva"
+      ],
+      "titulo": "Maçonaria e política na história brasileira. Resenha de O poder da maçonaria, de Marco Morel e Françoise Jean de Oliveira Souza",
+      "ano": 2012,
+      "idioma": "pt",
+      "temas": [
+        "historiografia",
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-SA (REHMLAC+, Univ. de Costa Rica)",
+      "resumo": "Resenha do livro de Morel e Souza (Nova Fronteira, 2008) que sintetiza a história política da maçonaria no Brasil; útil para mapear o conteúdo da obra.",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/5798923.pdf",
+      "evidencias": [
+        "https://dialnet.unirioja.es/descarga/articulo/5798923.pdf"
+      ],
+      "volume": "4(2)",
+      "periodico": "REHMLAC+ (Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña)",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/goulart-da-silva-2012-resenha-poder-maconaria.pdf",
+        "txt/goulart-da-silva-2012-resenha-poder-maconaria.txt"
+      ]
+    },
+    {
+      "id": "goulart-da-silva-2017-foice-compasso",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Michel Goulart da Silva"
+      ],
+      "titulo": "Entre a foice e o compasso: socialismo e maçonaria na trajetória de Eveardo Dias na Primeira República",
+      "ano": 2017,
+      "idioma": "es",
+      "temas": [
+        "politica",
+        "personalidades"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918",
+        "p1919_1945"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Apresentação na REHMLAC+ da tese de Michel Goulart da Silva (UFSC) sobre socialismo e maçonaria na trajetória de Everardo Dias na Primeira República.",
+      "url": "https://doi.org/10.15517/rehmlac.v9i1.28253",
+      "identificadores": {
+        "doi": "10.15517/rehmlac.v9i1.28253"
+      },
+      "evidencias": [
+        "https://doi.org/10.15517/rehmlac.v9i1.28253"
+      ],
+      "periodico": "Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+      "volume": "9(1)",
+      "lote": "c05-lusofono",
+      "status_verificacao": "conferido_web"
+    },
+    {
       "id": "gremio-lusitano-1921-revista-n22",
       "tipo": "periodico",
       "categoria": "oficial_potencia",
@@ -1126,6 +2322,172 @@
       ]
     },
     {
+      "id": "kloppenburg-1955-maconaria-atual-brasil",
+      "tipo": "artigo",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Boaventura Kloppenburg"
+      ],
+      "titulo": "Informações sobre a Maçonaria Atual no Brasil",
+      "ano": 1955,
+      "idioma": "pt",
+      "temas": [
+        "potencias",
+        "religiao"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY 4.0",
+      "resumo": "Panorama da maçonaria brasileira em meados dos anos 1950 (potências, número de lojas, imprensa) feito por Kloppenburg a partir de publicações maçônicas, com finalidade pastoral católica.",
+      "url": "https://doi.org/10.29386/reb.v15i4.6136",
+      "identificadores": {
+        "doi": "10.29386/reb.v15i4.6136"
+      },
+      "evidencias": [
+        "https://doi.org/10.29386/reb.v15i4.6136"
+      ],
+      "periodico": "Revista Eclesiástica Brasileira",
+      "volume": "15(4)",
+      "paginas": "841-870",
+      "potencias": [
+        "gob",
+        "cmsb"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/kloppenburg-1955-maconaria-atual-brasil.html",
+        "txt/kloppenburg-1955-maconaria-atual-brasil.txt"
+      ]
+    },
+    {
+      "id": "kloppenburg-1956-principios-doutrinarios",
+      "tipo": "artigo",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Boaventura Kloppenburg"
+      ],
+      "titulo": "Princípios Doutrinários da Maçonaria Brasileira",
+      "ano": 1956,
+      "idioma": "pt",
+      "temas": [
+        "principios",
+        "religiao",
+        "regularidade"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY 4.0",
+      "resumo": "Frei Boaventura Kloppenburg analisa constituições e regulamentos maçônicos brasileiros para identificar seus \"princípios invariáveis\" (GADU, VLS, regularidade) e confrontá-los com a doutrina católica. Útil como levantamento dos textos normativos da época, lido criticamente.",
+      "url": "https://doi.org/10.29386/reb.v16i2.6094",
+      "identificadores": {
+        "doi": "10.29386/reb.v16i2.6094"
+      },
+      "evidencias": [
+        "https://doi.org/10.29386/reb.v16i2.6094"
+      ],
+      "periodico": "Revista Eclesiástica Brasileira",
+      "volume": "16(2)",
+      "paginas": "380-398",
+      "potencias": [
+        "gob",
+        "cmsb"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/kloppenburg-1956-principios-doutrinarios.html",
+        "txt/kloppenburg-1956-principios-doutrinarios.txt"
+      ]
+    },
+    {
+      "id": "lanza-2021-irmaos-macons-sni",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Fabio Lanza",
+        "José Wilson Assis Neves Júnior",
+        "Laura Nunes de Oliveira",
+        "Livia Campanheli",
+        "Luan Prado Piovani"
+      ],
+      "titulo": "Os irmãos maçons sob vigilância: uma análise dos documentos do SNI produzidos durante o governo Figueiredo (1979-1985)",
+      "ano": null,
+      "idioma": "pt",
+      "temas": [
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (repositório institucional / revista OA; direitos dos autores)",
+      "resumo": "Comunicação em anais (Revista Plura) baseada em documentos do Serviço Nacional de Informações sobre a maçonaria no governo Figueiredo, mostrando a vigilância do regime sobre lojas e maçons.",
+      "url": "https://revistaplura.emnuvens.com.br/anais/article/download/2342/1771",
+      "evidencias": [
+        "https://revistaplura.emnuvens.com.br/anais/article/view/2342/1771"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/lanza-2021-irmaos-macons-sni.pdf",
+        "txt/lanza-2021-irmaos-macons-sni.txt"
+      ]
+    },
+    {
+      "id": "leitao-santos-2015-contencoes-liberdade",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "João Leitão Santos Leitão Santos",
+        "Elza Silva Cardoso Soffiatti"
+      ],
+      "titulo": "As contenções da liberdade. A Maçonaria e a Internunciatura Apostólica no Brasil do século XIX",
+      "ano": 2015,
+      "idioma": "pt",
+      "temas": [
+        "religiao",
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Analisa a relação entre a maçonaria brasileira e a Internunciatura Apostólica no Império, discutindo o anticlericalismo e a articulação política dos maçons.",
+      "url": "https://doi.org/10.15517/rehmlac.v7i1.19936",
+      "identificadores": {
+        "doi": "10.15517/rehmlac.v7i1.19936"
+      },
+      "evidencias": [
+        "https://doi.org/10.15517/rehmlac.v7i1.19936"
+      ],
+      "periodico": "Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+      "volume": "7(1)",
+      "lote": "c05-lusofono",
+      "status_verificacao": "conferido_web"
+    },
+    {
       "id": "loja-federacao-1870-iakin-boaz",
       "tipo": "periodico",
       "categoria": "primaria_historica",
@@ -1282,6 +2644,88 @@
       ]
     },
     {
+      "id": "magalhaes-2017-cacador-pedreiros-livres",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Pablo Antonio Iglesias Magalhães"
+      ],
+      "titulo": "O caçador de pedreiros-livres: José Anastácio Lopes Cardoso e sua ação contra a maçonaria luso-brasílica (1799-1804)",
+      "ano": 2017,
+      "idioma": "pt",
+      "temas": [
+        "antimaconaria",
+        "politica"
+      ],
+      "paises": [
+        "pt",
+        "br"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC 4.0",
+      "resumo": "Estuda o relatório do corregedor José Anastácio Lopes Cardoso a Pina Manique, que revela a recepção das teses de Barruel na repressão policial aos pedreiros-livres em Portugal no fim do séc. XVIII.",
+      "url": "https://doi.org/10.11606/issn.2316-9141.rh.2017.111602",
+      "identificadores": {
+        "doi": "10.11606/issn.2316-9141.rh.2017.111602"
+      },
+      "evidencias": [
+        "https://doi.org/10.11606/issn.2316-9141.rh.2017.111602"
+      ],
+      "periodico": "Revista de História",
+      "paginas": "01-48",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/magalhaes-2017-cacador-pedreiros-livres.html",
+        "pdf/magalhaes-2017-cacador-pedreiros-livres.pdf",
+        "txt/magalhaes-2017-cacador-pedreiros-livres.txt"
+      ]
+    },
+    {
+      "id": "mello-2002-dezessete-maconaria-dividida",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Evaldo Cabral de Mello"
+      ],
+      "titulo": "Dezessete: a Maçonaria dividida",
+      "ano": 2002,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "potencias"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Evaldo Cabral de Mello analisa a maçonaria pernambucana, suas divergências com os maçons fluminenses e seu papel na Revolução de 1817, fora do controle do Grande Oriente Lusitano. Referência sobre 1817.",
+      "url": "https://doi.org/10.1590/2237-101x003004001",
+      "identificadores": {
+        "doi": "10.1590/2237-101x003004001"
+      },
+      "evidencias": [
+        "https://doi.org/10.1590/2237-101x003004001"
+      ],
+      "periodico": "Topoi",
+      "volume": "3(4)",
+      "paginas": "9-38",
+      "potencias": [
+        "gol"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "conferido_web"
+    },
+    {
       "id": "mendes-1873-discurso-questao-religiosa",
       "tipo": "documento",
       "categoria": "primaria_historica",
@@ -1323,6 +2767,295 @@
       ]
     },
     {
+      "id": "monteiro-2009-campanha-abolicionista-para",
+      "tipo": "dissertacao",
+      "categoria": "tese",
+      "autores": [
+        "Elson Luiz Rocha Monteiro"
+      ],
+      "titulo": "A maçonaria e a campanha abolicionista no Pará: 1870-1888",
+      "ano": 2009,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "sociabilidade"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (repositório institucional / revista OA; direitos dos autores)",
+      "resumo": "Dissertação (UFPA, 2009) sobre a atuação de lojas e maçons paraenses na campanha abolicionista, com capítulo sobre o GOB e fontes da imprensa local.",
+      "url": "https://repositorio.ufpa.br/bitstream/2011/4558/1/Dissertacao_MaconariaCampanhaAbolicionista.pdf",
+      "evidencias": [
+        "https://repositorio.ufpa.br/bitstream/2011/4558/1/Dissertacao_MaconariaCampanhaAbolicionista.pdf"
+      ],
+      "potencias": [
+        "gob"
+      ],
+      "editora": "Universidade Federal do Pará",
+      "local": "Belém",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/monteiro-2009-campanha-abolicionista-para.pdf",
+        "txt/monteiro-2009-campanha-abolicionista-para.txt"
+      ]
+    },
+    {
+      "id": "monteiro-2014-maconaria-poder-para",
+      "tipo": "tese",
+      "categoria": "tese",
+      "autores": [
+        "Elson Luiz Rocha Monteiro"
+      ],
+      "titulo": "Maçonaria, poder e sociedade no Pará na segunda metade do século XIX: 1850-1900",
+      "ano": 2014,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "sociabilidade",
+        "religiao"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (repositório institucional / revista OA; direitos dos autores)",
+      "resumo": "Tese de doutorado (UFPA, 2014) sobre a inserção da maçonaria na sociedade e na política paraense, incluindo o conflito com D. Macedo Costa na Questão Religiosa.",
+      "url": "https://pphist.propesp.ufpa.br/ARQUIVOS/teses/Dr.%202011%20Elson%20MA%C3%87ONARIA,%20PODER%20E%20SOCIEDADE%20GAIA%20(3).pdf",
+      "evidencias": [
+        "https://pphist.propesp.ufpa.br/ARQUIVOS/teses/Dr.%202011%20Elson%20MA%C3%87ONARIA,%20PODER%20E%20SOCIEDADE%20GAIA%20(3).pdf"
+      ],
+      "potencias": [
+        "gob"
+      ],
+      "editora": "Universidade Federal do Pará",
+      "local": "Belém",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/monteiro-2014-maconaria-poder-para.pdf",
+        "txt/monteiro-2014-maconaria-poder-para.txt"
+      ]
+    },
+    {
+      "id": "moreno-2021-maconaria-insurreicao",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "André Luiz Alves Moreno"
+      ],
+      "titulo": "A maçonaria e os movimentos de insurreição do período colonial do Brasil: a questão da difusão social da escrita",
+      "ano": 2021,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "sociabilidade"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC 4.0",
+      "resumo": "Relaciona movimentos de insurreição coloniais e pós-coloniais, a inserção da maçonaria e a difusão social da escrita no Brasil, com dados de alfabetismo.",
+      "url": "https://doi.org/10.24206/lh.v7iespec.38000",
+      "identificadores": {
+        "doi": "10.24206/lh.v7iespec.38000"
+      },
+      "evidencias": [
+        "https://doi.org/10.24206/lh.v7iespec.38000"
+      ],
+      "periodico": "LaborHistórico",
+      "volume": "7(espec)",
+      "paginas": "210-233",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/moreno-2021-maconaria-insurreicao.html",
+        "pdf/moreno-2021-maconaria-insurreicao.pdf",
+        "txt/moreno-2021-maconaria-insurreicao.txt"
+      ]
+    },
+    {
+      "id": "observador-2022-lojas-lusofonia",
+      "tipo": "pagina",
+      "categoria": "imprensa",
+      "autores": [
+        "Observador"
+      ],
+      "titulo": "Lojas maçónicas dos países de língua portuguesa trocam experiências em Lisboa",
+      "ano": 2022,
+      "idioma": "pt",
+      "temas": [
+        "potencias",
+        "regularidade"
+      ],
+      "paises": [
+        "pt",
+        "mz",
+        "ao",
+        "cv",
+        "gw",
+        "st",
+        "br"
+      ],
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "confiabilidade": "C",
+      "acesso": "oficial_publico",
+      "licenca": "todos os direitos reservados (página pública de imprensa)",
+      "resumo": "Notícia sobre encontro de lojas da maçonaria regular lusófona em Lisboa (set. 2022); informa que, entre os PALOP, só Moçambique tinha então grande loja independente, havendo estruturas menores em Angola, Cabo Verde, Guiné-Bissau e São Tomé.",
+      "url": "https://observador.pt/2022/09/13/lojas-maconicas-dos-paises-de-lingua-portuguesa-trocam-experiencias-em-lisboa/",
+      "evidencias": [
+        "https://observador.pt/2022/09/13/lojas-maconicas-dos-paises-de-lingua-portuguesa-trocam-experiencias-em-lisboa/"
+      ],
+      "potencias": [
+        "glrp"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/observador-2022-lojas-lusofonia.html",
+        "txt/observador-2022-lojas-lusofonia.txt"
+      ]
+    },
+    {
+      "id": "oggioni-1953-legislacao-canonica",
+      "tipo": "artigo",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Costantino Oggioni"
+      ],
+      "titulo": "Legislação Canônica Acerca da Maçonaria",
+      "ano": 1953,
+      "idioma": "pt",
+      "temas": [
+        "religiao"
+      ],
+      "paises": [
+        "mundo"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY 4.0",
+      "resumo": "Artigo sobre a legislação canônica a respeito da maçonaria (c. 2335 do CIC de 1917) publicado na REB, mostrando a interpretação corrente no Brasil dos anos 1950.",
+      "url": "https://doi.org/10.29386/reb.v13i1.6374",
+      "identificadores": {
+        "doi": "10.29386/reb.v13i1.6374"
+      },
+      "evidencias": [
+        "https://doi.org/10.29386/reb.v13i1.6374"
+      ],
+      "periodico": "Revista Eclesiástica Brasileira",
+      "volume": "13(1)",
+      "paginas": "163-168",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/oggioni-1953-legislacao-canonica.html",
+        "txt/oggioni-1953-legislacao-canonica.txt"
+      ]
+    },
+    {
+      "id": "oliveira-marques-1989-masoneria-portugal-xviii",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "António Henrique de Oliveira Marques"
+      ],
+      "titulo": "La masonería en Portugal en el siglo XVIII",
+      "ano": 1989,
+      "idioma": "es",
+      "temas": [
+        "origens",
+        "potencias"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Síntese em espanhol de A. H. de Oliveira Marques, principal historiador da maçonaria portuguesa, sobre as primeiras lojas em Portugal no séc. XVIII (lojas inglesas e irlandesas de Lisboa, Inquisição, primeiras lojas portuguesas).",
+      "url": "https://doi.org/10.25267/trocadero.1989.i1.02",
+      "identificadores": {
+        "doi": "10.25267/trocadero.1989.i1.02"
+      },
+      "evidencias": [
+        "https://doi.org/10.25267/trocadero.1989.i1.02"
+      ],
+      "periodico": "Trocadero",
+      "paginas": "27-36",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/oliveira-marques-1989-masoneria-portugal-xviii.html",
+        "txt/oliveira-marques-1989-masoneria-portugal-xviii.txt"
+      ]
+    },
+    {
+      "id": "oliveira-marques-dias-2003-maconaria-porto",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "António Henrique de Oliveira Marques",
+        "João José Alves Dias"
+      ],
+      "titulo": "Para a história da maçonaria no Porto",
+      "ano": 2003,
+      "idioma": "pt",
+      "temas": [
+        "potencias",
+        "sociabilidade"
+      ],
+      "paises": [
+        "pt",
+        "ao"
+      ],
+      "periodos": [
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (repositório institucional / revista OA; direitos dos autores)",
+      "resumo": "Artigo da Revista Portuguesa de História (2002–2003) sobre as lojas do Porto; traz dados do GOLU no início dos anos 1890, inclusive as poucas lojas fora do continente (Açores, Madeira e uma em Moçâmedes, Angola).",
+      "url": "https://dl.uc.pt/bitstream/10316.2/46046/1/para_a_historia_da_maconaria_no_porto.pdf",
+      "evidencias": [
+        "https://dl.uc.pt/bitstream/10316.2/46046/1/para_a_historia_da_maconaria_no_porto.pdf"
+      ],
+      "potencias": [
+        "gol"
+      ],
+      "observacoes": "Download automático falhou (UC Digitalis); tentar manualmente.",
+      "periodico": "Revista Portuguesa de História",
+      "lote": "c05-lusofono",
+      "status_verificacao": "conferido_web"
+    },
+    {
       "id": "palmela-1822-carta-macedo",
       "tipo": "documento",
       "categoria": "primaria_historica",
@@ -1359,6 +3092,122 @@
         "pdf/palmela-1822-carta-macedo.pdf",
         "txt/palmela-1822-carta-macedo.txt"
       ]
+    },
+    {
+      "id": "pang-1982-resenha-vieira",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Eul-Soo Pang"
+      ],
+      "titulo": "Resenha de: David Gueiros Vieira, O protestantismo, a maçonaria e a questão religiosa no Brasil",
+      "ano": 1982,
+      "idioma": "en",
+      "temas": [
+        "religiao",
+        "historiografia"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Resenha de Eul-Soo Pang (HAHR, 1982) do livro de David Gueiros Vieira sobre protestantismo, maçonaria e Questão Religiosa; útil para avaliar a recepção da obra.",
+      "url": "https://doi.org/10.1215/00182168-62.4.689",
+      "identificadores": {
+        "doi": "10.1215/00182168-62.4.689"
+      },
+      "evidencias": [
+        "https://doi.org/10.1215/00182168-62.4.689"
+      ],
+      "periodico": "Hispanic American Historical Review",
+      "volume": "62(4)",
+      "paginas": "689-691",
+      "lote": "c05-lusofono",
+      "status_verificacao": "conferido_web"
+    },
+    {
+      "id": "paulo-2026-guinada-conservadora",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Hugo Barbosa de Paulo"
+      ],
+      "titulo": "A Guinada Conservadora da Maçonaria Brasileira: Do Estado Novo ao Bolsonarismo",
+      "ano": 2026,
+      "idioma": "pt",
+      "temas": [
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1919_1945",
+        "p1946_1989",
+        "p1990_hoje"
+      ],
+      "confiabilidade": "C",
+      "acesso": "aberto",
+      "licenca": "CC BY 4.0",
+      "resumo": "Preprint (SocArXiv, 2026) que traça a guinada conservadora das lideranças maçônicas brasileiras dos anos 1930 ao bolsonarismo, apontando o Decreto 1.579/1938 do GOB como marco do anticomunismo institucional. Não revisado por pares.",
+      "url": "https://doi.org/10.31235/osf.io/ekxwf_v3",
+      "identificadores": {
+        "doi": "10.31235/osf.io/ekxwf_v3"
+      },
+      "evidencias": [
+        "https://doi.org/10.31235/osf.io/ekxwf_v3"
+      ],
+      "potencias": [
+        "gob"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/paulo-2026-guinada-conservadora.html",
+        "txt/paulo-2026-guinada-conservadora.txt"
+      ]
+    },
+    {
+      "id": "pc-1951-kulturkampf-bresil",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "P. C."
+      ],
+      "titulo": "Franc-maçonnerie, « Kulturkampf » et Révolution au Brésil",
+      "ano": 1951,
+      "idioma": "fr",
+      "temas": [
+        "religiao",
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Nota crítica nos Annales (1951) sobre maçonaria, \"Kulturkampf\" e revolução no Brasil, provavelmente resenha de obra sobre a Questão Religiosa. Mostra a recepção francesa do tema.",
+      "url": "https://doi.org/10.1017/s0395264900136510",
+      "identificadores": {
+        "doi": "10.1017/s0395264900136510"
+      },
+      "evidencias": [
+        "https://doi.org/10.1017/s0395264900136510"
+      ],
+      "periodico": "Annales. Histoire, Sciences Sociales",
+      "volume": "6(3)",
+      "paginas": "423-426",
+      "lote": "c05-lusofono",
+      "status_verificacao": "conferido_web"
     },
     {
       "id": "pessoa-1935-associacoes-secretas",
@@ -1444,6 +3293,49 @@
       ]
     },
     {
+      "id": "pimenta-2007-resenha-barata",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "João Paulo Garrido Pimenta"
+      ],
+      "titulo": "Resenha de: BARATA, Alexandre Mansur. Maçonaria, sociabilidade ilustrada e independência do Brasil (1790-1822)",
+      "ano": 2007,
+      "idioma": "pt",
+      "temas": [
+        "historiografia",
+        "sociabilidade"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Resenha de João Paulo Pimenta (Almanack Braziliense) do livro de Alexandre Barata sobre maçonaria, sociabilidade ilustrada e independência; situa a obra no debate sobre a independência.",
+      "url": "https://doi.org/10.11606/issn.1808-8139.v0i6p122-124",
+      "identificadores": {
+        "doi": "10.11606/issn.1808-8139.v0i6p122-124"
+      },
+      "evidencias": [
+        "https://doi.org/10.11606/issn.1808-8139.v0i6p122-124"
+      ],
+      "periodico": "Almanack Braziliense",
+      "volume": "0(6)",
+      "paginas": "122",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/pimenta-2007-resenha-barata.html",
+        "pdf/pimenta-2007-resenha-barata.pdf",
+        "txt/pimenta-2007-resenha-barata.txt"
+      ]
+    },
+    {
       "id": "rangel-1822-causa-frades-pedreiros",
       "tipo": "livro",
       "categoria": "primaria_historica",
@@ -1480,6 +3372,577 @@
       "acervo": [
         "pdf/rangel-1822-causa-frades-pedreiros.pdf",
         "txt/rangel-1822-causa-frades-pedreiros.txt"
+      ]
+    },
+    {
+      "id": "rbhe-resenha-luzes-sombras",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Revista Brasileira de História da Educação"
+      ],
+      "titulo": "Resenha: Luzes e sombras: a ação da maçonaria brasileira (1870-1910), de Alexandre Mansur Barata",
+      "ano": null,
+      "idioma": "pt",
+      "temas": [
+        "historiografia",
+        "sociabilidade"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (repositório institucional / revista OA; direitos dos autores)",
+      "resumo": "Resenha do livro \"Luzes e sombras\" (Ed. Unicamp, 1999), dissertação de Barata sobre a ação da maçonaria brasileira entre 1870 e 1910 (laicização, ensino, abolição, república).",
+      "url": "https://periodicos.uem.br/ojs/index.php/rbhe/article/download/38712/20241",
+      "evidencias": [
+        "https://periodicos.uem.br/ojs/index.php/rbhe/article/download/38712/20241"
+      ],
+      "observacoes": "Autor e ano da resenha a confirmar no PDF.",
+      "periodico": "Revista Brasileira de História da Educação",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/rbhe-resenha-luzes-sombras.pdf",
+        "txt/rbhe-resenha-luzes-sombras.txt"
+      ]
+    },
+    {
+      "id": "ribeiro-2011-america-em-sao-paulo",
+      "tipo": "dissertacao",
+      "categoria": "tese",
+      "autores": [
+        "Luaê Carregari Carneiro Ribeiro"
+      ],
+      "titulo": "Uma América em São Paulo: a maçonaria e o partido republicano paulista (1868-1889)",
+      "ano": 2011,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "sociabilidade"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Dissertação de mestrado (USP, 2011) sobre as relações entre a maçonaria e o Partido Republicano Paulista no fim do Império, mostrando lojas como espaço de articulação republicana.",
+      "url": "https://doi.org/10.11606/d.8.2011.tde-09112012-091354",
+      "identificadores": {
+        "doi": "10.11606/d.8.2011.tde-09112012-091354"
+      },
+      "evidencias": [
+        "https://doi.org/10.11606/d.8.2011.tde-09112012-091354"
+      ],
+      "editora": "Universidade de São Paulo",
+      "potencias": [
+        "gob"
+      ],
+      "local": "São Paulo",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/ribeiro-2011-america-em-sao-paulo.html",
+        "txt/ribeiro-2011-america-em-sao-paulo.txt"
+      ]
+    },
+    {
+      "id": "santos-franco-2018-maconaria-madeirense",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Fernanda Cristina Santos",
+        "José Eduardo Franco"
+      ],
+      "titulo": "A Maçonaria no espaço insular atlântico português: As origens católicas da maçonaria madeirense",
+      "ano": 2018,
+      "idioma": "pt",
+      "temas": [
+        "religiao",
+        "origens"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC-SA 4.0",
+      "resumo": "Estuda as origens da maçonaria na Madeira e a presença de clérigos católicos em suas lideranças, o que matiza a imagem de oposição irredutível entre Igreja e maçonaria no espaço atlântico português.",
+      "url": "https://doi.org/10.15517/rehmlac.v10i1.32771",
+      "identificadores": {
+        "doi": "10.15517/rehmlac.v10i1.32771"
+      },
+      "evidencias": [
+        "https://doi.org/10.15517/rehmlac.v10i1.32771"
+      ],
+      "periodico": "Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
+      "volume": "10(1)",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/santos-franco-2018-maconaria-madeirense.html",
+        "pdf/santos-franco-2018-maconaria-madeirense.pdf",
+        "txt/santos-franco-2018-maconaria-madeirense.txt"
+      ]
+    },
+    {
+      "id": "sc33-astreanews-024",
+      "tipo": "periodico",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "Supremo Conselho do Grau 33 do REAA da Maçonaria para a República Federativa do Brasil"
+      ],
+      "titulo": "Astréa News n. 24",
+      "ano": null,
+      "idioma": "pt",
+      "temas": [
+        "ritos",
+        "potencias",
+        "regularidade"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "C",
+      "acesso": "oficial_publico",
+      "licenca": "publicação institucional pública",
+      "resumo": "Informativo do Supremo Conselho do REAA do Brasil; este número trata da transmissão dos rituais simbólicos às Grandes Lojas por Mário Behring em 1928, após acordo de 26/11/1927. Versão institucional de uma das partes da cisão de 1927.",
+      "url": "https://www.sc33.org.br/documents/astreanews/AstreaNews024.pdf",
+      "evidencias": [
+        "https://www.sc33.org.br/documents/astreanews/AstreaNews024.pdf"
+      ],
+      "potencias": [
+        "sc_reaa_br",
+        "cmsb"
+      ],
+      "ritos": [
+        "reaa"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/sc33-astreanews-024.pdf",
+        "txt/sc33-astreanews-024.txt"
+      ]
+    },
+    {
+      "id": "silva-2011-rotary-maconaria-igreja",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Marcos José Diniz Silva"
+      ],
+      "titulo": "Rotary Club, Maçonaria e Igreja Católica: “serviço social” e polêmica religiosa no Ceará nos anos de 1930",
+      "ano": 2011,
+      "idioma": "pt",
+      "temas": [
+        "sociabilidade",
+        "religiao"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Compara Rotary Club, maçonaria e Igreja Católica no Ceará da primeira metade do séc. XX, em torno do \"serviço social\" e das disputas de influência.",
+      "url": "https://doi.org/10.5212/rev.hist.reg.v.16i2.0007",
+      "identificadores": {
+        "doi": "10.5212/rev.hist.reg.v.16i2.0007"
+      },
+      "evidencias": [
+        "https://doi.org/10.5212/rev.hist.reg.v.16i2.0007"
+      ],
+      "periodico": "Revista de História Regional",
+      "volume": "16(2)",
+      "paginas": "495-516",
+      "lote": "c05-lusofono",
+      "status_verificacao": "conferido_web"
+    },
+    {
+      "id": "silva-2017-todos-da-maconaria",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Francisco Santos Silva"
+      ],
+      "titulo": "“Eles São Todos da Maçonaria!” A Maçonaria como poder político e social em Portugal.",
+      "ano": 2017,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "potencias"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1871_1918",
+        "p1919_1945",
+        "p1946_1989",
+        "p1990_hoje"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Artigo sobre o peso político e social da maçonaria em Portugal desde o fim do séc. XIX: papel na implantação da República (1910), perseguição no Estado Novo e presença na vida pública após 1974. Bom panorama para o verbete de Portugal.",
+      "url": "https://doi.org/10.5216/hr.v22i1.45724",
+      "identificadores": {
+        "doi": "10.5216/hr.v22i1.45724"
+      },
+      "evidencias": [
+        "https://doi.org/10.5216/hr.v22i1.45724"
+      ],
+      "periodico": "História Revista",
+      "volume": "22(1)",
+      "paginas": "56",
+      "potencias": [
+        "gol",
+        "glrp"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/silva-2017-todos-da-maconaria.html",
+        "pdf/silva-2017-todos-da-maconaria.pdf",
+        "txt/silva-2017-todos-da-maconaria.txt"
+      ]
+    },
+    {
+      "id": "silva-2018-ensino-laico-escolas",
+      "tipo": "dissertacao",
+      "categoria": "tese",
+      "autores": [
+        "Samuel Vieira da Silva"
+      ],
+      "titulo": "A participação da maçonaria brasileira na defesa do ensino laico e na criação e manutenção de escolas no final do século XIX (1869-1900) no Brasil",
+      "ano": 2018,
+      "idioma": "pt",
+      "temas": [
+        "sociabilidade",
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (repositório institucional / revista OA; direitos dos autores)",
+      "resumo": "Dissertação (UFF/INFES, 2018) sobre a defesa do ensino laico pela maçonaria e as escolas criadas e mantidas por lojas entre 1869 e 1900.",
+      "url": "https://infes.uff.br/wp-content/uploads/sites/775/2024/09/SAMUEL-VIEIRA.pdf",
+      "evidencias": [
+        "https://infes.uff.br/wp-content/uploads/sites/775/2024/09/SAMUEL-VIEIRA.pdf"
+      ],
+      "potencias": [
+        "gob"
+      ],
+      "editora": "Universidade Federal Fluminense",
+      "local": "Santo Antônio de Pádua",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/silva-2018-ensino-laico-escolas.pdf",
+        "txt/silva-2018-ensino-laico-escolas.txt"
+      ]
+    },
+    {
+      "id": "silva-bontempi-2018-escolas-loja-sete-setembro",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Ivanilson Bezerra da Silva",
+        "Bruno Bontempi Júnior"
+      ],
+      "titulo": "Elite maçônica e as escolas da Loja Sete de Setembro na revista A Maçonaria no Estado de São Paulo (1912-1932)",
+      "ano": 2018,
+      "idioma": "pt",
+      "temas": [
+        "sociabilidade"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Estuda a elite maçônica e as escolas mantidas pela Loja Sete de Setembro, a partir da revista A Maçonaria, no contexto da educação no fim do séc. XIX.",
+      "url": "https://doi.org/10.4025/rbhe.v18.2018.e039",
+      "identificadores": {
+        "doi": "10.4025/rbhe.v18.2018.e039"
+      },
+      "evidencias": [
+        "https://doi.org/10.4025/rbhe.v18.2018.e039"
+      ],
+      "periodico": "Revista Brasileira de História da Educação",
+      "volume": "18",
+      "paginas": "1-30",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/silva-bontempi-2018-escolas-loja-sete-setembro.html",
+        "pdf/silva-bontempi-2018-escolas-loja-sete-setembro.pdf",
+        "txt/silva-bontempi-2018-escolas-loja-sete-setembro.txt"
+      ]
+    },
+    {
+      "id": "souza-2024-ditadura-memorias-maconicas",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Helton Anderson Xavier de Souza"
+      ],
+      "titulo": "A maçonaria e a ditadura civil-militar entre o nacional e o local: memórias maçônicas em tempos de chumbo",
+      "ano": 2024,
+      "idioma": "pt",
+      "temas": [
+        "politica"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "confiabilidade": "C",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (repositório institucional / revista OA; direitos dos autores)",
+      "resumo": "Texto de anais de simpósio da ANPUH (2024) sobre memórias maçônicas da ditadura civil-militar, articulando o plano nacional e o local (Ceará).",
+      "url": "https://anpuh.org.br/uploads/anais-simposios/pdf/2024-05/1716966000_2fbb321a47a3c84d1f7d0a8e8bdf7588.pdf",
+      "evidencias": [
+        "https://anpuh.org.br/uploads/anais-simposios/pdf/2024-05/1716966000_2fbb321a47a3c84d1f7d0a8e8bdf7588.pdf"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/souza-2024-ditadura-memorias-maconicas.pdf",
+        "txt/souza-2024-ditadura-memorias-maconicas.txt"
+      ]
+    },
+    {
+      "id": "souza-2024-mulheres-alojamentos",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Fernando Rodrigues de Souza"
+      ],
+      "titulo": "A (im)possibilidade de mulheres nos alojamentos: disputas de gênero na maçonaria",
+      "ano": 2024,
+      "idioma": "pt",
+      "temas": [
+        "mulheres",
+        "regularidade"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY-NC 4.0",
+      "resumo": "Analisa disputas de gênero na maçonaria brasileira contemporânea em torno da participação feminina, tema que gera proibições e cismas.",
+      "url": "https://doi.org/10.15603/ma291193-215",
+      "identificadores": {
+        "doi": "10.15603/ma291193-215"
+      },
+      "evidencias": [
+        "https://doi.org/10.15603/ma291193-215"
+      ],
+      "periodico": "Mandrágora",
+      "volume": "29(1)",
+      "paginas": "193-215",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/souza-2024-mulheres-alojamentos.html",
+        "pdf/souza-2024-mulheres-alojamentos.pdf",
+        "txt/souza-2024-mulheres-alojamentos.txt"
+      ]
+    },
+    {
+      "id": "souza-junior-2016-de-la-pra-ca",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Thiago de Souza Junior"
+      ],
+      "titulo": "De lá pra cá: apontamentos da formação Franco-Maçonaria como espaço de sociabilidade e sua influência na construção da Maçonaria no Brasil",
+      "ano": 2016,
+      "idioma": "pt",
+      "temas": [
+        "sociabilidade",
+        "historiografia"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Artigo que discute, a partir da renovação historiográfica, a formação da franco-maçonaria como espaço de sociabilidade e sua influência no Brasil, com balanço de literatura.",
+      "url": "https://doi.org/10.22264/clio.issn2525-5649.2016.34.1.al.227-244",
+      "identificadores": {
+        "doi": "10.22264/clio.issn2525-5649.2016.34.1.al.227-244"
+      },
+      "evidencias": [
+        "https://doi.org/10.22264/clio.issn2525-5649.2016.34.1.al.227-244"
+      ],
+      "periodico": "CLIO: Revista de Pesquisa Histórica",
+      "volume": "34(1)",
+      "paginas": "227-244",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/souza-junior-2016-de-la-pra-ca.html",
+        "pdf/souza-junior-2016-de-la-pra-ca.pdf",
+        "txt/souza-junior-2016-de-la-pra-ca.txt"
+      ]
+    },
+    {
+      "id": "valadares-2014-sociedade-pedreiros-livres",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Virgínia Maria Trindade Valadares"
+      ],
+      "titulo": "Sociedade dos Pedreiros Livres: Huma infame seita tão perturbadora quanto execrável (Free Mason Society: an infamous sect so disturbing as it is execrable) - DOI: 10.5752/P.2237-8871.2014v15n23p9",
+      "ano": 2014,
+      "idioma": "pt",
+      "temas": [
+        "politica",
+        "antimaconaria"
+      ],
+      "paises": [
+        "br",
+        "pt"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (licença não declarada no Crossref)",
+      "resumo": "Artigo sobre a percepção da \"sociedade dos pedreiros livres\" como seita perturbadora na América portuguesa no fim do período colonial.",
+      "url": "https://doi.org/10.5752/p.2237-8871.2014v15n23p9",
+      "identificadores": {
+        "doi": "10.5752/p.2237-8871.2014v15n23p9"
+      },
+      "evidencias": [
+        "https://doi.org/10.5752/p.2237-8871.2014v15n23p9"
+      ],
+      "periodico": "Cadernos de História",
+      "volume": "15(23)",
+      "lote": "c05-lusofono",
+      "status_verificacao": "conferido_web"
+    },
+    {
+      "id": "ventura-2019-maconaria-alto-alentejo",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "António Ventura"
+      ],
+      "titulo": "A Maçonaria no Alto Alentejo (1821-1936)",
+      "ano": 2019,
+      "idioma": "pt",
+      "temas": [
+        "potencias",
+        "sociabilidade"
+      ],
+      "paises": [
+        "pt"
+      ],
+      "periodos": [
+        "p1814_1870",
+        "p1871_1918",
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "todos os direitos reservados",
+      "resumo": "Livro de António Ventura sobre as lojas e triângulos do Alto Alentejo de 1821 a 1936, vinculados ao GOLU, ao Grémio Luso-Escocês e outras obediências, com listas de membros. Modelo de história regional.",
+      "url": "https://doi.org/10.30618/978-989-658-626-3",
+      "identificadores": {
+        "doi": "10.30618/978-989-658-626-3"
+      },
+      "evidencias": [
+        "https://doi.org/10.30618/978-989-658-626-3"
+      ],
+      "editora": "Caleidoscópio",
+      "potencias": [
+        "gol"
+      ],
+      "lote": "c05-lusofono",
+      "status_verificacao": "conferido_web"
+    },
+    {
+      "id": "vieira-1956-maconaria-no-brasil",
+      "tipo": "artigo",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Arlindo Vieira"
+      ],
+      "titulo": "Maçonaria no Brasil",
+      "ano": 1956,
+      "idioma": "pt",
+      "temas": [
+        "religiao",
+        "antimaconaria"
+      ],
+      "paises": [
+        "br"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY 4.0",
+      "resumo": "Artigo do padre Arlindo Vieira na Revista Eclesiástica Brasileira que, usando documentos de lojas, argumenta que a maçonaria brasileira não é inofensiva para a Igreja. Fonte da apologética católica dos anos 1950 (usar como documento de posição).",
+      "url": "https://doi.org/10.29386/reb.v16i2.6095",
+      "identificadores": {
+        "doi": "10.29386/reb.v16i2.6095"
+      },
+      "evidencias": [
+        "https://doi.org/10.29386/reb.v16i2.6095"
+      ],
+      "periodico": "Revista Eclesiástica Brasileira",
+      "volume": "16(2)",
+      "paginas": "399-409",
+      "lote": "c05-lusofono",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/vieira-1956-maconaria-no-brasil.html",
+        "txt/vieira-1956-maconaria-no-brasil.txt"
       ]
     },
     {
