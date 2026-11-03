@@ -1983,51 +1983,6 @@
       "lote": "c01-fundadores"
     },
     {
-      "id": "guillemain-1787-recueil-precieux",
-      "tipo": "ritual",
-      "categoria": "ritual_publicado",
-      "autores": [
-        "Louis Guillemain de Saint-Victor"
-      ],
-      "titulo": "Recueil précieux de la maçonnerie adonhiramite",
-      "ano": 1787,
-      "idioma": "fr",
-      "temas": [
-        "ritual",
-        "ritos",
-        "graus"
-      ],
-      "resumo": "Coletânea publicada (1ª ed. 1781/1783) com os catecismos dos graus da chamada maçonaria adonhiramita, base histórica do Rito Adonhiramita, ainda praticado no Brasil.",
-      "ano_original": 1781,
-      "paises": [
-        "fr",
-        "br"
-      ],
-      "periodos": [
-        "p1751_1813"
-      ],
-      "ritos": [
-        "adonhiramita"
-      ],
-      "titulo_traduzido": "Coletânea preciosa da maçonaria adonhiramita",
-      "acervo": [
-        "txt/guillemain-1787-recueil-precieux.txt",
-        "pdf/guillemain-1787-recueil-precieux.pdf"
-      ],
-      "status_verificacao": "copiado",
-      "url": "https://archive.org/details/recueilprcieuxd00guilgoog",
-      "identificadores": {
-        "ia": "recueilprcieuxd00guilgoog"
-      },
-      "evidencias": [
-        "https://archive.org/details/recueilprcieuxd00guilgoog"
-      ],
-      "acesso": "dominio_publico",
-      "licenca": "domínio público",
-      "confiabilidade": "A",
-      "lote": "c01-fundadores"
-    },
-    {
       "id": "anonimo-1801-regulateur-macon-mestre",
       "tipo": "ritual",
       "categoria": "ritual_publicado",
@@ -2204,87 +2159,6 @@
       "lote": "c01-fundadores"
     },
     {
-      "id": "dias-1843-historia-franc-maconaria",
-      "tipo": "livro",
-      "categoria": "historiografia_maconica",
-      "autores": [
-        "Miguel António Dias"
-      ],
-      "titulo": "História da Franc-Maçonaria ou dos Pedreiros Livres",
-      "ano": 1843,
-      "idioma": "pt",
-      "temas": [
-        "historiografia",
-        "origens"
-      ],
-      "resumo": "Uma das primeiras histórias gerais da maçonaria escritas em português, publicada em Portugal no contexto das lutas liberais. Útil para a recepção lusófona da historiografia maçônica.",
-      "paises": [
-        "pt",
-        "mundo"
-      ],
-      "periodos": [
-        "p1814_1870"
-      ],
-      "confiabilidade": "C",
-      "acervo": [
-        "txt/dias-1843-historia-franc-maconaria.txt",
-        "pdf/dias-1843-historia-franc-maconaria.pdf"
-      ],
-      "status_verificacao": "copiado",
-      "url": "https://archive.org/details/histo-ria-da-franc-mac-onaria-ou-dos-pedreiros-livres",
-      "identificadores": {
-        "ia": "histo-ria-da-franc-mac-onaria-ou-dos-pedreiros-livres"
-      },
-      "evidencias": [
-        "https://archive.org/details/histo-ria-da-franc-mac-onaria-ou-dos-pedreiros-livres"
-      ],
-      "acesso": "dominio_publico",
-      "licenca": "domínio público",
-      "lote": "c01-fundadores"
-    },
-    {
-      "id": "gol-1822-constituicao",
-      "tipo": "documento",
-      "categoria": "oficial_potencia",
-      "autores": [
-        "Grande Oriente Lusitano"
-      ],
-      "titulo": "Constituição da Maçonaria em Portugal (primeira parte)",
-      "ano": 1822,
-      "idioma": "pt",
-      "temas": [
-        "documentos_fundadores",
-        "potencias"
-      ],
-      "resumo": "Texto constitucional da maçonaria portuguesa no período vintista (1822), sob o Grande Oriente Lusitano. Documento primário para a história institucional da maçonaria em Portugal.",
-      "local": "Lisboa",
-      "paises": [
-        "pt"
-      ],
-      "periodos": [
-        "p1814_1870"
-      ],
-      "potencias": [
-        "gol"
-      ],
-      "acervo": [
-        "txt/gol-1822-constituicao.txt",
-        "pdf/gol-1822-constituicao.pdf"
-      ],
-      "status_verificacao": "copiado",
-      "url": "https://archive.org/details/constituica-o-da-mac-onaria-em-portugal",
-      "identificadores": {
-        "ia": "constituica-o-da-mac-onaria-em-portugal"
-      },
-      "evidencias": [
-        "https://archive.org/details/constituica-o-da-mac-onaria-em-portugal"
-      ],
-      "acesso": "dominio_publico",
-      "licenca": "domínio público",
-      "confiabilidade": "A",
-      "lote": "c01-fundadores"
-    },
-    {
       "id": "golu-1881-ceremonias-symbolica",
       "tipo": "ritual",
       "categoria": "ritual_publicado",
@@ -2408,52 +2282,6 @@
       ],
       "acesso": "dominio_publico",
       "licenca": "domínio público",
-      "lote": "c01-fundadores"
-    },
-    {
-      "id": "anonimo-1820-manual-masonico-retejador",
-      "tipo": "livro",
-      "categoria": "ritual_publicado",
-      "autores": [
-        "Anônimo"
-      ],
-      "titulo": "Manual masónico ó Retejador de todos los ritos de la masonería",
-      "ano": 1820,
-      "idioma": "es",
-      "temas": [
-        "ritual",
-        "ritos",
-        "graus"
-      ],
-      "resumo": "Manual de 'retejador' (telhador) em espanhol que resume graus de vários ritos para reconhecimento entre maçons, publicado no Triênio Liberal. Documento da difusão dos ritos franceses e escoceses no mundo hispânico.",
-      "paises": [
-        "es",
-        "fr"
-      ],
-      "periodos": [
-        "p1814_1870"
-      ],
-      "ritos": [
-        "reaa",
-        "frances_moderno"
-      ],
-      "titulo_traduzido": "Manual maçônico ou telhador de todos os ritos",
-      "observacoes": "Provavelmente tradução/adaptação do Manuel maçonnique de Vuillaume (1820); conferir. Regra 5 aplicável.",
-      "acervo": [
-        "txt/anonimo-1820-manual-masonico-retejador.txt",
-        "pdf/anonimo-1820-manual-masonico-retejador.pdf"
-      ],
-      "status_verificacao": "copiado",
-      "url": "https://archive.org/details/A224088",
-      "identificadores": {
-        "ia": "A224088"
-      },
-      "evidencias": [
-        "https://archive.org/details/A224088"
-      ],
-      "acesso": "dominio_publico",
-      "licenca": "domínio público",
-      "confiabilidade": "A",
       "lote": "c01-fundadores"
     },
     {
@@ -3513,97 +3341,6 @@
       "lote": "c01-fundadores"
     },
     {
-      "id": "bazot-1828-tuileur-expert",
-      "tipo": "ritual",
-      "categoria": "ritual_publicado",
-      "autores": [
-        "Étienne-François Bazot"
-      ],
-      "titulo": "Le Tuileur expert des sept grades du Rit français",
-      "ano": 1828,
-      "idioma": "fr",
-      "temas": [
-        "ritual",
-        "graus",
-        "ritos"
-      ],
-      "resumo": "Telhador (manual de reconhecimento) dos sete graus do Rito Francês, com estrutura das cerimônias. Fonte para o sistema de graus do Rito Moderno.",
-      "local": "Paris",
-      "paises": [
-        "fr"
-      ],
-      "periodos": [
-        "p1814_1870"
-      ],
-      "ritos": [
-        "frances_moderno"
-      ],
-      "observacoes": "Regra 5: não reproduzir palavras/sinais/toques no site.",
-      "acervo": [
-        "txt/bazot-1828-tuileur-expert.txt",
-        "pdf/bazot-1828-tuileur-expert.pdf"
-      ],
-      "status_verificacao": "copiado",
-      "url": "https://archive.org/details/BazotEFLeTuileurExpertDesSeptGradesDuRitFrancais1828",
-      "identificadores": {
-        "ia": "BazotEFLeTuileurExpertDesSeptGradesDuRitFrancais1828"
-      },
-      "evidencias": [
-        "https://archive.org/details/BazotEFLeTuileurExpertDesSeptGradesDuRitFrancais1828"
-      ],
-      "acesso": "dominio_publico",
-      "licenca": "domínio público",
-      "confiabilidade": "A",
-      "lote": "c01-fundadores"
-    },
-    {
-      "id": "vuillaume-1820-manuel-maconnique",
-      "tipo": "ritual",
-      "categoria": "ritual_publicado",
-      "autores": [
-        "Claude-André Vuillaume"
-      ],
-      "titulo": "Manuel maçonnique, ou Tuileur de tous les rites de maçonnerie pratiqués en France",
-      "ano": 1820,
-      "idioma": "fr",
-      "temas": [
-        "ritual",
-        "ritos",
-        "graus"
-      ],
-      "resumo": "Telhador comparativo dos ritos praticados na França (Francês, Escocês, Misraïm etc.) em 1820, muito traduzido; fonte essencial para a estrutura dos graus de cada rito no início do século XIX.",
-      "local": "Paris",
-      "paises": [
-        "fr"
-      ],
-      "periodos": [
-        "p1814_1870"
-      ],
-      "ritos": [
-        "frances_moderno",
-        "reaa",
-        "memphis_misraim",
-        "rer"
-      ],
-      "observacoes": "Regra 5 aplicável.",
-      "acervo": [
-        "txt/vuillaume-1820-manuel-maconnique.txt",
-        "pdf/vuillaume-1820-manuel-maconnique.pdf"
-      ],
-      "status_verificacao": "copiado",
-      "url": "https://archive.org/details/VuillaumeCAManuelMaconniqueOuTuileurDeTousLesRitesDeMaconneriePratiquesEnFrance1820",
-      "identificadores": {
-        "ia": "VuillaumeCAManuelMaconniqueOuTuileurDeTousLesRitesDeMaconneriePratiquesEnFrance1820"
-      },
-      "evidencias": [
-        "https://archive.org/details/VuillaumeCAManuelMaconniqueOuTuileurDeTousLesRitesDeMaconneriePratiquesEnFrance1820"
-      ],
-      "acesso": "dominio_publico",
-      "licenca": "domínio público",
-      "confiabilidade": "A",
-      "lote": "c01-fundadores"
-    },
-    {
       "id": "ragon-1861-tuileur",
       "tipo": "ritual",
       "categoria": "ritual_publicado",
@@ -3643,50 +3380,6 @@
       },
       "evidencias": [
         "https://archive.org/details/RagonJMTuileurDeLaFrancMaconnerieManuelDInitite1861"
-      ],
-      "acesso": "dominio_publico",
-      "licenca": "domínio público",
-      "lote": "c01-fundadores"
-    },
-    {
-      "id": "anonimo-1812-tuileur-abraham",
-      "tipo": "ritual",
-      "categoria": "ritual_publicado",
-      "autores": [
-        "Anônimo"
-      ],
-      "titulo": "Tuileur d'Abraham",
-      "ano": 1812,
-      "idioma": "fr",
-      "temas": [
-        "ritual",
-        "graus"
-      ],
-      "resumo": "Telhador francês de 1812 (atribuído ao livreiro Abraham) com graus simbólicos e superiores; testemunho da proliferação de altos graus no Império.",
-      "local": "Paris",
-      "paises": [
-        "fr"
-      ],
-      "periodos": [
-        "p1751_1813"
-      ],
-      "ritos": [
-        "reaa",
-        "frances_moderno"
-      ],
-      "confiabilidade": "B",
-      "observacoes": "Atribuição e conteúdo a conferir; Regra 5 aplicável.",
-      "acervo": [
-        "txt/anonimo-1812-tuileur-abraham.txt",
-        "pdf/anonimo-1812-tuileur-abraham.pdf"
-      ],
-      "status_verificacao": "copiado",
-      "url": "https://archive.org/details/TuileurDAbraham1812",
-      "identificadores": {
-        "ia": "TuileurDAbraham1812"
-      },
-      "evidencias": [
-        "https://archive.org/details/TuileurDAbraham1812"
       ],
       "acesso": "dominio_publico",
       "licenca": "domínio público",
@@ -3863,49 +3556,6 @@
       "lote": "c01-fundadores"
     },
     {
-      "id": "yarker-1909-arcane-schools",
-      "tipo": "livro",
-      "categoria": "historiografia_maconica",
-      "autores": [
-        "John Yarker"
-      ],
-      "titulo": "The Arcane Schools: a Review of their Origin and Antiquity",
-      "ano": 1909,
-      "idioma": "en",
-      "temas": [
-        "esoterismo",
-        "origens",
-        "ritos"
-      ],
-      "resumo": "Obra de John Yarker, dirigente dos ritos de Memphis e Misraïm na Inglaterra, que traça uma genealogia esotérica da maçonaria a partir das escolas de mistérios. Fonte para a autocompreensão dos ritos 'egípcios', não para a história factual.",
-      "local": "Belfast",
-      "editora": "William Tait",
-      "paises": [
-        "gb"
-      ],
-      "periodos": [
-        "p1871_1918"
-      ],
-      "ritos": [
-        "memphis_misraim"
-      ],
-      "confiabilidade": "C",
-      "acervo": [
-        "txt/yarker-1909-arcane-schools.txt"
-      ],
-      "status_verificacao": "copiado",
-      "url": "https://archive.org/details/b24886002",
-      "identificadores": {
-        "ia": "b24886002"
-      },
-      "evidencias": [
-        "https://archive.org/details/b24886002"
-      ],
-      "acesso": "dominio_publico",
-      "licenca": "domínio público",
-      "lote": "c01-fundadores"
-    },
-    {
       "id": "bacci-1922-libro-massone-italiano",
       "tipo": "livro",
       "categoria": "oficial_potencia",
@@ -3950,48 +3600,6 @@
       "lote": "c01-fundadores"
     },
     {
-      "id": "eklund-1909-vagledning-frimurare",
-      "tipo": "livro",
-      "categoria": "divulgacao",
-      "autores": [
-        "B. P. Eklund"
-      ],
-      "titulo": "Vägledning för Frimurare",
-      "ano": 1909,
-      "idioma": "sv",
-      "temas": [
-        "principios",
-        "ritos",
-        "potencias"
-      ],
-      "resumo": "Guia sueco para maçons (1909) sobre a Ordem Maçônica Sueca e seu sistema de graus (Rito Sueco). Uma das poucas fontes em sueco acessíveis abertamente.",
-      "paises": [
-        "se"
-      ],
-      "periodos": [
-        "p1871_1918"
-      ],
-      "ritos": [
-        "sueco"
-      ],
-      "confiabilidade": "C",
-      "licenca": "domínio público nos EUA (publ. 1909); conferir data de morte do autor",
-      "observacoes": "Metadados a conferir (autor, editora).",
-      "acervo": [
-        "txt/eklund-1909-vagledning-frimurare.txt"
-      ],
-      "status_verificacao": "copiado",
-      "url": "https://archive.org/details/eklund-b.-p.-vagledning-for-frimurare-1909-ocr",
-      "identificadores": {
-        "ia": "eklund-b.-p.-vagledning-for-frimurare-1909-ocr"
-      },
-      "evidencias": [
-        "https://archive.org/details/eklund-b.-p.-vagledning-for-frimurare-1909-ocr"
-      ],
-      "acesso": "dominio_publico",
-      "lote": "c01-fundadores"
-    },
-    {
       "id": "anonimo-1883-jodendom-vrijmetselarij",
       "tipo": "livro",
       "categoria": "antimaconica",
@@ -4027,52 +3635,6 @@
       "acesso": "dominio_publico",
       "licenca": "domínio público",
       "confiabilidade": "A",
-      "lote": "c01-fundadores"
-    },
-    {
-      "id": "marconis-1882-lectures-chapter",
-      "tipo": "ritual",
-      "categoria": "ritual_publicado",
-      "autores": [
-        "Jacques-Étienne Marconis de Nègre",
-        "John Yarker (trad.)"
-      ],
-      "titulo": "Lectures of a Chapter, Senate & Council, according to the forms of the Ancient and Primitive Rite",
-      "ano": 1882,
-      "idioma": "en",
-      "temas": [
-        "ritual",
-        "ritos",
-        "esoterismo"
-      ],
-      "resumo": "Instruções dos graus capitulares e superiores do Rito Antigo e Primitivo (Memphis), de Marconis, traduzidas por Yarker. Fonte primária para o simbolismo do rito de Memphis.",
-      "local": "Londres",
-      "paises": [
-        "gb",
-        "fr"
-      ],
-      "periodos": [
-        "p1871_1918"
-      ],
-      "ritos": [
-        "memphis_misraim",
-        "primitivo"
-      ],
-      "confiabilidade": "B",
-      "acervo": [
-        "txt/marconis-1882-lectures-chapter.txt",
-        "pdf/marconis-1882-lectures-chapter.pdf"
-      ],
-      "status_verificacao": "copiado",
-      "url": "https://archive.org/details/lecturesachapte00yarkgoog",
-      "identificadores": {
-        "ia": "lecturesachapte00yarkgoog"
-      },
-      "evidencias": [
-        "https://archive.org/details/lecturesachapte00yarkgoog"
-      ],
-      "acesso": "dominio_publico",
-      "licenca": "domínio público",
       "lote": "c01-fundadores"
     },
     {
