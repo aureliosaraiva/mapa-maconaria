@@ -2,15 +2,15 @@
 
 > Arquivo de passagem entre sessões. Toda sessão começa lendo este arquivo. **Só a orquestradora reescreve**; trabalhadoras atualizam só a própria linha no `ORQUESTRACAO.md`.
 
-**Última atualização:** 2026-11-02 — sessão orquestradora: fundação dos dois repositórios (regras, plano, taxonomia, esquema de fontes, validador, scripts do acervo) e disparo da **onda 1** (C01–C08 coleta + I01 infraestrutura).
+**Última atualização:** 2026-11-03 08:10 UTC — onda 1: C01, C02, C05 concluídas; C03, C04, C07 em andamento; C06, C08, I01 na fila (execução em lotes de 3 por limite de uso).
 
 ## Onde estamos
 **Onda 1 — coleta ampla + infraestrutura: em andamento.** Ver [`ORQUESTRACAO.md`](ORQUESTRACAO.md).
 
 | Indicador | Valor | Como conferir |
 |---|---:|---|
-| Fontes no catálogo | 0 | `python3 scripts/validar_fontes.py` |
-| Cópias no acervo | 0 | `find ../fontes-maconaria/txt -type f \| wc -l` |
+| Fontes no catálogo | 583 (6 lotes; en 256, pt 158, fr 73, de 34, es 22, it 20, ru 7, la 5...) | `python3 scripts/validar_fontes.py` |
+| Cópias no acervo | 506 textos | `find ../fontes-maconaria/txt -type f \| wc -l` |
 | Verbetes | 0 | `find data/verbetes -name '*.md' \| wc -l` |
 
 ## Decisões tomadas
