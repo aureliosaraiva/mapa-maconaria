@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/aureliosaraiva/mapa-maconaria/schemas/conexoes.schema.json",
+  "title": "Conexões entre verbetes (data/conexoes.json)",
+  "description": "Arestas do grafo além dos `relacionados` do front matter: relações que precisam de fonte própria (ex.: filiação, sucessão, cisão, reconhecimento). Validado por scripts/validar_verbetes.py.",
+  "type": "object",
+  "required": ["conexoes"],
+  "properties": {
+    "_meta": {"type": "object"},
+    "conexoes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["origem", "destino", "rel", "fontes"],
+        "properties": {
+          "origem": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"},
+          "destino": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"},
+          "rel": {"type": "string", "minLength": 1, "maxLength": 40},
+          "direcionada": {"type": "boolean"},
+          "datas": {"type": ["string", "integer", "null"]},
+          "fontes": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+          "nota": {"type": ["string", "null"]}
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

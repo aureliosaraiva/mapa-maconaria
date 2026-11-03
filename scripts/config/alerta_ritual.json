@@ -1,0 +1,35 @@
+{
+  "_meta": {
+    "descricao": "Lista de alerta de conteúdo ritual reservado (CLAUDE.md regra 5). O site descreve estrutura, temas, lendas e simbolismo dos graus conforme a literatura publicada, SEM reproduzir palavras de passe, sinais, toques e juramentos por extenso. Usada por scripts/validar_verbetes.py, scripts/validar_linha_do_tempo.py e scripts/qa_site.py.",
+    "como_usar": "Expressões regulares (Python, sem diferenciar maiúsculas, aplicadas ao texto sem acentos). 'erro' = redação que tende a reproduzir o conteúdo reservado (bloqueia). 'aviso' = menção ao tema (permitida: o verbete pode dizer que o grau tem palavra de passe; só não pode dizer qual) — listada para conferência. Termos literais que não devem aparecer (as próprias palavras, nomes de toques etc.) NÃO ficam neste arquivo público: guarde-os em scripts/config/alerta_ritual.local.json (ignorado pelo git) ou num arquivo indicado por ALERTA_RITUAL_EXTRA (ex.: no acervo privado), no formato {\"termos\": [\"...\"]}; cada termo vira erro.",
+    "editar": "Sessão I01 (infraestrutura) ou orquestradora. Novos padrões: propor no relatório da sessão."
+  },
+  "erro": [
+    "palavras? (de passe|sagradas?|semestra(l|is)|de ordem)\\s*(e|era|sao|eram|:|=)\\s*[\"'“”«‘’]",
+    "\\b(o|um) toque\\b[^.]{0,60}\\b(consiste|e feito|se faz|e dado|aperta(ndo)?|pressiona(ndo)?)",
+    "\\b(o|um) sinal\\b[^.]{0,60}\\b(consiste em|e feito (com|levando|colocando)|faz-se (com|levando|colocando))",
+    "\\b(juro|prometo) (solenemente|sobre|pela minha honra)",
+    "sob (a |as )?penas? de (ter|ser|que)",
+    "\\bpass(-| )?word (is|was)\\s",
+    "\\b(the )?grip\\b[^.]{0,40}\\b(is (given|made)|consists)",
+    "\\bsign\\b[^.]{0,40}\\b(is made by|is given by)",
+    "under no less (a )?penalty",
+    "\\bmot de passe (est|etait)\\s*[:\"«]",
+    "\\battouchement\\b[^.]{0,40}\\b(consiste|se fait)",
+    "\\bpalabra de pase (es|era)\\s*[:\"«]"
+  ],
+  "aviso": [
+    "palavras? de passe",
+    "palavras? sagradas?",
+    "palavras? semestra(l|is)",
+    "\\btoques?\\b",
+    "sinais? de reconhecimento",
+    "\\bjuramentos?\\b",
+    "\\bpass(-| )?words?\\b",
+    "\\bgrips?\\b",
+    "\\bdue guard\\b",
+    "\\bmot de passe\\b",
+    "\\battouchements?\\b",
+    "\\bobligation\\b"
+  ]
+}

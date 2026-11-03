@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/aureliosaraiva/mapa-maconaria/schemas/verbete.schema.json",
+  "title": "Front matter de verbete (data/verbetes/<categoria>/<id>.md)",
+  "description": "Guia: docs/verbetes-guia.md. Validado por scripts/validar_verbetes.py, que também confere: id = nome do arquivo, categoria = pasta, fontes no catálogo, notas [^n] apontando source_id, relacionados existentes, vocabulários da taxonomia (aviso) e lista de alerta de conteúdo ritual reservado.",
+  "type": "object",
+  "required": ["id", "titulo", "categoria", "resumo", "temas", "fontes", "status"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"},
+    "titulo": {"type": "string", "minLength": 1},
+    "categoria": {"enum": ["ritos", "graus", "potencias", "documentos", "principios", "simbolos", "eventos", "brasil", "personalidades", "lugares", "ordens-anexas", "antimaconaria", "conceitos"]},
+    "nomes_alternativos": {"type": "array", "items": {"type": "string", "minLength": 1}},
+    "resumo": {"type": "string", "minLength": 10, "description": "1–3 frases parafraseadas."},
+    "datas": {
+      "type": ["object", "null"],
+      "properties": {
+        "inicio": {"type": ["integer", "string", "null"], "description": "Ano (inteiro) ou data ISO (AAAA-MM-DD / AAAA-MM). Pessoas: nascimento."},
+        "fim": {"type": ["integer", "string", "null"], "description": "Ano ou data ISO. Pessoas: morte."},
+        "aproximada": {"type": "boolean"}
+      },
+      "additionalProperties": false
+    },
+    "paises": {"type": "array", "items": {"type": "string", "pattern": "^[a-z]{2,5}$"}},
+    "periodos": {"type": "array", "items": {"type": "string"}},
+    "ritos": {"type": "array", "items": {"type": "string"}},
+    "potencias": {"type": "array", "items": {"type": "string"}},
+    "temas": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+    "relacionados": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "rel"],
+        "properties": {
+          "id": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"},
+          "rel": {"type": "string", "minLength": 1, "maxLength": 40}
+        },
+        "additionalProperties": false
+      }
+    },
+    "fontes": {"type": "array", "minItems": 1, "items": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"}},
+    "status": {"enum": ["rascunho", "revisado"]},
+    "sensivel": {"type": "boolean", "description": "true se tocar em conteúdo ritual reservado (CLAUDE.md regra 5): exige revisão humana antes de publicar."},
+    "imagem": {"type": ["string", "null"]},
+    "atualizado": {"type": ["string", "null"], "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"},
+    "sessao": {"type": ["string", "null"], "description": "ID da sessão que escreveu/revisou por último."}
+  },
+  "additionalProperties": false
+}

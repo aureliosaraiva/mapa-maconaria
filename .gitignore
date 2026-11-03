@@ -6,3 +6,5 @@ __pycache__/
 node_modules/
 site/dist/
 site/.astro/
+# lista privada de termos rituais (ver scripts/config/alerta_ritual.json)
+scripts/config/alerta_ritual.local.json
