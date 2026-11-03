@@ -47,3 +47,15 @@
 - [ ] (P3) `beaurepaire-2002-europe-francs-macons` está como `pista`: conferir ISBN e editora (Belin).
 - [ ] (P3) Volumes da AQC copiados só em TXT (OCR do IA, PDF > 15 MB): conferir as páginas no IA antes de citar; vols. 20, 22–42 (1907–1930) existem no IA e não foram copiados.
 
+## C03
+- [ ] (P1) **gob.org.br comprometido**: desde 2026-11-03 o site responde a clientes automatizados com página de spam de apostas (em 02/11 estava normal). Bloqueia a cópia da história, das potências reconhecidas, dos ritos praticados, da constituição e do regulamento do GOB (`gob-2026-*` ficaram `conferido_web`). Avisar o GOB; decidir se a cópia pode ser feita via Wayback Machine (snapshots de 2026-04 e 2026-09 existem). https://www.gob.org.br/
+- [ ] (P2) Supremo Conselho do Grau 33 do REAA para o Brasil: página institucional não coletada (scb33.org.br deu 502); localizar o domínio oficial (sc33.org.br?).
+- [ ] (P2) GLNF (glnf.fr), SC NMJ (scottishritenmj.org), Massachusetts (massfreemasonry.org), UGL NSW&ACT (masons.au), O Buscador (gvaa.com.br) e Pietre-Stones (freemasons-freemasonry.com) deram HTTP 403 (anti-robô, não contornado). Obter manualmente as páginas de história e reconhecimento.
+- [ ] (P2) bessel.org (tabelas de reconhecimento de Paul Bessel): o domínio expirou e redireciona para site de apostas. Recuperar via Wayback com autorização (`bessel-recognition-lists`).
+- [ ] (P2) Fora do ar ou com erro em 2026-11-03: CLIPSAS (clipsas.org, 522), CIMAL (cimal.org, TLS), Conferência Mundial (cmi-wclgl.org, 502), Alpina (alpina.ch), Droit Humain Brasil, GLMMB, GL Uruguai, Phoenixmasonry (`glct-2009-20-years-mutual-recognition`).
+- [ ] (P2) Sites não localizados ou sem conteúdo útil: Grande Oriente Lusitano, GL de Cuba, GL Valle de México, Colômbia, Venezuela, Nigéria, Gana, Filipinas (glphils.org redireciona para outro site), Países Baixos (página em JS, veio vazia), Svenska Frimurare Orden (história em 404).
+- [ ] (P3) Downloads da CMSB fora da série COGMNA (ex.: categoria "relações exteriores", parecer sobre irregularidades) devolvem HTML (provável login); a série COGMNA (34 PDFs) e as comunicações da Conferência Mundial foram copiadas.
+- [ ] (P3) `cmsb-2022-informativo` é PDF de imagens e precisa de OCR (tesseract não instalado no ambiente).
+- [ ] (P3) API OpenAlex sem cota (IP compartilhado): falta a busca acadêmica sobre potências e regularidade (nota A); fazer na onda 2.
+- [ ] (P3) Ano 2022 das comunicações da XVIII Conferência Mundial (`*-2022-wcrmgl-*`) é inferido, e alguns autores só têm o sobrenome: conferir no programa da conferência.
+
