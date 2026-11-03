@@ -1,0 +1,1267 @@
+{
+  "lote": "c07-doutrina",
+  "fontes": [
+    {
+      "id": "clemente12-1738-in-eminenti",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Clemente XII"
+      ],
+      "titulo": "In eminenti apostolatus specula",
+      "ano": 1738,
+      "idioma": "en",
+      "url": "https://www.papalencyclicals.net/clement12/c12inemengl.htm",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Constituição apostólica de 28/4/1738, primeira condenação papal da maçonaria: proíbe aos católicos, sob pena de excomunhão reservada, ingressar, favorecer ou acolher as sociedades de \"liberi muratori\", alegando o segredo jurado e o perigo à ordem pública e à fé. Tradução inglesa no papalencyclicals.net.",
+      "evidencias": [
+        "https://www.papalencyclicals.net/clement12/c12inemengl.htm"
+      ],
+      "paises": [
+        "va",
+        "mundo"
+      ],
+      "periodos": [
+        "p1717_1750"
+      ],
+      "titulo_traduzido": "Do alto da atalaia apostólica",
+      "observacoes": "Original latino; cópia = tradução inglesa (domínio público, site papalencyclicals). Ver também cunha-1738-provisao-inquisidor (c05) para a recepção em Portugal.",
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/clemente12-1738-in-eminenti.txt",
+        "html/clemente12-1738-in-eminenti.html"
+      ]
+    },
+    {
+      "id": "bento14-1751-providas",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Bento XIV"
+      ],
+      "titulo": "Providas Romanorum Pontificum",
+      "ano": 1751,
+      "idioma": "it",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/bolla--i-providas-romanorum--i---18-marzo-1751--il-pontefice-con.html",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Bula de 18/3/1751 que confirma e renova a condenação de Clemente XII, enumerando os motivos (mistura de pessoas de várias religiões, segredo, juramento, conflito com leis civis e canônicas, má fama). Texto em italiano no site do Vaticano.",
+      "evidencias": [
+        "https://www.vatican.va/content/benedictus-xiv/it/documents/bolla--i-providas-romanorum--i---18-marzo-1751--il-pontefice-con.html"
+      ],
+      "paises": [
+        "va",
+        "mundo"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/bento14-1751-providas.txt",
+        "html/bento14-1751-providas.html"
+      ]
+    },
+    {
+      "id": "pio7-1821-ecclesiam-a-jesu-christo",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Pio VII"
+      ],
+      "titulo": "Ecclesiam a Jesu Christo",
+      "ano": 1821,
+      "idioma": "it",
+      "url": "https://www.vatican.va/content/pius-vii/it/documents/bolla-ecclesiam-a-jesu-13-settembre-1821.html",
+      "temas": [
+        "religiao",
+        "politica"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Bula de 13/9/1821 contra os Carbonários, assimilados às sociedades maçônicas já condenadas; impõe excomunhão a membros e protetores e atribui à sociedade indiferentismo religioso e hostilidade ao papado. Versão italiana no site do Vaticano.",
+      "evidencias": [
+        "https://www.vatican.va/content/pius-vii/it/documents/bolla-ecclesiam-a-jesu-13-settembre-1821.html"
+      ],
+      "paises": [
+        "va",
+        "it"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/pio7-1821-ecclesiam-a-jesu-christo.txt",
+        "html/pio7-1821-ecclesiam-a-jesu-christo.html"
+      ]
+    },
+    {
+      "id": "leao12-1825-quo-graviora",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Leão XII"
+      ],
+      "titulo": "Quo graviora",
+      "ano": 1825,
+      "idioma": "it",
+      "url": "https://www.vatican.va/content/leo-xii/it/documents/bolla-quo-graviora-13-marzo-1825.html",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Constituição de 13/3/1825 que reúne e reafirma as condenações anteriores (Clemente XII, Bento XIV, Pio VII) contra a maçonaria e todas as sociedades secretas, incluindo expressamente a Universidade/sociedades congêneres; marco da série de condenações do século XIX.",
+      "evidencias": [
+        "https://www.vatican.va/content/leo-xii/it/documents/bolla-quo-graviora-13-marzo-1825.html"
+      ],
+      "paises": [
+        "va",
+        "mundo"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "observacoes": "Data: o Vaticano registra 13/3/1825 (algumas fontes dão 1826).",
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/leao12-1825-quo-graviora.txt",
+        "html/leao12-1825-quo-graviora.html"
+      ]
+    },
+    {
+      "id": "pio8-1829-traditi-humilitati",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Pio VIII"
+      ],
+      "titulo": "Traditi humilitati",
+      "ano": 1829,
+      "idioma": "it",
+      "url": "https://www.vatican.va/content/pius-viii/it/documents/enciclica-traditi-humilitati-24-maggio-1829.html",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Encíclica inaugural de 24/5/1829; entre os males da época denuncia as sociedades secretas e a indiferença religiosa, retomando as condenações de predecessores.",
+      "evidencias": [
+        "https://www.vatican.va/content/pius-viii/it/documents/enciclica-traditi-humilitati-24-maggio-1829.html"
+      ],
+      "paises": [
+        "va",
+        "mundo"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/pio8-1829-traditi-humilitati.txt",
+        "html/pio8-1829-traditi-humilitati.html"
+      ]
+    },
+    {
+      "id": "pio9-1846-qui-pluribus",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Pio IX"
+      ],
+      "titulo": "Qui pluribus",
+      "ano": 1846,
+      "idioma": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/enciclica-qui-pluribus-9-novembre-1846.html",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Primeira encíclica de Pio IX (9/11/1846): condena indiferentismo, racionalismo e as \"seitas clandestinas\", inserindo a maçonaria no quadro de crítica ao liberalismo que culminaria no Syllabus.",
+      "evidencias": [
+        "https://www.vatican.va/content/pius-ix/it/documents/enciclica-qui-pluribus-9-novembre-1846.html"
+      ],
+      "paises": [
+        "va",
+        "mundo"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/pio9-1846-qui-pluribus.txt",
+        "html/pio9-1846-qui-pluribus.html"
+      ]
+    },
+    {
+      "id": "pio9-1864-quanta-cura",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Pio IX"
+      ],
+      "titulo": "Quanta cura",
+      "ano": 1864,
+      "idioma": "la",
+      "url": "https://www.vatican.va/content/pius-ix/la/documents/encyclica-quanta-cura-8-decembris-1864.html",
+      "temas": [
+        "religiao",
+        "politica"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Encíclica de 8/12/1864, publicada com o Syllabus errorum; condena erros modernos (liberalismo, naturalismo, separação Igreja-Estado) e, no Syllabus, as sociedades secretas e \"clérico-liberais\" entre as \"pestes\" já reprovadas. Texto latino no Vaticano.",
+      "evidencias": [
+        "https://www.vatican.va/content/pius-ix/la/documents/encyclica-quanta-cura-8-decembris-1864.html"
+      ],
+      "paises": [
+        "va",
+        "mundo"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/pio9-1864-quanta-cura.txt",
+        "html/pio9-1864-quanta-cura.html"
+      ]
+    },
+    {
+      "id": "pio9-1865-multiplices-inter",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Pio IX"
+      ],
+      "titulo": "Multiplices inter (alocução consistorial)",
+      "ano": 1865,
+      "idioma": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/allocutio-multiplices-inter-25-septembris-1865.html",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Alocução de 25/9/1865 dedicada especificamente à \"sociedade maçônica\": reitera as condenações e lamenta que governos tolerem a maçonaria; muito citada na Questão Religiosa brasileira.",
+      "evidencias": [
+        "https://www.vatican.va/content/pius-ix/it/documents/allocutio-multiplices-inter-25-septembris-1865.html"
+      ],
+      "paises": [
+        "va",
+        "mundo",
+        "br"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/pio9-1865-multiplices-inter.txt",
+        "html/pio9-1865-multiplices-inter.html"
+      ]
+    },
+    {
+      "id": "pio9-1873-etsi-multa",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Pio IX"
+      ],
+      "titulo": "Etsi multa",
+      "ano": 1873,
+      "idioma": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/enciclica-etsi-multa-21-novembre-1873.html",
+      "temas": [
+        "religiao",
+        "antimaconaria"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Encíclica de 21/11/1873 sobre a perseguição à Igreja na Itália, Alemanha (Kulturkampf) e Suíça; identifica a maçonaria como \"sinagoga de Satanás\" inspiradora dessas medidas, retórica que marcou o antimaçonismo católico.",
+      "evidencias": [
+        "https://www.vatican.va/content/pius-ix/it/documents/enciclica-etsi-multa-21-novembre-1873.html"
+      ],
+      "paises": [
+        "va",
+        "it",
+        "de",
+        "ch"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/pio9-1873-etsi-multa.txt",
+        "html/pio9-1873-etsi-multa.html"
+      ]
+    },
+    {
+      "id": "leao13-1884-humanum-genus",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Leão XIII"
+      ],
+      "titulo": "Humanum genus",
+      "ano": 1884,
+      "idioma": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html",
+      "temas": [
+        "religiao",
+        "antimaconaria",
+        "principios"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Encíclica de 20/4/1884, a mais extensa condenação papal da maçonaria: descreve a humanidade dividida entre o \"reino de Deus\" e o \"reino de Satanás\", acusa o naturalismo maçônico de buscar a laicização do Estado, do casamento e da escola, e pede aos bispos que \"arranquem a máscara\" da maçonaria. Textos latino e inglês.",
+      "evidencias": [
+        "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html"
+      ],
+      "paises": [
+        "va",
+        "mundo"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/leao13-1884-humanum-genus.txt",
+        "html/leao13-1884-humanum-genus.html",
+        "html/leao13-1884-humanum-genus-en.html"
+      ]
+    },
+    {
+      "id": "leao13-1890-dall-alto",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Leão XIII"
+      ],
+      "titulo": "Dall'alto dell'Apostolico Seggio",
+      "ano": 1890,
+      "idioma": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_18901015_apostolico-seggio.html",
+      "temas": [
+        "religiao",
+        "politica"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Encíclica de 15/10/1890 ao clero e povo da Itália, atribuindo à maçonaria a política anticlerical do Estado italiano pós-unificação e exortando os católicos a resistir. Versões it e pt no Vaticano.",
+      "evidencias": [
+        "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_18901015_apostolico-seggio.html"
+      ],
+      "paises": [
+        "va",
+        "it"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/leao13-1890-dall-alto.txt",
+        "html/leao13-1890-dall-alto.html",
+        "html/leao13-1890-dall-alto-pt.html"
+      ]
+    },
+    {
+      "id": "leao13-1892-custodi-di-quella-fede",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Leão XIII"
+      ],
+      "titulo": "Custodi di quella fede",
+      "ano": 1892,
+      "idioma": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_08121892_custodi-di-quella-fede.html",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Encíclica de 8/12/1892 ao povo italiano, inteiramente dedicada à maçonaria: orientações práticas aos fiéis (evitar convívio, escolas e associações ligadas às lojas) e denúncia de seu papel na vida pública italiana.",
+      "evidencias": [
+        "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_08121892_custodi-di-quella-fede.html"
+      ],
+      "paises": [
+        "va",
+        "it"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/leao13-1892-custodi-di-quella-fede.txt",
+        "html/leao13-1892-custodi-di-quella-fede.html"
+      ]
+    },
+    {
+      "id": "leao13-1892-inimica-vis",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Leão XIII"
+      ],
+      "titulo": "Inimica vis",
+      "ano": 1892,
+      "idioma": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_08121892_inimica-vis.html",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Encíclica de 8/12/1892 aos bispos italianos sobre a maçonaria, complementar à Custodi di quella fede: pede vigilância episcopal e ação organizada dos católicos contra a influência maçônica.",
+      "evidencias": [
+        "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_08121892_inimica-vis.html"
+      ],
+      "paises": [
+        "va",
+        "it"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/leao13-1892-inimica-vis.txt",
+        "html/leao13-1892-inimica-vis.html"
+      ]
+    },
+    {
+      "id": "igreja-1983-cic-livro6",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Igreja Católica"
+      ],
+      "titulo": "Codex Iuris Canonici (1983), Liber VI: De sanctionibus in Ecclesia (cân. 1374)",
+      "ano": 1983,
+      "idioma": "la",
+      "url": "https://www.vatican.va/archive/cod-iuris-canonici/latin/documents/cic_liberVI_la.html",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "oficial_publico",
+      "licenca": "texto oficial da Santa Sé (© Libreria Editrice Vaticana); cópia só para estudo",
+      "resumo": "Livro VI do Código de Direito Canônico de 1983 (com a revisão de 2021). O cân. 1374 pune quem se inscreve em associação que maquina contra a Igreja, sem mencionar nominalmente a maçonaria — diferença central em relação ao cân. 2335 de 1917. Textos latino e inglês.",
+      "evidencias": [
+        "https://www.vatican.va/archive/cod-iuris-canonici/latin/documents/cic_liberVI_la.html"
+      ],
+      "paises": [
+        "va",
+        "mundo"
+      ],
+      "periodos": [
+        "p1946_1989",
+        "p1990_hoje"
+      ],
+      "observacoes": "Página do Vaticano já traz o texto revisado pela constituição Pascite gregem Dei (2021).",
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/igreja-1983-cic-livro6.txt",
+        "html/igreja-1983-cic-livro6.html",
+        "html/igreja-1983-cic-livro6-en.html"
+      ]
+    },
+    {
+      "id": "cdf-1981-declaracao-maconaria",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Congregação para a Doutrina da Fé"
+      ],
+      "titulo": "Declaração sobre a pertença de católicos a associações maçônicas (17/2/1981)",
+      "ano": 1981,
+      "idioma": "pt",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19810217_massoni_po.html",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "oficial_publico",
+      "licenca": "texto oficial da Santa Sé (© LEV)",
+      "resumo": "Declaração da CDF que corrige interpretações da carta de 1974 (Card. Šeper) usadas por algumas conferências episcopais para flexibilizar a proibição: afirma que o cân. 2335 continua vigente e que conferências episcopais não podem emitir juízos que derroguem a norma.",
+      "evidencias": [
+        "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19810217_massoni_po.html"
+      ],
+      "paises": [
+        "va",
+        "mundo"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/cdf-1981-declaracao-maconaria.txt",
+        "html/cdf-1981-declaracao-maconaria.html",
+        "html/cdf-1981-declaracao-maconaria-en.html"
+      ]
+    },
+    {
+      "id": "cdf-1983-declaracao-maconaria",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Congregação para a Doutrina da Fé (Joseph Ratzinger)"
+      ],
+      "titulo": "Declaração sobre as associações maçônicas (Quaesitum est, 26/11/1983)",
+      "ano": 1983,
+      "idioma": "pt",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19831126_declaration-masonic_po.html",
+      "temas": [
+        "religiao",
+        "principios"
+      ],
+      "confiabilidade": "A",
+      "acesso": "oficial_publico",
+      "licenca": "texto oficial da Santa Sé (© LEV)",
+      "resumo": "Declaração assinada pelo Card. Ratzinger, véspera da entrada em vigor do novo Código: o juízo negativo da Igreja sobre a maçonaria permanece, os fiéis inscritos estão em pecado grave e não podem comungar, e autoridades locais não podem derrogar. Versões pt, en e la.",
+      "evidencias": [
+        "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19831126_declaration-masonic_po.html"
+      ],
+      "paises": [
+        "va",
+        "mundo"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/cdf-1983-declaracao-maconaria.txt",
+        "html/cdf-1983-declaracao-maconaria.html",
+        "html/cdf-1983-declaracao-maconaria-en.html",
+        "html/cdf-1983-declaracao-maconaria-la.html"
+      ]
+    },
+    {
+      "id": "igreja-1917-codex-iuris-canonici",
+      "tipo": "documento",
+      "categoria": "eclesiastica",
+      "autores": [
+        "Igreja Católica"
+      ],
+      "titulo": "Codex Iuris Canonici Pii X Pontificis Maximi iussu digestus, Benedicti Papae XV auctoritate promulgatus",
+      "ano": 1918,
+      "idioma": "la",
+      "url": "https://archive.org/details/codexiuriscanoni00cath",
+      "temas": [
+        "religiao"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (1917)",
+      "resumo": "Código de Direito Canônico pio-beneditino (promulgado em 1917, vigente de 1918 a 1983). O cân. 2335 impõe excomunhão latae sententiae, reservada à Santa Sé, a quem dá o nome à \"seita maçônica\" ou associações similares que maquinam contra a Igreja ou o poder civil; outros cânones (684, 693, 1065, 1240) tratam das consequências.",
+      "evidencias": [
+        "https://archive.org/details/codexiuriscanoni00cath"
+      ],
+      "identificadores": {
+        "ia": "codexiuriscanoni00cath"
+      },
+      "paises": [
+        "va",
+        "mundo"
+      ],
+      "periodos": [
+        "p1919_1945",
+        "p1946_1989"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/igreja-1917-codex-iuris-canonici.txt"
+      ]
+    },
+    {
+      "id": "wirth-1927-livre-apprenti",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Oswald Wirth"
+      ],
+      "titulo": "La Franc-Maçonnerie rendue intelligible à ses adeptes. I: L'Apprenti (Le Livre de l'Apprenti)",
+      "ano": 1927,
+      "idioma": "fr",
+      "url": "https://archive.org/details/wirth-oswald-le-livre-de-l-apprenti-1927",
+      "temas": [
+        "simbolismo",
+        "graus"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (autor †1943)",
+      "resumo": "Primeiro volume da trilogia de Oswald Wirth (1860–1943), manual simbolista muito difundido na maçonaria francesa e latina: interpreta iniciação, câmara de reflexão, viagens, pedra bruta e ferramentas do 1º grau em chave esotérico-moral.",
+      "evidencias": [
+        "https://archive.org/details/wirth-oswald-le-livre-de-l-apprenti-1927"
+      ],
+      "identificadores": {
+        "ia": "wirth-oswald-le-livre-de-l-apprenti-1927"
+      },
+      "ritos": [
+        "reaa",
+        "frances_moderno"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "observacoes": "1ª ed. 1893; esta é a reedição de 1927. Fonte de simbolismo interpretativo, não de história.",
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/wirth-1927-livre-apprenti.txt",
+        "pdf/wirth-1927-livre-apprenti.pdf"
+      ]
+    },
+    {
+      "id": "wirth-1927-livre-maitre",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Oswald Wirth"
+      ],
+      "titulo": "La Franc-Maçonnerie rendue intelligible à ses adeptes. III: Le Maître (Le Livre du Maître)",
+      "ano": 1927,
+      "idioma": "fr",
+      "url": "https://archive.org/details/wirth-oswald-le-livre-du-maitre-1927",
+      "temas": [
+        "simbolismo",
+        "graus"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (autor †1943)",
+      "resumo": "Terceiro volume da trilogia de Wirth: lenda de Hiram, morte iniciática, acácia e simbolismo do 3º grau segundo a leitura hermetizante do autor.",
+      "evidencias": [
+        "https://archive.org/details/wirth-oswald-le-livre-du-maitre-1927"
+      ],
+      "identificadores": {
+        "ia": "wirth-oswald-le-livre-du-maitre-1927"
+      },
+      "ritos": [
+        "reaa",
+        "frances_moderno"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/wirth-1927-livre-maitre.txt",
+        "pdf/wirth-1927-livre-maitre.pdf"
+      ]
+    },
+    {
+      "id": "hall-1923-lost-keys",
+      "tipo": "livro",
+      "categoria": "divulgacao",
+      "autores": [
+        "Manly P. Hall"
+      ],
+      "titulo": "The Lost Keys of Freemasonry, or The Secret of Hiram Abiff",
+      "ano": 1923,
+      "idioma": "en",
+      "url": "https://archive.org/details/TheLostKeysOfFreemasonry",
+      "temas": [
+        "simbolismo",
+        "esoterismo"
+      ],
+      "confiabilidade": "D",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público nos EUA (publicado em 1923)",
+      "resumo": "Ensaio esotérico do jovem Manly P. Hall (antes de sua própria iniciação, 1954) que lê a lenda de Hiram e o simbolismo da loja como caminho de regeneração espiritual; muito popular em círculos esotéricos, sem valor historiográfico.",
+      "evidencias": [
+        "https://archive.org/details/TheLostKeysOfFreemasonry"
+      ],
+      "identificadores": {
+        "ia": "TheLostKeysOfFreemasonry"
+      },
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "observacoes": "Cópia de upload de usuário no IA; conferir edição.",
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/hall-1923-lost-keys.txt",
+        "pdf/hall-1923-lost-keys.pdf"
+      ]
+    },
+    {
+      "id": "hall-1928-secret-teachings",
+      "tipo": "livro",
+      "categoria": "divulgacao",
+      "autores": [
+        "Manly P. Hall"
+      ],
+      "titulo": "The Secret Teachings of All Ages: An Encyclopedic Outline of Masonic, Hermetic, Qabbalistic and Rosicrucian Symbolical Philosophy",
+      "ano": 1928,
+      "idioma": "en",
+      "url": "https://archive.org/details/manly-p.-hall-the-secret-teachings-of-all-ages-1928",
+      "temas": [
+        "esoterismo",
+        "simbolismo"
+      ],
+      "confiabilidade": "D",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público nos EUA (1928, sem renovação/expirado em 2024)",
+      "resumo": "Compêndio ilustrado de tradições esotéricas (hermetismo, cabala, rosacrucianismo, maçonaria) que moldou a leitura ocultista da maçonaria no século XX; útil como documento da recepção esotérica, não como fonte histórica.",
+      "evidencias": [
+        "https://archive.org/details/manly-p.-hall-the-secret-teachings-of-all-ages-1928"
+      ],
+      "identificadores": {
+        "ia": "manly-p.-hall-the-secret-teachings-of-all-ages-1928"
+      },
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/hall-1928-secret-teachings.txt",
+        "pdf/hall-1928-secret-teachings.pdf"
+      ]
+    },
+    {
+      "id": "ward-1921-ancient-gods",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "John Sebastian Marlow Ward"
+      ],
+      "titulo": "Freemasonry and the Ancient Gods",
+      "ano": 1921,
+      "idioma": "en",
+      "url": "https://archive.org/details/freemasonry-and-the-ancient-gods",
+      "temas": [
+        "simbolismo",
+        "origens",
+        "esoterismo"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (autor †1949; ed. 1921)",
+      "resumo": "J.S.M. Ward (1885–1949) propõe derivar ritos e símbolos maçônicos de mistérios e cultos antigos (Egito, Índia, mistérios clássicos) por comparação antropológica; representa a escola \"antropológica\" de interpretação, hoje desacreditada historicamente.",
+      "evidencias": [
+        "https://archive.org/details/freemasonry-and-the-ancient-gods"
+      ],
+      "identificadores": {
+        "ia": "freemasonry-and-the-ancient-gods"
+      },
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/ward-1921-ancient-gods.txt"
+      ]
+    },
+    {
+      "id": "leadbeater-1926-hidden-life",
+      "tipo": "livro",
+      "categoria": "divulgacao",
+      "autores": [
+        "Charles Webster Leadbeater"
+      ],
+      "titulo": "The Hidden Life in Freemasonry",
+      "ano": 1926,
+      "idioma": "en",
+      "url": "https://archive.org/details/The_Hidden_Life_In_Freemasonry_-_C._W._Leadbeater",
+      "temas": [
+        "esoterismo",
+        "mulheres",
+        "simbolismo"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (autor †1934)",
+      "resumo": "Obra do teosofista C.W. Leadbeater sobre o sentido oculto/clarividente das cerimônias, escrita no ambiente da co-maçonaria (Le Droit Humain) ligada à Sociedade Teosófica; documento-chave da relação teosofia × maçonaria mista.",
+      "evidencias": [
+        "https://archive.org/details/The_Hidden_Life_In_Freemasonry_-_C._W._Leadbeater"
+      ],
+      "identificadores": {
+        "ia": "The_Hidden_Life_In_Freemasonry_-_C._W._Leadbeater"
+      },
+      "potencias": [
+        "droit_humain"
+      ],
+      "paises": [
+        "in",
+        "gb"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/leadbeater-1926-hidden-life.txt",
+        "pdf/leadbeater-1926-hidden-life.pdf"
+      ]
+    },
+    {
+      "id": "leadbeater-1926-glimpses",
+      "tipo": "livro",
+      "categoria": "divulgacao",
+      "autores": [
+        "Charles Webster Leadbeater"
+      ],
+      "titulo": "Glimpses of Masonic History",
+      "ano": 1926,
+      "idioma": "en",
+      "url": "https://archive.org/details/eb0155",
+      "temas": [
+        "esoterismo",
+        "origens"
+      ],
+      "confiabilidade": "D",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (autor †1934)",
+      "resumo": "Leitura teosófica da história maçônica que liga a ordem a mistérios egípcios, essênios e às \"escolas de mistérios\"; testemunho das teorias de origem esotérica difundidas pela co-maçonaria teosofista.",
+      "evidencias": [
+        "https://archive.org/details/eb0155"
+      ],
+      "identificadores": {
+        "ia": "eb0155"
+      },
+      "potencias": [
+        "droit_humain"
+      ],
+      "paises": [
+        "in",
+        "gb"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/leadbeater-1926-glimpses.txt",
+        "pdf/leadbeater-1926-glimpses.pdf"
+      ]
+    },
+    {
+      "id": "wilmshurst-1924-masonic-initiation",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Walter Leslie Wilmshurst"
+      ],
+      "titulo": "The Masonic Initiation",
+      "ano": 1924,
+      "idioma": "en",
+      "url": "https://archive.org/details/wilmshurst-the-masonic-initiation",
+      "temas": [
+        "simbolismo",
+        "esoterismo"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (autor †1939)",
+      "resumo": "Continuação de The Meaning of Masonry (wilmshurst-1922-meaning-masonry, lote c01): Wilmshurst (1867–1939) desenvolve a leitura mística da iniciação maçônica como processo interior de regeneração.",
+      "evidencias": [
+        "https://archive.org/details/wilmshurst-the-masonic-initiation"
+      ],
+      "identificadores": {
+        "ia": "wilmshurst-the-masonic-initiation"
+      },
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/wilmshurst-1924-masonic-initiation.txt",
+        "pdf/wilmshurst-1924-masonic-initiation.pdf"
+      ]
+    },
+    {
+      "id": "waite-1887-real-history-rosicrucians",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Arthur Edward Waite"
+      ],
+      "titulo": "The Real History of the Rosicrucians, founded on their own manifestoes",
+      "ano": 1887,
+      "idioma": "en",
+      "url": "https://archive.org/details/realhistoryofros00waituoft",
+      "temas": [
+        "esoterismo",
+        "origens"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (autor †1942)",
+      "resumo": "Waite reúne e traduz os manifestos rosacruzes (Fama, Confessio, Núpcias Químicas) e discute criticamente as pretensas ligações entre a fraternidade Rosa-Cruz do séc. XVII e a maçonaria; ainda útil pelos textos traduzidos.",
+      "evidencias": [
+        "https://archive.org/details/realhistoryofros00waituoft"
+      ],
+      "identificadores": {
+        "ia": "realhistoryofros00waituoft"
+      },
+      "paises": [
+        "de",
+        "gb"
+      ],
+      "periodos": [
+        "p1600_1716",
+        "p1871_1918"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/waite-1887-real-history-rosicrucians.txt"
+      ]
+    },
+    {
+      "id": "waite-1925-emblematic-freemasonry",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Arthur Edward Waite"
+      ],
+      "titulo": "Emblematic Freemasonry and the Evolution of its Deeper Issues",
+      "ano": 1925,
+      "idioma": "en",
+      "url": "https://archive.org/details/ult.emblematicfreema0000arth",
+      "temas": [
+        "simbolismo",
+        "esoterismo",
+        "ritos"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (autor †1942)",
+      "resumo": "Estudo de Waite sobre a evolução dos graus e das tradições \"emblemáticas\" (altos graus, hermetismo, cavalaria) e seu sentido místico; mistura erudição bibliográfica e interpretação espiritual.",
+      "evidencias": [
+        "https://archive.org/details/ult.emblematicfreema0000arth"
+      ],
+      "identificadores": {
+        "ia": "ult.emblematicfreema0000arth"
+      },
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/waite-1925-emblematic-freemasonry.txt"
+      ]
+    },
+    {
+      "id": "churchward-1915-arcana",
+      "tipo": "livro",
+      "categoria": "divulgacao",
+      "autores": [
+        "Albert Churchward"
+      ],
+      "titulo": "The Arcana of Freemasonry: a history of Masonic signs and symbols",
+      "ano": 1915,
+      "idioma": "en",
+      "url": "https://archive.org/details/arcanaoffreemaso00churuoft",
+      "temas": [
+        "simbolismo",
+        "origens"
+      ],
+      "confiabilidade": "D",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (autor †1925)",
+      "resumo": "Churchward (1852–1925) defende origem egípcia pré-histórica dos símbolos maçônicos; exemplo extremo de teoria de origem especulativa, útil para verbete sobre mitos de origem.",
+      "evidencias": [
+        "https://archive.org/details/arcanaoffreemaso00churuoft"
+      ],
+      "identificadores": {
+        "ia": "arcanaoffreemaso00churuoft"
+      },
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/churchward-1915-arcana.txt",
+        "pdf/churchward-1915-arcana.pdf"
+      ]
+    },
+    {
+      "id": "ashmole-1717-memoirs",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Elias Ashmole"
+      ],
+      "titulo": "Memoirs of the life of that learned antiquary, Elias Ashmole, Esq; drawn up by himself by way of diary",
+      "ano": 1717,
+      "idioma": "en",
+      "url": "https://archive.org/details/bim_eighteenth-century_memoirs-of-the-life-of-t_ashmole-elias_1717",
+      "temas": [
+        "origens",
+        "esoterismo",
+        "personalidades"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Diário de Elias Ashmole (1617–1692), antiquário e estudioso de alquimia e astrologia, com as célebres anotações de sua admissão numa loja em Warrington (16/10/1646) e de uma reunião em Londres (1682) — dos mais antigos registros de maçons não operativos na Inglaterra.",
+      "evidencias": [
+        "https://archive.org/details/bim_eighteenth-century_memoirs-of-the-life-of-t_ashmole-elias_1717"
+      ],
+      "identificadores": {
+        "ia": "bim_eighteenth-century_memoirs-of-the-life-of-t_ashmole-elias_1717"
+      },
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1600_1716"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/ashmole-1717-memoirs.txt"
+      ]
+    },
+    {
+      "id": "papus-1895-martines-pasqually",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Papus (Gérard Encausse)"
+      ],
+      "titulo": "L'Illuminisme en France (1767–1774): Martinès de Pasqually, sa vie, ses pratiques magiques, son œuvre, ses disciples",
+      "ano": 1895,
+      "idioma": "fr",
+      "url": "https://archive.org/details/1895-papus-ed-l-illuminisne-en-france-martines-de-pasqually",
+      "temas": [
+        "esoterismo",
+        "ritos"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (autor †1916)",
+      "resumo": "Papus publica documentos e cartas de Martinès de Pasqually e discípulos (Willermoz, Saint-Martin) sobre os Élus Coëns; base documental, ainda que apologética, para Martinismo e as origens do RER.",
+      "evidencias": [
+        "https://archive.org/details/1895-papus-ed-l-illuminisne-en-france-martines-de-pasqually"
+      ],
+      "identificadores": {
+        "ia": "1895-papus-ed-l-illuminisne-en-france-martines-de-pasqually"
+      },
+      "ritos": [
+        "rer"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1871_1918"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/papus-1895-martines-pasqually.txt"
+      ]
+    },
+    {
+      "id": "anonimo-1791-vie-balsamo",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Anônimo (Câmara Apostólica / Giovanni Barberi)"
+      ],
+      "titulo": "Vie de Joseph Balsamo, connu sous le nom de Comte Cagliostro, extraite de la procédure instruite contre lui à Rome en 1790",
+      "ano": 1791,
+      "idioma": "fr",
+      "url": "https://archive.org/details/b28757518",
+      "temas": [
+        "esoterismo",
+        "religiao",
+        "antimaconaria"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Compêndio oficial do processo inquisitorial romano contra Cagliostro (1789–1791), com descrição hostil de sua \"maçonaria egípcia\" e de sua vida; fonte primária, ainda que parcial, sobre o rito egípcio e a repressão romana.",
+      "evidencias": [
+        "https://archive.org/details/b28757518"
+      ],
+      "identificadores": {
+        "ia": "b28757518"
+      },
+      "ritos": [
+        "memphis_misraim"
+      ],
+      "paises": [
+        "it",
+        "fr",
+        "va"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "observacoes": "Original italiano (Compendio della vita e delle gesta di Giuseppe Balsamo, 1791); esta é a tradução francesa. Ver também a tradução portuguesa de 1874 (anonimo-1874-compendio-balsamo).",
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/anonimo-1791-vie-balsamo.txt",
+        "pdf/anonimo-1791-vie-balsamo.pdf"
+      ]
+    },
+    {
+      "id": "anonimo-1874-compendio-balsamo",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "Anônimo (Câmara Apostólica)"
+      ],
+      "titulo": "Compendio da vida e feitos de José Balsamo, chamado o conde de Cagliostro",
+      "ano": 1874,
+      "idioma": "pt",
+      "url": "https://archive.org/details/compendiodavida00brangoog",
+      "temas": [
+        "esoterismo",
+        "antimaconaria"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Tradução portuguesa oitocentista do compêndio romano do processo de Cagliostro; mostra a circulação da narrativa antimaçônica sobre a \"maçonaria egípcia\" no mundo lusófono durante a época da Questão Religiosa.",
+      "evidencias": [
+        "https://archive.org/details/compendiodavida00brangoog"
+      ],
+      "identificadores": {
+        "ia": "compendiodavida00brangoog"
+      },
+      "ritos": [
+        "memphis_misraim"
+      ],
+      "paises": [
+        "pt",
+        "br"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/anonimo-1874-compendio-balsamo.txt",
+        "pdf/anonimo-1874-compendio-balsamo.pdf"
+      ]
+    },
+    {
+      "id": "guillemain-1774-maconnerie-femmes",
+      "tipo": "livro",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Louis Guillemain de Saint-Victor (atrib.)"
+      ],
+      "titulo": "De la Maçonnerie des femmes",
+      "ano": 1774,
+      "idioma": "fr",
+      "url": "https://archive.org/details/StVictorLGDeLaMaconnerieDesFemmes1774",
+      "temas": [
+        "mulheres",
+        "ritual"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "resumo": "Texto setecentista atribuído a Guillemain de Saint-Victor sobre lojas de adoção (para senhoras) na França, com descrição dos graus e do simbolismo do Éden; uma das primeiras fontes publicadas sobre a maçonaria feminina.",
+      "evidencias": [
+        "https://archive.org/details/StVictorLGDeLaMaconnerieDesFemmes1774"
+      ],
+      "identificadores": {
+        "ia": "StVictorLGDeLaMaconnerieDesFemmes1774"
+      },
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "observacoes": "Atribuição e data conforme o upload do IA; conferir com Snoek 2012 (snoek-2012-initiating-women-adoption-rite). Edição posterior (1783) em guillemain-1783-adoption-maconnerie-dames (c02).",
+      "lote": "c07-doutrina",
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/guillemain-1774-maconnerie-femmes.txt",
+        "pdf/guillemain-1774-maconnerie-femmes.pdf"
+      ]
+    }
+  ]
+}
