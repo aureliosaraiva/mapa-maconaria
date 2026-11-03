@@ -4310,6 +4310,162 @@
         "pdf/rosen-1890-ennemie-sociale.pdf",
         "txt/rosen-1890-ennemie-sociale.txt"
       ]
+    },
+    {
+      "id": "baviera-1787-einige-originalschriften",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Eleitorado da Baviera (ed.)"
+      ],
+      "titulo": "Einige Originalschriften des Illuminatenordens, welche bey dem gewesenen Regierungsrath Zwack durch vorgenommene Hausvisitation zu Landshut den 11. und 12. Oktob. etc. 1786 vorgefunden worden",
+      "ano": 1787,
+      "idioma": "de",
+      "url": "https://archive.org/details/einigeoriginalsc01duke_0",
+      "identificadores": {
+        "ia": "einigeoriginalsc01duke_0"
+      },
+      "temas": [
+        "politica",
+        "antimaconaria",
+        "documentos_fundadores"
+      ],
+      "paises": [
+        "de"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (século XVIII)",
+      "status_verificacao": "copiado",
+      "resumo": "Documentos internos dos Iluminados da Baviera apreendidos na casa de Franz Xaver von Zwack em 1786 e publicados por ordem do governo bávaro para justificar a proibição. Fonte primária fundamental (correspondência de Weishaupt, estatutos, planos) e base das teorias conspiratórias posteriores.",
+      "evidencias": [
+        "https://archive.org/details/einigeoriginalsc01duke_0"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/baviera-1787-einige-originalschriften.txt"
+      ]
+    },
+    {
+      "id": "baviera-1787-nachtrag-originalschriften",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Eleitorado da Baviera (ed.)"
+      ],
+      "titulo": "Nachtrag von weitern Originalschriften, welche die Illuminatensekte überhaupt, sonderbar aber den Stifter derselben Adam Weishaupt ... betreffen",
+      "ano": 1787,
+      "idioma": "de",
+      "url": "https://archive.org/details/nachtragvonweite121duke",
+      "identificadores": {
+        "ia": "nachtragvonweite121duke"
+      },
+      "temas": [
+        "politica",
+        "antimaconaria",
+        "documentos_fundadores"
+      ],
+      "paises": [
+        "de"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (século XVIII)",
+      "status_verificacao": "copiado",
+      "resumo": "Suplemento à edição oficial bávara dos papéis dos Iluminados, com mais correspondência e documentos sobre Adam Weishaupt e a organização da ordem e de seus graus.",
+      "evidencias": [
+        "https://archive.org/details/nachtragvonweite121duke"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "txt/baviera-1787-nachtrag-originalschriften.txt"
+      ]
+    },
+    {
+      "id": "morse-1799-sermon-present-dangers",
+      "tipo": "documento",
+      "categoria": "antimaconica",
+      "autores": [
+        "Jedidiah Morse"
+      ],
+      "titulo": "A sermon, exhibiting the present dangers, and consequent duties of the citizens of the United States of America",
+      "ano": 1799,
+      "idioma": "en",
+      "url": "https://archive.org/details/sermonexhibiting00morsrich",
+      "identificadores": {
+        "ia": "sermonexhibiting00morsrich"
+      },
+      "temas": [
+        "antimaconaria",
+        "religiao",
+        "politica"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (século XVIII)",
+      "status_verificacao": "copiado",
+      "resumo": "Sermão de 25 de abril de 1799 em que o pastor Jedidiah Morse afirma a existência de sociedades iluministas conspiradoras nos EUA, com uma suposta lista de membros de uma loja da Virgínia. Documento central do pânico dos Iluminados na Nova Inglaterra estudado por Stauffer.",
+      "evidencias": [
+        "https://archive.org/details/sermonexhibiting00morsrich"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/morse-1799-sermon-present-dangers.pdf",
+        "txt/morse-1799-sermon-present-dangers.txt"
+      ]
+    },
+    {
+      "id": "morse-1798-sermon-grand-lodge",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Jedidiah Morse"
+      ],
+      "titulo": "A sermon delivered before the Grand Lodge of Free & Accepted Masons of the Commonwealth of Massachusetts",
+      "ano": 1798,
+      "idioma": "en",
+      "url": "https://archive.org/details/sermondeliveredb04mors",
+      "identificadores": {
+        "ia": "sermondeliveredb04mors"
+      },
+      "temas": [
+        "religiao",
+        "politica"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (século XVIII)",
+      "status_verificacao": "copiado",
+      "resumo": "Sermão pregado por Jedidiah Morse diante da Grande Loja de Massachusetts em 1798, que elogia a maçonaria americana enquanto a distingue dos Iluminados europeus. Mostra a ambiguidade do debate de 1798–1799.",
+      "evidencias": [
+        "https://archive.org/details/sermondeliveredb04mors"
+      ],
+      "potencias": [
+        "gl_estaduais_eua"
+      ],
+      "lote": "c04-historia-mundo",
+      "acervo": [
+        "pdf/morse-1798-sermon-grand-lodge.pdf",
+        "txt/morse-1798-sermon-grand-lodge.txt"
+      ]
     }
   ]
 }
