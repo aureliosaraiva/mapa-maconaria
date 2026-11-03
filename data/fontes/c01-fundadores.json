@@ -2202,45 +2202,6 @@
       "lote": "c01-fundadores"
     },
     {
-      "id": "paiva-1895-historia-maconaria",
-      "tipo": "livro",
-      "categoria": "divulgacao",
-      "autores": [
-        "Alfredo de Paiva"
-      ],
-      "titulo": "História da Maçonaria",
-      "ano": 1895,
-      "idioma": "pt",
-      "temas": [
-        "historiografia"
-      ],
-      "resumo": "Síntese histórica em português publicada no Brasil no fim do século XIX; o autor declara ter escrito para suprir a falta de obra moderna sobre o tema em português. Valor sobretudo como testemunho da visão maçônica brasileira da época.",
-      "paises": [
-        "br",
-        "mundo"
-      ],
-      "periodos": [
-        "p1871_1918"
-      ],
-      "confiabilidade": "C",
-      "observacoes": "Prefácio dirigido ao 'Oriente Maçônico no Brasil'; local/editora a conferir na folha de rosto.",
-      "acervo": [
-        "txt/paiva-1895-historia-maconaria.txt",
-        "pdf/paiva-1895-historia-maconaria.pdf"
-      ],
-      "status_verificacao": "copiado",
-      "url": "https://archive.org/details/historia-da-maconaria",
-      "identificadores": {
-        "ia": "historia-da-maconaria"
-      },
-      "evidencias": [
-        "https://archive.org/details/historia-da-maconaria"
-      ],
-      "acesso": "dominio_publico",
-      "licenca": "domínio público",
-      "lote": "c01-fundadores"
-    },
-    {
       "id": "tirado-1892-masoneria-espana",
       "tipo": "livro",
       "categoria": "antimaconica",
