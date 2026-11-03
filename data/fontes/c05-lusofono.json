@@ -264,7 +264,6 @@
         "ia": "ovolevantadoouom00palm"
       },
       "acervo": [
-        "pdf/anonimo-1822-veo-levantado.pdf",
         "txt/anonimo-1822-veo-levantado.txt"
       ]
     },
@@ -354,7 +353,6 @@
         "ia": "manual-do-franc-mac-on-do-rito-francez-ou-moderno"
       },
       "acervo": [
-        "pdf/anonimo-1905-manual-rito-francez.pdf",
         "txt/anonimo-1905-manual-rito-francez.txt"
       ]
     },
@@ -2622,7 +2620,6 @@
         "ia": "ceremonias-da-mac-onaria-symbolica-dos-antigos-mac-ons-livres-e-acceites-de-portugal"
       },
       "acervo": [
-        "pdf/golu-1881-ceremonias-maconaria-symbolica.pdf",
         "txt/golu-1881-ceremonias-maconaria-symbolica.txt"
       ]
     },
@@ -2666,7 +2663,6 @@
         "ia": "congresso-maconico-das-duas-potencias-maconicas-da-peninsula-iberica"
       },
       "acervo": [
-        "pdf/golu-1905-congresso-peninsula-iberica.pdf",
         "txt/golu-1905-congresso-peninsula-iberica.txt"
       ]
     },
@@ -3352,7 +3348,6 @@
         "ia": "verdadeiros-interesses-das-potencias-da-europa-e-do-imperio-do-brasil-relativame"
       },
       "acervo": [
-        "pdf/lopes-1829-verdadeiros-interesses.pdf",
         "txt/lopes-1829-verdadeiros-interesses.txt"
       ]
     },
@@ -3469,7 +3464,6 @@
         "ia": "questoreligios00cost"
       },
       "acervo": [
-        "pdf/macedo-costa-1886-questao-religiosa-santa-se.pdf",
         "txt/macedo-costa-1886-questao-religiosa-santa-se.txt"
       ]
     },
@@ -3592,7 +3586,6 @@
         "ia": "discurso-sobre-a-questao-religiosa"
       },
       "acervo": [
-        "pdf/mendes-1873-discurso-questao-religiosa.pdf",
         "txt/mendes-1873-discurso-questao-religiosa.txt"
       ]
     },
@@ -4047,6 +4040,45 @@
       "status_verificacao": "conferido_web"
     },
     {
+      "id": "paiva-1895-historia-maconaria",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Alfredo de Paiva"
+      ],
+      "titulo": "Historia da maçonaria",
+      "ano": 1895,
+      "idioma": "pt",
+      "temas": [
+        "historiografia",
+        "origens"
+      ],
+      "paises": [
+        "pt",
+        "mundo"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (publicado há mais de 70 anos / autor falecido há mais de 70 anos)",
+      "resumo": "História geral da maçonaria publicada em 1895, no estilo da historiografia maçônica oitocentista (origens lendárias, Templo de Salomão, ordens medievais). Documento da autoimagem maçônica portuguesa.",
+      "url": "https://archive.org/details/historia-da-maconaria",
+      "identificadores": {
+        "ia": "historia-da-maconaria"
+      },
+      "evidencias": [
+        "https://archive.org/details/historia-da-maconaria"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/paiva-1895-historia-maconaria.txt"
+      ],
+      "lote": "c05-lusofono",
+      "observacoes": "Entrada restaurada: C01 e C05 retiraram a duplicata ao mesmo tempo. PDF (17 MB) não guardado (regra dos 15 MB)."
+    },
+    {
       "id": "palmela-1822-carta-macedo",
       "tipo": "documento",
       "categoria": "primaria_historica",
@@ -4471,7 +4503,6 @@
         "ia": "obispodeolindad00dosgoog"
       },
       "acervo": [
-        "pdf/reis-1878-bispo-olinda-perante-historia.pdf",
         "txt/reis-1878-bispo-olinda-perante-historia.txt"
       ]
     },
@@ -4554,7 +4585,6 @@
         "ia": "aegrejaeoestado01marigoog"
       },
       "acervo": [
-        "pdf/saldanha-marinho-1874-egreja-estado.pdf",
         "txt/saldanha-marinho-1874-egreja-estado.txt"
       ]
     },
