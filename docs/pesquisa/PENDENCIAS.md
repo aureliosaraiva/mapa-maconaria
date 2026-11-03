@@ -59,3 +59,14 @@
 - [ ] (P3) API OpenAlex sem cota (IP compartilhado): falta a busca acadêmica sobre potências e regularidade (nota A); fazer na onda 2.
 - [ ] (P3) Ano 2022 das comunicações da XVIII Conferência Mundial (`*-2022-wcrmgl-*`) é inferido, e alguns autores só têm o sobrenome: conferir no programa da conferência.
 
+## C07
+- [ ] (P2) Teses do HAL `leroyer-2023-secret-maconnique` e `brown-peroy-2016-secret-angleterre`: theses.hal.science exige desafio anti-robô (Anubis), então não foram copiadas. Baixar manualmente — https://theses.hal.science/tel-04389984 · https://theses.hal.science/tel-01900353
+- [ ] (P3) OpenEdition (journals.openedition.org) também usa Anubis: `deschamps-2017-resenha-femmes-lumieres` sem cópia.
+- [ ] (P2) Declaração da Conferência Episcopal Alemã de 1980 (`dbk-1980-erklaerung-freimaurerei`): a única cópia localizada (coramfratribus.com) está atrás de Cloudflare e dbk.de devolve 401. Buscar edição oficial.
+- [ ] (P1) Atas do Convento de Lausanne 1875 (`supremos-conselhos-1875-convent-lausanne`) e do convento do GOdF de 1877 (`godf-1877-convent-voeu-ix`): texto primário não localizado em acervo aberto acessível (Gallica 403). São documentos centrais para os verbetes de princípios e regularidade.
+- [ ] (P2) UGLE *Basic Principles* 1929 (`ugle-1929-basic-principles`): o PDF do Book of Constitutions (boc-craft-rules-feb26.pdf) deu 404; coordenar com C03.
+- [ ] (P2) Textos primários de outras confissões sem cópia: fatwa de 1978 (`fiqh-1978-decisao-maconaria`; o órgão emissor diverge entre as fontes), Igreja da Grécia 1933, CBCP 2003, Igreja da Inglaterra 1987 (impresso), Batistas do Sul 1993.
+- [ ] (P3) Redalyc devolve 403 para PDFs; os artigos da REHMLAC foram baixados pelo OJS da UCR (doi.org → archivo.revistas.ucr.ac.cr). Khalturin 2015 está no c04.
+- [ ] (P3) Situação de direitos de `antunes-1918-maconaria-iniciatica` (upload de usuário no IA, data de morte do autor não conferida); afirmação de iniciação de Carolina Beatriz Ângelo (`glfp-s-d-carolina-beatriz-angelo`) precisa de fonte documental (regra 6).
+- [ ] (P3) Taxonomia: propor código `feminina_pt` (Grande Loja Feminina de Portugal) — orquestradora.
+
