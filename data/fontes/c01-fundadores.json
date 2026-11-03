@@ -4290,6 +4290,510 @@
       "acesso": "dominio_publico",
       "licenca": "domínio público",
       "lote": "c01-fundadores"
+    },
+    {
+      "id": "fischer-1802-eleusinien-v1",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Johann Karl Christian Fischer (ed.)",
+        "Johann Gottlieb Fichte"
+      ],
+      "titulo": "Eleusinien des neunzehnten Jahrhunderts, oder Resultate vereinigter Denker über Philosophie und Geschichte der Freimaurerei (vol. 1)",
+      "ano": 1802,
+      "idioma": "de",
+      "temas": [
+        "principios",
+        "sociabilidade",
+        "historiografia"
+      ],
+      "resumo": "Coletânea editada por J. K. C. Fischer em que foram publicadas, sem nome, as cartas de Fichte sobre a 'filosofia da maçonaria' (Philosophie der Maurerei. Briefe an Konstant), que interpretam a ordem como escola de formação humana integral. Documento do idealismo alemão sobre a maçonaria.",
+      "local": "Berlim",
+      "paises": [
+        "de"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "titulo_traduzido": "Elêusis do século XIX",
+      "observacoes": "As cartas de Fichte ocupam os vols. 1–2; conferir paginação.",
+      "acervo": [
+        "txt/fischer-1802-eleusinien-v1.txt",
+        "pdf/fischer-1802-eleusinien-v1.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/eleusiniendesneu11fisc",
+      "identificadores": {
+        "ia": "eleusiniendesneu11fisc"
+      },
+      "evidencias": [
+        "https://archive.org/details/eleusiniendesneu11fisc"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "fischer-1802-eleusinien-v2",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Johann Karl Christian Fischer (ed.)",
+        "Johann Gottlieb Fichte"
+      ],
+      "titulo": "Eleusinien des neunzehnten Jahrhunderts (vol. 2)",
+      "ano": 1802,
+      "idioma": "de",
+      "temas": [
+        "principios",
+        "sociabilidade",
+        "historiografia"
+      ],
+      "resumo": "Segundo volume da coletânea de Fischer, com a continuação das cartas de Fichte e outros textos sobre filosofia e história da maçonaria.",
+      "local": "Berlim",
+      "paises": [
+        "de"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "acervo": [
+        "txt/fischer-1802-eleusinien-v2.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/eleusiniendesneu21fisc",
+      "identificadores": {
+        "ia": "eleusiniendesneu21fisc"
+      },
+      "evidencias": [
+        "https://archive.org/details/eleusiniendesneu21fisc"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "findel-1870-geschichte",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Joseph Gabriel Findel"
+      ],
+      "titulo": "Geschichte der Freimaurerei von der Zeit ihres Entstehens bis auf die Gegenwart",
+      "ano": 1870,
+      "idioma": "de",
+      "temas": [
+        "historiografia",
+        "origens",
+        "potencias"
+      ],
+      "resumo": "Edição alemã (3ª ed.) da história geral de Findel, pioneira da crítica documental na Alemanha; ver também a tradução inglesa (findel-1866-history).",
+      "ano_original": 1861,
+      "local": "Leipzig",
+      "paises": [
+        "de",
+        "mundo"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/findel-1870-geschichte.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/geschichtederfr02findgoog",
+      "identificadores": {
+        "ia": "geschichtederfr02findgoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/geschichtederfr02findgoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "bauhutte-1858-periodico",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "J. G. Findel (ed.)"
+      ],
+      "titulo": "Die Bauhütte: Organ für die Gesamt-Interessen der Freimaurerei (1858)",
+      "ano": 1858,
+      "idioma": "de",
+      "temas": [
+        "historiografia",
+        "potencias",
+        "sociabilidade"
+      ],
+      "resumo": "Primeiro ano do semanário maçônico alemão fundado por Findel em 1858, porta-voz da corrente liberal e reformista, com notícias de lojas e debates sobre história e princípios.",
+      "local": "Leipzig",
+      "paises": [
+        "de"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "titulo_traduzido": "A Bauhütte (canteiro de obras)",
+      "acervo": [
+        "txt/bauhutte-1858-periodico.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/bub_gb_Kv8-AQAAMAAJ",
+      "identificadores": {
+        "ia": "bub_gb_Kv8-AQAAMAAJ"
+      },
+      "evidencias": [
+        "https://archive.org/details/bub_gb_Kv8-AQAAMAAJ"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "vdf-1862-mitteilungen",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Verein Deutscher Freimaurer"
+      ],
+      "titulo": "Mitteilungen aus dem Verein Deutscher Freimaurer",
+      "ano": 1862,
+      "idioma": "de",
+      "temas": [
+        "historiografia",
+        "potencias",
+        "principios"
+      ],
+      "resumo": "Boletim da Associação dos Maçons Alemães (fundada em 1861), que reunia maçons de diferentes grandes lojas em torno da pesquisa histórica e da reforma.",
+      "local": "Leipzig",
+      "paises": [
+        "de"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/vdf-1862-mitteilungen.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/bub_gb_UXgtAQAAMAAJ",
+      "identificadores": {
+        "ia": "bub_gb_UXgtAQAAMAAJ"
+      },
+      "evidencias": [
+        "https://archive.org/details/bub_gb_UXgtAQAAMAAJ"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "danton-1889-historia-general-v1",
+      "tipo": "livro",
+      "categoria": "divulgacao",
+      "autores": [
+        "Danton (pseud.)"
+      ],
+      "titulo": "Historia general de la masonería desde los tiempos más remotos hasta nuestra época (vol. 1)",
+      "ano": 1889,
+      "idioma": "es",
+      "temas": [
+        "historiografia",
+        "origens"
+      ],
+      "resumo": "História geral da maçonaria em espanhol, publicada sob pseudônimo em fins do século XIX, que repete as teorias de origem antigas e trata da maçonaria espanhola e latino-americana.",
+      "paises": [
+        "es",
+        "mundo"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "C",
+      "observacoes": "Pseudônimo; conferir autoria e editora (Barcelona?).",
+      "acervo": [
+        "txt/danton-1889-historia-general-v1.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/historia-general-de-la-masoneria-desde-los-tiempos-mas-remotos-hasta-nuestra-epoca.-vol-1",
+      "identificadores": {
+        "ia": "historia-general-de-la-masoneria-desde-los-tiempos-mas-remotos-hasta-nuestra-epoca.-vol-1"
+      },
+      "evidencias": [
+        "https://archive.org/details/historia-general-de-la-masoneria-desde-los-tiempos-mas-remotos-hasta-nuestra-epoca.-vol-1"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "kauffmann-1900-historia-filosofica",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "François Kauffmann",
+        "Claude Cherpin"
+      ],
+      "titulo": "Historia filosófica de la Franc-Masonería",
+      "ano": 1900,
+      "idioma": "es",
+      "temas": [
+        "historiografia",
+        "principios",
+        "ritos"
+      ],
+      "resumo": "Tradução espanhola (edição de 1900) da Histoire philosophique de la franc-maçonnerie (Lyon, 1850) de Kauffmann e Cherpin, que analisa os princípios e os ritos sob perspectiva filosófica.",
+      "ano_original": 1850,
+      "paises": [
+        "fr",
+        "es",
+        "gt"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "C",
+      "observacoes": "Item do IA de acervo guatemalteco, um dos tomos (2); conferir.",
+      "status_verificacao": "conferido_web",
+      "url": "https://archive.org/details/histoframa21900guat",
+      "evidencias": [
+        "https://archive.org/details/histoframa21900guat"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "vannuzzi-1910-socialismo-massoneria",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Santi Vannuzzi"
+      ],
+      "titulo": "Socialismo e massoneria: note di un socialista massone",
+      "ano": 1910,
+      "idioma": "it",
+      "temas": [
+        "politica",
+        "principios"
+      ],
+      "resumo": "Ensaio de um socialista maçom italiano sobre a compatibilidade entre socialismo e maçonaria, tema que dividiu o Partido Socialista Italiano (expulsão dos maçons em 1914).",
+      "paises": [
+        "it"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "potencias": [
+        "goi"
+      ],
+      "licenca": "domínio público nos EUA (publ. 1910); conferir data de morte do autor",
+      "acervo": [
+        "txt/vannuzzi-1910-socialismo-massoneria.txt",
+        "pdf/vannuzzi-1910-socialismo-massoneria.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/socialismoemasso00vannuoft",
+      "identificadores": {
+        "ia": "socialismoemasso00vannuoft"
+      },
+      "evidencias": [
+        "https://archive.org/details/socialismoemasso00vannuoft"
+      ],
+      "acesso": "dominio_publico",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "newton-1914-builders",
+      "tipo": "livro",
+      "categoria": "divulgacao",
+      "autores": [
+        "Joseph Fort Newton"
+      ],
+      "titulo": "The Builders: A Story and Study of Masonry",
+      "ano": 1914,
+      "idioma": "en",
+      "temas": [
+        "historiografia",
+        "simbolismo",
+        "principios"
+      ],
+      "resumo": "Obra de divulgação de grande difusão, encomendada pela Grande Loja de Iowa, que combina história (já incorporando a escola autêntica) e reflexão sobre o sentido espiritual da maçonaria.",
+      "local": "Cedar Rapids",
+      "editora": "Torch Press",
+      "paises": [
+        "us",
+        "mundo"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "C",
+      "licenca": "domínio público (publ. 1914; autor m. 1950)",
+      "acervo": [
+        "txt/newton-1914-builders.txt",
+        "pdf/newton-1914-builders.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/B-001-002-445",
+      "identificadores": {
+        "ia": "B-001-002-445"
+      },
+      "evidencias": [
+        "https://archive.org/details/B-001-002-445"
+      ],
+      "acesso": "dominio_publico",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "waite-1911-secret-tradition-v1",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Arthur Edward Waite"
+      ],
+      "titulo": "The Secret Tradition in Freemasonry (vol. 1)",
+      "ano": 1911,
+      "idioma": "en",
+      "temas": [
+        "esoterismo",
+        "graus",
+        "ritos"
+      ],
+      "resumo": "Estudo de Waite sobre os altos graus e a suposta 'tradição secreta' (hermética, cabalística, rosacruz, templária) que neles se expressaria. Útil para inventário de graus, interpretação a ler criticamente.",
+      "local": "Londres",
+      "editora": "Rebman",
+      "paises": [
+        "gb",
+        "fr",
+        "de"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "C",
+      "licenca": "domínio público (autor m. 1942)",
+      "acervo": [
+        "txt/waite-1911-secret-tradition-v1.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/secrettraditioni01waituoft",
+      "identificadores": {
+        "ia": "secrettraditioni01waituoft"
+      },
+      "evidencias": [
+        "https://archive.org/details/secrettraditioni01waituoft"
+      ],
+      "acesso": "dominio_publico",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "lane-1895-masonic-records",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "John Lane"
+      ],
+      "titulo": "Masonic Records, 1717–1894",
+      "ano": 1895,
+      "idioma": "en",
+      "temas": [
+        "potencias",
+        "historiografia"
+      ],
+      "resumo": "Lista de todas as lojas criadas pelas grandes lojas da Inglaterra (Moderns, Antients e UGLE) de 1717 a 1894, com números, datas, locais de reunião e mudanças de numeração. Ferramenta de referência indispensável.",
+      "local": "Londres",
+      "editora": "UGLE",
+      "paises": [
+        "gb",
+        "mundo"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "potencias": [
+        "ugle",
+        "moderns",
+        "antients"
+      ],
+      "confiabilidade": "A",
+      "acervo": [
+        "txt/lane-1895-masonic-records.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/cu31924030274165",
+      "identificadores": {
+        "ia": "cu31924030274165"
+      },
+      "evidencias": [
+        "https://archive.org/details/cu31924030274165"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "canongate-1888-history-lodge",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Allan Mackenzie"
+      ],
+      "titulo": "History of the Lodge Canongate Kilwinning No. 2, compiled from the records, 1677–1888",
+      "ano": 1888,
+      "idioma": "en",
+      "temas": [
+        "historiografia",
+        "origens",
+        "sociabilidade"
+      ],
+      "resumo": "História documental de uma das lojas escocesas mais antigas, baseada nas atas desde 1677; testemunha a transição operativa-especulativa e a vida de loja na Edimburgo setecentista (inclusive Robert Burns).",
+      "local": "Edimburgo",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1600_1716",
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "potencias": [
+        "gl_escocia"
+      ],
+      "ritos": [
+        "escoces_craft"
+      ],
+      "confiabilidade": "B",
+      "observacoes": "Autoria a conferir na folha de rosto.",
+      "acervo": [
+        "txt/canongate-1888-history-lodge.txt",
+        "pdf/canongate-1888-history-lodge.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/cu31924030291771",
+      "identificadores": {
+        "ia": "cu31924030291771"
+      },
+      "evidencias": [
+        "https://archive.org/details/cu31924030291771"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
     }
   ]
 }
