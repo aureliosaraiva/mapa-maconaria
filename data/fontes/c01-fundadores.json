@@ -43,41 +43,6 @@
       "lote": "c01-fundadores"
     },
     {
-      "id": "cooke-1861-history-articles",
-      "tipo": "documento",
-      "categoria": "primaria_historica",
-      "autores": [
-        "Matthew Cooke (ed.)"
-      ],
-      "titulo": "The History and Articles of Masonry (Manuscrito Cooke)",
-      "ano": 1861,
-      "idioma": "en",
-      "temas": [
-        "origens",
-        "documentos_fundadores"
-      ],
-      "resumo": "Edição de 1861, por Matthew Cooke, do segundo Old Charge mais antigo (Manuscrito Cooke, c. 1450, British Library Add. MS 23198), com fac-símile e transcrição modernizada. O texto combina uma história lendária das sete artes liberais e da geometria com os artigos e pontos que regiam o ofício; foi fonte usada por Anderson em 1723.",
-      "ano_original": 1450,
-      "editora": "Richard Spencer",
-      "local": "Londres",
-      "paises": [
-        "gb"
-      ],
-      "periodos": [
-        "medieval"
-      ],
-      "titulo_traduzido": "História e artigos da maçonaria",
-      "status_verificacao": "conferido_web",
-      "url": "https://archive.org/details/The_History_And_Articles_Of_Masonry_-_M_Cooke",
-      "evidencias": [
-        "https://archive.org/details/The_History_And_Articles_Of_Masonry_-_M_Cooke"
-      ],
-      "acesso": "dominio_publico",
-      "licenca": "domínio público",
-      "confiabilidade": "A",
-      "lote": "c01-fundadores"
-    },
-    {
       "id": "hughan-1872-old-charges",
       "tipo": "livro",
       "categoria": "historiografia_maconica",
@@ -1291,40 +1256,6 @@
       "lote": "c01-fundadores"
     },
     {
-      "id": "mackey-1856-principles-masonic-law",
-      "tipo": "livro",
-      "categoria": "historiografia_maconica",
-      "autores": [
-        "Albert Gallatin Mackey"
-      ],
-      "titulo": "The Principles of Masonic Law",
-      "ano": 1856,
-      "idioma": "en",
-      "temas": [
-        "principios",
-        "regularidade"
-      ],
-      "resumo": "Tratado sobre as leis constitucionais, usos e landmarks da maçonaria, precursor do Text Book of Masonic Jurisprudence. Texto digitalizado pelo Project Gutenberg.",
-      "paises": [
-        "us"
-      ],
-      "periodos": [
-        "p1814_1870"
-      ],
-      "confiabilidade": "B",
-      "identificadores": {
-        "gutenberg": "12186"
-      },
-      "status_verificacao": "conferido_web",
-      "url": "https://archive.org/details/theprinciplesofm12186gut",
-      "evidencias": [
-        "https://archive.org/details/theprinciplesofm12186gut"
-      ],
-      "acesso": "dominio_publico",
-      "licenca": "domínio público",
-      "lote": "c01-fundadores"
-    },
-    {
       "id": "mackey-1869-symbolism",
       "tipo": "livro",
       "categoria": "historiografia_maconica",
@@ -2378,10 +2309,8 @@
       "potencias": [
         "gol"
       ],
-      "ritos": [
-        "reaa"
-      ],
-      "observacoes": "Rito presumido (REAA); conferir no texto. Regra 5 aplicável.",
+      "ritos": [],
+      "observacoes": "O texto menciona 'Sublime Câmara' e 'Grande Pursuivant': pode incluir cerimônias de Arco Real ou de graus capitulares, além dos simbólicos; conferir rito. Regra 5 aplicável.",
       "acervo": [
         "txt/golu-1881-ceremonias-symbolica.txt"
       ],
@@ -2411,16 +2340,16 @@
       "temas": [
         "historiografia"
       ],
-      "resumo": "Síntese histórica em português publicada no final do século XIX. Valor sobretudo como testemunho da visão lusófona da época.",
+      "resumo": "Síntese histórica em português publicada no Brasil no fim do século XIX; o autor declara ter escrito para suprir a falta de obra moderna sobre o tema em português. Valor sobretudo como testemunho da visão maçônica brasileira da época.",
       "paises": [
-        "pt",
+        "br",
         "mundo"
       ],
       "periodos": [
         "p1871_1918"
       ],
       "confiabilidade": "C",
-      "observacoes": "Metadados (autor, local) conforme item do IA; conferir folha de rosto.",
+      "observacoes": "Prefácio dirigido ao 'Oriente Maçônico no Brasil'; local/editora a conferir na folha de rosto.",
       "acervo": [
         "txt/paiva-1895-historia-maconaria.txt",
         "pdf/paiva-1895-historia-maconaria.pdf"
@@ -2954,41 +2883,6 @@
       "lote": "c01-fundadores"
     },
     {
-      "id": "cole-1817-freemasons-library",
-      "tipo": "livro",
-      "categoria": "ritual_publicado",
-      "autores": [
-        "Samuel Cole"
-      ],
-      "titulo": "The Freemasons' Library and General Ahiman Rezon",
-      "ano": 1817,
-      "idioma": "en",
-      "temas": [
-        "ritual",
-        "documentos_fundadores"
-      ],
-      "resumo": "Manual publicado em Baltimore com história, constituições, charges e instruções monitoriais, combinando a tradição de Preston/Webb com o Ahiman Rezon.",
-      "local": "Baltimore",
-      "paises": [
-        "us"
-      ],
-      "periodos": [
-        "p1814_1870"
-      ],
-      "ritos": [
-        "york"
-      ],
-      "confiabilidade": "B",
-      "status_verificacao": "conferido_web",
-      "url": "https://archive.org/details/freemasonslibra00colegoog",
-      "evidencias": [
-        "https://archive.org/details/freemasonslibra00colegoog"
-      ],
-      "acesso": "dominio_publico",
-      "licenca": "domínio público",
-      "lote": "c01-fundadores"
-    },
-    {
       "id": "pine-1731-antient-constitutions-engraved",
       "tipo": "documento",
       "categoria": "primaria_historica",
@@ -3067,6 +2961,1158 @@
         "https://archive.org/details/rarebooksoffreem00vibe"
       ],
       "acesso": "dominio_publico",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "cooke-1861-history-articles",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Matthew Cooke (ed.)"
+      ],
+      "titulo": "The History and Articles of Masonry (Manuscrito Cooke)",
+      "ano": 1861,
+      "idioma": "en",
+      "temas": [
+        "origens",
+        "documentos_fundadores"
+      ],
+      "resumo": "Edição de 1861, por Matthew Cooke, do segundo Old Charge mais antigo (Manuscrito Cooke, c. 1450, British Library Add. MS 23198), com fac-símile e transcrição modernizada. O texto combina uma história lendária das sete artes liberais e da geometria com os artigos e pontos que regiam o ofício; foi fonte usada por Anderson em 1723.",
+      "ano_original": 1450,
+      "editora": "Richard Spencer",
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "medieval"
+      ],
+      "titulo_traduzido": "História e artigos da maçonaria",
+      "acervo": [
+        "txt/cooke-1861-history-articles.txt",
+        "pdf/cooke-1861-history-articles.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/The_History_And_Articles_Of_Masonry_-_M_Cooke",
+      "identificadores": {
+        "ia": "The_History_And_Articles_Of_Masonry_-_M_Cooke"
+      },
+      "evidencias": [
+        "https://archive.org/details/The_History_And_Articles_Of_Masonry_-_M_Cooke"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "mackey-1856-principles-masonic-law",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Albert Gallatin Mackey"
+      ],
+      "titulo": "The Principles of Masonic Law",
+      "ano": 1856,
+      "idioma": "en",
+      "temas": [
+        "principios",
+        "regularidade"
+      ],
+      "resumo": "Tratado sobre as leis constitucionais, usos e landmarks da maçonaria, precursor do Text Book of Masonic Jurisprudence. Texto digitalizado pelo Project Gutenberg.",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "identificadores": {
+        "gutenberg": "12186",
+        "ia": "theprinciplesofm12186gut"
+      },
+      "acervo": [
+        "txt/mackey-1856-principles-masonic-law.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/theprinciplesofm12186gut",
+      "evidencias": [
+        "https://archive.org/details/theprinciplesofm12186gut"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "cole-1817-freemasons-library",
+      "tipo": "livro",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Samuel Cole"
+      ],
+      "titulo": "The Freemasons' Library and General Ahiman Rezon",
+      "ano": 1817,
+      "idioma": "en",
+      "temas": [
+        "ritual",
+        "documentos_fundadores"
+      ],
+      "resumo": "Manual publicado em Baltimore com história, constituições, charges e instruções monitoriais, combinando a tradição de Preston/Webb com o Ahiman Rezon.",
+      "local": "Baltimore",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "ritos": [
+        "york"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/cole-1817-freemasons-library.txt",
+        "pdf/cole-1817-freemasons-library.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/freemasonslibra00colegoog",
+      "identificadores": {
+        "ia": "freemasonslibra00colegoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/freemasonslibra00colegoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "calcott-1769-candid-disquisition",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Wellins Calcott"
+      ],
+      "titulo": "A Candid Disquisition of the Principles and Practices of the Most Ancient and Honourable Society of Free and Accepted Masons",
+      "ano": 1769,
+      "idioma": "en",
+      "temas": [
+        "principios",
+        "simbolismo",
+        "sociabilidade"
+      ],
+      "resumo": "Defesa e exposição dos princípios morais da maçonaria (1769), com lista de subscritores e discursos; uma das primeiras obras apologéticas inglesas e fonte usada por Preston.",
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "potencias": [
+        "moderns"
+      ],
+      "acervo": [
+        "txt/calcott-1769-candid-disquisition.txt",
+        "pdf/calcott-1769-candid-disquisition.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/candiddisquisiti00calc",
+      "identificadores": {
+        "ia": "candiddisquisiti00calc"
+      },
+      "evidencias": [
+        "https://archive.org/details/candiddisquisiti00calc"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "smith-1783-use-abuse",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "George Smith"
+      ],
+      "titulo": "The Use and Abuse of Free-Masonry",
+      "ano": 1783,
+      "idioma": "en",
+      "temas": [
+        "principios",
+        "sociabilidade",
+        "mulheres"
+      ],
+      "resumo": "Obra do capitão George Smith, grão-mestre provincial de Kent, sobre os fins e a conduta da maçonaria, que inclui discussão sobre a exclusão das mulheres e as lojas de adoção; publicada sem aprovação da Grande Loja, o que custou o cargo ao autor.",
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "potencias": [
+        "moderns"
+      ],
+      "acervo": [
+        "txt/smith-1783-use-abuse.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/bim_eighteenth-century_the-use-and-abuse-of-fre_smith-george-capt_1783",
+      "identificadores": {
+        "ia": "bim_eighteenth-century_the-use-and-abuse-of-fre_smith-george-capt_1783"
+      },
+      "evidencias": [
+        "https://archive.org/details/bim_eighteenth-century_the-use-and-abuse-of-fre_smith-george-capt_1783"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "anonimo-1726-accusation-defence",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Anônimo ('um cavalheiro do campo')"
+      ],
+      "titulo": "The Free-Masons Accusation and Defence, in Six Genuine Letters",
+      "ano": 1726,
+      "idioma": "en",
+      "temas": [
+        "antimaconaria",
+        "sociabilidade"
+      ],
+      "resumo": "Panfleto epistolar de 1726 que encena acusações e defesas da sociedade dos maçons, poucos anos após a fundação da Grande Loja; testemunho da curiosidade pública e da polêmica inicial.",
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1717_1750"
+      ],
+      "acervo": [
+        "txt/anonimo-1726-accusation-defence.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/bim_eighteenth-century_the-free-masons-accusati_gentleman-in-the-country_1726_0",
+      "identificadores": {
+        "ia": "bim_eighteenth-century_the-free-masons-accusati_gentleman-in-the-country_1726_0"
+      },
+      "evidencias": [
+        "https://archive.org/details/bim_eighteenth-century_the-free-masons-accusati_gentleman-in-the-country_1726_0"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "thompson-1768-remarks-way-to-hell",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "John Thompson"
+      ],
+      "titulo": "Remarks on a Sermon lately published, entitled 'Masonry the Way to Hell'",
+      "ano": 1768,
+      "idioma": "en",
+      "temas": [
+        "religiao",
+        "antimaconaria"
+      ],
+      "resumo": "Resposta maçônica a um sermão hostil (Masonry the Way to Hell, 1768), exemplo da polêmica religiosa sobre a maçonaria na Inglaterra georgiana.",
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "titulo_traduzido": "Observações sobre o sermão 'A maçonaria, caminho do inferno'",
+      "acervo": [
+        "txt/thompson-1768-remarks-way-to-hell.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/bim_eighteenth-century_remarks-on-a-sermon-late_thompson-john-freemaso_1768",
+      "identificadores": {
+        "ia": "bim_eighteenth-century_remarks-on-a-sermon-late_thompson-john-freemaso_1768"
+      },
+      "evidencias": [
+        "https://archive.org/details/bim_eighteenth-century_remarks-on-a-sermon-late_thompson-john-freemaso_1768"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "knapp-1828-genius-masonry",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Samuel Lorenzo Knapp"
+      ],
+      "titulo": "The Genius of Masonry, or a Defence of the Order",
+      "ano": 1828,
+      "idioma": "en",
+      "temas": [
+        "principios",
+        "antimaconaria",
+        "politica"
+      ],
+      "resumo": "Defesa da maçonaria escrita em plena crise antimaçônica americana pós-Morgan, com observações sobre origem e história. Contraponto a Bernard e Allyn.",
+      "local": "Providence",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "acervo": [
+        "txt/knapp-1828-genius-masonry.txt",
+        "pdf/knapp-1828-genius-masonry.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/geniusofmasonryo00knapiala",
+      "identificadores": {
+        "ia": "geniusofmasonryo00knapiala"
+      },
+      "evidencias": [
+        "https://archive.org/details/geniusofmasonryo00knapiala"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "town-1818-speculative-masonry",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Salem Town"
+      ],
+      "titulo": "A System of Speculative Masonry",
+      "ano": 1818,
+      "idioma": "en",
+      "temas": [
+        "principios",
+        "simbolismo",
+        "religiao"
+      ],
+      "resumo": "Exposição dos princípios e deveres da maçonaria especulativa por um clérigo e maçom americano, com interpretação cristã dos graus, incluindo os capitulares.",
+      "local": "Salem (NY)",
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "ritos": [
+        "york"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/town-1818-speculative-masonry.txt",
+        "pdf/town-1818-speculative-masonry.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/asystemspeculat00towngoog",
+      "identificadores": {
+        "ia": "asystemspeculat00towngoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/asystemspeculat00towngoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "carlile-1860-manual-freemasonry",
+      "tipo": "exposicao",
+      "categoria": "antimaconica",
+      "autores": [
+        "Richard Carlile"
+      ],
+      "titulo": "A Manual of Freemasonry (the three first degrees)",
+      "ano": 1860,
+      "idioma": "en",
+      "temas": [
+        "ritual",
+        "antimaconaria"
+      ],
+      "resumo": "Exposição do radical livre-pensador Richard Carlile, publicada originalmente em The Republican (1825), com o ritual inglês dos graus e uma crítica deísta; muito reeditada.",
+      "ano_original": 1825,
+      "local": "Londres",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "ritos": [
+        "emulacao"
+      ],
+      "acervo": [
+        "txt/carlile-1860-manual-freemasonry.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/manualofthreefir00carl",
+      "identificadores": {
+        "ia": "manualofthreefir00carl"
+      },
+      "evidencias": [
+        "https://archive.org/details/manualofthreefir00carl"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "rebold-1868-general-history",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Emmanuel Rebold",
+        "J. Fletcher Brennan (trad.)"
+      ],
+      "titulo": "A General History of Free-Masonry in Europe",
+      "ano": 1868,
+      "idioma": "en",
+      "temas": [
+        "historiografia",
+        "origens",
+        "potencias"
+      ],
+      "resumo": "Tradução inglesa da Histoire générale de la franc-maçonnerie (1851) de Emmanuel Rebold, que defende a filiação entre colégios romanos, corporações medievais e maçonaria moderna, com cronologia das grandes lojas europeias.",
+      "ano_original": 1851,
+      "local": "Cincinnati",
+      "paises": [
+        "fr",
+        "mundo"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "C",
+      "acervo": [
+        "txt/rebold-1868-general-history.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/generalhistoryof00reborich",
+      "identificadores": {
+        "ia": "generalhistoryof00reborich"
+      },
+      "evidencias": [
+        "https://archive.org/details/generalhistoryof00reborich"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "rebold-1864-trois-grandes-loges",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Emmanuel Rebold"
+      ],
+      "titulo": "Histoire des trois grandes loges de francs-maçons en France",
+      "ano": 1864,
+      "idioma": "fr",
+      "temas": [
+        "potencias",
+        "historiografia",
+        "regularidade"
+      ],
+      "resumo": "História do Grande Oriente, do Supremo Conselho e do Rito de Misraïm na França, com documentos sobre conflitos de jurisdição no século XIX.",
+      "local": "Paris",
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "potencias": [
+        "godf"
+      ],
+      "ritos": [
+        "reaa",
+        "memphis_misraim",
+        "frances_moderno"
+      ],
+      "confiabilidade": "B",
+      "titulo_traduzido": "História das três grandes lojas de franco-maçons na França",
+      "acervo": [
+        "txt/rebold-1864-trois-grandes-loges.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/histoiredetrois00rebogoog",
+      "identificadores": {
+        "ia": "histoiredetrois00rebogoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/histoiredetrois00rebogoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "bazot-1817-manuel-franc-macon",
+      "tipo": "livro",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Étienne-François Bazot"
+      ],
+      "titulo": "Manuel du franc-maçon",
+      "ano": 1817,
+      "idioma": "fr",
+      "temas": [
+        "ritual",
+        "principios",
+        "ritos"
+      ],
+      "resumo": "Manual francês (1ª ed. 1811) com história resumida, princípios, vocabulário e descrição dos graus do Rito Francês; muito usado no Primeiro Império e na Restauração.",
+      "ano_original": 1811,
+      "local": "Paris",
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "ritos": [
+        "frances_moderno"
+      ],
+      "potencias": [
+        "godf"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/bazot-1817-manuel-franc-macon.txt",
+        "pdf/bazot-1817-manuel-franc-macon.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/manueldufrancma00bazogoog",
+      "identificadores": {
+        "ia": "manueldufrancma00bazogoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/manueldufrancma00bazogoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "bazot-1828-tuileur-expert",
+      "tipo": "ritual",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Étienne-François Bazot"
+      ],
+      "titulo": "Le Tuileur expert des sept grades du Rit français",
+      "ano": 1828,
+      "idioma": "fr",
+      "temas": [
+        "ritual",
+        "graus",
+        "ritos"
+      ],
+      "resumo": "Telhador (manual de reconhecimento) dos sete graus do Rito Francês, com estrutura das cerimônias. Fonte para o sistema de graus do Rito Moderno.",
+      "local": "Paris",
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "ritos": [
+        "frances_moderno"
+      ],
+      "observacoes": "Regra 5: não reproduzir palavras/sinais/toques no site.",
+      "acervo": [
+        "txt/bazot-1828-tuileur-expert.txt",
+        "pdf/bazot-1828-tuileur-expert.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/BazotEFLeTuileurExpertDesSeptGradesDuRitFrancais1828",
+      "identificadores": {
+        "ia": "BazotEFLeTuileurExpertDesSeptGradesDuRitFrancais1828"
+      },
+      "evidencias": [
+        "https://archive.org/details/BazotEFLeTuileurExpertDesSeptGradesDuRitFrancais1828"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "vuillaume-1820-manuel-maconnique",
+      "tipo": "ritual",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Claude-André Vuillaume"
+      ],
+      "titulo": "Manuel maçonnique, ou Tuileur de tous les rites de maçonnerie pratiqués en France",
+      "ano": 1820,
+      "idioma": "fr",
+      "temas": [
+        "ritual",
+        "ritos",
+        "graus"
+      ],
+      "resumo": "Telhador comparativo dos ritos praticados na França (Francês, Escocês, Misraïm etc.) em 1820, muito traduzido; fonte essencial para a estrutura dos graus de cada rito no início do século XIX.",
+      "local": "Paris",
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "ritos": [
+        "frances_moderno",
+        "reaa",
+        "memphis_misraim",
+        "rer"
+      ],
+      "observacoes": "Regra 5 aplicável.",
+      "acervo": [
+        "txt/vuillaume-1820-manuel-maconnique.txt",
+        "pdf/vuillaume-1820-manuel-maconnique.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/VuillaumeCAManuelMaconniqueOuTuileurDeTousLesRitesDeMaconneriePratiquesEnFrance1820",
+      "identificadores": {
+        "ia": "VuillaumeCAManuelMaconniqueOuTuileurDeTousLesRitesDeMaconneriePratiquesEnFrance1820"
+      },
+      "evidencias": [
+        "https://archive.org/details/VuillaumeCAManuelMaconniqueOuTuileurDeTousLesRitesDeMaconneriePratiquesEnFrance1820"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "ragon-1861-tuileur",
+      "tipo": "ritual",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Jean-Marie Ragon"
+      ],
+      "titulo": "Tuileur général de la franc-maçonnerie, ou Manuel de l'initié",
+      "ano": 1861,
+      "idioma": "fr",
+      "temas": [
+        "ritual",
+        "ritos",
+        "graus"
+      ],
+      "resumo": "Telhador geral de Ragon que descreve os graus de numerosos ritos (Francês, REAA, Misraïm, adoção) com comentários históricos.",
+      "local": "Paris",
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "ritos": [
+        "frances_moderno",
+        "reaa",
+        "memphis_misraim"
+      ],
+      "confiabilidade": "B",
+      "observacoes": "Regra 5 aplicável.",
+      "acervo": [
+        "txt/ragon-1861-tuileur.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/RagonJMTuileurDeLaFrancMaconnerieManuelDInitite1861",
+      "identificadores": {
+        "ia": "RagonJMTuileurDeLaFrancMaconnerieManuelDInitite1861"
+      },
+      "evidencias": [
+        "https://archive.org/details/RagonJMTuileurDeLaFrancMaconnerieManuelDInitite1861"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "anonimo-1812-tuileur-abraham",
+      "tipo": "ritual",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Anônimo"
+      ],
+      "titulo": "Tuileur d'Abraham",
+      "ano": 1812,
+      "idioma": "fr",
+      "temas": [
+        "ritual",
+        "graus"
+      ],
+      "resumo": "Telhador francês de 1812 (atribuído ao livreiro Abraham) com graus simbólicos e superiores; testemunho da proliferação de altos graus no Império.",
+      "local": "Paris",
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "ritos": [
+        "reaa",
+        "frances_moderno"
+      ],
+      "confiabilidade": "B",
+      "observacoes": "Atribuição e conteúdo a conferir; Regra 5 aplicável.",
+      "acervo": [
+        "txt/anonimo-1812-tuileur-abraham.txt",
+        "pdf/anonimo-1812-tuileur-abraham.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/TuileurDAbraham1812",
+      "identificadores": {
+        "ia": "TuileurDAbraham1812"
+      },
+      "evidencias": [
+        "https://archive.org/details/TuileurDAbraham1812"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "lenning-1863-allgemeines-handbuch-v1",
+      "tipo": "verbete",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "C. Lenning (pseud.)",
+        "Moritz Schletter",
+        "Hermann Zille (eds.)"
+      ],
+      "titulo": "Allgemeines Handbuch der Freimaurerei (2ª ed., vol. 1: A–H)",
+      "ano": 1863,
+      "idioma": "de",
+      "temas": [
+        "historiografia",
+        "ritos",
+        "potencias",
+        "personalidades"
+      ],
+      "resumo": "Segunda edição, revista, da enciclopédia de Lenning/Mossdorf, referência da erudição maçônica alemã oitocentista (3 vols., 1863–67).",
+      "ano_original": 1822,
+      "local": "Leipzig",
+      "editora": "Brockhaus",
+      "paises": [
+        "de",
+        "mundo"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/lenning-1863-allgemeines-handbuch-v1.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/LenningCAllgemeinesHandbuchDerFreimaurereiEncyklopadieDerFreimaurereiVolIAH1863",
+      "identificadores": {
+        "ia": "LenningCAllgemeinesHandbuchDerFreimaurereiEncyklopadieDerFreimaurereiVolIAH1863"
+      },
+      "evidencias": [
+        "https://archive.org/details/LenningCAllgemeinesHandbuchDerFreimaurereiEncyklopadieDerFreimaurereiVolIAH1863"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "vdf-1900-allgemeines-handbuch",
+      "tipo": "verbete",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Verein Deutscher Freimaurer"
+      ],
+      "titulo": "Allgemeines Handbuch der Freimaurerei (3ª ed.)",
+      "ano": 1900,
+      "idioma": "de",
+      "temas": [
+        "historiografia",
+        "ritos",
+        "potencias",
+        "personalidades"
+      ],
+      "resumo": "Terceira edição, refeita pela Associação dos Maçons Alemães (1900–01), da grande enciclopédia maçônica alemã; base do Internationales Freimaurerlexikon de Lennhoff e Posner (1932).",
+      "local": "Leipzig",
+      "editora": "Max Hesse",
+      "paises": [
+        "de",
+        "mundo"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "observacoes": "Item corresponde a um dos 2 volumes; conferir.",
+      "acervo": [
+        "txt/vdf-1900-allgemeines-handbuch.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/allgemeineshand03unkngoog",
+      "identificadores": {
+        "ia": "allgemeineshand03unkngoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/allgemeineshand03unkngoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "boos-1906-geschichte-freimaurerei",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Heinrich Boos"
+      ],
+      "titulo": "Geschichte der Freimaurerei: ein Beitrag zur Kultur- und Literaturgeschichte des 18. Jahrhunderts",
+      "ano": 1906,
+      "idioma": "de",
+      "temas": [
+        "historiografia",
+        "sociabilidade",
+        "arte_cultura"
+      ],
+      "resumo": "História da maçonaria no século XVIII pelo historiador suíço Heinrich Boos, em perspectiva de história cultural e literária. Obra acadêmica de transição, ainda citada.",
+      "ano_original": 1894,
+      "local": "Aarau",
+      "paises": [
+        "de",
+        "ch",
+        "mundo"
+      ],
+      "periodos": [
+        "p1717_1750",
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/boos-1906-geschichte-freimaurerei.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/geschichtederfr00boosgoog",
+      "identificadores": {
+        "ia": "geschichtederfr00boosgoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/geschichtederfr00boosgoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "begemann-1906-comenius-freimaurer",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Wilhelm Begemann"
+      ],
+      "titulo": "Comenius und die Freimaurer",
+      "ano": 1906,
+      "idioma": "de",
+      "temas": [
+        "historiografia",
+        "origens"
+      ],
+      "resumo": "Escrito polêmico de Wilhelm Begemann, maior especialista alemão nos Old Charges, contra a tese de Ludwig Keller que vinculava a maçonaria a Comenius e às 'sociedades acadêmicas'.",
+      "local": "Berlim",
+      "paises": [
+        "de"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/begemann-1906-comenius-freimaurer.txt",
+        "pdf/begemann-1906-comenius-freimaurer.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/comeniusunddief00begegoog",
+      "identificadores": {
+        "ia": "comeniusunddief00begegoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/comeniusunddief00begegoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "yarker-1909-arcane-schools",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "John Yarker"
+      ],
+      "titulo": "The Arcane Schools: a Review of their Origin and Antiquity",
+      "ano": 1909,
+      "idioma": "en",
+      "temas": [
+        "esoterismo",
+        "origens",
+        "ritos"
+      ],
+      "resumo": "Obra de John Yarker, dirigente dos ritos de Memphis e Misraïm na Inglaterra, que traça uma genealogia esotérica da maçonaria a partir das escolas de mistérios. Fonte para a autocompreensão dos ritos 'egípcios', não para a história factual.",
+      "local": "Belfast",
+      "editora": "William Tait",
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "ritos": [
+        "memphis_misraim"
+      ],
+      "confiabilidade": "C",
+      "acervo": [
+        "txt/yarker-1909-arcane-schools.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/b24886002",
+      "identificadores": {
+        "ia": "b24886002"
+      },
+      "evidencias": [
+        "https://archive.org/details/b24886002"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "bacci-1922-libro-massone-italiano",
+      "tipo": "livro",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "Ulisse Bacci"
+      ],
+      "titulo": "Il libro del massone italiano (2ª ed.)",
+      "ano": 1922,
+      "idioma": "it",
+      "temas": [
+        "historiografia",
+        "potencias",
+        "principios"
+      ],
+      "resumo": "Obra em dois volumes (1ª ed. 1908–11) de Ulisse Bacci, secretário do Grande Oriente da Itália, com história da maçonaria italiana, documentos e regulamentos.",
+      "ano_original": 1908,
+      "local": "Roma",
+      "paises": [
+        "it"
+      ],
+      "periodos": [
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "potencias": [
+        "goi"
+      ],
+      "confiabilidade": "B",
+      "licenca": "domínio público (publ. 1922; conferir data de morte do autor)",
+      "acervo": [
+        "txt/bacci-1922-libro-massone-italiano.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/illibrodelmasson00bacc",
+      "identificadores": {
+        "ia": "illibrodelmasson00bacc"
+      },
+      "evidencias": [
+        "https://archive.org/details/illibrodelmasson00bacc"
+      ],
+      "acesso": "dominio_publico",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "eklund-1909-vagledning-frimurare",
+      "tipo": "livro",
+      "categoria": "divulgacao",
+      "autores": [
+        "B. P. Eklund"
+      ],
+      "titulo": "Vägledning för Frimurare",
+      "ano": 1909,
+      "idioma": "sv",
+      "temas": [
+        "principios",
+        "ritos",
+        "potencias"
+      ],
+      "resumo": "Guia sueco para maçons (1909) sobre a Ordem Maçônica Sueca e seu sistema de graus (Rito Sueco). Uma das poucas fontes em sueco acessíveis abertamente.",
+      "paises": [
+        "se"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "ritos": [
+        "sueco"
+      ],
+      "confiabilidade": "C",
+      "licenca": "domínio público nos EUA (publ. 1909); conferir data de morte do autor",
+      "observacoes": "Metadados a conferir (autor, editora).",
+      "acervo": [
+        "txt/eklund-1909-vagledning-frimurare.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/eklund-b.-p.-vagledning-for-frimurare-1909-ocr",
+      "identificadores": {
+        "ia": "eklund-b.-p.-vagledning-for-frimurare-1909-ocr"
+      },
+      "evidencias": [
+        "https://archive.org/details/eklund-b.-p.-vagledning-for-frimurare-1909-ocr"
+      ],
+      "acesso": "dominio_publico",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "anonimo-1883-jodendom-vrijmetselarij",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "Anônimo"
+      ],
+      "titulo": "Het Jodendom, nevenvader der vrijmetselarij",
+      "ano": 1883,
+      "idioma": "nl",
+      "temas": [
+        "antimaconaria",
+        "religiao"
+      ],
+      "resumo": "Panfleto neerlandês de 1883 que associa judaísmo e maçonaria, exemplar da literatura antijudaica e antimaçônica do fim do século XIX; documento para o estudo crítico do mito judaico-maçônico.",
+      "paises": [
+        "nl"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "titulo_traduzido": "O judaísmo, pai adjunto da maçonaria",
+      "acervo": [
+        "txt/anonimo-1883-jodendom-vrijmetselarij.txt"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/hetjodendomneven00unse",
+      "identificadores": {
+        "ia": "hetjodendomneven00unse"
+      },
+      "evidencias": [
+        "https://archive.org/details/hetjodendomneven00unse"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "confiabilidade": "A",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "marconis-1882-lectures-chapter",
+      "tipo": "ritual",
+      "categoria": "ritual_publicado",
+      "autores": [
+        "Jacques-Étienne Marconis de Nègre",
+        "John Yarker (trad.)"
+      ],
+      "titulo": "Lectures of a Chapter, Senate & Council, according to the forms of the Ancient and Primitive Rite",
+      "ano": 1882,
+      "idioma": "en",
+      "temas": [
+        "ritual",
+        "ritos",
+        "esoterismo"
+      ],
+      "resumo": "Instruções dos graus capitulares e superiores do Rito Antigo e Primitivo (Memphis), de Marconis, traduzidas por Yarker. Fonte primária para o simbolismo do rito de Memphis.",
+      "local": "Londres",
+      "paises": [
+        "gb",
+        "fr"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "ritos": [
+        "memphis_misraim",
+        "primitivo"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/marconis-1882-lectures-chapter.txt",
+        "pdf/marconis-1882-lectures-chapter.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/lecturesachapte00yarkgoog",
+      "identificadores": {
+        "ia": "lecturesachapte00yarkgoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/lecturesachapte00yarkgoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
+      "lote": "c01-fundadores"
+    },
+    {
+      "id": "besuchet-1829-precis-historique-t2",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Jean-Claude Bésuchet de Saunois"
+      ],
+      "titulo": "Précis historique de l'ordre de la franc-maçonnerie (tomo 2: dictionnaire biographique)",
+      "ano": 1829,
+      "idioma": "fr",
+      "temas": [
+        "personalidades",
+        "historiografia"
+      ],
+      "resumo": "Segundo tomo do Précis de Bésuchet, contendo o dicionário biográfico de maçons franceses e estrangeiros célebres.",
+      "local": "Paris",
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acervo": [
+        "txt/besuchet-1829-precis-historique-t2.txt",
+        "pdf/besuchet-1829-precis-historique-t2.pdf"
+      ],
+      "status_verificacao": "copiado",
+      "url": "https://archive.org/details/prcishistorique01saungoog",
+      "identificadores": {
+        "ia": "prcishistorique01saungoog"
+      },
+      "evidencias": [
+        "https://archive.org/details/prcishistorique01saungoog"
+      ],
+      "acesso": "dominio_publico",
+      "licenca": "domínio público",
       "lote": "c01-fundadores"
     }
   ]
