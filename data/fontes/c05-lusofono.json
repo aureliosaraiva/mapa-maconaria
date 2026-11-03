@@ -71,7 +71,11 @@
       "periodico": "Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
       "volume": "7(2)",
       "lote": "c05-lusofono",
-      "status_verificacao": "conferido_web"
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/acioly-paz-silva-2016-maconaria-republica.pdf",
+        "txt/acioly-paz-silva-2016-maconaria-republica.txt"
+      ]
     },
     {
       "id": "alberton-1981-igreja-maconaria",
@@ -2122,7 +2126,11 @@
       "periodico": "Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
       "volume": "6(1)",
       "lote": "c05-lusofono",
-      "status_verificacao": "conferido_web"
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/ferrer-benimeli-2014-resenha-ventura.pdf",
+        "txt/ferrer-benimeli-2014-resenha-ventura.txt"
+      ]
     },
     {
       "id": "francisco-2018-maconaria-abolicao-sp",
@@ -2326,7 +2334,11 @@
       "periodico": "Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
       "volume": "7(2)",
       "lote": "c05-lusofono",
-      "status_verificacao": "conferido_web"
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/gamba-torres-2016-resenha.pdf",
+        "txt/gamba-torres-2016-resenha.txt"
+      ]
     },
     {
       "id": "garibaldi-1860-memorias-v1",
@@ -2931,7 +2943,11 @@
       "periodico": "Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
       "volume": "9(1)",
       "lote": "c05-lusofono",
-      "status_verificacao": "conferido_web"
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/goulart-da-silva-2017-foice-compasso.pdf",
+        "txt/goulart-da-silva-2017-foice-compasso.txt"
+      ]
     },
     {
       "id": "gremio-lusitano-1921-revista-n22",
@@ -3256,7 +3272,11 @@
       "periodico": "Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña",
       "volume": "7(1)",
       "lote": "c05-lusofono",
-      "status_verificacao": "conferido_web"
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/leitao-santos-2015-contencoes-liberdade.pdf",
+        "txt/leitao-santos-2015-contencoes-liberdade.txt"
+      ]
     },
     {
       "id": "loja-federacao-1870-iakin-boaz",
