@@ -70,3 +70,12 @@
 - [ ] (P3) Situação de direitos de `antunes-1918-maconaria-iniciatica` (upload de usuário no IA, data de morte do autor não conferida); afirmação de iniciação de Carolina Beatriz Ângelo (`glfp-s-d-carolina-beatriz-angelo`) precisa de fonte documental (regra 6).
 - [ ] (P3) Taxonomia: propor código `feminina_pt` (Grande Loja Feminina de Portugal) — orquestradora.
 
+## C06
+- [ ] (P2) Dialnet sem resposta (timeout) durante toda a sessão — artigos espanhóis/latino-americanos em acesso aberto (CEHME, revistas de história) — https://dialnet.unirioja.es/
+- [ ] (P2) Cervantes Virtual, Redalyc e BNE/BDH (Biblioteca Digital Hispánica) com 403 — obras de domínio público espanholas e latino-americanas (Morayta, Díaz y Pérez, Mateos) — https://bdh.bne.es/ · https://www.cervantesvirtual.com/
+- [ ] (P2) Normattiva não respondeu à URN da Lei de 26/11/1925 n. 2029 (associações; lei fascista contra a maçonaria) — texto legal oficial — https://www.normattiva.it/
+- [ ] (P2) Os 340 itens da REHMLAC+ têm resumo descritivo automático e etiquetas por palavras-chave; refazer em paráfrase no fichamento — `data/fontes/c06-iberoamerica.json`
+- [ ] (P3) Atas dos simpósios do CEHME (Ferrer Benimeli, 1983–) não localizadas em acesso aberto — historiografia espanhola de referência
+- [ ] (P3) `silva-1900-estudios-historicos-simbolicos`: Internet Archive retornou 401 no download — tentar de novo — https://archive.org/details/estudioshistrico1guat
+- [ ] (P3) `caro-1926-misterio-masoneria` não copiado (autor falecido em 1958; protegido no Chile) — decidir se a cópia via Internet Archive é aceitável
+
