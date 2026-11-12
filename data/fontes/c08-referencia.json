@@ -2626,6 +2626,589 @@
     "html/masonicgenealogy-2026-massachusetts.html",
     "txt/masonicgenealogy-2026-massachusetts.txt"
    ]
+  },
+  {
+   "tipo": "periodico",
+   "categoria": "academica",
+   "ano": 2009,
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (licença Creative Commons, ver site)",
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870",
+    "p1871_1918",
+    "p1919_1945"
+   ],
+   "id": "ucr-2009-rehmlac-revista",
+   "autores": [
+    "Universidad de Costa Rica — REHMLAC+"
+   ],
+   "titulo": "REHMLAC+ — Revista de Estudios Históricos de la Masonería Latinoamericana y Caribeña Plus",
+   "idioma": "es",
+   "local": "San José",
+   "url": "https://revistas.ucr.ac.cr/index.php/rehmlac",
+   "temas": [
+    "historiografia",
+    "politica",
+    "sociabilidade"
+   ],
+   "paises": [
+    "al",
+    "es",
+    "mundo"
+   ],
+   "resumo": "Revista acadêmica semestral de acesso aberto da Universidade da Costa Rica, dedicada à história da maçonaria na América Latina, Caribe e Espanha (artigos em espanhol, português, inglês e francês). Principal periódico científico do tema no mundo ibero-americano; número de artigos já catalogados por outros lotes (c04–c07).",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://revistas.ucr.ac.cr/index.php/rehmlac"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/ucr-2009-rehmlac-revista.html",
+    "txt/ucr-2009-rehmlac-revista.txt"
+   ]
+  },
+  {
+   "tipo": "periodico",
+   "categoria": "historiografia_maconica",
+   "ano": 1886,
+   "confiabilidade": "B",
+   "acesso": "comercial",
+   "licenca": "volumes até 1928 em domínio público; recentes comerciais (assinatura)",
+   "periodos": [
+    "p1871_1918",
+    "p1919_1945",
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "id": "qcl-2026-ars-quatuor-coronatorum-periodico",
+   "autores": [
+    "Quatuor Coronati Lodge No. 2076"
+   ],
+   "titulo": "Ars Quatuor Coronatorum (AQC) — Transactions of Quatuor Coronati Lodge No. 2076",
+   "idioma": "en",
+   "local": "London",
+   "url": "https://www.quatuorcoronati.com/",
+   "potencias": [
+    "ugle"
+   ],
+   "temas": [
+    "historiografia",
+    "origens",
+    "ritos"
+   ],
+   "paises": [
+    "gb",
+    "mundo"
+   ],
+   "resumo": "Anais anuais da Quatuor Coronati Lodge, primeira loja de pesquisa (fundada em 1884–1886), publicados desde 1886: referência central da historiografia maçônica \"autêntica\" (Gould, Hughan, Speth, Knoop & Jones, Prescott). Registro de nível de título; volumes avulsos 1–21 já catalogados (qcl-*-aqc-vol*).",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.quatuorcoronati.com/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/qcl-2026-ars-quatuor-coronatorum-periodico.html",
+    "txt/qcl-2026-ars-quatuor-coronatorum-periodico.txt"
+   ]
+  },
+  {
+   "tipo": "periodico",
+   "categoria": "academica",
+   "ano": 2010,
+   "confiabilidade": "A",
+   "acesso": "comercial",
+   "licenca": "assinatura (alguns artigos abertos)",
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "id": "equinox-2010-jrff",
+   "autores": [
+    "Equinox Publishing"
+   ],
+   "titulo": "Journal for Research into Freemasonry and Fraternalism (JRFF)",
+   "idioma": "en",
+   "local": "Sheffield",
+   "url": "https://journals.equinoxpub.com/JRFF",
+   "temas": [
+    "historiografia",
+    "sociabilidade"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "resumo": "Revista acadêmica revisada por pares criada em torno do antigo Centre for Research into Freemasonry and Fraternalism (Sheffield), dedicada à maçonaria e às sociedades fraternais em perspectiva interdisciplinar.",
+   "observacoes": "Site com anti-robô (403); ano inicial a conferir. Ver PENDENCIAS.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://journals.equinoxpub.com/JRFF"
+   ],
+   "status_verificacao": "conferido_web"
+  },
+  {
+   "tipo": "periodico",
+   "categoria": "historiografia_maconica",
+   "ano": 1992,
+   "confiabilidade": "B",
+   "acesso": "comercial",
+   "licenca": "para membros (alguns números antigos abertos)",
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "id": "srrs-2026-heredom",
+   "autores": [
+    "Scottish Rite Research Society"
+   ],
+   "titulo": "Heredom — Transactions of the Scottish Rite Research Society",
+   "idioma": "en",
+   "local": "Washington, D.C.",
+   "url": "https://www.scottishriteresearch.com/",
+   "potencias": [
+    "sc_sj"
+   ],
+   "ritos": [
+    "reaa"
+   ],
+   "temas": [
+    "ritos",
+    "graus",
+    "historiografia"
+   ],
+   "paises": [
+    "us",
+    "mundo"
+   ],
+   "resumo": "Anais anuais da Scottish Rite Research Society (Jurisdição Sul), com pesquisa sobre a história e os rituais do REAA e dos altos graus (Francken, Constituições de 1786, Pike, Rito de Perfeição).",
+   "observacoes": "A sociedade foi fundada em 1991 (site); ano do 1º volume de Heredom (1992) a conferir.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.scottishriteresearch.com/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/srrs-2026-heredom.html",
+    "txt/srrs-2026-heredom.txt"
+   ]
+  },
+  {
+   "tipo": "periodico",
+   "categoria": "academica",
+   "ano": 2013,
+   "confiabilidade": "B",
+   "acesso": "aberto",
+   "licenca": "CC BY-NC-ND 4.0",
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "id": "pso-2014-ritual-secrecy-civil-society",
+   "autores": [
+    "Policy Studies Organization"
+   ],
+   "titulo": "Ritual, Secrecy, and Civil Society",
+   "idioma": "en",
+   "url": "https://www.joomla-backup.ipsonet.org/publications/open-access/ritual-secrecy-and-civil-society",
+   "identificadores": {
+    "issn": "2334-0797"
+   },
+   "temas": [
+    "historiografia",
+    "sociabilidade",
+    "arte_cultura"
+   ],
+   "paises": [
+    "mundo",
+    "us",
+    "fr"
+   ],
+   "resumo": "Revista semestral de acesso aberto da Policy Studies Organization (editores Paul Rich e Guillermo de los Reyes; ed. impressa Westphalia Press) sobre sociedades rituais e secretas, com muitos artigos sobre maçonaria e números temáticos (ex.: Pierre Mollier).",
+   "observacoes": "Página copiada é de backup do site da PSO; ano inicial a conferir.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.joomla-backup.ipsonet.org/publications/open-access/ritual-secrecy-and-civil-society"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/pso-2014-ritual-secrecy-civil-society.html",
+    "txt/pso-2014-ritual-secrecy-civil-society.txt"
+   ]
+  },
+  {
+   "tipo": "periodico",
+   "categoria": "academica",
+   "ano": 2013,
+   "confiabilidade": "B",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (ver site)",
+   "periodos": [
+    "p1814_1870",
+    "p1871_1918",
+    "p1990_hoje"
+   ],
+   "id": "cem-2026-revista-ciencia-maconaria",
+   "autores": [
+    "Revista Ciência & Maçonaria"
+   ],
+   "titulo": "Revista Ciência & Maçonaria",
+   "idioma": "pt",
+   "local": "Brasília",
+   "url": "https://www.cienciaemaconaria.com.br/index.php/cem",
+   "temas": [
+    "historiografia",
+    "sociabilidade",
+    "politica"
+   ],
+   "paises": [
+    "br"
+   ],
+   "resumo": "Periódico brasileiro de acesso aberto (OJS) que publica pesquisa acadêmica e de maçons pesquisadores sobre maçonaria, sobretudo no Brasil; ponte entre universidade e lojas.",
+   "observacoes": "Ano inicial a conferir no site.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.cienciaemaconaria.com.br/index.php/cem"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/cem-2026-revista-ciencia-maconaria.html",
+    "txt/cem-2026-revista-ciencia-maconaria.txt"
+   ],
+   "identificadores": {
+    "issn": "2318-0129"
+   }
+  },
+  {
+   "tipo": "site",
+   "categoria": "historiografia_maconica",
+   "ano": 2026,
+   "confiabilidade": "C",
+   "acesso": "aberto",
+   "licenca": "todos os direitos reservados (leitura aberta)",
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "id": "gazzo-2026-pietre-stones-review",
+   "autores": [
+    "Bruno Gazzo (ed.)"
+   ],
+   "titulo": "Pietre-Stones Review of Freemasonry",
+   "idioma": "en",
+   "url": "https://www.freemasons-freemasonry.com/",
+   "temas": [
+    "historiografia",
+    "simbolismo",
+    "ritos"
+   ],
+   "paises": [
+    "mundo",
+    "it"
+   ],
+   "evidencias": [
+    "https://freimaurer-wiki.de/index.php/En:_Pietre_Stones_-_Review_of_Freemasonry",
+    "https://www.freemasons-freemasonry.com/masonic_books_online.html"
+   ],
+   "resumo": "Revista online editada por Bruno Gazzo (desde os anos 1990), com centenas de artigos de autores maçons (Bernheim, Rees, Tabbert, Beresiner etc.) em várias línguas e uma biblioteca de livros maçônicos em texto integral.",
+   "observacoes": "Site respondeu 403 a requisição automatizada (2026-11-12); não copiado. Artigos individuais podem já estar em outros lotes (c07).",
+   "lote": "c08-referencia",
+   "status_verificacao": "conferido_web"
+  },
+  {
+   "tipo": "periodico",
+   "categoria": "historiografia_maconica",
+   "ano": 2026,
+   "confiabilidade": "B",
+   "acesso": "comercial",
+   "licenca": "assinatura; números digitais na Cairn",
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870",
+    "p1871_1918",
+    "p1919_1945"
+   ],
+   "id": "godf-2026-chroniques-histoire-maconnique",
+   "autores": [
+    "Grand Orient de France — IDERM"
+   ],
+   "titulo": "Chroniques d'histoire maçonnique",
+   "idioma": "fr",
+   "local": "Paris",
+   "url": "https://godf.org/wp-content/uploads/2023/12/Bulletin-d-abonnement.pdf",
+   "potencias": [
+    "godf"
+   ],
+   "temas": [
+    "historiografia",
+    "politica"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "evidencias": [
+    "https://godf.org/wp-content/uploads/2023/12/Bulletin-d-abonnement.pdf",
+    "https://www.scielo.sa.cr/pdf/rehmlac/v6n2/a01v6n2.pdf",
+    "https://www.conform-edit.com/images/stories/virtuemart/pdf/CHM80edito.pdf"
+   ],
+   "resumo": "Revista de história do Instituto de Estudos e Pesquisa Maçônica (IDERM) do GODF, editada por André Combes, com dossiês sobre a maçonaria francesa (ex.: selos do GODF desde 1773; nº 80 sobre 1717 e os primórdios em Paris). Distribuída pela Conform Édition e na Cairn.",
+   "lote": "c08-referencia",
+   "status_verificacao": "conferido_web"
+  },
+  {
+   "tipo": "periodico",
+   "categoria": "historiografia_maconica",
+   "ano": 2026,
+   "confiabilidade": "C",
+   "acesso": "comercial",
+   "licenca": "assinatura; artigos na Cairn",
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "id": "godf-2026-la-chaine-d-union",
+   "autores": [
+    "Grand Orient de France"
+   ],
+   "titulo": "La Chaîne d'Union",
+   "idioma": "fr",
+   "local": "Paris",
+   "url": "https://godf.org/wp-content/uploads/2023/12/Bulletin-d-abonnement.pdf",
+   "potencias": [
+    "godf"
+   ],
+   "temas": [
+    "simbolismo",
+    "principios",
+    "historiografia"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "evidencias": [
+    "https://godf.org/wp-content/uploads/2023/12/Bulletin-d-abonnement.pdf",
+    "https://shs.cairn.info/article/CDU_078_0066/pdf?lang=fr"
+   ],
+   "resumo": "Revista trimestral de estudos maçônicos do GODF (simbolismo, filosofia, história), uma das três publicações periódicas da obediência ao lado de Humanisme e Chroniques d'histoire maçonnique.",
+   "lote": "c08-referencia",
+   "status_verificacao": "conferido_web"
+  },
+  {
+   "tipo": "periodico",
+   "categoria": "historiografia_maconica",
+   "ano": 2026,
+   "confiabilidade": "C",
+   "acesso": "comercial",
+   "licenca": "assinatura; artigos na Cairn",
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "id": "godf-2026-humanisme",
+   "autores": [
+    "Grand Orient de France"
+   ],
+   "titulo": "Humanisme — revue des francs-maçons du Grand Orient de France",
+   "idioma": "fr",
+   "local": "Paris",
+   "url": "https://godf.org/wp-content/uploads/2023/12/Bulletin-d-abonnement.pdf",
+   "potencias": [
+    "godf"
+   ],
+   "temas": [
+    "principios",
+    "politica",
+    "sociabilidade"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "evidencias": [
+    "https://godf.org/wp-content/uploads/2023/12/Bulletin-d-abonnement.pdf"
+   ],
+   "resumo": "Revista do GODF voltada a temas de sociedade, laicidade e pensamento humanista, que expressa as posições da maçonaria liberal francesa.",
+   "lote": "c08-referencia",
+   "status_verificacao": "conferido_web"
+  },
+  {
+   "tipo": "periodico",
+   "categoria": "historiografia_maconica",
+   "ano": 2026,
+   "confiabilidade": "B",
+   "acesso": "comercial",
+   "licenca": "publicações vendidas; site público",
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "id": "qc-bayreuth-2026-quatuor-coronati-forschung",
+   "autores": [
+    "Forschungsgesellschaft Quatuor Coronati (Bayreuth)"
+   ],
+   "titulo": "Quatuor Coronati — Freimaurerische Forschung (Jahrbuch / Quatuor Coronati Berichte)",
+   "idioma": "de",
+   "local": "Bayreuth",
+   "url": "https://www.quatuor-coronati.de/",
+   "potencias": [
+    "vglvd"
+   ],
+   "temas": [
+    "historiografia",
+    "ritos"
+   ],
+   "paises": [
+    "de",
+    "at",
+    "ch"
+   ],
+   "resumo": "Sociedade e loja de pesquisa maçônica de língua alemã (ligada ao museu de Bayreuth), que publica anuário e relatórios de pesquisa sobre a história da maçonaria germânica.",
+   "observacoes": "Títulos exatos das séries a conferir no site copiado.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.quatuor-coronati.de/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/qc-bayreuth-2026-quatuor-coronati-forschung.html",
+    "txt/qc-bayreuth-2026-quatuor-coronati-forschung.txt"
+   ]
+  },
+  {
+   "tipo": "periodico",
+   "categoria": "divulgacao",
+   "ano": 2026,
+   "confiabilidade": "C",
+   "acesso": "comercial",
+   "licenca": "assinatura; parte aberta online",
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "id": "square-2026-the-square-magazine",
+   "autores": [
+    "The Square Magazine"
+   ],
+   "titulo": "The Square — independent magazine for Freemasons",
+   "idioma": "en",
+   "url": "https://www.thesquaremagazine.com/",
+   "temas": [
+    "sociabilidade",
+    "historiografia"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "resumo": "Revista britânica independente de divulgação maçônica (artigos de história, simbolismo e atualidades), com arquivo parcial online.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.thesquaremagazine.com/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/square-2026-the-square-magazine.html",
+    "txt/square-2026-the-square-magazine.txt"
+   ]
+  },
+  {
+   "tipo": "periodico",
+   "categoria": "divulgacao",
+   "ano": 2026,
+   "confiabilidade": "C",
+   "acesso": "comercial",
+   "licenca": "venda; site público",
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "id": "atrolha-2026-editora-revista",
+   "autores": [
+    "Editora Maçônica A Trolha"
+   ],
+   "titulo": "A Trolha (revista e editora maçônica)",
+   "idioma": "pt",
+   "local": "Londrina",
+   "url": "https://www.atrolha.com.br/",
+   "temas": [
+    "sociabilidade",
+    "historiografia",
+    "ritual"
+   ],
+   "paises": [
+    "br"
+   ],
+   "resumo": "Editora e revista maçônica brasileira (Londrina, PR), uma das maiores do país, que publica rituais comentados, obras de autores como José Castellani e a revista A Trolha. Catálogo útil para localizar obras brasileiras comerciais.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.atrolha.com.br/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/atrolha-2026-editora-revista.html",
+    "txt/atrolha-2026-editora-revista.txt"
+   ]
+  },
+  {
+   "tipo": "periodico",
+   "categoria": "oficial_potencia",
+   "ano": 2026,
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados (página pública)",
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "id": "ugle-2026-freemasonry-today",
+   "autores": [
+    "United Grand Lodge of England"
+   ],
+   "titulo": "Freemasonry Today",
+   "idioma": "en",
+   "url": "https://www.freemasonrytoday.com/",
+   "potencias": [
+    "ugle"
+   ],
+   "temas": [
+    "potencias",
+    "sociabilidade"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "resumo": "Revista oficial trimestral da UGLE para seus membros, com notícias institucionais, filantropia e artigos de história; fonte para dados e posições oficiais da UGLE.",
+   "observacoes": "Site respondeu 403 (\"Access denied\") a requisição automatizada; não copiado.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.freemasonrytoday.com/"
+   ],
+   "status_verificacao": "conferido_web"
+  },
+  {
+   "tipo": "periodico",
+   "categoria": "historiografia_maconica",
+   "ano": 1970,
+   "confiabilidade": "B",
+   "acesso": "comercial",
+   "licenca": "assinatura",
+   "periodos": [
+    "p1717_1750",
+    "p1751_1813"
+   ],
+   "id": "rt-2026-renaissance-traditionnelle",
+   "autores": [
+    "Renaissance Traditionnelle"
+   ],
+   "titulo": "Renaissance Traditionnelle — revue d'études maçonniques et symboliques",
+   "idioma": "fr",
+   "local": "Paris",
+   "url": "https://www.renaissance-traditionnelle.org/",
+   "temas": [
+    "ritos",
+    "ritual",
+    "historiografia",
+    "esoterismo"
+   ],
+   "paises": [
+    "fr",
+    "mundo"
+   ],
+   "resumo": "Revista francesa de pesquisa sobre ritos e rituais históricos (edições de manuscritos do século XVIII, RER, Rito Francês, altos graus), referência para estudos de Mollier, Noël, Bernheim e outros.",
+   "observacoes": "Site protegido por Cloudflare (403); ano inicial (c.1970) a conferir.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.renaissance-traditionnelle.org/"
+   ],
+   "status_verificacao": "conferido_web"
   }
  ]
 }
