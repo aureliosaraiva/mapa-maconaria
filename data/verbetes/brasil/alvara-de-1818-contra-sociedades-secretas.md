@@ -39,7 +39,7 @@ O **alvará régio de 30/3/1818** é a lei com que D. João VI, então residente
 A cronologia maçônica de Carvalho liga o alvará a dois episódios de 1817: a [[revolucao-pernambucana-de-1817]] e a conspiração liberal de Lisboa atribuída a Gomes Freire de Andrade. Segundo ele, as lojas suspenderam os trabalhos — ao menos aparentemente —, enquanto maçons continuaram a se reunir em associações como o Clube da Resistência, no Rio de Janeiro.[^4] Para Acioly, a maçonaria passou a trabalhar de forma clandestina até 1822.[^5]
 
 ## Revogação
-Em Portugal, a Revolução Liberal de 1820 mudou o quadro político. No Brasil independente, a lei de 20 de outubro de 1823, decretada pela Assembleia Constituinte e sancionada por D. Pedro I, revogou expressamente o alvará e mandou arquivar "em perpétuo silêncio" os processos abertos com base nele — mas, no mesmo texto, voltou a proibir as sociedades secretas, agora definidas como as que não comunicassem ao governo sua existência, fins, locais de reunião e dirigentes (ver [[decada-proibida-1822-1831]]).[^6]
+Em Portugal, a Revolução Liberal de 1820 mudou o quadro político. No Brasil independente, a lei de 20/10/1823, decretada pela Assembleia Constituinte e sancionada por D. Pedro I, revogou expressamente o alvará e mandou arquivar "em perpétuo silêncio" os processos abertos com base nele — mas, no mesmo texto, voltou a proibir as sociedades secretas, agora definidas como as que não comunicassem ao governo sua existência, fins, locais de reunião e dirigentes (ver [[decada-proibida-1822-1831]]).[^6]
 
 ## Notas
 [^1]: brasil-1818-alvara-sociedades-secretas, fecho e assinaturas.

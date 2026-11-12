@@ -26,12 +26,12 @@ atualizado: 2026-11-12
 sessao: V05
 ---
 
-A expressão **"década proibida"** designa, na pesquisa recente, os anos entre o fechamento do Grande Oriente Brasílico — ordenado em outubro de 1822 por D. Pedro I, que era seu grão-mestre — e a reinstalação da obediência depois da abdicação do imperador, em 1831. Nesse intervalo, a maçonaria brasileira funcionou sob proibição legal, primeiro de fato, depois pela lei de 20 de outubro de 1823, e se reorganizou de modo clandestino, sobretudo entre opositores do governo.[^1][^2]
+A expressão **"década proibida"** designa, na pesquisa recente, os anos entre o fechamento do Grande Oriente Brasílico — ordenado em outubro de 1822 por D. Pedro I, que era seu grão-mestre — e a reinstalação da obediência depois da abdicação do imperador, em 1831. Nesse intervalo, a maçonaria brasileira funcionou sob proibição legal, primeiro de fato, depois pela lei de 20/10/1823, e se reorganizou de modo clandestino, sobretudo entre opositores do governo.[^1][^2]
 
 ## Fechamento do Grande Oriente (1822)
 A tentativa de parte dos maçons do Grande Oriente de exigir que D. Pedro jurasse previamente a constituição a ser votada levou, segundo Barata, a uma repressão violenta: vários foram presos e acusados de conspirar contra o governo e de fomentar guerra civil, na devassa aberta por José Bonifácio após os acontecimentos de 30 de outubro de 1822 (a chamada *Bonifácia*).[^3] Carvalho registra que o imperador mandou suspender os trabalhos do Grande Oriente em 25 de outubro de 1822, que lojas isoladas continuaram a funcionar e que o próprio monarca teria montado uma loja no palácio.[^4]
 
-## A lei de 20 de outubro de 1823
+## A lei de 20/10/1823
 Decretada pela Assembleia Constituinte em setembro e sancionada pelo imperador em outubro de 1823, a lei:
 - revogou o [[alvara-de-1818-contra-sociedades-secretas]] e anulou os processos pendentes com base nele;
 - voltou, porém, a proibir as sociedades secretas, definidas como aquelas que não comunicassem ao governo — à Intendência Geral da Polícia, na Corte, ou às autoridades locais, em quinze dias — sua existência, fins, locais e horários de reunião e nomes dos dirigentes, com declaração de que não contrariavam a ordem social, o sistema constitucional, a moral e a religião cristã;
