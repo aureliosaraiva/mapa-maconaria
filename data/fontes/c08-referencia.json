@@ -1048,6 +1048,557 @@
     "https://query.wikidata.org/"
    ],
    "lote": "c08-referencia"
+  },
+  {
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público",
+   "id": "gadicke-1818-freimaurer-lexicon",
+   "autores": [
+    "Johann Christian Gädicke"
+   ],
+   "titulo": "Freimaurer-Lexicon",
+   "titulo_traduzido": "Léxico da maçonaria",
+   "ano": 1818,
+   "idioma": "de",
+   "local": "Berlin",
+   "temas": [
+    "historiografia",
+    "ritos",
+    "simbolismo"
+   ],
+   "paises": [
+    "de"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870"
+   ],
+   "resumo": "Primeiro grande dicionário maçônico alemão, compilado por um livreiro e maçom berlinense; verbetes sobre termos, graus, sistemas (Zinnendorf, Estrita Observância), lojas e personagens do século XVIII alemão. Base de léxicos posteriores (Lenning/Mossdorf).",
+   "url": "https://archive.org/details/bub_gb_q8Y3AAAAYAAJ",
+   "identificadores": {
+    "ia": "bub_gb_q8Y3AAAAYAAJ"
+   },
+   "status_verificacao": "copiado",
+   "acervo": [
+    "txt/gadicke-1818-freimaurer-lexicon.txt"
+   ],
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://archive.org/details/bub_gb_q8Y3AAAAYAAJ"
+   ]
+  },
+  {
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público",
+   "id": "oliver-1853-dictionary-symbolical-masonry",
+   "autores": [
+    "George Oliver"
+   ],
+   "titulo": "A Dictionary of Symbolical Masonry, including the Royal Arch Degree",
+   "titulo_traduzido": "Dicionário da maçonaria simbólica",
+   "ano": 1853,
+   "idioma": "en",
+   "local": "London",
+   "temas": [
+    "simbolismo",
+    "graus",
+    "ordens_anexas"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "ritos": [
+    "emulacao"
+   ],
+   "resumo": "Dicionário do reverendo George Oliver, principal escritor maçônico inglês de meados do século XIX, com verbetes sobre símbolos, termos dos graus simbólicos e do Arco Real segundo a prática inglesa pós-União. Reflete a leitura cristã e \"antiquarista\" típica de Oliver, hoje criticada pela historiografia.",
+   "url": "https://archive.org/details/OliverGADictionaryOfSymbolicalMasonry1853",
+   "identificadores": {
+    "ia": "OliverGADictionaryOfSymbolicalMasonry1853"
+   },
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/oliver-1853-dictionary-symbolical-masonry.pdf",
+    "txt/oliver-1853-dictionary-symbolical-masonry.txt"
+   ],
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://archive.org/details/OliverGADictionaryOfSymbolicalMasonry1853"
+   ]
+  },
+  {
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público",
+   "id": "quantin-1825-dictionnaire-maconnique",
+   "autores": [
+    "Quantin"
+   ],
+   "titulo": "Dictionnaire maçonnique, ou Recueil d'esquisses de toutes les parties de l'édifice connu sous le nom de maçonnerie",
+   "titulo_traduzido": "Dicionário maçônico",
+   "ano": 1825,
+   "idioma": "fr",
+   "local": "Paris",
+   "temas": [
+    "simbolismo",
+    "ritos",
+    "graus"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "ritos": [
+    "frances_moderno",
+    "reaa"
+   ],
+   "resumo": "Dicionário francês da Restauração com definições de termos, graus e usos da maçonaria praticada na França (Rito Francês e escocismo). Útil para o vocabulário maçônico francês do início do século XIX.",
+   "observacoes": "Item do IA intitulado \"Quentin\"; autor registrado nas bibliografias como Quantin. Ano 1825 conforme bibliografia; conferir folha de rosto no PDF.",
+   "url": "https://archive.org/details/QuentinDictionnaireMaconnique",
+   "identificadores": {
+    "ia": "QuentinDictionnaireMaconnique"
+   },
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/quantin-1825-dictionnaire-maconnique.pdf",
+    "txt/quantin-1825-dictionnaire-maconnique.txt"
+   ],
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://archive.org/details/QuentinDictionnaireMaconnique"
+   ]
+  },
+  {
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público",
+   "id": "frau-abrines-1891-diccionario-enciclopedico",
+   "autores": [
+    "Lorenzo Frau Abrines"
+   ],
+   "titulo": "Diccionario enciclopédico de la masonería, con un suplemento de la historia general de la Orden masónica",
+   "titulo_traduzido": "Dicionário enciclopédico da maçonaria",
+   "ano": 1891,
+   "idioma": "es",
+   "local": "Barcelona",
+   "temas": [
+    "historiografia",
+    "simbolismo",
+    "ritos",
+    "potencias"
+   ],
+   "paises": [
+    "es",
+    "cu",
+    "al"
+   ],
+   "periodos": [
+    "p1814_1870",
+    "p1871_1918"
+   ],
+   "resumo": "Principal dicionário maçônico em espanhol do século XIX, de autor cubano/espanhol; verbetes sobre ritos, graus, símbolos, potências e história da maçonaria espanhola e latino-americana. Reeditado e ampliado no século XX (ed. Arús, Kier).",
+   "observacoes": "Digitalização de exemplar da Biblioteca Nacional de España (carimbos BNE) republicada no IA por terceiros; obra do século XIX em domínio público. Autor foi venerável da loja Avante de Barcelona. Ano da 1ª ed. (c.1889–1891) a conferir; o OCR traz ao menos o tomo II.",
+   "url": "https://archive.org/details/diccionario-enciclopedico-de-la-masoneria-lorenzo-frau-abrines-grupo-ciencias-ocultas",
+   "identificadores": {
+    "ia": "diccionario-enciclopedico-de-la-masoneria-lorenzo-frau-abrines-grupo-ciencias-ocultas"
+   },
+   "status_verificacao": "copiado",
+   "acervo": [
+    "txt/frau-abrines-1891-diccionario-enciclopedico.txt"
+   ],
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://archive.org/details/diccionario-enciclopedico-de-la-masoneria-lorenzo-frau-abrines-grupo-ciencias-ocultas"
+   ],
+   "editora": "Establecimiento Tipográfico La Academia"
+  },
+  {
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público",
+   "id": "mackey-1912-encyclopedia-hawkins-v1",
+   "autores": [
+    "Albert Gallatin Mackey",
+    "Edward L. Hawkins"
+   ],
+   "titulo": "An Encyclopædia of Freemasonry and its Kindred Sciences (nova ed. revista, vol. 1)",
+   "ano": 1912,
+   "idioma": "en",
+   "local": "Philadelphia / London",
+   "temas": [
+    "historiografia",
+    "simbolismo",
+    "ritos",
+    "graus"
+   ],
+   "paises": [
+    "us",
+    "gb"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "resumo": "Edição revista e ampliada da enciclopédia de Mackey, preparada por E. L. Hawkins (e W. J. Hughan), com correções históricas à luz da \"escola autêntica\" inglesa. Complementa a edição original de 1874 (mackey-1874-encyclopaedia).",
+   "url": "https://archive.org/details/freemasonry0001unse",
+   "identificadores": {
+    "ia": "freemasonry0001unse"
+   },
+   "status_verificacao": "copiado",
+   "acervo": [
+    "txt/mackey-1912-encyclopedia-hawkins-v1.txt"
+   ],
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://archive.org/details/freemasonry0001unse"
+   ]
+  },
+  {
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público nos EUA (publicação de 1929, entrou em DP em 2025)",
+   "id": "mackey-1929-revised-encyclopedia-clegg-v2",
+   "autores": [
+    "Albert Gallatin Mackey",
+    "Robert Ingham Clegg"
+   ],
+   "titulo": "Mackey's Revised Encyclopedia of Freemasonry (vol. 2)",
+   "ano": 1929,
+   "idioma": "en",
+   "local": "Chicago",
+   "editora": "Masonic History Company",
+   "temas": [
+    "historiografia",
+    "simbolismo",
+    "ritos",
+    "graus"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1919_1945"
+   ],
+   "resumo": "Revisão de 1929 da enciclopédia de Mackey por R. I. Clegg, com verbetes atualizados sobre potências, ordens anexas e pesquisas da época. Versão mais usada da obra no século XX nos EUA.",
+   "url": "https://archive.org/details/encyclopediafree0002albe",
+   "identificadores": {
+    "ia": "encyclopediafree0002albe"
+   },
+   "status_verificacao": "copiado",
+   "acervo": [
+    "txt/mackey-1929-revised-encyclopedia-clegg-v2.txt"
+   ],
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://archive.org/details/encyclopediafree0002albe"
+   ]
+  },
+  {
+   "tipo": "livro",
+   "categoria": "enciclopedia",
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público",
+   "id": "stevens-1899-cyclopaedia-fraternities",
+   "autores": [
+    "Albert Clark Stevens"
+   ],
+   "titulo": "The Cyclopædia of Fraternities",
+   "ano": 1899,
+   "idioma": "en",
+   "local": "New York",
+   "temas": [
+    "ordens_anexas",
+    "sociabilidade",
+    "potencias"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "resumo": "Compêndio sobre mais de 600 sociedades fraternais dos EUA, com a maçonaria e seus corpos anexos (Arco Real, Templários, Shriners, Estrela do Oriente) no centro, e as ordens que imitaram o modelo maçônico. Fonte clássica para a \"era de ouro\" do fraternalismo americano.",
+   "url": "https://archive.org/details/cyclopaediaoffra00stev",
+   "identificadores": {
+    "ia": "cyclopaediaoffra00stev"
+   },
+   "status_verificacao": "copiado",
+   "acervo": [
+    "txt/stevens-1899-cyclopaedia-fraternities.txt"
+   ],
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://archive.org/details/cyclopaediaoffra00stev"
+   ]
+  },
+  {
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público",
+   "id": "mackenzie-1877-royal-masonic-cyclopaedia",
+   "autores": [
+    "Kenneth R. H. Mackenzie"
+   ],
+   "titulo": "The Royal Masonic Cyclopaedia of History, Rites, Symbolism and Biography",
+   "ano": 1877,
+   "idioma": "en",
+   "local": "London",
+   "temas": [
+    "esoterismo",
+    "ritos",
+    "simbolismo",
+    "personalidades"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "resumo": "Enciclopédia de K. R. H. Mackenzie, maçom e ocultista ligado à Societas Rosicruciana in Anglia, com verbetes sobre ritos, altos graus, ordens esotéricas e biografias. Valiosa para o maçonismo esotérico vitoriano; fraca como história.",
+   "url": "https://archive.org/details/mackenzie-the-royal-masonic-cyclopaedia",
+   "identificadores": {
+    "ia": "mackenzie-the-royal-masonic-cyclopaedia"
+   },
+   "status_verificacao": "copiado",
+   "acervo": [
+    "txt/mackenzie-1877-royal-masonic-cyclopaedia.txt"
+   ],
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://archive.org/details/mackenzie-the-royal-masonic-cyclopaedia"
+   ]
+  },
+  {
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público",
+   "id": "row-1868-masonic-biography-dictionary",
+   "autores": [
+    "Augustus Row"
+   ],
+   "titulo": "Masonic Biography and Dictionary",
+   "ano": 1868,
+   "idioma": "en",
+   "local": "Philadelphia",
+   "temas": [
+    "personalidades",
+    "historiografia"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "resumo": "Dicionário americano que combina breve história da maçonaria, definições de termos e biografias de maçons notáveis (sobretudo norte-americanos). Biografias devem ser conferidas em fontes documentais.",
+   "url": "https://archive.org/details/masonicbiograph00rowgoog",
+   "identificadores": {
+    "ia": "masonicbiograph00rowgoog"
+   },
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/row-1868-masonic-biography-dictionary.pdf",
+    "txt/row-1868-masonic-biography-dictionary.txt"
+   ],
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://archive.org/details/masonicbiograph00rowgoog"
+   ]
+  },
+  {
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público",
+   "id": "morris-1889-pocket-lexicon-canadian",
+   "autores": [
+    "W. J. Morris"
+   ],
+   "titulo": "Pocket Lexicon of Canadian Freemasonry",
+   "ano": 1889,
+   "idioma": "en",
+   "local": "Perth (Ontario)",
+   "temas": [
+    "potencias",
+    "historiografia"
+   ],
+   "paises": [
+    "ca"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "ritos": [
+    "canadense"
+   ],
+   "resumo": "Pequeno léxico da maçonaria canadense do fim do século XIX (termos, grandes lojas provinciais, usos). Microficha CIHM digitalizada.",
+   "url": "https://archive.org/details/cihm_11077",
+   "identificadores": {
+    "ia": "cihm_11077"
+   },
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/morris-1889-pocket-lexicon-canadian.pdf",
+    "txt/morris-1889-pocket-lexicon-canadian.txt"
+   ],
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://archive.org/details/cihm_11077"
+   ]
+  },
+  {
+   "tipo": "livro",
+   "categoria": "historiografia_maconica",
+   "confiabilidade": "B",
+   "acesso": "desconhecido",
+   "licenca": "a conferir: Lennhoff †1944 (DP desde 2015); data de morte de Posner não confirmada",
+   "id": "lennhoff-1932-internationales-freimaurerlexikon",
+   "autores": [
+    "Eugen Lennhoff",
+    "Oskar Posner"
+   ],
+   "titulo": "Internationales Freimaurerlexikon",
+   "titulo_traduzido": "Léxico internacional da maçonaria",
+   "ano": 1932,
+   "idioma": "de",
+   "local": "Zürich / Leipzig / Wien",
+   "editora": "Amalthea-Verlag",
+   "temas": [
+    "historiografia",
+    "potencias",
+    "ritos",
+    "simbolismo",
+    "personalidades",
+    "antimaconaria"
+   ],
+   "paises": [
+    "mundo",
+    "at",
+    "de"
+   ],
+   "periodos": [
+    "p1919_1945"
+   ],
+   "resumo": "Obra de referência maçônica mais completa do entreguerras: cerca de 1.700 colunas com verbetes sobre potências do mundo inteiro, ritos, graus, símbolos, biografias e antimaçonaria, escritos por maçons austríacos pouco antes da perseguição nazista. Reeditado em 1965/1975/1980 e revisto por D. A. Binder (2000).",
+   "observacoes": "Só txt (OCR do IA) no acervo, PDF de 665 MB. Situação de direitos pendente (ver PENDENCIAS ## C08).",
+   "url": "https://archive.org/details/lennhoff-eugen-internationales-freimaurer-lexikon-1932",
+   "identificadores": {
+    "ia": "lennhoff-eugen-internationales-freimaurer-lexikon-1932"
+   },
+   "status_verificacao": "copiado",
+   "acervo": [
+    "txt/lennhoff-1932-internationales-freimaurerlexikon.txt"
+   ],
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://archive.org/details/lennhoff-eugen-internationales-freimaurer-lexikon-1932"
+   ]
+  },
+  {
+   "tipo": "livro",
+   "categoria": "eclesiastica",
+   "confiabilidade": "C",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público nos EUA (publicação de 1924)",
+   "id": "preuss-1924-dictionary-secret-societies",
+   "autores": [
+    "Arthur Preuss"
+   ],
+   "titulo": "A Dictionary of Secret and Other Societies",
+   "ano": 1924,
+   "idioma": "en",
+   "local": "St. Louis",
+   "editora": "B. Herder",
+   "temas": [
+    "antimaconaria",
+    "religiao",
+    "ordens_anexas",
+    "sociabilidade"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1919_1945"
+   ],
+   "resumo": "Dicionário de jornalista católico norte-americano que classifica sociedades secretas e fraternais (maçonaria, ordens anexas e imitadoras) do ponto de vista da proibição canônica. Fonte para a recepção católica e para dados sobre fraternidades americanas.",
+   "url": "https://archive.org/details/PreussPDF",
+   "identificadores": {
+    "ia": "PreussPDF"
+   },
+   "status_verificacao": "copiado",
+   "acervo": [
+    "txt/preuss-1924-dictionary-secret-societies.txt"
+   ],
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://archive.org/details/PreussPDF"
+   ]
+  },
+  {
+   "tipo": "periodico",
+   "categoria": "historiografia_maconica",
+   "confiabilidade": "B",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público nos EUA (publicações 1915–1930)",
+   "id": "nmrs-1915-the-builder-colecao",
+   "autores": [
+    "National Masonic Research Society"
+   ],
+   "titulo": "The Builder: a journal for the Masonic student (coleção 1915–1930)",
+   "ano": 1915,
+   "idioma": "en",
+   "local": "Anamosa (Iowa)",
+   "temas": [
+    "historiografia",
+    "simbolismo",
+    "ritos"
+   ],
+   "paises": [
+    "us"
+   ],
+   "periodos": [
+    "p1871_1918",
+    "p1919_1945"
+   ],
+   "resumo": "Revista mensal de pesquisa maçônica da National Masonic Research Society (1915–1930), com artigos de Haywood, Pound, Newton e outros, debates sobre origens, landmarks e simbolismo. Coleção completa digitalizada num único volume.",
+   "observacoes": "Coleção compilada por terceiros no IA; há também volumes avulsos (builderjournalfo*).",
+   "url": "https://archive.org/details/the-builder-full-collection",
+   "identificadores": {
+    "ia": "the-builder-full-collection"
+   },
+   "status_verificacao": "copiado",
+   "acervo": [
+    "txt/nmrs-1915-the-builder-colecao.txt"
+   ],
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://archive.org/details/the-builder-full-collection"
+   ]
   }
  ]
 }
