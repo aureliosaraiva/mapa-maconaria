@@ -2066,6 +2066,566 @@
     "html/freimaurerwiki-2026-hauptseite.html",
     "txt/freimaurerwiki-2026-hauptseite.txt"
    ]
+  },
+  {
+   "tipo": "site",
+   "categoria": "acervo_museu",
+   "ano": 2026,
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados (página pública)",
+   "confiabilidade": "C",
+   "periodos": [],
+   "id": "lmf-2026-museum-of-freemasonry",
+   "autores": [
+    "Museum of Freemasonry (Library and Museum of Freemasonry)"
+   ],
+   "titulo": "Museum of Freemasonry — Freemasons' Hall, London",
+   "idioma": "en",
+   "url": "https://museumfreemasonry.org.uk/",
+   "potencias": [
+    "ugle"
+   ],
+   "temas": [
+    "historiografia",
+    "arte_cultura"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "resumo": "Portal do museu e biblioteca da UGLE no Freemasons' Hall (Londres), maior acervo maçônico do Reino Unido: biblioteca, arquivos, coleções de objetos, catálogo online e serviços de pesquisa (inclui o Masonic Periodicals Online).",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://museumfreemasonry.org.uk/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/lmf-2026-museum-of-freemasonry.html",
+    "txt/lmf-2026-museum-of-freemasonry.txt"
+   ],
+   "observacoes": "Página majoritariamente dinâmica (JS): o txt copiado tem pouco conteúdo; usar para dados institucionais e conferir datas históricas em fontes próprias."
+  },
+  {
+   "tipo": "acervo",
+   "categoria": "acervo_museu",
+   "ano": 2026,
+   "acesso": "aberto",
+   "licenca": "acesso aberto para consulta",
+   "confiabilidade": "B",
+   "periodos": [
+    "p1814_1870",
+    "p1871_1918"
+   ],
+   "id": "lmf-2026-masonic-periodicals-online",
+   "autores": [
+    "Library and Museum of Freemasonry"
+   ],
+   "titulo": "Masonic Periodicals Online (MPO)",
+   "idioma": "en",
+   "url": "https://www.masonicperiodicals.org/",
+   "potencias": [
+    "ugle"
+   ],
+   "temas": [
+    "historiografia",
+    "sociabilidade",
+    "potencias"
+   ],
+   "paises": [
+    "gb",
+    "mundo"
+   ],
+   "evidencias": [
+    "https://www.masonicperiodicals.org/",
+    "https://masonicperiodicals.org/periodicals/fqr/issues/fqr_31121836/page/132"
+   ],
+   "resumo": "Hemeroteca digital da Library and Museum of Freemasonry com periódicos maçônicos britânicos dos séculos XVIII–XX digitalizados e pesquisáveis (Freemasons' Quarterly Review, The Freemason, Freemason's Chronicle, Masonic Star etc.). Fonte central para imprensa maçônica.",
+   "observacoes": "Site com verificação anti-robô (\"Making sure you're not a bot\"): não copiado; consulta manual. Ver PENDENCIAS ## C08.",
+   "lote": "c08-referencia",
+   "status_verificacao": "conferido_web"
+  },
+  {
+   "tipo": "site",
+   "categoria": "acervo_museu",
+   "ano": 2026,
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados (página pública)",
+   "confiabilidade": "C",
+   "periodos": [],
+   "id": "srmml-2026-scottish-rite-masonic-museum-library",
+   "autores": [
+    "Scottish Rite Masonic Museum & Library"
+   ],
+   "titulo": "Scottish Rite Masonic Museum & Library (Lexington, Massachusetts)",
+   "idioma": "en",
+   "url": "https://www.srmml.org/",
+   "potencias": [
+    "sc_njn"
+   ],
+   "temas": [
+    "historiografia",
+    "arte_cultura",
+    "sociabilidade"
+   ],
+   "paises": [
+    "us"
+   ],
+   "resumo": "Museu e biblioteca do Supremo Conselho da Jurisdição Norte (REAA) em Lexington, com a Van Gorden-Williams Library, coleções de aventais, objetos e documentos fraternais americanos e catálogo online.",
+   "observacoes": "Site protegido por Cloudflare (403 a robôs): não copiado.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.srmml.org/"
+   ],
+   "status_verificacao": "conferido_web"
+  },
+  {
+   "tipo": "site",
+   "categoria": "acervo_museu",
+   "ano": 2026,
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados (página pública)",
+   "confiabilidade": "C",
+   "periodos": [],
+   "id": "scsj-2026-house-of-the-temple",
+   "autores": [
+    "Supreme Council, 33°, Southern Jurisdiction"
+   ],
+   "titulo": "House of the Temple",
+   "idioma": "en",
+   "url": "https://scottishrite.org/about/house-of-the-temple/",
+   "potencias": [
+    "sc_sj"
+   ],
+   "ritos": [
+    "reaa"
+   ],
+   "temas": [
+    "arte_cultura",
+    "potencias"
+   ],
+   "paises": [
+    "us"
+   ],
+   "resumo": "Página oficial da House of the Temple (Washington, D.C.), sede do Supremo Conselho da Jurisdição Sul do REAA, que abriga biblioteca e coleções históricas do rito.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://scottishrite.org/about/house-of-the-temple/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/scsj-2026-house-of-the-temple.html",
+    "txt/scsj-2026-house-of-the-temple.txt"
+   ],
+   "observacoes": "Página majoritariamente dinâmica (JS): o txt copiado tem pouco conteúdo; usar para dados institucionais e conferir datas históricas em fontes próprias."
+  },
+  {
+   "tipo": "site",
+   "categoria": "acervo_museu",
+   "ano": 2026,
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados (página pública)",
+   "confiabilidade": "C",
+   "periodos": [],
+   "id": "museefm-2026-musee-franc-maconnerie",
+   "autores": [
+    "Musée de la Franc-Maçonnerie (Grand Orient de France)"
+   ],
+   "titulo": "Musée de la Franc-Maçonnerie (Paris, rue Cadet)",
+   "idioma": "fr",
+   "url": "https://www.museefm.org/english.htm",
+   "potencias": [
+    "godf"
+   ],
+   "temas": [
+    "arte_cultura",
+    "historiografia"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "resumo": "Página do museu do Grand Orient de France (16 rue Cadet, Paris), criado em 1889 e reconhecido como \"Musée de France\": exposição sobre três séculos de lojas na França, com faiança, aventais, documentos e objetos; acervo reconstituído após as pilhagens da Ocupação.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.museefm.org/english.htm"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/museefm-2026-musee-franc-maconnerie.html",
+    "txt/museefm-2026-musee-franc-maconnerie.txt"
+   ],
+   "observacoes": "Página majoritariamente dinâmica (JS): o txt copiado tem pouco conteúdo; usar para dados institucionais e conferir datas históricas em fontes próprias."
+  },
+  {
+   "tipo": "site",
+   "categoria": "acervo_museu",
+   "ano": 2026,
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados (página pública)",
+   "confiabilidade": "C",
+   "periodos": [],
+   "id": "freimaurermuseum-2026-bayreuth",
+   "autores": [
+    "Deutsches Freimaurermuseum Bayreuth"
+   ],
+   "titulo": "Deutsches Freimaurermuseum Bayreuth",
+   "idioma": "de",
+   "url": "https://www.freimaurermuseum.de/",
+   "potencias": [
+    "vglvd"
+   ],
+   "temas": [
+    "arte_cultura",
+    "historiografia"
+   ],
+   "paises": [
+    "de"
+   ],
+   "resumo": "Site do museu maçônico alemão em Bayreuth, com biblioteca especializada e coleção de objetos, documentos e iconografia da maçonaria alemã.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.freimaurermuseum.de/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/freimaurermuseum-2026-bayreuth.html",
+    "txt/freimaurermuseum-2026-bayreuth.txt"
+   ],
+   "observacoes": "Página majoritariamente dinâmica (JS): o txt copiado tem pouco conteúdo; usar para dados institucionais e conferir datas históricas em fontes próprias."
+  },
+  {
+   "tipo": "site",
+   "categoria": "acervo_museu",
+   "ano": 2026,
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados (página pública)",
+   "confiabilidade": "C",
+   "periodos": [],
+   "id": "cmcpf-2026-cultureel-maconniek-centrum",
+   "autores": [
+    "Cultureel Maçonniek Centrum \"Prins Frederik\""
+   ],
+   "titulo": "Cultureel Maçonniek Centrum \"Prins Frederik\" (Den Haag) — biblioteca e arquivos do Grande Oriente dos Países Baixos",
+   "idioma": "nl",
+   "url": "https://www.cmcpf.nl/",
+   "temas": [
+    "historiografia",
+    "arte_cultura"
+   ],
+   "paises": [
+    "nl"
+   ],
+   "evidencias": [
+    "https://denhaag.com/fr/node/1175",
+    "https://en.wikipedia.org/wiki/Georg_Kloss"
+   ],
+   "resumo": "Centro cultural do Grootoosten der Nederlanden que guarda uma das maiores bibliotecas maçônicas do mundo, incluindo a Bibliotheca Klossiana (biblioteca de Georg Kloss, comprada pelo grão-mestre príncipe Frederik no século XIX), e arquivos da maçonaria neerlandesa e das ex-colônias.",
+   "observacoes": "cmcpf.nl não respondeu (timeout) em 2026-11-12; metadados por fontes secundárias. Ver PENDENCIAS ## C08.",
+   "lote": "c08-referencia",
+   "status_verificacao": "conferido_web"
+  },
+  {
+   "tipo": "acervo",
+   "categoria": "acervo_museu",
+   "ano": 2026,
+   "acesso": "desconhecido",
+   "licenca": "todos os direitos reservados (página pública)",
+   "confiabilidade": "B",
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870"
+   ],
+   "id": "bph-2026-bibliotheca-klossiana-sourcelibrary",
+   "autores": [
+    "Bibliotheca Philosophica Hermetica / Source Library"
+   ],
+   "titulo": "Kloss collection (Bibliotheca Klossiana) — Source Library",
+   "idioma": "en",
+   "url": "https://bph.sourcelibrary.org/collections/kloss-collection",
+   "temas": [
+    "historiografia",
+    "esoterismo",
+    "ritos",
+    "graus"
+   ],
+   "paises": [
+    "nl",
+    "de",
+    "fr"
+   ],
+   "evidencias": [
+    "https://bph.sourcelibrary.org/collections/kloss-collection",
+    "https://bph.sourcelibrary.org/collections/kloss-masonic-history",
+    "https://bph.sourcelibrary.org/collections/kloss-french-higher-degrees"
+   ],
+   "resumo": "Portal da Bibliotheca Philosophica Hermetica (Amsterdã) que apresenta em coleções temáticas obras da Bibliotheca Klossiana (história da maçonaria, altos graus franceses etc.), com centenas de impressos dos séculos XVIII–XIX em alemão, francês e neerlandês.",
+   "observacoes": "Página respondeu 403 a requisição automatizada; não copiada. Verificar se há digitalizações abertas (ver PENDENCIAS).",
+   "lote": "c08-referencia",
+   "status_verificacao": "conferido_web"
+  },
+  {
+   "tipo": "site",
+   "categoria": "acervo_museu",
+   "ano": 2026,
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados (página pública)",
+   "confiabilidade": "C",
+   "periodos": [],
+   "id": "gli-2026-museum",
+   "autores": [
+    "Grand Lodge of Ireland"
+   ],
+   "titulo": "Grand Lodge of Ireland — Museum",
+   "idioma": "en",
+   "url": "https://www.freemason.ie/museum/",
+   "potencias": [
+    "gl_irlanda"
+   ],
+   "temas": [
+    "arte_cultura",
+    "historiografia"
+   ],
+   "paises": [
+    "ie"
+   ],
+   "resumo": "Página do museu da Grande Loja da Irlanda no Freemasons' Hall de Dublin, com objetos e documentos da maçonaria irlandesa.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.freemason.ie/museum/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/gli-2026-museum.html",
+    "txt/gli-2026-museum.txt"
+   ],
+   "observacoes": "Página majoritariamente dinâmica (JS): o txt copiado tem pouco conteúdo; usar para dados institucionais e conferir datas históricas em fontes próprias."
+  },
+  {
+   "tipo": "site",
+   "categoria": "acervo_museu",
+   "ano": 2026,
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados (página pública)",
+   "confiabilidade": "C",
+   "periodos": [],
+   "id": "gls-2026-museum",
+   "autores": [
+    "Grand Lodge of Scotland"
+   ],
+   "titulo": "Grand Lodge of Scotland — Museum (Freemasons' Hall, Edinburgh)",
+   "idioma": "en",
+   "url": "https://grandlodgescotland.com/tag/museum",
+   "potencias": [
+    "gl_escocia"
+   ],
+   "temas": [
+    "arte_cultura",
+    "historiografia",
+    "origens"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "evidencias": [
+    "https://grandlodgescotland.com/tag/museum",
+    "https://www.scottish-places.info/features/featurefirst6994.html"
+   ],
+   "resumo": "Páginas da Grande Loja da Escócia sobre seu museu e biblioteca no Freemasons' Hall (96 George Street, Edimburgo), guardião de registros de lojas escocesas desde 1599 (atas da Loja de Edimburgo – Mary's Chapel).",
+   "lote": "c08-referencia",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/gls-2026-museum.html",
+    "txt/gls-2026-museum.txt"
+   ]
+  },
+  {
+   "tipo": "site",
+   "categoria": "acervo_museu",
+   "ano": 2026,
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados (página pública)",
+   "confiabilidade": "C",
+   "periodos": [],
+   "id": "gwmnm-2026-george-washington-masonic-memorial",
+   "autores": [
+    "George Washington Masonic National Memorial"
+   ],
+   "titulo": "George Washington Masonic National Memorial (Alexandria, Virginia)",
+   "idioma": "en",
+   "url": "https://gwmemorial.org/",
+   "potencias": [
+    "gl_estaduais_eua"
+   ],
+   "temas": [
+    "arte_cultura",
+    "personalidades"
+   ],
+   "paises": [
+    "us"
+   ],
+   "resumo": "Site do memorial maçônico nacional dedicado a George Washington em Alexandria (Virgínia), mantido pelas grandes lojas dos EUA, com museu, biblioteca e coleções ligadas a Washington e à loja Alexandria-Washington No. 22.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://gwmemorial.org/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/gwmnm-2026-george-washington-masonic-memorial.html",
+    "txt/gwmnm-2026-george-washington-masonic-memorial.txt"
+   ],
+   "observacoes": "Página majoritariamente dinâmica (JS): o txt copiado tem pouco conteúdo; usar para dados institucionais e conferir datas históricas em fontes próprias."
+  },
+  {
+   "tipo": "site",
+   "categoria": "acervo_museu",
+   "ano": 2026,
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados (página pública)",
+   "confiabilidade": "C",
+   "periodos": [],
+   "id": "gliowa-2026-iowa-masonic-library",
+   "autores": [
+    "Grand Lodge of Iowa"
+   ],
+   "titulo": "Iowa Masonic Library and Museum (Cedar Rapids)",
+   "idioma": "en",
+   "url": "https://www.iowamasoniclibrary.org/",
+   "potencias": [
+    "gl_estaduais_eua"
+   ],
+   "temas": [
+    "historiografia",
+    "arte_cultura"
+   ],
+   "paises": [
+    "us"
+   ],
+   "resumo": "Site da Grande Loja de Iowa que apresenta sua biblioteca e museu maçônicos em Cedar Rapids, uma das mais antigas e maiores bibliotecas maçônicas dos EUA.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.iowamasoniclibrary.org/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/gliowa-2026-iowa-masonic-library.html",
+    "txt/gliowa-2026-iowa-masonic-library.txt"
+   ],
+   "observacoes": "Página majoritariamente dinâmica (JS): o txt copiado tem pouco conteúdo; usar para dados institucionais e conferir datas históricas em fontes próprias."
+  },
+  {
+   "tipo": "site",
+   "categoria": "acervo_museu",
+   "ano": 2026,
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados (página pública)",
+   "confiabilidade": "C",
+   "periodos": [
+    "p1751_1813"
+   ],
+   "id": "rosenau-2026-freimaurermuseum",
+   "autores": [
+    "Österreichisches Freimaurermuseum Schloss Rosenau"
+   ],
+   "titulo": "Das österreichische Freimaurermuseum im Schloss Rosenau",
+   "idioma": "de",
+   "url": "https://www.freimaurermuseum.at/",
+   "potencias": [
+    "goaustria"
+   ],
+   "temas": [
+    "arte_cultura",
+    "historiografia"
+   ],
+   "paises": [
+    "at"
+   ],
+   "resumo": "Site do museu maçônico austríaco no castelo de Rosenau (Waldviertel), que preserva um templo maçônico do século XVIII e exposição sobre a maçonaria austríaca (época de Mozart e José II, perseguições).",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.freimaurermuseum.at/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/rosenau-2026-freimaurermuseum.html",
+    "txt/rosenau-2026-freimaurermuseum.txt"
+   ],
+   "observacoes": "Página majoritariamente dinâmica (JS): o txt copiado tem pouco conteúdo; usar para dados institucionais e conferir datas históricas em fontes próprias."
+  },
+  {
+   "tipo": "site",
+   "categoria": "acervo_museu",
+   "ano": 2026,
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados (página pública)",
+   "confiabilidade": "A",
+   "periodos": [
+    "p1919_1945",
+    "p1946_1989"
+   ],
+   "id": "cdmh-2026-centro-documental-memoria-historica",
+   "autores": [
+    "Ministerio de Cultura (España) — Centro Documental de la Memoria Histórica"
+   ],
+   "titulo": "Centro Documental de la Memoria Histórica (Salamanca)",
+   "idioma": "es",
+   "url": "https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/cdmh/portada.html",
+   "potencias": [
+    "goe"
+   ],
+   "temas": [
+    "antimaconaria",
+    "politica",
+    "historiografia"
+   ],
+   "paises": [
+    "es"
+   ],
+   "resumo": "Portal do arquivo estatal de Salamanca que conserva a documentação apreendida pelo franquismo, incluindo o grande fundo maçônico (documentos de lojas e fichários de maçons usados pelo Tribunal Especial para la Represión de la Masonería y el Comunismo). Ver também velasco-2016-museum (c06).",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/cdmh/portada.html"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/cdmh-2026-centro-documental-memoria-historica.html",
+    "txt/cdmh-2026-centro-documental-memoria-historica.txt"
+   ],
+   "observacoes": "Página majoritariamente dinâmica (JS): o txt copiado tem pouco conteúdo; usar para dados institucionais e conferir datas históricas em fontes próprias."
+  },
+  {
+   "tipo": "site",
+   "categoria": "historiografia_maconica",
+   "ano": 2026,
+   "acesso": "aberto",
+   "licenca": "todos os direitos reservados (página pública)",
+   "confiabilidade": "C",
+   "periodos": [],
+   "id": "masonicgenealogy-2026-massachusetts",
+   "autores": [
+    "MasonicGenealogy.com"
+   ],
+   "titulo": "MasonicGenealogy.com",
+   "idioma": "en",
+   "url": "https://www.masonicgenealogy.com/",
+   "potencias": [
+    "gl_estaduais_eua"
+   ],
+   "temas": [
+    "historiografia",
+    "personalidades",
+    "potencias"
+   ],
+   "paises": [
+    "us"
+   ],
+   "resumo": "Site de pesquisa maçônica de Massachusetts com histórias de lojas, biografias de grão-mestres, transcrições de procedimentos da Grande Loja e outros textos históricos. Útil para genealogia e história local; conferir originais.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.masonicgenealogy.com/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/masonicgenealogy-2026-massachusetts.html",
+    "txt/masonicgenealogy-2026-massachusetts.txt"
+   ]
   }
  ]
 }
