@@ -12,10 +12,10 @@
 | C03 | 1 | Potências e organizações (mundo e Brasil) | `data/fontes/c03-potencias.json` | `indices/c03.json` | concluída | [C03](sessoes/C03.md) |
 | C04 | 1 | História mundial (Reino Unido, França, EUA, Europa central/norte) e historiografia | `data/fontes/c04-historia-mundo.json` | `indices/c04.json` | concluída | [relatório](sessoes/C04.md) |
 | C05 | 1 | Brasil, Portugal e mundo lusófono | `data/fontes/c05-lusofono.json` | `indices/c05.json` | concluída | [relatório](sessoes/C05.md) — 138 fontes, 107 copiadas, 5 idiomas |
-| C06 | 1 | América hispânica, Espanha, Itália e Caribe | `data/fontes/c06-iberoamerica.json` | `indices/c06.json` | pendente | — |
+| C06 | 1 | América hispânica, Espanha, Itália e Caribe | `data/fontes/c06-iberoamerica.json` | `indices/c06.json` | em andamento | — |
 | C07 | 1 | Princípios, simbolismo, esoterismo, religião (inclui documentos eclesiásticos) e mulheres | `data/fontes/c07-doutrina.json` | `indices/c07.json` | concluída | [C07](sessoes/C07.md) |
-| C08 | 1 | Obras de referência, Wikipédia/Wikidata multilíngue, museus, bibliotecas, periódicos e audiovisual | `data/fontes/c08-referencia.json`, `docs/pesquisa/acervos-e-periodicos.md` | `indices/c08.json` | pendente | — |
-| I01 | 1 | Infraestrutura: site Astro, validadores de verbetes, anti-cópia, CI | `site/`, `.github/`, `scripts/` (exceto `validar_fontes.py`, `acervo_*`), `schemas/verbete.schema.json`, `tests/` | — | pendente | — |
+| C08 | 1 | Obras de referência, Wikipédia/Wikidata multilíngue, museus, bibliotecas, periódicos e audiovisual | `data/fontes/c08-referencia.json`, `docs/pesquisa/acervos-e-periodicos.md` | `indices/c08.json` | em andamento | — |
+| I01 | 1 | Infraestrutura: site Astro, validadores de verbetes, anti-cópia, CI | `site/`, `.github/`, `scripts/` (exceto `validar_fontes.py`, `acervo_*`), `schemas/verbete.schema.json`, `tests/` | — | em andamento | — |
 
 Ondas 2–4: a definir pela orquestradora com base nos relatórios (ver `PLANO.md`).
 
@@ -83,19 +83,22 @@ Ordem de disparo (no máximo 3 sessões simultâneas, por limite de uso): **V05,
 5. Valide com `python3 scripts/validar_fontes.py` e, se já existir (sessão I01), `python3 scripts/validar_verbetes.py` e `python3 scripts/anticopia.py` — 0 erros antes de cada push. Commits a cada 3–5 verbetes.
 6. Meta: 20–40 verbetes bem fontados por sessão (qualidade > quantidade). Relatório com verbetes feitos, pendentes e fontes que faltam.
 
-## Sessões da onda 1 (IDs claude.ai/code)
-| ID | Sessão |
-|---|---|
-| C01 | `session_011fM5cigkddqRnQGmh6CcfR` |
-| C02 | `session_011fM5cj4Bj5nKuAL6cRn9PE` |
-| C03 | `session_011fM5cjAKKGbu4bttUNBBPd` |
-| C04 | `session_011fM5ckbgb8ZriFHDKUgGYG` |
-| C05 | `session_011fM5cnDpjyJhXfF3huBCJS` |
-| C06 | `session_011fM5cinwwrD4QhYxqG2J69` |
-| C07 | `session_011fM5ckBeU4EZtKrUUXX7Bx` |
-| C08 | `session_011fM5ciDEAUpHL3T5LWaVtG` |
-| I01 | `session_011fM5cj3PMZJKToLirjYtNU` |
+## Sessões ativas (registro de IDs claude.ai/code)
+> Atualizada a cada disparo/conclusão pelo ciclo de orquestração (`docs/ORQUESTRADOR.md`). Máximo de 3 `em andamento`.
+
+| ID | Sessão | Status | Desde |
+|---|---|---|---|
+| C01 | `session_011fM5cigkddqRnQGmh6CcfR` | concluída | 2026-11-02 |
+| C02 | `session_011fM5cj4Bj5nKuAL6cRn9PE` | concluída | 2026-11-02 |
+| C03 | `session_011fM5cjAKKGbu4bttUNBBPd` | concluída | 2026-11-02 |
+| C04 | `session_011fM5ckbgb8ZriFHDKUgGYG` | concluída | 2026-11-02 |
+| C05 | `session_011fM5cnDpjyJhXfF3huBCJS` | concluída | 2026-11-02 |
+| C06 | `session_011fM5cinwwrD4QhYxqG2J69` | em andamento | 2026-11-02 (retomada 2026-11-12) |
+| C07 | `session_011fM5ckBeU4EZtKrUUXX7Bx` | concluída | 2026-11-02 |
+| C08 | `session_011fM5ciDEAUpHL3T5LWaVtG` | em andamento | 2026-11-02 (retomada 2026-11-12) |
+| I01 | `session_011fM5cj3PMZJKToLirjYtNU` | em andamento | 2026-11-02 (retomada 2026-11-12) |
 
 ## Registro da orquestradora
 - 2026-11-02 22:27 UTC — as 9 sessões da onda 1 pararam ~2 min após o início: **limite de uso de 5 h da conta** (sem perda no repositório; nada tinha sido empurrado).
 - 2026-11-03 07:16 UTC — retomada **em lotes de 3 sessões simultâneas** para não estourar o limite: lote 1 = C01, C05, C02; lote 2 = C03, C04, C07; lote 3 = C06, C08, I01. Cada lote começa quando o anterior conclui (ou trava).
+- 2026-11-03 19:24 UTC — C06, C08 e I01 pararam de novo pelo limite de uso; os check-ins agendados na sessão orquestradora só foram entregues em 2026-11-12 (sessão ociosa não acorda). **Correção:** ciclo de orquestração sem estado (`docs/ORQUESTRADOR.md`) executado por tarefa agendada recorrente que abre uma sessão nova a cada 2 h.
