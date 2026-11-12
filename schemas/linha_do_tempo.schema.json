@@ -1,36 +1,140 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://github.com/aureliosaraiva/mapa-maconaria/schemas/linha_do_tempo.schema.json",
-  "title": "Linha do tempo (data/linha_do_tempo.json)",
-  "description": "Validado por scripts/validar_linha_do_tempo.py (esquema + fontes no catálogo + verbete existente + ordem/unicidade + taxonomia como aviso).",
+  "title": "Fragmento da linha do tempo (data/linha_do_tempo/<ID-da-sessão>.json)",
+  "description": "Cada sessão grava só o seu fragmento (docs/ORQUESTRACAO.md, sessões de verbetes, item 4). O site e scripts/validar_linha_do_tempo.py leem todos os fragmentos (e o legado data/linha_do_tempo.json, se existir). Evento sem `id` recebe '<arquivo>-<n>'.",
   "type": "object",
-  "required": ["eventos"],
+  "required": [
+    "eventos"
+  ],
   "properties": {
-    "_meta": {"type": "object"},
+    "_meta": {
+      "type": "object"
+    },
     "eventos": {
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["id", "data", "titulo", "resumo", "paises", "fontes"],
+        "required": [
+          "data",
+          "titulo",
+          "fontes"
+        ],
         "properties": {
-          "id": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"},
-          "data": {"type": ["integer", "string"], "pattern": "^-?[0-9]{1,4}(-[0-9]{2}(-[0-9]{2})?)?$", "description": "Ano (inteiro) ou AAAA, AAAA-MM, AAAA-MM-DD."},
-          "data_fim": {"type": ["integer", "string", "null"], "pattern": "^-?[0-9]{1,4}(-[0-9]{2}(-[0-9]{2})?)?$"},
-          "aproximada": {"type": "boolean", "description": "Data aproximada ('c.')."},
-          "titulo": {"type": "string", "minLength": 1},
-          "resumo": {"type": "string", "minLength": 10, "description": "1–2 frases parafraseadas."},
-          "paises": {"type": "array", "minItems": 1, "items": {"type": "string"}},
-          "periodos": {"type": "array", "items": {"type": "string"}},
-          "ritos": {"type": "array", "items": {"type": "string"}},
-          "potencias": {"type": "array", "items": {"type": "string"}},
-          "temas": {"type": "array", "items": {"type": "string"}},
-          "verbete": {"type": ["string", "null"], "description": "id do verbete que trata do evento."},
-          "fontes": {"type": "array", "minItems": 1, "items": {"type": "string"}},
-          "localizacao": {"type": ["string", "null"], "description": "Página/seção nas fontes (ex.: 'p. 45; cap. 3')."},
-          "divergencia": {"type": ["string", "null"], "description": "Quando as fontes discordam da data ou do fato: quem afirma o quê (paráfrase)."}
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "data": {
+            "type": [
+              "integer",
+              "string"
+            ],
+            "pattern": "^-?[0-9]{1,4}(-[0-9]{2}(-[0-9]{2})?)?$",
+            "description": "Ano (inteiro) ou AAAA, AAAA-MM, AAAA-MM-DD."
+          },
+          "data_fim": {
+            "type": [
+              "integer",
+              "string",
+              "null"
+            ],
+            "pattern": "^-?[0-9]{1,4}(-[0-9]{2}(-[0-9]{2})?)?$"
+          },
+          "aproximada": {
+            "type": "boolean",
+            "description": "Data aproximada ('c.')."
+          },
+          "titulo": {
+            "type": "string",
+            "minLength": 1
+          },
+          "resumo": {
+            "type": "string",
+            "minLength": 10,
+            "description": "1–2 frases parafraseadas (opcional)."
+          },
+          "paises": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "periodos": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "ritos": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "potencias": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "temas": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "verbete": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "id do verbete que trata do evento."
+          },
+          "fontes": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string"
+            }
+          },
+          "localizacao": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Página/seção nas fontes (ex.: 'p. 45; cap. 3')."
+          },
+          "divergencia": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Quando as fontes discordam da data ou do fato: quem afirma o quê (paráfrase)."
+          },
+          "precisao": {
+            "enum": [
+              "dia",
+              "mes",
+              "ano",
+              "decada",
+              "seculo"
+            ],
+            "description": "Precisão da data; datas incertas: precisao + nota."
+          },
+          "nota": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Contexto, incerteza ou divergência (paráfrase)."
+          }
         },
         "additionalProperties": false
       }
+    },
+    "sessao": {
+      "type": "string"
     }
   },
   "additionalProperties": false

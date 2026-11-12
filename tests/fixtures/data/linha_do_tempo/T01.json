@@ -1,0 +1,5 @@
+{"eventos": [
+ {"id": "ev-gama", "data": 1723, "titulo": "Documento Gama (fictício)", "resumo": "Data fictícia para testar a linha do tempo.", "paises": ["gb"], "periodos": ["p1717_1750"], "temas": ["documentos_fundadores"], "fontes": ["exemplo-1723-gama"]},
+ {"id": "ev-potencia", "data": "1822-06-17", "titulo": "Fundação da Potência Exemplo", "resumo": "Data fictícia ligada a um verbete de teste.", "paises": ["br"], "periodos": ["p1814_1870"], "temas": ["potencias"], "verbete": "potencia-exemplo", "fontes": ["exemplo-2001-alfa"], "localizacao": "p. 40"},
+ {"id": "ev-questao", "data": 1872, "data_fim": 1875, "aproximada": true, "titulo": "Evento Exemplo", "resumo": "Intervalo fictício com divergência entre fontes.", "paises": ["br"], "temas": ["religiao"], "verbete": "evento-exemplo", "fontes": ["exemplo-2001-alfa", "exemplo-1999-beta"], "divergencia": "Uma fonte fictícia data o início de 1873."}
+]}

@@ -1,0 +1,4 @@
+{"eventos": [
+ {"data": "1720", "precisao": "decada", "titulo": "Década fictícia", "paises": ["fr"], "fontes": ["exemplo-1999-beta"], "nota": "Evento fictício no formato mínimo do ORQUESTRACAO (sem id nem resumo)."},
+ {"data": "1750", "precisao": "seculo", "titulo": "Século fictício", "paises": ["mundo"], "fontes": ["exemplo-1723-gama"]}
+]}

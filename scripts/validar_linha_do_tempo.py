@@ -1,14 +1,18 @@
 #!/usr/bin/env python3
-"""Valida data/linha_do_tempo.json (se existir) contra schemas/linha_do_tempo.schema.json.
+"""Valida a linha do tempo fragmentada: data/linha_do_tempo/<ID>.json (um por sessão) e o
+legado data/linha_do_tempo.json, se existir. Esquema: schemas/linha_do_tempo.schema.json.
 
-- esquema (erro); ids únicos (erro); `data_fim` >= `data` (erro);
+- cada fragmento: JSON válido e conforme o esquema (erro);
+- ids únicos entre todos os fragmentos (erro; evento sem `id` recebe '<arquivo>-<n>');
+- `data` no formato ano / AAAA-MM / AAAA-MM-DD; `data_fim` >= `data` (erro);
+  `precisao` coerente com a data (aviso: 'dia' sem dia, 'mes' sem mês);
 - `fontes` existem no catálogo data/fontes/*.json (erro); `verbete` existe (aviso; erro com --estrito);
 - vocabulários da taxonomia em temas/ritos/potencias/periodos (aviso);
 - lista de alerta de conteúdo ritual (erro/aviso) e citação entre aspas de 15+ palavras (erro);
-- eventos fora de ordem cronológica no arquivo (aviso: o site ordena sozinho).
+- mesmo título e data em fragmentos diferentes (aviso: possível duplicata entre sessões).
 
 Uso: python3 scripts/validar_linha_do_tempo.py [--estrito] [--raiz DIR]
-Sem o arquivo, passa (nada a validar). Sai com código 1 se houver erro.
+Sem fragmentos, passa. Sai com código 1 se houver erro.
 """
 import json
 import re
@@ -42,48 +46,66 @@ def main(argv=None):
     estrito = "--estrito" in args
     erros, avisos = [], []
     ref_erro = erros if estrito else avisos
-    lt = projeto.linha_do_tempo(raiz)
-    if lt is None:
-        print("data/linha_do_tempo.json não existe: nada a validar. OK")
+    arqs = projeto.arquivos_linha_do_tempo(raiz)
+    if not arqs:
+        print("nenhum fragmento em data/linha_do_tempo/: nada a validar. OK")
         return 0
     try:
         import jsonschema
-        esq = json.loads((Path(raiz) / "schemas" / "linha_do_tempo.schema.json").read_text(encoding="utf-8"))
-        for e in jsonschema.Draft202012Validator(esq).iter_errors(lt):
-            erros.append(f"{'/'.join(map(str, e.path)) or '(raiz)'} {e.message}")
+        esq = json.loads((projeto.RAIZ / "schemas" / "linha_do_tempo.schema.json").read_text(encoding="utf-8"))
+        val = jsonschema.Draft202012Validator(esq)
     except ImportError:
-        avisos.append("jsonschema não instalado: checagem de esquema mínima")
+        val = None
+        avisos.append("jsonschema não instalado: checagem de esquema mínima (pip install jsonschema)")
+    for p in arqs:
+        try:
+            d = json.loads(p.read_text(encoding="utf-8"))
+        except Exception as e:
+            erros.append(f"{p.name}: JSON inválido: {e}")
+            continue
+        if val:
+            for e in val.iter_errors(d):
+                erros.append(f"{p.name}: {'/'.join(map(str, e.path)) or '(raiz)'} {e.message}")
+        elif not isinstance(d, dict) or not isinstance(d.get("eventos"), list):
+            erros.append(f"{p.name}: esperado {{\"eventos\": [...]}}")
+    lt = projeto.linha_do_tempo(raiz) or {"eventos": []}
     cat = projeto.fontes_por_id(raiz)
     verb = {v["fm"].get("id") for v in projeto.verbetes(raiz) if v["fm"]}
     V = projeto.vocab(raiz)
     alerta = Alerta()
-    evs = lt.get("eventos", []) if isinstance(lt, dict) else []
-    for i, c in Counter(e.get("id") for e in evs).items():
+    evs = lt["eventos"]
+    for i, c in Counter(e["id"] for e in evs).items():
         if c > 1:
             erros.append(f"id de evento duplicado ({c}x): {i}")
-    anterior = None
+    vistos = {}
     for e in evs:
-        rot = f"evento {e.get('id', '?')}"
+        rot = f"{e['_arquivo']}:{e['id']}"
         try:
             k, kf = chave_data(e.get("data")), chave_data(e.get("data_fim"))
         except (ValueError, TypeError):
-            erros.append(f"{rot}: data inválida")
+            erros.append(f"{rot}: data inválida: {e.get('data')!r}")
             continue
         if kf and k and kf < k:
             erros.append(f"{rot}: data_fim anterior a data")
-        if anterior and k and k < anterior:
-            avisos.append(f"{rot}: fora de ordem cronológica no arquivo")
-        anterior = k or anterior
-        for s in e.get("fontes", []):
+        prec = e.get("precisao")
+        if k and prec == "dia" and not k[2]:
+            avisos.append(f"{rot}: precisao 'dia' mas a data não tem dia")
+        if k and prec == "mes" and not k[1]:
+            avisos.append(f"{rot}: precisao 'mes' mas a data não tem mês")
+        for s in e.get("fontes", []) or []:
             if s not in cat:
                 erros.append(f"{rot}: fonte '{s}' não existe no catálogo")
         if e.get("verbete") and e["verbete"] not in verb:
             ref_erro.append(f"{rot}: verbete '{e['verbete']}' não existe (ainda)")
         for campo in ("temas", "ritos", "potencias", "periodos"):
             for c in e.get(campo) or []:
-                if not projeto.codigo_conhecido(c, V):
+                if isinstance(c, str) and not projeto.codigo_conhecido(c, V):
                     avisos.append(f"{rot}: {campo} '{c}' fora da taxonomia")
-        texto = " ".join(str(e.get(x) or "") for x in ("titulo", "resumo", "divergencia"))
+        chave = (projeto.norm(str(e.get("titulo", ""))), k)
+        if chave in vistos and vistos[chave] != e["_arquivo"]:
+            avisos.append(f"{rot}: mesmo título e data que um evento de {vistos[chave]} (duplicata entre sessões?)")
+        vistos.setdefault(chave, e["_arquivo"])
+        texto = " ".join(str(e.get(x) or "") for x in ("titulo", "resumo", "nota", "divergencia"))
         e_r, a_r = alerta.verificar(texto)
         for t in e_r:
             erros.append(f"{rot}: possível reprodução de conteúdo ritual reservado: “{t}”")
@@ -96,7 +118,7 @@ def main(argv=None):
         print("aviso:", a)
     for x in erros:
         print("ERRO:", x)
-    print(json.dumps({"eventos": len(evs), "erros": len(erros), "avisos": len(avisos)}, ensure_ascii=False))
+    print(json.dumps({"fragmentos": len(arqs), "eventos": len(evs), "erros": len(erros), "avisos": len(avisos)}, ensure_ascii=False))
     return 1 if erros else 0
 
 

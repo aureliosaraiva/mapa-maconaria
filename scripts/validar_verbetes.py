@@ -40,7 +40,7 @@ def validador(raiz, nome):
         import jsonschema
     except ImportError:
         return None
-    esquema = json.loads((Path(raiz) / "schemas" / nome).read_text(encoding="utf-8"))
+    esquema = json.loads((projeto.RAIZ / "schemas" / nome).read_text(encoding="utf-8"))
     return jsonschema.Draft202012Validator(esquema)
 
 

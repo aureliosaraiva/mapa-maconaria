@@ -1,0 +1,3 @@
+Texto integral fictício do livro Alfa. Esta frase longa existe apenas para que o detector
+anti-cópia encontre uma sequência idêntica de muitas palavras quando um teste a copia para
+dentro de um verbete sintético de exemplo.

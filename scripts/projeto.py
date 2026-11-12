@@ -54,7 +54,7 @@ def vocab(raiz=RAIZ):
     """Códigos `entre crases` de docs/taxonomia.md (aproximação, usada só para avisos)."""
     p = Path(raiz) / "docs" / "taxonomia.md"
     if not p.exists():
-        return set()
+        p = RAIZ / "docs" / "taxonomia.md"
     return set(re.findall(r"`([a-z0-9_]+)`", p.read_text(encoding="utf-8")))
 
 
@@ -68,6 +68,18 @@ def separar_front_matter(texto):
     if not m:
         return None, texto
     return m.group(1), texto[m.end():]
+
+
+def _datas_iso(x):
+    """YAML lê 1822-06-17 como date: volta para texto ISO (o esquema aceita ano ou 'AAAA-MM-DD')."""
+    import datetime
+    if isinstance(x, (datetime.date, datetime.datetime)):
+        return x.isoformat()[:10]
+    if isinstance(x, dict):
+        return {k: _datas_iso(v) for k, v in x.items()}
+    if isinstance(x, list):
+        return [_datas_iso(v) for v in x]
+    return x
 
 
 def verbetes(raiz=RAIZ):
@@ -86,7 +98,7 @@ def verbetes(raiz=RAIZ):
             erro = "sem front matter YAML (--- ... ---)"
         else:
             try:
-                fm = yaml.safe_load(y)
+                fm = _datas_iso(yaml.safe_load(y))
                 if not isinstance(fm, dict):
                     erro, fm = "front matter não é um mapa YAML", None
             except Exception as e:
@@ -116,8 +128,36 @@ def fontes_citadas_em(texto, ids_conhecidos=None):
     return achados
 
 
+def arquivos_linha_do_tempo(raiz=RAIZ):
+    """Fragmentos data/linha_do_tempo/*.json (um por sessão) + legado data/linha_do_tempo.json."""
+    base = Path(raiz) / "data"
+    arqs = sorted((base / "linha_do_tempo").glob("*.json")) if (base / "linha_do_tempo").is_dir() else []
+    if (base / "linha_do_tempo.json").is_file():
+        arqs.append(base / "linha_do_tempo.json")
+    return arqs
+
+
+def id_evento(arquivo, i, e):
+    return e.get("id") or f"{norm(Path(arquivo).stem).replace(' ', '-')}-{i + 1}"
+
+
 def linha_do_tempo(raiz=RAIZ):
-    return ler_json(Path(raiz) / "data" / "linha_do_tempo.json")
+    """{"eventos": [...]} juntando todos os fragmentos; cada evento ganha `id` (se faltar) e
+    `_arquivo`. None se não houver nenhum fragmento. Fragmento com JSON inválido é ignorado
+    aqui (o validador acusa)."""
+    arqs = arquivos_linha_do_tempo(raiz)
+    if not arqs:
+        return None
+    evs = []
+    for p in arqs:
+        try:
+            d = json.loads(p.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        for i, e in enumerate(d.get("eventos", []) if isinstance(d, dict) else []):
+            if isinstance(e, dict):
+                evs.append({**e, "id": id_evento(p, i, e), "_arquivo": p.name})
+    return {"eventos": evs}
 
 
 def conexoes(raiz=RAIZ):

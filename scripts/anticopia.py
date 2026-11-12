@@ -81,7 +81,7 @@ def textos_do_projeto(raiz, com_catalogo=True):
             yield f"{rot}:§{i + 1}", citadas + [f for f in fontes if f not in citadas], par
     lt = projeto.linha_do_tempo(raiz) or {}
     for e in lt.get("eventos", []) if isinstance(lt, dict) else []:
-        for campo in ("titulo", "resumo", "divergencia"):
+        for campo in ("titulo", "resumo", "nota", "divergencia"):
             if e.get(campo):
                 yield f"linha_do_tempo/{e.get('id')}.{campo}", e.get("fontes", []), e[campo]
     cx = projeto.conexoes(raiz) or {}

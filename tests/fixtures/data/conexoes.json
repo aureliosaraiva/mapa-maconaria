@@ -1,0 +1,3 @@
+{"conexoes": [
+ {"origem": "potencia-exemplo", "destino": "evento-exemplo", "rel": "envolvida em", "direcionada": true, "fontes": ["exemplo-2001-alfa"], "nota": "Conexão fictícia de teste."}
+]}
