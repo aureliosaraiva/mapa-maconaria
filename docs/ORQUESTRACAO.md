@@ -15,7 +15,7 @@
 | C06 | 1 | América hispânica, Espanha, Itália e Caribe | `data/fontes/c06-iberoamerica.json` | `indices/c06.json` | concluída | [relatório](sessoes/C06.md) |
 | C07 | 1 | Princípios, simbolismo, esoterismo, religião (inclui documentos eclesiásticos) e mulheres | `data/fontes/c07-doutrina.json` | `indices/c07.json` | concluída | [C07](sessoes/C07.md) |
 | C08 | 1 | Obras de referência, Wikipédia/Wikidata multilíngue, museus, bibliotecas, periódicos e audiovisual | `data/fontes/c08-referencia.json`, `docs/pesquisa/acervos-e-periodicos.md` | `indices/c08.json` | em andamento | — |
-| I01 | 1 | Infraestrutura: site Astro, validadores de verbetes, anti-cópia, CI | `site/`, `.github/`, `scripts/` (exceto `validar_fontes.py`, `acervo_*`), `schemas/verbete.schema.json`, `tests/` | — | em andamento | — |
+| I01 | 1 | Infraestrutura: site Astro, validadores de verbetes, anti-cópia, CI | `site/`, `.github/`, `scripts/` (exceto `validar_fontes.py`, `acervo_*`), `schemas/verbete.schema.json`, `tests/` | — | concluída | [I01](sessoes/I01.md) |
 
 Ondas 2–4: a definir pela orquestradora com base nos relatórios (ver `PLANO.md`).
 

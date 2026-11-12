@@ -79,3 +79,8 @@
 - [ ] (P3) `silva-1900-estudios-historicos-simbolicos`: Internet Archive retornou 401 no download — tentar de novo — https://archive.org/details/estudioshistrico1guat
 - [ ] (P3) `caro-1926-misterio-masoneria` não copiado (autor falecido em 1958; protegido no Chile) — decidir se a cópia via Internet Archive é aceitável
 
+## I01
+- [ ] (P1) Ativar o GitHub Pages do mapa-maconaria: Settings → Pages → Source = "GitHub Actions". O workflow `deploy-pages.yml` já valida, testa, compila e faz o QA a cada push na `main`, mas falha no passo de ativação ("Resource not accessible by integration") — só o dono do repositório pode ativar. Depois disso o site sai em https://aureliosaraiva.github.io/mapa-maconaria/ (com `noindex`).
+- [ ] (P2) Resumos do catálogo próximos do texto da fonte: `python3 scripts/anticopia.py --com-catalogo` (com o acervo em ../fontes-maconaria) aponta 108 resumos com sequências de 8 palavras iguais à própria fonte — 94 em `c06-iberoamerica.json` (palavras-chave e trechos de abstract), 8 em c03, 4 em c05, 1 em c02, 1 em c04. Os resumos aparecem nas páginas de fonte do site: reescrever (paráfrase) ou justificar (nome próprio/lista).
+- [ ] (P3) Lista privada de termos rituais (`scripts/config/alerta_ritual.local.json` ou `ALERTA_RITUAL_EXTRA`, de preferência guardada no acervo privado): decidir com revisores o que listar; hoje só os padrões públicos estão ativos.
+- [ ] (P3) Decidir indexação por buscadores (hoje `noindex` em todas as páginas) e domínio próprio (`SITE_BASE`/`SITE_URL`).
