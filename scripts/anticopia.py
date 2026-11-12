@@ -88,6 +88,10 @@ def textos_do_projeto(raiz, com_catalogo=True):
     for i, c in enumerate(cx.get("conexoes", []) if isinstance(cx, dict) else []):
         if c.get("nota"):
             yield f"conexoes[{i}].nota", c.get("fontes", []), c["nota"]
+    glos = projeto.ler_json(Path(raiz) / "data" / "glossario.json") or {}
+    for t in glos.get("termos", []) if isinstance(glos, dict) else []:
+        if isinstance(t, dict) and t.get("definicao"):
+            yield f"glossario/{t.get('id') or t.get('termo')}.definicao", t.get("fontes", []), t["definicao"]
     if com_catalogo:
         for lote, f in projeto.fontes(raiz):
             if f.get("resumo"):

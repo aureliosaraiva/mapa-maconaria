@@ -1,0 +1,29 @@
+---
+import Base from '../layouts/Base.astro';
+import { url, glossario, verbetePorId, fontePorId, citacaoCurta } from '../lib/dados.js';
+const letras = [...new Set(glossario.map((t) => t.termo[0].toUpperCase().normalize('NFKD')[0]))];
+---
+<Base titulo="Glossário" descricao="Termos do vocabulário maçônico, com fontes." indexar>
+  <header class="cabeca-pagina">
+    <p class="sobretitulo">Vocabulário</p>
+    <h1>Glossário</h1>
+    <p class="chamada">{glossario.length ? `${glossario.length} termos, cada um com a fonte da definição.` : 'O glossário está em preparação.'}</p>
+  </header>
+  {glossario.length === 0 ? <p class="vazio">Os termos serão reunidos a partir dos verbetes.</p> : (<>
+    <nav aria-label="Letras" class="etiquetas">{letras.map((l) => <a class="etiqueta" href={`#letra-${l}`}>{l}</a>)}</nav>
+    <dl class="ficha glossario">
+      {glossario.map((t, i) => {
+        const l = t.termo[0].toUpperCase().normalize('NFKD')[0];
+        const primeira = i === 0 || glossario[i - 1].termo[0].toUpperCase().normalize('NFKD')[0] !== l;
+        return (<>
+          <dt id={`termo-${t.id}`}>{primeira && <span id={`letra-${l}`}></span>}{t.verbete && verbetePorId[t.verbete] ? <a href={url(`verbetes/${t.verbete}`)}>{t.termo}</a> : t.termo}</dt>
+          <dd>
+            {t.definicao}
+            {(t.variantes || []).length > 0 && <span class="contagem"> Também: {t.variantes.join(', ')}.</span>}
+            {(t.fontes || []).length > 0 && <span class="contagem"> — {t.fontes.map((s, j) => <>{j > 0 && '; '}{fontePorId[s] ? <a href={url(`fontes/${s}`)}>{citacaoCurta(fontePorId[s])}</a> : s}</>)}</span>}
+          </dd>
+        </>);
+      })}
+    </dl>
+  </>)}
+</Base>

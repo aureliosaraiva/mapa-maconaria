@@ -5,6 +5,7 @@ const lotesMod = import.meta.glob('../../../data/fontes/*.json', { eager: true }
 const verbetesMod = import.meta.glob('../../../data/verbetes/**/*.md', { eager: true });
 const linhaMod = import.meta.glob(['../../../data/linha_do_tempo/*.json', '../../../data/linha_do_tempo.json'], { eager: true });
 const conexoesMod = import.meta.glob('../../../data/conexoes.json', { eager: true });
+const glossarioMod = import.meta.glob('../../../data/glossario.json', { eager: true });
 
 const valor = (m) => (m && m.default !== undefined ? m.default : m);
 
@@ -114,3 +115,11 @@ export function arestasGrafo() {
 export const citadaPor = {};
 for (const v of verbetes) for (const s of v.fontes || []) (citadaPor[s] ||= []).push(v);
 for (const e of eventos) for (const s of e.fontes || []) (citadaPor['__ev__' + s] ||= []).push(e);
+
+// ---------------------------------------------------------------- glossário (sessão V08)
+// Formato esperado: {"termos": [{"id", "termo", "definicao", "fontes": [...], "verbete"?, "variantes"?: [...]}]}
+const glossarioJson = valor(Object.values(glossarioMod)[0]) || { termos: [] };
+export const glossario = (glossarioJson.termos || [])
+  .filter((t) => t && (t.termo || t.id))
+  .map((t) => ({ ...t, id: t.id || slug(t.termo), termo: t.termo || t.id }))
+  .sort((a, b) => a.termo.localeCompare(b.termo, 'pt-BR'));

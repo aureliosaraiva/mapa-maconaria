@@ -165,7 +165,35 @@ def main(argv=None):
             for t in e_r:
                 erros.append(f"{rot}: possível reprodução de conteúdo ritual reservado: “{t}”")
 
-    resumo = {"verbetes": len(vs), "conexoes": n_cx, "por_categoria": {k: n for k, n in stats.items() if not k.startswith("status:")},
+    # glossário (data/glossario.json, sessão V08): fontes no catálogo, verbete existente, ids únicos
+    glos = projeto.ler_json(Path(raiz) / "data" / "glossario.json")
+    n_gl = 0
+    if glos is not None:
+        termos = glos.get("termos", []) if isinstance(glos, dict) else []
+        if not isinstance(glos, dict) or not isinstance(glos.get("termos"), list):
+            erros.append('glossario.json: esperado {"termos": [...]}')
+        for i, c in Counter(t.get("id") or t.get("termo") for t in termos if isinstance(t, dict)).items():
+            if c > 1:
+                erros.append(f"glossario.json: termo duplicado ({c}x): {i}")
+        for t in termos:
+            if not isinstance(t, dict):
+                continue
+            n_gl += 1
+            rot = f"glossario.json:{t.get('id') or t.get('termo')}"
+            if not t.get("termo") or not t.get("definicao"):
+                erros.append(f"{rot}: falta termo ou definicao")
+            if not t.get("fontes"):
+                avisos.append(f"{rot}: sem fontes")
+            for s in t.get("fontes") or []:
+                if s not in cat:
+                    erros.append(f"{rot}: fonte '{s}' não existe no catálogo")
+            if t.get("verbete") and t["verbete"] not in existentes:
+                ref_erro.append(f"{rot}: verbete '{t['verbete']}' não existe (ainda)")
+            e_r, _ = alerta.verificar(f"{t.get('termo', '')} {t.get('definicao', '')}")
+            for x in e_r:
+                erros.append(f"{rot}: possível reprodução de conteúdo ritual reservado: “{x}”")
+
+    resumo = {"verbetes": len(vs), "conexoes": n_cx, "glossario": n_gl, "por_categoria": {k: n for k, n in stats.items() if not k.startswith("status:")},
               "por_status": {k[7:]: n for k, n in stats.items() if k.startswith("status:")},
               "erros": len(erros), "avisos": len(avisos), "termos_privados_carregados": alerta.n_extras}
     if "--json" in args:

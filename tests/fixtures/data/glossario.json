@@ -1,0 +1,4 @@
+{"termos": [
+ {"id": "termo-exemplo", "termo": "Termo Exemplo", "definicao": "Definição fictícia usada nos testes.", "fontes": ["exemplo-2001-alfa"], "verbete": "rito-exemplo", "variantes": ["Termo de Teste"]},
+ {"id": "acacia-exemplo", "termo": "Acácia fictícia", "definicao": "Outra definição fictícia de teste.", "fontes": ["exemplo-1723-gama"]}
+]}

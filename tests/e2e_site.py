@@ -64,6 +64,7 @@ def main():
         confere("grafo/index.html", 'id="dados-grafo"', "envolvida em")
         confere("fontes/exemplo-2001-alfa/index.html", "Citada nos verbetes", "Potência Exemplo", "Citada na linha do tempo")
         confere("index.html", ">3</strong> verbetes")
+        confere("glossario/index.html", "Termo Exemplo", "termo-acacia-exemplo", "/mapa-maconaria/verbetes/rito-exemplo")
         if not (dist / "pagefind" / "pagefind-ui.js").exists():
             falhas.append("índice do Pagefind não gerado")
 
