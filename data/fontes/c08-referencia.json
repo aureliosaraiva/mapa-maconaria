@@ -897,6 +897,157 @@
    "evidencias": [
     "https://es.wikipedia.org/wiki/Masoner%C3%ADa_en_Hispanoam%C3%A9rica"
    ]
+  },
+  {
+   "id": "wikidata-2026-grandes-lojas",
+   "tipo": "dataset",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores do Wikidata"
+   ],
+   "titulo": "Wikidata — Grandes Lojas e Grandes Orientes (classe Grand Lodge, Q1378781, e subclasses)",
+   "ano": 2026,
+   "idioma": "en",
+   "editora": "Wikimedia Foundation",
+   "url": "https://query.wikidata.org/",
+   "identificadores": {
+    "wikidata_classe": "Q1378781"
+   },
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC0 1.0",
+   "resumo": "Exportação SPARQL de 2026-11-03: 147 itens distintos (157 linhas, com colunas de país, datas, local e vínculos). Países mais frequentes: Estados Unidos (27), França (12), Espanha (8), Bélgica (7), Austrália (6), Alemanha (6). Útil como índice para verbetes, grafo e mapa; cada dado deve ser confirmado em fonte primária ou acadêmica.",
+   "observacoes": "Consulta SPARQL: SELECT ?item ?itemLabel ?paisLabel ?fundacao ?sedeLabel ?site ?artigos WHERE { ?item wdt:P31/wdt:P279* wd:Q1378781. OPTIONAL{?item wdt:P17 ?pais} OPTIONAL{?item wdt:P571 ?fundacao} OPTIONAL{?item wdt:P159 ?sede} OPTIONAL{?item wdt:P856 ?site} OPTIONAL{?item wikibase:sitelinks ?artigos} SERVICE wikibase:label { bd:serviceParam wikibase:language \"pt,en,fr,es,it,de\". } }",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "outros/wikidata-2026-grandes-lojas.csv",
+    "outros/wikidata-2026-grandes-lojas.json"
+   ],
+   "evidencias": [
+    "https://query.wikidata.org/"
+   ],
+   "lote": "c08-referencia"
+  },
+  {
+   "id": "wikidata-2026-lojas",
+   "tipo": "dataset",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores do Wikidata"
+   ],
+   "titulo": "Wikidata — Lojas maçônicas (classe Masonic lodge, Q1454597, e subclasses)",
+   "ano": 2026,
+   "idioma": "en",
+   "editora": "Wikimedia Foundation",
+   "url": "https://query.wikidata.org/",
+   "identificadores": {
+    "wikidata_classe": "Q1454597"
+   },
+   "temas": [
+    "potencias",
+    "sociabilidade"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC0 1.0",
+   "resumo": "Exportação SPARQL de 2026-11-03: 597 itens distintos (634 linhas, com colunas de país, datas, local e vínculos). Países mais frequentes: Noruega (82), Países Baixos (79), Bélgica (55), Alemanha (54), França (33), Japão (30). Útil como índice para verbetes, grafo e mapa; cada dado deve ser confirmado em fonte primária ou acadêmica.",
+   "observacoes": "Consulta SPARQL: SELECT ?item ?itemLabel ?paisLabel ?localLabel ?fundacao ?potenciaLabel ?artigos WHERE { ?item wdt:P31/wdt:P279* wd:Q1454597. OPTIONAL{?item wdt:P17 ?pais} OPTIONAL{?item wdt:P131 ?local} OPTIONAL{?item wdt:P571 ?fundacao} OPTIONAL{?item wdt:P749 ?potencia} OPTIONAL{?item wikibase:sitelinks ?artigos} SERVICE wikibase:label { bd:serviceParam wikibase:language \"pt,en,fr,es,it,de\". } }",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "outros/wikidata-2026-lojas.csv",
+    "outros/wikidata-2026-lojas.json"
+   ],
+   "evidencias": [
+    "https://query.wikidata.org/"
+   ],
+   "lote": "c08-referencia"
+  },
+  {
+   "id": "wikidata-2026-templos",
+   "tipo": "dataset",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores do Wikidata"
+   ],
+   "titulo": "Wikidata — Templos e edifícios maçônicos (classe Masonic temple, Q1454583)",
+   "ano": 2026,
+   "idioma": "en",
+   "editora": "Wikimedia Foundation",
+   "url": "https://query.wikidata.org/",
+   "identificadores": {
+    "wikidata_classe": "Q1454583"
+   },
+   "temas": [
+    "arte_cultura",
+    "sociabilidade"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC0 1.0",
+   "resumo": "Exportação SPARQL de 2026-11-03: 311 itens distintos (388 linhas, com colunas de país, datas, local e vínculos). Países mais frequentes: Estados Unidos (255), Reino Unido (67), Austrália (18), Nova Zelândia (14), Canadá (10), Irlanda (7). Útil como índice para verbetes, grafo e mapa; cada dado deve ser confirmado em fonte primária ou acadêmica.",
+   "observacoes": "Consulta SPARQL: SELECT ?item ?itemLabel ?paisLabel ?localLabel ?inicio ?coord ?patrimonioLabel WHERE { ?item wdt:P31/wdt:P279* wd:Q1454583. OPTIONAL{?item wdt:P17 ?pais} OPTIONAL{?item wdt:P131 ?local} OPTIONAL{?item wdt:P571 ?inicio} OPTIONAL{?item wdt:P625 ?coord} OPTIONAL{?item wdt:P1435 ?patrimonio} SERVICE wikibase:label { bd:serviceParam wikibase:language \"pt,en,fr,es,it,de\". } }",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "outros/wikidata-2026-templos.csv",
+    "outros/wikidata-2026-templos.json"
+   ],
+   "evidencias": [
+    "https://query.wikidata.org/"
+   ],
+   "lote": "c08-referencia"
+  },
+  {
+   "id": "wikidata-2026-macons",
+   "tipo": "dataset",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Colaboradores do Wikidata"
+   ],
+   "titulo": "Wikidata — Pessoas declaradas maçons no Wikidata (P463 = Freemasonry Q41726 ou membro de loja maçônica), com a referência da declaração quando existe",
+   "ano": 2026,
+   "idioma": "en",
+   "editora": "Wikimedia Foundation",
+   "url": "https://query.wikidata.org/",
+   "identificadores": {
+    "wikidata_classe": "Q41726"
+   },
+   "temas": [
+    "personalidades"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "CC0 1.0",
+   "resumo": "Exportação SPARQL de 2026-11-12 de pessoas que o Wikidata declara maçons (propriedade 'membro de' = Freemasonry, Q41726, ou = uma loja maçônica): 1995 pessoas distintas (2303 linhas). Só 868 têm alguma referência anexada à declaração (URL ou obra); as demais não servem como prova e exigem fonte documental antes de qualquer uso (CLAUDE.md regra 6). Útil como lista de candidatos para verbetes de personalidades.",
+   "observacoes": "Consulta 1: SELECT ?p ?pLabel ?nasc ?morte ?orgLabel ?ref_url ?ref_obraLabel WHERE { ?p p:P463 ?st. ?st ps:P463 ?org. VALUES ?org {wd:Q41726} OPTIONAL{?p wdt:P569 ?nasc} OPTIONAL{?p wdt:P570 ?morte} OPTIONAL{?st prov:wasDerivedFrom ?r. OPTIONAL{?r pr:P854 ?ref_url} OPTIONAL{?r pr:P248 ?ref_obra}} SERVICE wikibase:label { bd:serviceParam wikibase:language \"pt,en,fr,es,de\". } } | Consulta 2: SELECT ?p ?pLabel ?orgLabel ?ref_url ?ref_obraLabel WHERE { ?org wdt:P31 wd:Q1454597. ?p p:P463 ?st. ?st ps:P463 ?org. OPTIONAL{?st prov:wasDerivedFrom ?r. OPTIONAL{?r pr:P854 ?ref_url} OPTIONAL{?r pr:P248 ?ref_obra}} SERVICE wikibase:label { bd:serviceParam wikibase:language \"pt,en,fr,es,de\". } }",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "outros/wikidata-2026-macons.csv",
+    "outros/wikidata-2026-macons.json"
+   ],
+   "evidencias": [
+    "https://query.wikidata.org/"
+   ],
+   "lote": "c08-referencia"
   }
  ]
 }
