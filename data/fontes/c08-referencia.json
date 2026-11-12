@@ -3209,6 +3209,242 @@
     "https://www.renaissance-traditionnelle.org/"
    ],
    "status_verificacao": "conferido_web"
+  },
+  {
+   "tipo": "audiovisual",
+   "categoria": "audiovisual",
+   "acesso": "comercial",
+   "licenca": "todos os direitos reservados (só metadados)",
+   "confiabilidade": "C",
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "id": "emporium-2017-inside-the-freemasons",
+   "autores": [
+    "Emporium Productions (Emma Read, prod. exec.)"
+   ],
+   "titulo": "Inside the Freemasons",
+   "titulo_traduzido": "Maçonaria: segredos revelados (título na Netflix Brasil)",
+   "ano": 2017,
+   "idioma": "en",
+   "editora": "Sky One",
+   "url": "https://www.tvmaze.com/shows/27006",
+   "potencias": [
+    "ugle"
+   ],
+   "temas": [
+    "sociabilidade",
+    "potencias"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "evidencias": [
+    "https://www.tvmaze.com/shows/27006",
+    "https://worldscreen.com/tvreal/?p=8792",
+    "https://jornalgrandebahia.com.br/2018/09/documentario-maconaria-segredos-revelados-apresenta-bastidores-da-fraternidade-e-busca-desconstruir-falsos-mitos-e-apresentar-a-abrangencia-sociopolitica-e-familiar/"
+   ],
+   "resumo": "Série documental observacional em 5 episódios (Sky One, 17/4–15/5/2017) feita com acesso concedido pela UGLE no seu tricentenário: filma lojas, membros e atividades beneficentes na Inglaterra. Não é obra histórica; documento da autoimagem pública da UGLE. Distribuída depois na Netflix.",
+   "observacoes": "Só metadados (cópia = ficha do TVmaze). Algumas fontes falam em 4 episódios.",
+   "lote": "c08-referencia",
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/emporium-2017-inside-the-freemasons.html",
+    "txt/emporium-2017-inside-the-freemasons.txt"
+   ]
+  },
+  {
+   "tipo": "audiovisual",
+   "categoria": "audiovisual",
+   "acesso": "comercial",
+   "licenca": "todos os direitos reservados (só metadados)",
+   "confiabilidade": "C",
+   "periodos": [
+    "p1919_1945",
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "id": "devillers-2016-memoire-volee-francs-macons",
+   "autores": [
+    "Jean-Pierre Devillers"
+   ],
+   "titulo": "La Mémoire volée des francs-maçons",
+   "ano": 2016,
+   "idioma": "fr",
+   "editora": "France 5",
+   "url": "https://gadlu.info/la-memoire-volee-des-francs-macons-sur-france-5",
+   "potencias": [
+    "godf"
+   ],
+   "temas": [
+    "antimaconaria",
+    "politica",
+    "historiografia"
+   ],
+   "paises": [
+    "fr",
+    "de",
+    "ru"
+   ],
+   "resumo": "Documentário exibido na France 5 em 15/5/2016 sobre os arquivos maçônicos franceses pilhados pelos nazistas, levados depois para Moscou pelos soviéticos e restituídos à França a partir dos anos 2000.",
+   "observacoes": "Só metadados (anúncio no gadlu.info). Duração e produtora a conferir.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://gadlu.info/la-memoire-volee-des-francs-macons-sur-france-5"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/devillers-2016-memoire-volee-francs-macons.html",
+    "txt/devillers-2016-memoire-volee-francs-macons.txt"
+   ]
+  },
+  {
+   "tipo": "audiovisual",
+   "categoria": "audiovisual",
+   "acesso": "comercial",
+   "licenca": "todos os direitos reservados (só metadados)",
+   "confiabilidade": "C",
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "id": "france3-2019-charme-discret-franc-maconnerie",
+   "autores": [
+    "Danielle Coste",
+    "Jean Charruyer"
+   ],
+   "titulo": "Le charme discret de la franc-maçonnerie",
+   "ano": 2019,
+   "idioma": "fr",
+   "editora": "France 3",
+   "url": "https://www.francetvpro.fr/contenu-de-presse/17182",
+   "temas": [
+    "sociabilidade",
+    "potencias"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "resumo": "Documentário de 52 minutos programado na France 3 em 2019 sobre a maçonaria francesa contemporânea (comunicado de imprensa da France Télévisions).",
+   "observacoes": "Só metadados; comunicado da France Télévisions: autores Danielle Coste e Jean Charruyer (também realizador), 52 min.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.francetvpro.fr/contenu-de-presse/17182"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/france3-2019-charme-discret-franc-maconnerie.html",
+    "txt/france3-2019-charme-discret-franc-maconnerie.txt"
+   ]
+  },
+  {
+   "tipo": "audiovisual",
+   "categoria": "audiovisual",
+   "acesso": "comercial",
+   "licenca": "todos os direitos reservados (só metadados)",
+   "confiabilidade": "C",
+   "periodos": [
+    "p1717_1750",
+    "p1990_hoje"
+   ],
+   "id": "rtp-2018-portugal-culto-oculto-maconaria",
+   "autores": [
+    "RTP"
+   ],
+   "titulo": "Portugal: Culto e Oculto — episódio sobre a maçonaria",
+   "ano": 2018,
+   "idioma": "pt",
+   "editora": "RTP2",
+   "url": "https://thetvdb.com/series/portugal-culto-e-oculto/allseasons/official",
+   "potencias": [
+    "gol"
+   ],
+   "temas": [
+    "historiografia",
+    "esoterismo"
+   ],
+   "paises": [
+    "pt"
+   ],
+   "resumo": "Série documental da RTP2 sobre tradições ocultas e esotéricas em Portugal; o episódio de outubro de 2018 trata da gênese e implantação da maçonaria no país.",
+   "observacoes": "Só metadados (TheTVDB); número do episódio e realizador a conferir.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://thetvdb.com/series/portugal-culto-e-oculto/allseasons/official"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/rtp-2018-portugal-culto-oculto-maconaria.html",
+    "txt/rtp-2018-portugal-culto-oculto-maconaria.txt"
+   ]
+  },
+  {
+   "tipo": "audiovisual",
+   "categoria": "audiovisual",
+   "acesso": "aberto",
+   "licenca": "visualização aberta no site do INA",
+   "confiabilidade": "B",
+   "periodos": [],
+   "id": "ina-sudorama-franc-maconnerie-nice",
+   "autores": [
+    "INA — Sudorama (arquivo de televisão regional)"
+   ],
+   "titulo": "La Franc-Maçonnerie mise en cause à Nice",
+   "ano": null,
+   "idioma": "fr",
+   "editora": "Institut national de l'audiovisuel",
+   "url": "https://fresques.ina.fr/sudorama/fiche-media/00000000354/la-franc-maconnerie-mise-en-cause-a-nice.html",
+   "temas": [
+    "politica",
+    "antimaconaria"
+   ],
+   "paises": [
+    "fr"
+   ],
+   "resumo": "Breve reportagem de televisão regional (1 min 47 s) preservada pelo INA na coleção Sudorama, sobre acusações dirigidas à maçonaria em Nice; útil como documento da imprensa audiovisual sobre os casos político-judiciários da Côte d'Azur.",
+   "observacoes": "A ficha indica \"Date de la vidéo: 17 sept. 2019\", que parece data de publicação no portal, não da difusão original; conferir. ano deixado nulo.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://fresques.ina.fr/sudorama/fiche-media/00000000354/la-franc-maconnerie-mise-en-cause-a-nice.html"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/ina-sudorama-franc-maconnerie-nice.html",
+    "txt/ina-sudorama-franc-maconnerie-nice.txt"
+   ]
+  },
+  {
+   "tipo": "acervo",
+   "categoria": "acervo_museu",
+   "acesso": "aberto",
+   "licenca": "catálogo público",
+   "confiabilidade": "C",
+   "periodos": [],
+   "id": "cmcpf-2026-collecties-vrijmetselarijmuseum",
+   "autores": [
+    "Cultureel Maçonniek Centrum \"Prins Frederik\""
+   ],
+   "titulo": "Collecties Vrijmetselarijmuseum — catálogo online (Axiell)",
+   "ano": 2026,
+   "idioma": "nl",
+   "url": "https://collecties.vrijmetselarijmuseum.nl/Details/fullCatalogue/1249",
+   "temas": [
+    "historiografia",
+    "arte_cultura"
+   ],
+   "paises": [
+    "nl"
+   ],
+   "resumo": "Catálogo online das coleções (biblioteca, arquivos e objetos) do museu/centro cultural do Grootoosten der Nederlanden em Haia, que permite pesquisar registros da Bibliotheca Klossiana e de outros fundos. Complementa cmcpf-2026-cultureel-maconniek-centrum.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://collecties.vrijmetselarijmuseum.nl/Details/fullCatalogue/1249"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/cmcpf-2026-collecties-vrijmetselarijmuseum.html",
+    "txt/cmcpf-2026-collecties-vrijmetselarijmuseum.txt"
+   ],
+   "observacoes": "O registro 1249 copiado é a Prestonian Lecture de 1981 (C. N. Batham, sobre os Antients), exemplo da riqueza do catálogo."
   }
  ]
 }
