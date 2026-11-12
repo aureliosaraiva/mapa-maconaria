@@ -9,7 +9,8 @@ Textos verificados (tudo o que o projeto redige e o site publica):
   fontes do front matter e com as citadas nas notas do parágrafo;
 - data/linha_do_tempo.json: título, resumo e divergência de cada evento (fontes do evento);
 - data/conexoes.json: nota de cada conexão;
-- catálogo data/fontes/*.json: `resumo` de cada fonte, comparado com o texto da própria fonte.
+- com --com-catalogo: `resumo` de cada fonte do catálogo data/fontes/*.json (opcional: dados das
+  sessões de coleta; nomes próprios e listas geram falsos positivos — revisão em PENDENCIAS).
 
 Verificações:
 1. Citação entre aspas com ≥ LIMITE_CITACAO palavras -> ERRO; ≥ 6 palavras -> aviso.
@@ -18,10 +19,10 @@ Verificações:
    idêntica a um texto de referência -> ERRO. E cada texto é comparado só com as fontes que
    cita (`<source_id>.txt`): sequência de 6 a N-1 palavras igual -> aviso "redação próxima".
    Cada aviso deve ser reescrito ou justificado (nome próprio, título, lista, termo técnico).
-   Título de obra do catálogo entre aspas não conta como citação.
+   Título de obra do catálogo (entre aspas ou não) não conta como citação nem como cópia.
 3. Sequências formadas sobretudo por números/marcas de página não contam (são referência).
 
-Uso: python3 scripts/anticopia.py [--n 8] [--raiz DIR] [--sem-catalogo]
+Uso: python3 scripts/anticopia.py [--n 8] [--raiz DIR] [--com-catalogo]
      ANTICOPIA_REFS=/pasta/txt python3 scripts/anticopia.py
      ANTICOPIA_REFS= python3 scripts/anticopia.py        (sem referências)
 Sai com código 1 se houver erro.
@@ -62,7 +63,7 @@ def paragrafos(corpo):
     return [p.strip() for p in re.split(r"\n\s*\n", corpo) if p.strip()]
 
 
-def textos_do_projeto(raiz, com_catalogo=True):
+def textos_do_projeto(raiz, com_catalogo=False):
     """(rótulo, [source_ids], texto)."""
     cat = projeto.fontes_por_id(raiz)
     for v in projeto.verbetes(raiz):
@@ -115,7 +116,7 @@ def main(argv=None):
     raiz = Path(args[args.index("--raiz") + 1]) if "--raiz" in args else projeto.RAIZ
     n = int(args[args.index("--n") + 1]) if "--n" in args else 8
     erros, avisos, proximos = [], [], []
-    textos = list(textos_do_projeto(raiz, "--sem-catalogo" not in args))
+    textos = list(textos_do_projeto(raiz, "--com-catalogo" in args))
 
     # título de obra entre aspas/guillemets não é citação de texto (ex.: resumo que nomeia o artigo)
     titulos = "|" + "|".join(" ".join(normalizar(f.get(c) or "")) for _, f in projeto.fontes(raiz)
@@ -134,21 +135,40 @@ def main(argv=None):
     refs_dir = pasta_refs(raiz)
     n_refs = 0
     if refs_dir:
-        indice = defaultdict(set)
-        por_id = {}
-        com_erro = set()
-        for p in sorted(Path(refs_dir).expanduser().rglob("*.txt")):
-            n_refs += 1
-            pal = normalizar(HIFEN.sub(r"\1\2", p.read_text(encoding="utf-8", errors="ignore")))
-            por_id[p.stem] = pal
-            for g in ngramas(pal, n):
-                indice[g].add(p.stem)
+        # índice dos n-gramas do PROJETO (pequeno); o acervo é percorrido arquivo a arquivo,
+        # sem guardar seus n-gramas na memória (o acervo tem milhares de textos)
+        # n-gramas de títulos de obras do catálogo não contam (nomear a obra não é copiá-la)
+        de_titulo = set()
+        for _, f in projeto.fontes(raiz):
+            for c in ("titulo", "titulo_traduzido"):
+                de_titulo |= ngramas(normalizar(f.get(c) or ""), n)
+        proj = defaultdict(set)
         for rot, _, txt in textos:
-            iguais = sorted(g for g in ngramas(normalizar(txt), n) if g in indice and not eh_referencia(g))
-            if iguais:
-                obras = sorted({o for g in iguais for o in indice[g]})
-                com_erro.add(rot)
-                erros.append(f"{rot}: {len(iguais)} sequência(s) de {n} palavras idêntica(s) a {', '.join(obras)} — ex.: “{iguais[0]}”")
+            for g in ngramas(normalizar(txt), n):
+                if not eh_referencia(g) and g not in de_titulo:
+                    proj[g].add(rot)
+        caminhos = {p.stem: p for p in sorted(Path(refs_dir).expanduser().rglob("*.txt"))}
+        n_refs = len(caminhos)
+        achados = defaultdict(lambda: [set(), set()])  # rot -> [gramas, obras]
+
+        def ler_ref(p):
+            return normalizar(HIFEN.sub(r"\1\2", p.read_text(encoding="utf-8", errors="ignore")))
+        for stem, p in caminhos.items():
+            pal = ler_ref(p)
+            for i in range(len(pal) - n + 1):
+                g = " ".join(pal[i:i + n])
+                if g in proj:
+                    for rot in proj[g]:
+                        achados[rot][0].add(g)
+                        achados[rot][1].add(stem)
+        com_erro = set()
+        for rot, (gs, obras) in sorted(achados.items()):
+            com_erro.add(rot)
+            erros.append(f"{rot}: {len(gs)} sequência(s) de {n} palavras idêntica(s) a {', '.join(sorted(obras))} — ex.: “{sorted(gs)[0]}”")
+        por_id = {}
+        citadas = {f for _, fs, _ in textos for f in (fs or []) if f in caminhos}
+        for f in citadas:
+            por_id[f] = ler_ref(caminhos[f])
         cache = {}
         for rot, fontes, txt in textos:
             pal = normalizar(txt)
