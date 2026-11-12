@@ -47,7 +47,7 @@ const evs = eventos.filter((e) => e.verbete === v.id);
     </>)}
     {evs.length > 0 && (<>
       <h2>Na linha do tempo</h2>
-      <ul>{evs.map((e) => <li><a href={url(`linha-do-tempo#ev-${e.id}`)}>{formatarData(e.data, e.aproximada)} — {e.titulo}</a></li>)}</ul>
+      <ul>{evs.map((e) => <li><a href={url(`linha-do-tempo#ev-${e.id}`)}>{formatarData(e.data, e.aproximada, e.precisao)} — {e.titulo}</a></li>)}</ul>
     </>)}
   </article>
 </Base>

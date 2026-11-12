@@ -43,6 +43,6 @@ const linkSeguro = (u: string | null | undefined) => (u && /^https?:\/\//.test(u
   </>)}
   {evs.length > 0 && (<>
     <h2>Citada na linha do tempo</h2>
-    <ul>{evs.map((e) => <li><a href={url(`linha-do-tempo#ev-${e.id}`)}>{formatarData(e.data, e.aproximada)} — {e.titulo}</a></li>)}</ul>
+    <ul>{evs.map((e) => <li><a href={url(`linha-do-tempo#ev-${e.id}`)}>{formatarData(e.data, e.aproximada, e.precisao)} — {e.titulo}</a></li>)}</ul>
   </>)}
 </Base>

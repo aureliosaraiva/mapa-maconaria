@@ -3,7 +3,7 @@
 // com 0 verbetes, sem linha do tempo e sem conexões.
 const lotesMod = import.meta.glob('../../../data/fontes/*.json', { eager: true });
 const verbetesMod = import.meta.glob('../../../data/verbetes/**/*.md', { eager: true });
-const linhaMod = import.meta.glob('../../../data/linha_do_tempo.json', { eager: true });
+const linhaMod = import.meta.glob(['../../../data/linha_do_tempo/*.json', '../../../data/linha_do_tempo.json'], { eager: true });
 const conexoesMod = import.meta.glob('../../../data/conexoes.json', { eager: true });
 
 const valor = (m) => (m && m.default !== undefined ? m.default : m);
@@ -48,9 +48,19 @@ export const verbetes = Object.entries(verbetesMod)
 export const verbetePorId = Object.fromEntries(verbetes.map((v) => [v.id, v]));
 
 // ---------------------------------------------------------------- linha do tempo
-const linhaJson = valor(Object.values(linhaMod)[0]) || { eventos: [] };
+// Fragmentos por sessão (data/linha_do_tempo/<ID>.json) + legado data/linha_do_tempo.json.
+// Evento sem id recebe '<arquivo>-<n>' (o mesmo de scripts/projeto.py: id_evento).
+const slug = (t) => String(t).normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim().replace(/ /g, '-');
+const linhaJson = {
+  eventos: Object.entries(linhaMod).sort(([a], [b]) => a.localeCompare(b)).flatMap(([caminho, m]) => {
+    const d = valor(m) || {};
+    const stem = caminho.split('/').pop().replace(/\.json$/, '');
+    return (Array.isArray(d.eventos) ? d.eventos : []).map((e, i) => ({ ...e, id: e.id || `${slug(stem)}-${i + 1}` }));
+  }),
+};
 export const chaveData = (d) => {
   if (d === null || d === undefined) return [0, 0, 0];
+  if (d instanceof Date) d = d.toISOString().slice(0, 10);
   if (typeof d === 'number') return [d, 0, 0];
   const neg = String(d).startsWith('-');
   const p = String(d).replace(/^-/, '').split('-').map(Number);
@@ -59,10 +69,16 @@ export const chaveData = (d) => {
 };
 const cmpData = (a, b) => { const x = chaveData(a), y = chaveData(b); return x[0] - y[0] || x[1] - y[1] || x[2] - y[2]; };
 export const eventos = [...(linhaJson.eventos || [])].sort((a, b) => cmpData(a.data, b.data) || a.titulo.localeCompare(b.titulo, 'pt-BR'));
-const MESES = ['jan.', 'fev.', 'mar.', 'abr.', 'maio', 'jun.', 'jul.', 'ago.', 'set.', 'out.', 'nov.', 'dez.'];
-export function formatarData(d, aproximada = false) {
+export const MESES = ['jan.', 'fev.', 'mar.', 'abr.', 'maio', 'jun.', 'jul.', 'ago.', 'set.', 'out.', 'nov.', 'dez.'];
+const ROMANOS = ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII', 'XVIII', 'XIX', 'XX', 'XXI'];
+export function formatarData(d, aproximada = false, precisao = undefined) {
   if (d === null || d === undefined || d === '') return '';
   const [a, m, dia] = chaveData(d);
+  if (precisao === 'decada' && a > 0) return `década de ${Math.floor(a / 10) * 10}`;
+  if (precisao === 'seculo' && a > 0) return `século ${ROMANOS[Math.floor((a - 1) / 100) + 1] || Math.floor((a - 1) / 100) + 1}`;
+  if (precisao === 'ano' && a) return (aproximada ? 'c. ' : '') + String(a);
+  if (precisao === 'mes' && a && m) return (aproximada ? 'c. ' : '') + `${MESES[m - 1]} ${a}`;
+  if (!a && !m) return String(d);
   const ano = a < 0 ? `${-a} a.C.` : String(a);
   const s = dia ? `${dia} ${MESES[m - 1]} ${ano}` : m ? `${MESES[m - 1]} ${ano}` : ano;
   return aproximada ? `c. ${s}` : s;

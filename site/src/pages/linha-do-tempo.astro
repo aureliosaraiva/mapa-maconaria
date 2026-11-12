@@ -33,9 +33,10 @@ const temas = [...new Set(eventos.flatMap((e) => e.temas || []))].sort();
         <ol class="linha">
           {evs.map((e) => (
             <li id={`ev-${e.id}`} class="ev" data-paises={(e.paises || []).join(' ')} data-temas={(e.temas || []).join(' ')} data-ano={anoDe(e.data)}>
-              <span class="data">{formatarData(e.data, e.aproximada)}{e.data_fim ? ` – ${formatarData(e.data_fim, e.aproximada)}` : ''}</span>
+              <span class="data">{formatarData(e.data, e.aproximada, e.precisao)}{e.data_fim ? ` – ${formatarData(e.data_fim, e.aproximada, e.precisao)}` : ''}</span>
               <h3>{e.verbete && verbetePorId[e.verbete] ? <a href={url(`verbetes/${e.verbete}`)}>{e.titulo}</a> : e.titulo}</h3>
-              <p>{e.resumo}</p>
+              {e.resumo && <p>{e.resumo}</p>}
+              {e.nota && <p class="contagem">{e.nota}</p>}
               {e.divergencia && <p class="nota-caixa"><strong>Divergência:</strong> {e.divergencia}</p>}
               <Etiquetas item={e} temas={false} />
               <p class="contagem">Fonte{(e.fontes || []).length > 1 ? 's' : ''}: {(e.fontes || []).map((s, i) => <>{i > 0 && '; '}{fontePorId[s] ? <a href={url(`fontes/${s}`)}>{citacaoCurta(fontePorId[s])}</a> : s}</>)}{e.localizacao ? `, ${e.localizacao}` : ''}</p>

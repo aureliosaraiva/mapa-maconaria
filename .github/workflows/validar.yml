@@ -1,0 +1,61 @@
+name: Validar dados e site
+
+# Validadores + testes + build + QA. Na main, o mesmo roda dentro de deploy-pages.yml
+# (que só publica se tudo passar); aqui cobre outros branches, PRs e execução manual.
+on:
+  push:
+    branches-ignore: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Nada do acervo privado neste repositório público
+        run: |
+          n=$(git ls-files 'acervo/pdf/*' 'acervo/txt/*' 'acervo/html/*' '*.pdf' | wc -l)
+          echo "arquivos de acervo/PDF versionados: $n"
+          if [ "$n" -gt 0 ]; then
+            echo "::error title=Acervo no repositório público::Texto integral das fontes fica só no repositório privado fontes-maconaria (CLAUDE.md)."
+            git ls-files 'acervo/pdf/*' 'acervo/txt/*' 'acervo/html/*' '*.pdf' | head -20
+            exit 1
+          fi
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install jsonschema pyyaml
+      - name: Fontes
+        run: python3 scripts/validar_fontes.py | tail -n 5
+      - name: Verbetes e conexões
+        run: python3 scripts/validar_verbetes.py
+      - name: Linha do tempo (fragmentos)
+        run: python3 scripts/validar_linha_do_tempo.py
+      - name: Anti-cópia (sem acervo no CI: citações longas; com acervo, rodar localmente)
+        run: python3 scripts/anticopia.py
+      - name: Testes dos validadores (dados sintéticos)
+        run: python3 -m unittest discover -s tests -v
+
+  site:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - run: npm ci
+        working-directory: site
+      - name: Build (Astro + Pagefind)
+        working-directory: site
+        run: npm run build
+      - name: QA do site
+        run: python3 scripts/qa_site.py
+      - name: Ponta a ponta com dados sintéticos
+        run: python3 tests/e2e_site.py
