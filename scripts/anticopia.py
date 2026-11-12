@@ -18,6 +18,7 @@ Verificações:
    idêntica a um texto de referência -> ERRO. E cada texto é comparado só com as fontes que
    cita (`<source_id>.txt`): sequência de 6 a N-1 palavras igual -> aviso "redação próxima".
    Cada aviso deve ser reescrito ou justificado (nome próprio, título, lista, termo técnico).
+   Título de obra do catálogo entre aspas não conta como citação.
 3. Sequências formadas sobretudo por números/marcas de página não contam (são referência).
 
 Uso: python3 scripts/anticopia.py [--n 8] [--raiz DIR] [--sem-catalogo]
@@ -116,8 +117,14 @@ def main(argv=None):
     erros, avisos, proximos = [], [], []
     textos = list(textos_do_projeto(raiz, "--sem-catalogo" not in args))
 
+    # título de obra entre aspas/guillemets não é citação de texto (ex.: resumo que nomeia o artigo)
+    titulos = "|" + "|".join(" ".join(normalizar(f.get(c) or "")) for _, f in projeto.fontes(raiz)
+                             for c in ("titulo", "titulo_traduzido")) + "|"
     for rot, _, txt in textos:
         for m in ASPAS.finditer(txt):
+            nq = " ".join(normalizar(m.group(1)))
+            if nq and nq in titulos:
+                continue
             k = len(normalizar(m.group(1)))
             if k >= LIMITE_CITACAO:
                 erros.append(f"{rot}: citação entre aspas com {k} palavras (limite {LIMITE_CITACAO - 1}) — parafrasear")

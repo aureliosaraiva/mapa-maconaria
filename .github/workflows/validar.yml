@@ -32,7 +32,7 @@ jobs:
         run: python3 scripts/validar_verbetes.py
       - name: Linha do tempo (fragmentos)
         run: python3 scripts/validar_linha_do_tempo.py
-      - name: Anti-cópia (sem acervo no CI: citações longas; com acervo, rodar localmente)
+      - name: "Anti-cópia (sem acervo no CI, só citações longas; com acervo, rodar localmente)"
         run: python3 scripts/anticopia.py
       - name: Testes dos validadores (dados sintéticos)
         run: python3 -m unittest discover -s tests -v
