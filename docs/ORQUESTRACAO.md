@@ -14,7 +14,7 @@
 | C05 | 1 | Brasil, Portugal e mundo lusófono | `data/fontes/c05-lusofono.json` | `indices/c05.json` | concluída | [relatório](sessoes/C05.md) — 138 fontes, 107 copiadas, 5 idiomas |
 | C06 | 1 | América hispânica, Espanha, Itália e Caribe | `data/fontes/c06-iberoamerica.json` | `indices/c06.json` | concluída | [relatório](sessoes/C06.md) |
 | C07 | 1 | Princípios, simbolismo, esoterismo, religião (inclui documentos eclesiásticos) e mulheres | `data/fontes/c07-doutrina.json` | `indices/c07.json` | concluída | [C07](sessoes/C07.md) |
-| C08 | 1 | Obras de referência, Wikipédia/Wikidata multilíngue, museus, bibliotecas, periódicos e audiovisual | `data/fontes/c08-referencia.json`, `docs/pesquisa/acervos-e-periodicos.md` | `indices/c08.json` | em andamento | — |
+| C08 | 1 | Obras de referência, Wikipédia/Wikidata multilíngue, museus, bibliotecas, periódicos e audiovisual | `data/fontes/c08-referencia.json`, `docs/pesquisa/acervos-e-periodicos.md` | `indices/c08.json` | concluída | [C08](sessoes/C08.md) |
 | I01 | 1 | Infraestrutura: site Astro, validadores de verbetes, anti-cópia, CI | `site/`, `.github/`, `scripts/` (exceto `validar_fontes.py`, `acervo_*`), `schemas/verbete.schema.json`, `tests/` | — | concluída | [I01](sessoes/I01.md) |
 
 Ondas 2–4: a definir pela orquestradora com base nos relatórios (ver `PLANO.md`).
@@ -96,7 +96,7 @@ Ordem de disparo (no máximo 3 sessões simultâneas, por limite de uso): **V05,
 | C05 | `session_011fM5cnDpjyJhXfF3huBCJS` | concluída | 2026-11-02 |
 | C06 | `session_011fM5cinwwrD4QhYxqG2J69` | concluída | 2026-11-02 (retomada 2026-11-12) |
 | C07 | `session_011fM5ckBeU4EZtKrUUXX7Bx` | concluída | 2026-11-02 |
-| C08 | `session_011fM5ciDEAUpHL3T5LWaVtG` | em andamento | 2026-11-02 (retomada 2026-11-12) |
+| C08 | `session_011fM5ciDEAUpHL3T5LWaVtG` | concluída | 2026-11-02 (retomada 2026-11-12) |
 | I01 | `session_011fM5cj3PMZJKToLirjYtNU` | concluída | 2026-11-02 (retomada 2026-11-12) |
 | V05 | `session_011fM5cjXSZuEitx2oa2VnZz` | em andamento | 2026-11-12 |
 | V01 | `session_011fM5cinVfNKUkv4RYhrBZe` | em andamento | 2026-11-12 |

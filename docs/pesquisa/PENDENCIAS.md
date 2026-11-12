@@ -84,3 +84,14 @@
 - [ ] (P2) Resumos do catálogo próximos do texto da fonte: `python3 scripts/anticopia.py --com-catalogo` (com o acervo em ../fontes-maconaria) aponta 108 resumos com sequências de 8 palavras iguais à própria fonte — 94 em `c06-iberoamerica.json` (palavras-chave e trechos de abstract), 8 em c03, 4 em c05, 1 em c02, 1 em c04. Os resumos aparecem nas páginas de fonte do site: reescrever (paráfrase) ou justificar (nome próprio/lista).
 - [ ] (P3) Lista privada de termos rituais (`scripts/config/alerta_ritual.local.json` ou `ALERTA_RITUAL_EXTRA`, de preferência guardada no acervo privado): decidir com revisores o que listar; hoje só os padrões públicos estão ativos.
 - [ ] (P3) Decidir indexação por buscadores (hoje `noindex` em todas as páginas) e domínio próprio (`SITE_BASE`/`SITE_URL`).
+
+## C08
+- [ ] (P2) Masonic Periodicals Online (masonicperiodicals.org) tem verificação anti-robô, então a hemeroteca maçônica britânica fica sem cópia automática. Fazer coleta manual de artigos-chave — `lmf-2026-masonic-periodicals-online`
+- [ ] (P2) Sites que barram robôs (403/Cloudflare): srmml.org, journals.equinoxpub.com (JRFF), renaissance-traditionnelle.org, freemasonrytoday.com, freemasons-freemasonry.com (Pietre-Stones), bph.sourcelibrary.org (Klossiana), britannica.com, mbfm.be. Ficaram só com metadados.
+- [ ] (P2) zeno.org (Meyers 1905, Brockhaus 1911, Pierer 1857, Herder 1854) não respondeu. Faltam enciclopédias gerais alemãs em DP — tentar de novo ou usar o Wikisource de.
+- [ ] (P2) Direitos do *Internationales Freimaurerlexikon* (Lennhoff †1944; data de morte de Oskar Posner não confirmada): só o txt está no acervo privado. Confirmar o DP antes de qualquer uso além da leitura — `lennhoff-1932-internationales-freimaurerlexikon`
+- [ ] (P3) cmcpf.nl (CMC Prins Frederik, Haia) fora do ar em 2026-11-12. O catálogo collecties.vrijmetselarijmuseum.nl funciona.
+- [ ] (P3) Datas e metadados a conferir: ano inicial de JRFF, Heredom, RSCS, Ciência & Maçonaria e Renaissance Traditionnelle; volume de Shaftesley nas *Transactions* da JHSE; ano do texto de Newman; data de difusão da reportagem do INA (Nice); assinatura do verbete "Freemasonry" da Britannica 1911 (Gould?).
+- [ ] (P3) C01 lista Frau Abrines no COLETA como "sem digitalização confiável": o IA tem uma digitalização de exemplar da BNE (republicada por terceiros), já copiada em `frau-abrines-1891-diccionario-enciclopedico`. Conferir o ano da 1ª edição e, se o C01 aceitar, dar baixa no item dele.
+- [ ] (P3) Dataset `wikidata-2026-macons`: só 868 das 1.995 pessoas têm referência na declaração. Nenhuma afirmação "fulano era maçom" deve vir do Wikidata sem fonte documental (regra 6).
+
