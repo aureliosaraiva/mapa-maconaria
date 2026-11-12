@@ -1599,6 +1599,473 @@
    "evidencias": [
     "https://archive.org/details/the-builder-full-collection"
    ]
+  },
+  {
+   "tipo": "verbete",
+   "categoria": "eclesiastica",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público",
+   "id": "gruber-1910-catholic-encyclopedia-masonry",
+   "autores": [
+    "Hermann Gruber"
+   ],
+   "titulo": "Masonry (Freemasonry)",
+   "ano": 1910,
+   "idioma": "en",
+   "periodico": "The Catholic Encyclopedia",
+   "volume": "9",
+   "editora": "Robert Appleton Company",
+   "local": "New York",
+   "url": "https://www.newadvent.org/cathen/09771a.htm",
+   "temas": [
+    "religiao",
+    "antimaconaria",
+    "historiografia",
+    "principios"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "resumo": "Longo verbete do jesuíta Hermann Gruber, maior especialista católico da época, sobre origens, organização, princípios e atuação política da maçonaria, com ampla bibliografia maçônica e a posição da Igreja. Documento importante da visão católica antes do Código de 1917; tom polêmico, mas erudito.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.newadvent.org/cathen/09771a.htm"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/gruber-1910-catholic-encyclopedia-masonry.html",
+    "txt/gruber-1910-catholic-encyclopedia-masonry.txt"
+   ]
+  },
+  {
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público",
+   "id": "gould-1911-britannica-freemasonry",
+   "autores": [
+    "Encyclopædia Britannica (11ª ed.)"
+   ],
+   "titulo": "Freemasonry",
+   "ano": 1911,
+   "idioma": "en",
+   "periodico": "Encyclopædia Britannica (11ª ed.)",
+   "volume": "11",
+   "local": "Cambridge",
+   "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Freemasonry",
+   "temas": [
+    "historiografia",
+    "origens",
+    "potencias"
+   ],
+   "paises": [
+    "gb",
+    "mundo"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "resumo": "Verbete da 11ª edição da Britannica sobre a história da maçonaria (Old Charges, Grande Loja de 1717, Antients e Moderns, difusão mundial e altos graus), na linha da \"escola autêntica\" inglesa. Transcrição no Wikisource.",
+   "observacoes": "Atribuição tradicional a R. F. Gould não confirmada na transcrição (assinatura não encontrada no texto copiado); conferir no fac-símile do vol. 11. id mantido por estabilidade.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Freemasonry"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/gould-1911-britannica-freemasonry.html",
+    "txt/gould-1911-britannica-freemasonry.txt"
+   ]
+  },
+  {
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público",
+   "id": "jewish-encyclopedia-1906-freemasonry",
+   "autores": [
+    "Cyrus Adler"
+   ],
+   "titulo": "Freemasonry",
+   "ano": 1906,
+   "idioma": "en",
+   "periodico": "The Jewish Encyclopedia",
+   "volume": "5",
+   "editora": "Funk & Wagnalls",
+   "local": "New York",
+   "url": "https://jewishencyclopedia.com/articles/6335-freemasonry",
+   "temas": [
+    "religiao",
+    "antimaconaria",
+    "simbolismo"
+   ],
+   "paises": [
+    "us",
+    "fr",
+    "mundo"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870",
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "resumo": "Verbete sobre a maçonaria e os judeus: elementos hebraicos do ritual (Templo de Salomão, termos), participação de judeus em lojas nos EUA (Carolina do Sul) e na França, exclusões em lojas alemãs e a acusação antissemita de domínio judaico sobre a maçonaria.",
+   "observacoes": "Crédito \"By: Cyrus Adler\" na página; bibliografia do verbete cita De la Rive (1895) e Tilloy (1897).",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://jewishencyclopedia.com/articles/6335-freemasonry"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/jewish-encyclopedia-1906-freemasonry.html",
+    "txt/jewish-encyclopedia-1906-freemasonry.txt"
+   ]
+  },
+  {
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados (consulta pública gratuita)",
+   "id": "treccani-1934-massoneria-enciclopedia-italiana",
+   "autores": [
+    "Istituto della Enciclopedia Italiana"
+   ],
+   "titulo": "Massoneria",
+   "ano": 1934,
+   "idioma": "it",
+   "periodico": "Enciclopedia Italiana",
+   "url": "https://www.treccani.it/enciclopedia/massoneria_(Enciclopedia-Italiana)/",
+   "temas": [
+    "historiografia",
+    "politica",
+    "potencias"
+   ],
+   "paises": [
+    "it",
+    "mundo"
+   ],
+   "periodos": [
+    "p1919_1945"
+   ],
+   "confiabilidade": "C",
+   "resumo": "Verbete da Enciclopedia Italiana publicado em pleno regime fascista, poucos anos após a dissolução das lojas (1925): útil como documento da visão oficial italiana da época sobre a maçonaria, além do panorama histórico.",
+   "observacoes": "Autoria individual não identificada na página copiada. A bibliografia final recomenda Lennhoff (1928) e Gould como obras \"serenas\", o que matiza a leitura de texto puramente oficial do regime.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.treccani.it/enciclopedia/massoneria_(Enciclopedia-Italiana)/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/treccani-1934-massoneria-enciclopedia-italiana.html",
+    "txt/treccani-1934-massoneria-enciclopedia-italiana.txt"
+   ]
+  },
+  {
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados (consulta pública gratuita)",
+   "id": "treccani-2011-massoneria-dizionario-storia",
+   "autores": [
+    "Istituto della Enciclopedia Italiana"
+   ],
+   "titulo": "Massoneria",
+   "ano": 2011,
+   "idioma": "it",
+   "periodico": "Dizionario di Storia",
+   "url": "https://www.treccani.it/enciclopedia/massoneria_(Dizionario-di-Storia)/",
+   "temas": [
+    "historiografia",
+    "politica"
+   ],
+   "paises": [
+    "it",
+    "mundo"
+   ],
+   "periodos": [
+    "p1717_1750",
+    "p1990_hoje"
+   ],
+   "confiabilidade": "C",
+   "resumo": "Verbete sintético e atual do Dizionario di Storia da Treccani sobre a maçonaria, com ênfase no caso italiano (Risorgimento, GOI, fascismo, P2).",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.treccani.it/enciclopedia/massoneria_(Dizionario-di-Storia)/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/treccani-2011-massoneria-dizionario-storia.html",
+    "txt/treccani-2011-massoneria-dizionario-storia.txt"
+   ]
+  },
+  {
+   "tipo": "verbete",
+   "categoria": "eclesiastica",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público",
+   "id": "newadvent-1908-catholic-encyclopedia-carbonari",
+   "autores": [
+    "The Catholic Encyclopedia"
+   ],
+   "titulo": "Carbonari",
+   "ano": 1908,
+   "idioma": "en",
+   "periodico": "The Catholic Encyclopedia",
+   "volume": "3",
+   "url": "https://www.newadvent.org/cathen/03330c.htm",
+   "temas": [
+    "politica",
+    "religiao",
+    "esoterismo"
+   ],
+   "paises": [
+    "it",
+    "fr"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "C",
+   "resumo": "Verbete católico sobre a Carbonária, sociedade secreta política de estrutura paramaçônica na Itália e França do início do século XIX, e as condenações papais (Ecclesiam a Jesu Christo, 1821).",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.newadvent.org/cathen/03330c.htm"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/newadvent-1908-catholic-encyclopedia-carbonari.html",
+    "txt/newadvent-1908-catholic-encyclopedia-carbonari.txt"
+   ]
+  },
+  {
+   "tipo": "verbete",
+   "categoria": "eclesiastica",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público",
+   "id": "newadvent-1912-catholic-encyclopedia-rosicrucians",
+   "autores": [
+    "The Catholic Encyclopedia"
+   ],
+   "titulo": "Rosicrucians",
+   "ano": 1912,
+   "idioma": "en",
+   "periodico": "The Catholic Encyclopedia",
+   "volume": "13",
+   "url": "https://www.newadvent.org/cathen/13193b.htm",
+   "temas": [
+    "esoterismo",
+    "origens"
+   ],
+   "paises": [
+    "de",
+    "mundo"
+   ],
+   "periodos": [
+    "p1600_1716",
+    "p1751_1813"
+   ],
+   "confiabilidade": "C",
+   "resumo": "Verbete católico sobre os manifestos rosacruzes do século XVII e as associações posteriores que reivindicaram o nome, incluindo os graus e ordens rosacruzes ligados à maçonaria.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.newadvent.org/cathen/13193b.htm"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/newadvent-1912-catholic-encyclopedia-rosicrucians.html",
+    "txt/newadvent-1912-catholic-encyclopedia-rosicrucians.txt"
+   ]
+  },
+  {
+   "tipo": "artigo",
+   "categoria": "academica",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (JHSE)",
+   "id": "shaftesley-1979-jews-english-freemasonry",
+   "autores": [
+    "John M. Shaftesley"
+   ],
+   "titulo": "Jews in English Regular Freemasonry, 1717–1860",
+   "ano": 1979,
+   "idioma": "en",
+   "periodico": "Transactions of the Jewish Historical Society of England",
+   "url": "https://www.jhse.org/pre-2015articles/jews-in-english-regular-freemasonry%2C-1717-1860",
+   "temas": [
+    "religiao",
+    "sociabilidade",
+    "historiografia"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "periodos": [
+    "p1717_1750",
+    "p1751_1813",
+    "p1814_1870"
+   ],
+   "confiabilidade": "A",
+   "resumo": "Estudo da presença de judeus nas lojas inglesas desde o século XVIII até meados do XIX, com base em registros de lojas e da Grande Loja; mostra a admissão precoce de judeus e debates sobre o caráter cristão do ritual.",
+   "observacoes": "Ano/volume das Transactions a conferir (página de arquivo da JHSE).",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.jhse.org/pre-2015articles/jews-in-english-regular-freemasonry%2C-1717-1860"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/shaftesley-1979-jews-english-freemasonry.html",
+    "txt/shaftesley-1979-jews-english-freemasonry.txt"
+   ]
+  },
+  {
+   "tipo": "artigo",
+   "categoria": "academica",
+   "acesso": "aberto",
+   "licenca": "página pública (JewishGen/JCR-UK)",
+   "id": "newman-1990-jews-english-freemasonry",
+   "autores": [
+    "Aubrey Newman"
+   ],
+   "titulo": "Jews in English Freemasonry",
+   "ano": null,
+   "idioma": "en",
+   "url": "https://jewishgen.org/jcr-uk/Newman_papers/Jews_in_English_Freemasonry.htm",
+   "temas": [
+    "religiao",
+    "sociabilidade"
+   ],
+   "paises": [
+    "gb"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870",
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "resumo": "Texto do historiador Aubrey Newman (Univ. de Leicester) sobre judeus na maçonaria inglesa e lojas de maioria judaica, publicado entre seus papers no JCR-UK.",
+   "observacoes": "Ano de redação não indicado na página; id usa 1990 como aproximação — conferir.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://jewishgen.org/jcr-uk/Newman_papers/Jews_in_English_Freemasonry.htm"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/newman-1990-jews-english-freemasonry.html",
+    "txt/newman-1990-jews-english-freemasonry.txt"
+   ]
+  },
+  {
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados (página pública)",
+   "id": "jvl-2007-freemasons",
+   "autores": [
+    "Encyclopaedia Judaica (2ª ed.) / Jewish Virtual Library"
+   ],
+   "titulo": "Freemasons",
+   "ano": 2007,
+   "idioma": "en",
+   "url": "https://www.jewishvirtuallibrary.org/freemasons",
+   "temas": [
+    "religiao",
+    "antimaconaria"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "periodos": [
+    "p1717_1750",
+    "p1919_1945"
+   ],
+   "confiabilidade": "C",
+   "resumo": "Verbete da Encyclopaedia Judaica reproduzido pela Jewish Virtual Library: judeus na maçonaria (Inglaterra, colônias americanas, Europa) e o mito do \"complô judaico-maçônico\".",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.jewishvirtuallibrary.org/freemasons"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/jvl-2007-freemasons.html",
+    "txt/jvl-2007-freemasons.txt"
+   ]
+  },
+  {
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 3.0",
+   "id": "nwe-2026-freemasonry",
+   "autores": [
+    "New World Encyclopedia"
+   ],
+   "titulo": "Freemasonry",
+   "ano": 2026,
+   "idioma": "en",
+   "url": "https://www.newworldencyclopedia.org/entry/Freemasonry",
+   "temas": [
+    "historiografia",
+    "principios"
+   ],
+   "paises": [
+    "mundo"
+   ],
+   "periodos": [],
+   "confiabilidade": "D",
+   "resumo": "Verbete da New World Encyclopedia, derivado da Wikipédia inglesa com edição própria; redundante com wikipedia-en-2026-freemasonry, catalogado só para registro.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://www.newworldencyclopedia.org/entry/Freemasonry"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/nwe-2026-freemasonry.html",
+    "txt/nwe-2026-freemasonry.txt"
+   ]
+  },
+  {
+   "tipo": "site",
+   "categoria": "divulgacao",
+   "acesso": "aberto",
+   "licenca": "ver página (wiki colaborativo)",
+   "id": "freimaurerwiki-2026-hauptseite",
+   "autores": [
+    "Freimaurer-Wiki"
+   ],
+   "titulo": "Freimaurer-Wiki (portal)",
+   "ano": 2026,
+   "idioma": "de",
+   "url": "https://freimaurer-wiki.de/index.php/Hauptseite",
+   "temas": [
+    "historiografia",
+    "ritos",
+    "potencias",
+    "simbolismo"
+   ],
+   "paises": [
+    "de",
+    "at",
+    "ch",
+    "mundo"
+   ],
+   "periodos": [],
+   "confiabilidade": "C",
+   "resumo": "Wiki maçônico de língua alemã (com seções em inglês) mantido por maçons, com milhares de páginas sobre lojas, potências, ritos, biografias e um léxico; inclui transcrições de obras antigas. Bom índice de temas germânicos; conferir dados em fontes primárias.",
+   "lote": "c08-referencia",
+   "evidencias": [
+    "https://freimaurer-wiki.de/index.php/Hauptseite"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/freimaurerwiki-2026-hauptseite.html",
+    "txt/freimaurerwiki-2026-hauptseite.txt"
+   ]
   }
  ]
 }
