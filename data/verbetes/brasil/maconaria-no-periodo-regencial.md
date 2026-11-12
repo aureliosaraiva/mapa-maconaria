@@ -25,7 +25,7 @@ atualizado: 2026-11-12
 sessao: V05
 ---
 
-Com a abdicação de D. Pedro I, em 7 de abril de 1831, terminou a proibição que pesava sobre as lojas desde 1822–1823. Nas décadas seguintes a maçonaria brasileira viveu, segundo Barata, uma situação de "quase total visibilidade": endereços de lojas conhecidos, políticos que se declaravam maçons, muitos membros em cargos públicos. A visibilidade veio acompanhada de fragmentação institucional, com obediências rivais disputando a representação da maçonaria do país.[^1]
+Com a abdicação do primeiro imperador (7/4/1831), terminou a proibição que pesava sobre as lojas desde 1822–1823. Nas décadas seguintes a maçonaria brasileira viveu, segundo Barata, uma situação de "quase total visibilidade": endereços de lojas conhecidos, políticos que se declaravam maçons, muitos membros em cargos públicos. A visibilidade veio acompanhada de fragmentação institucional, com obediências rivais disputando a representação da maçonaria do país.[^1]
 
 ## Duas obediências rivais
 - **Grande Oriente do Brasil (GOB).** Os remanescentes de 1822 reinstalaram as três lojas fundadoras em outubro de 1831 e o Grande Oriente em 23 de novembro, com José Bonifácio — então tutor do futuro D. Pedro II — de volta ao grão-mestrado. O manifesto da reinstalação, citado por Acioly, prometia banir dos templos as discussões políticas e partidárias e limitar os trabalhos aos fins morais e filantrópicos da ordem.[^2][^3]
