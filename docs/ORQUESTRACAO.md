@@ -70,7 +70,7 @@ Ordem de disparo (no máximo 3 sessões simultâneas, por limite de uso): **V05,
 | V02 | 3 | Verbetes de **potências** (Brasil e mundo) + `conceitos/regularidade-e-reconhecimento` (com fichamento da série COGMNA) | `data/verbetes/potencias/`, `data/verbetes/conceitos/regularidade-e-reconhecimento.md`, `data/linha_do_tempo/V02.json` | pendente | — |
 | V03 | 3 | Verbetes de **documentos** (Old Charges, constituições, exposições, bulas e documentos eclesiásticos, landmarks, Basic Principles) | `data/verbetes/documentos/`, `data/linha_do_tempo/V03.json` | pendente | — |
 | V04 | 3 | Verbetes de **eventos mundiais e antimaçonaria** | `data/verbetes/eventos/`, `data/verbetes/antimaconaria/`, `data/linha_do_tempo/V04.json` | pendente | — |
-| V05 | 3 | Verbetes do **Brasil e mundo lusófono** (eventos, potências não, só história) | `data/verbetes/brasil/`, `data/linha_do_tempo/V05.json` | pendente | — |
+| V05 | 3 | Verbetes do **Brasil e mundo lusófono** (eventos, potências não, só história) | `data/verbetes/brasil/`, `data/linha_do_tempo/V05.json` | em andamento | — |
 | V06 | 3 | Verbetes de **princípios, símbolos e conceitos** (exceto regularidade) | `data/verbetes/principios/`, `data/verbetes/simbolos/`, `data/verbetes/conceitos/` (exceto o da V02), `data/linha_do_tempo/V06.json` | pendente | — |
 | V07 | 3 | Verbetes de **personalidades e lugares** (filiação com fonte documental; lendas marcadas) | `data/verbetes/personalidades/`, `data/verbetes/lugares/`, `data/linha_do_tempo/V07.json` | pendente | — |
 | V08 | 3 | **Integração**: glossário, revisão cruzada de `relacionados` (links quebrados), conexões extras (`data/conexoes.json`), consolidação da linha do tempo, auditoria de sigilo (regra 5) e anti-cópia global | `data/glossario.json`, `data/conexoes.json`, `docs/sessoes/V08.md` (+ correções pontuais avisadas no relatório) | pendente | — |
@@ -93,10 +93,11 @@ Ordem de disparo (no máximo 3 sessões simultâneas, por limite de uso): **V05,
 | C03 | `session_011fM5cjAKKGbu4bttUNBBPd` | concluída | 2026-11-02 |
 | C04 | `session_011fM5ckbgb8ZriFHDKUgGYG` | concluída | 2026-11-02 |
 | C05 | `session_011fM5cnDpjyJhXfF3huBCJS` | concluída | 2026-11-02 |
-| C06 | `session_011fM5cinwwrD4QhYxqG2J69` | em andamento | 2026-11-02 (retomada 2026-11-12) |
+| C06 | `session_011fM5cinwwrD4QhYxqG2J69` | concluída | 2026-11-02 (retomada 2026-11-12) |
 | C07 | `session_011fM5ckBeU4EZtKrUUXX7Bx` | concluída | 2026-11-02 |
 | C08 | `session_011fM5ciDEAUpHL3T5LWaVtG` | em andamento | 2026-11-02 (retomada 2026-11-12) |
 | I01 | `session_011fM5cj3PMZJKToLirjYtNU` | em andamento | 2026-11-02 (retomada 2026-11-12) |
+| V05 | `session_011fM5cjXSZuEitx2oa2VnZz` | em andamento | 2026-11-12 |
 
 ## Registro da orquestradora
 - 2026-11-02 22:27 UTC — as 9 sessões da onda 1 pararam ~2 min após o início: **limite de uso de 5 h da conta** (sem perda no repositório; nada tinha sido empurrado).
