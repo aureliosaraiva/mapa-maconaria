@@ -59,14 +59,15 @@ Baseado no `mapadosorixas` (clone de leitura: `https://github.com/aureliosaraiva
 
 ## Ondas 2 e 3 (definidas em 2026-11-03 pela orquestradora)
 
-Ordem de disparo (no máximo 3 sessões simultâneas, por limite de uso): **V05, V01, V02 → A01, V03, V04 → V06, A02, V07 → A03, V08**. Onda 3 (verbetes) e onda 2 (aprofundamento) intercaladas, para o conteúdo da enciclopédia aparecer cedo.
+Ordem de disparo (no máximo 3 sessões simultâneas, por limite de uso): **V05, V01, V02 → R01, A01, V03, V04 → V06, A02, V07 → A03, V08**. Onda 3 (verbetes) e onda 2 (aprofundamento) intercaladas, para o conteúdo da enciclopédia aparecer cedo.
 
 | ID | Onda | Escopo | Arquivos de que é dona | Status | Relatório |
 |---|---|---|---|---|---|
+| R01 | 2 | **Reescrita dos resumos do catálogo** que reproduzem trechos da própria fonte (108 apontados pela I01 com `scripts/anticopia.py --com-catalogo`; 94 no c06/REHMLAC+, mais os 340 resumos automáticos da REHMLAC+): paráfrase de 2–4 frases a partir do texto no acervo | campo `resumo` em `data/fontes/*.json` (só esse campo; avisar no relatório) | pendente | — |
 | A01 | 2 | Aprofundamento Brasil/lusófono: rituais brasileiros do séc. XIX (Moderno, Adonhiramita, REAA, Rito Brasileiro 1878/1914/1968), Estado Novo, cisões 1927/1973, maçonaria mista/feminina no Brasil, PALOP/Goa, lei portuguesa 1935; nova tentativa em BN Digital, SciELO, BDTD, RCAAP | `data/fontes/a01-lusofono2.json` | pendente | — |
 | A02 | 2 | Lacunas mundo: nazismo, URSS, franquismo, Prince Hall (Delany 1853, Upton 1899), França 1870–1940 (Lausanne 1875, GOdF 1877, caso das fichas 1904), RER/Estrita Observância/Clermont, edições de Old Charges (QCA, Knoop-Jones-Hamer), listas alternativas de landmarks, islã/ortodoxia | `data/fontes/a02-mundo2.json` | pendente | — |
 | A03 | 2 | Periódicos e literatura acadêmica: OpenAlex/Crossref (nova tentativa), JRFF, *Heredom*, AQC aberto, Pietre-Stones, REHMLAC+ completa, *Renaissance Traditionnelle*, *Chroniques d'histoire maçonnique*, teses (theses.fr, ProQuest abertos, EThOS) | `data/fontes/a03-periodicos.json` | pendente | — |
-| V01 | 3 | Verbetes de **ritos, graus e ordens anexas** | `data/verbetes/ritos/`, `data/verbetes/graus/`, `data/verbetes/ordens-anexas/`, `data/linha_do_tempo/V01.json` | pendente | — |
+| V01 | 3 | Verbetes de **ritos, graus e ordens anexas** | `data/verbetes/ritos/`, `data/verbetes/graus/`, `data/verbetes/ordens-anexas/`, `data/linha_do_tempo/V01.json` | em andamento | — |
 | V02 | 3 | Verbetes de **potências** (Brasil e mundo) + `conceitos/regularidade-e-reconhecimento` (com fichamento da série COGMNA) | `data/verbetes/potencias/`, `data/verbetes/conceitos/regularidade-e-reconhecimento.md`, `data/linha_do_tempo/V02.json` | pendente | — |
 | V03 | 3 | Verbetes de **documentos** (Old Charges, constituições, exposições, bulas e documentos eclesiásticos, landmarks, Basic Principles) | `data/verbetes/documentos/`, `data/linha_do_tempo/V03.json` | pendente | — |
 | V04 | 3 | Verbetes de **eventos mundiais e antimaçonaria** | `data/verbetes/eventos/`, `data/verbetes/antimaconaria/`, `data/linha_do_tempo/V04.json` | pendente | — |
@@ -96,8 +97,9 @@ Ordem de disparo (no máximo 3 sessões simultâneas, por limite de uso): **V05,
 | C06 | `session_011fM5cinwwrD4QhYxqG2J69` | concluída | 2026-11-02 (retomada 2026-11-12) |
 | C07 | `session_011fM5ckBeU4EZtKrUUXX7Bx` | concluída | 2026-11-02 |
 | C08 | `session_011fM5ciDEAUpHL3T5LWaVtG` | em andamento | 2026-11-02 (retomada 2026-11-12) |
-| I01 | `session_011fM5cj3PMZJKToLirjYtNU` | em andamento | 2026-11-02 (retomada 2026-11-12) |
+| I01 | `session_011fM5cj3PMZJKToLirjYtNU` | concluída | 2026-11-02 (retomada 2026-11-12) |
 | V05 | `session_011fM5cjXSZuEitx2oa2VnZz` | em andamento | 2026-11-12 |
+| V01 | `session_011fM5cinVfNKUkv4RYhrBZe` | em andamento | 2026-11-12 |
 
 ## Registro da orquestradora
 - 2026-11-02 22:27 UTC — as 9 sessões da onda 1 pararam ~2 min após o início: **limite de uso de 5 h da conta** (sem perda no repositório; nada tinha sido empurrado).
