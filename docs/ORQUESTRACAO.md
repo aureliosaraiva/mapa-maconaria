@@ -68,7 +68,7 @@ Ordem de disparo (no máximo 3 sessões simultâneas, por limite de uso): **V05,
 | A02 | 2 | Lacunas mundo: nazismo, URSS, franquismo, Prince Hall (Delany 1853, Upton 1899), França 1870–1940 (Lausanne 1875, GOdF 1877, caso das fichas 1904), RER/Estrita Observância/Clermont, edições de Old Charges (QCA, Knoop-Jones-Hamer), listas alternativas de landmarks, islã/ortodoxia | `data/fontes/a02-mundo2.json` | pendente | — |
 | A03 | 2 | Periódicos e literatura acadêmica: OpenAlex/Crossref (nova tentativa), JRFF, *Heredom*, AQC aberto, Pietre-Stones, REHMLAC+ completa, *Renaissance Traditionnelle*, *Chroniques d'histoire maçonnique*, teses (theses.fr, ProQuest abertos, EThOS) | `data/fontes/a03-periodicos.json` | pendente | — |
 | V01 | 3 | Verbetes de **ritos, graus e ordens anexas** | `data/verbetes/ritos/`, `data/verbetes/graus/`, `data/verbetes/ordens-anexas/`, `data/linha_do_tempo/V01.json` | em andamento | — |
-| V02 | 3 | Verbetes de **potências** (Brasil e mundo) + `conceitos/regularidade-e-reconhecimento` (com fichamento da série COGMNA) | `data/verbetes/potencias/`, `data/verbetes/conceitos/regularidade-e-reconhecimento.md`, `data/linha_do_tempo/V02.json` | pendente | — |
+| V02 | 3 | Verbetes de **potências** (Brasil e mundo) + `conceitos/regularidade-e-reconhecimento` (com fichamento da série COGMNA) | `data/verbetes/potencias/`, `data/verbetes/conceitos/regularidade-e-reconhecimento.md`, `data/linha_do_tempo/V02.json` | em andamento | — |
 | V03 | 3 | Verbetes de **documentos** (Old Charges, constituições, exposições, bulas e documentos eclesiásticos, landmarks, Basic Principles) | `data/verbetes/documentos/`, `data/linha_do_tempo/V03.json` | pendente | — |
 | V04 | 3 | Verbetes de **eventos mundiais e antimaçonaria** | `data/verbetes/eventos/`, `data/verbetes/antimaconaria/`, `data/linha_do_tempo/V04.json` | pendente | — |
 | V05 | 3 | Verbetes do **Brasil e mundo lusófono** (eventos, potências não, só história) | `data/verbetes/brasil/`, `data/linha_do_tempo/V05.json` | em andamento | — |
@@ -100,6 +100,7 @@ Ordem de disparo (no máximo 3 sessões simultâneas, por limite de uso): **V05,
 | I01 | `session_011fM5cj3PMZJKToLirjYtNU` | concluída | 2026-11-02 (retomada 2026-11-12) |
 | V05 | `session_011fM5cjXSZuEitx2oa2VnZz` | em andamento | 2026-11-12 |
 | V01 | `session_011fM5cinVfNKUkv4RYhrBZe` | em andamento | 2026-11-12 |
+| V02 | `session_011fM5cisYWgkY8m5wJGBkLh` | em andamento | 2026-11-12 |
 
 ## Registro da orquestradora
 - 2026-11-02 22:27 UTC — as 9 sessões da onda 1 pararam ~2 min após o início: **limite de uso de 5 h da conta** (sem perda no repositório; nada tinha sido empurrado).

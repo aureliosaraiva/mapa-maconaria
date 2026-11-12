@@ -34,6 +34,7 @@
 - **França:** `godf`, `glnf`, `gldf`, `glff`, `droit_humain`, `glmf`.
 - **EUA/Canadá:** `gl_estaduais_eua`, `prince_hall`, `sc_sj` (Supremo Conselho Jurisdição Sul), `sc_njn` (Norte).
 - **Ibérica/Latina:** `gol` (Grande Oriente Lusitano), `glrp` (GL Legal de Portugal/GLRP), `gle` (Gran Logia de España), `goe` (Gran Oriente Español, hist.), `goi` (Grande Oriente d'Italia), `gl_argentina`, `gl_chile`, `gl_mexico`/`gl_york_mexico`, `gl_cuba`, demais `gl_<pais>`.
+- **Propostos na onda 1 (incorporados):** `cogmna` (Conference of Grand Masters of North America / Commission on Information for Recognition), `vglvd` (Vereinigte Großlogen von Deutschland), `gobe` (Grand Orient de Belgique), `goaustria` (Grande Oriente da Áustria / GL da Áustria — ver relatório C03), `feminina_pt` (maçonaria feminina em Portugal), `gl_venezuela`, `gl_uruguay`, `gl_pr` (Porto Rico). Padrão livre: `gl_<pais>`, `go_<pais>`.
 - **Internacionais:** `clipsas`, `cmi` (Conferência Mundial de Grandes Lojas), `cimal` (Confederação Interamericana), `sc_mundo` (Supremos Conselhos — conferências).
 - **Paramaçônicas/anexas:** `arco_real`, `marca`, `cryptic`, `templarios_maconicos`, `shriners`, `estrela_oriente`, `demolay`, `arco_iris`, `filhas_jo`, `amaranth`.
 
