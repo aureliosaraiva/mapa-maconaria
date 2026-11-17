@@ -292,6 +292,88 @@
    "fontes": [
     "leao13-1884-humanum-genus"
    ]
+  },
+  {
+   "id": "v03-dall-alto",
+   "data": "1890-10-15",
+   "precisao": "dia",
+   "titulo": "Leão XIII atribui à maçonaria a política anticlerical italiana na encíclica Dall'alto dell'Apostolico Seggio",
+   "verbete": "cartas-de-leao-xiii-a-italia-1890-1892",
+   "paises": [
+    "it",
+    "va"
+   ],
+   "fontes": [
+    "leao13-1890-dall-alto"
+   ]
+  },
+  {
+   "id": "v03-custodi",
+   "data": "1892-12-08",
+   "precisao": "dia",
+   "titulo": "Custodi di quella fede declara cristianismo e maçonaria 'essencialmente inconciliáveis'",
+   "verbete": "cartas-de-leao-xiii-a-italia-1890-1892",
+   "paises": [
+    "it",
+    "va"
+   ],
+   "fontes": [
+    "leao13-1892-custodi-di-quella-fede"
+   ]
+  },
+  {
+   "id": "v03-cic-1917",
+   "data": "1917",
+   "precisao": "ano",
+   "titulo": "Código de Direito Canônico (cân. 2335) fixa a excomunhão de quem se inscreve na 'seita maçônica'",
+   "verbete": "codigo-de-direito-canonico-1917-canone-2335",
+   "paises": [
+    "va"
+   ],
+   "fontes": [
+    "igreja-1917-codex-iuris-canonici"
+   ],
+   "nota": "Promulgado em 1917; em vigor de 1918 a 1983."
+  },
+  {
+   "id": "v03-cdf-1981",
+   "data": "1981-02-17",
+   "precisao": "dia",
+   "titulo": "CDF declara que o cân. 2335 continua em vigor e corrige leituras da carta de 1974",
+   "verbete": "codigo-de-direito-canonico-1917-canone-2335",
+   "paises": [
+    "va"
+   ],
+   "fontes": [
+    "cdf-1981-declaracao-maconaria"
+   ]
+  },
+  {
+   "id": "v03-cdf-1983",
+   "data": "1983-11-26",
+   "precisao": "dia",
+   "titulo": "Declaração da CDF (card. Ratzinger): o juízo negativo sobre a maçonaria permanece apesar do novo Código",
+   "verbete": "declaracao-da-cdf-1983",
+   "paises": [
+    "va"
+   ],
+   "fontes": [
+    "cdf-1983-declaracao-maconaria"
+   ]
+  },
+  {
+   "id": "v03-ddf-2023",
+   "data": "2023-11-13",
+   "precisao": "dia",
+   "titulo": "Nota do DDF aprovada por Francisco reafirma a proibição em resposta a bispo filipino",
+   "verbete": "nota-do-ddf-2023",
+   "paises": [
+    "va",
+    "ph"
+   ],
+   "fontes": [
+    "ddf-2023-nota-cortes-maconaria"
+   ]
   }
  ]
 }
