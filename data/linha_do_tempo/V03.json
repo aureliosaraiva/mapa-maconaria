@@ -1,0 +1,132 @@
+{
+ "_meta": {
+  "descricao": "Fragmento da linha do tempo da sessão V03 (documentos)."
+ },
+ "sessao": "V03",
+ "eventos": [
+  {
+   "id": "v03-regius",
+   "data": "1390",
+   "precisao": "ano",
+   "titulo": "Data tradicional do Manuscrito Regius, o mais antigo dos Old Charges (datação discutida: c. 1390 a 1445)",
+   "verbete": "manuscrito-regius",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "hughan-1872-old-charges",
+    "gould-1884-history-vol1"
+   ],
+   "nota": "Halliwell/Woodford: c. 1390; Bond: meados do séc. XV; Kloss: 1427–1445."
+  },
+  {
+   "id": "v03-cooke",
+   "data": "1400",
+   "precisao": "seculo",
+   "titulo": "Manuscrito Cooke, primeiro Old Charge em prosa (séc. XV; datação discutida)",
+   "verbete": "manuscrito-cooke",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "gould-1884-history-vol1",
+    "hughan-1872-old-charges"
+   ],
+   "nota": "Gould/Bond: início do séc. XV; Hughan: c. 1490."
+  },
+  {
+   "id": "v03-schaw-1598",
+   "data": "1598-12-28",
+   "precisao": "dia",
+   "titulo": "William Schaw promulga em Edimburgo os primeiros Estatutos para os pedreiros da Escócia",
+   "verbete": "estatutos-schaw",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "lyon-1873-lodge-edinburgh"
+   ]
+  },
+  {
+   "id": "v03-schaw-1599",
+   "data": "1599-12-28",
+   "precisao": "dia",
+   "titulo": "Segundos Estatutos Schaw: Edimburgo, Kilwinning e Stirling como primeira, segunda e terceira lojas da Escócia",
+   "verbete": "estatutos-schaw",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "lyon-1873-lodge-edinburgh"
+   ]
+  },
+  {
+   "id": "v03-boswell-1600",
+   "data": "1600-06-08",
+   "precisao": "dia",
+   "titulo": "Ata da Loja de Edimburgo registra John Boswell de Auchinleck, primeiro não-operativo documentado numa loja",
+   "verbete": "estatutos-schaw",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "lyon-1873-lodge-edinburgh"
+   ]
+  },
+  {
+   "id": "v03-plot-1686",
+   "data": "1686",
+   "precisao": "ano",
+   "titulo": "Robert Plot descreve o rolo de pergaminho com a lenda e as leis dos pedreiros de Staffordshire",
+   "verbete": "old-charges",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "hughan-1872-old-charges"
+   ]
+  },
+  {
+   "id": "v03-regulamentos-payne",
+   "data": "1721-06-24",
+   "precisao": "dia",
+   "titulo": "Grande Loja de Londres aprova os Regulamentos Gerais compilados por George Payne",
+   "verbete": "constituicoes-de-anderson-1723",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "anderson-1723-constitutions"
+   ]
+  },
+  {
+   "id": "v03-anderson-1723",
+   "data": "1723",
+   "precisao": "ano",
+   "titulo": "Publicação das Constituições de Anderson, primeiro livro de constituições de uma Grande Loja",
+   "verbete": "constituicoes-de-anderson-1723",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "anderson-1723-constitutions",
+    "prescott-sommers-2017-apple-tree"
+   ]
+  },
+  {
+   "id": "v03-anderson-1738",
+   "data": "1738",
+   "precisao": "ano",
+   "titulo": "Novo Livro das Constituições: primeira narrativa da fundação de 1717 e o maçom como 'verdadeiro noaquita'",
+   "verbete": "constituicoes-de-anderson-1738",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "anderson-1738-new-book-constitutions",
+    "prescott-sommers-2017-apple-tree"
+   ],
+   "nota": "Datado de 1738; anunciado à venda em janeiro de 1739."
+  }
+ ]
+}
