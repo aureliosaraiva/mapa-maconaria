@@ -415,6 +415,86 @@
    "fontes": [
     "freemasonpt-2020-principios-basicos-ugle"
    ]
+  },
+  {
+   "id": "v03-three-knocks",
+   "data": "1760",
+   "precisao": "ano",
+   "titulo": "The Three Distinct Knocks expõe o ritual dos Antients",
+   "verbete": "exposicoes-inglesas-1760-1766",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "vibert-1923-rare-books",
+    "anonimo-1785-three-distinct-knocks"
+   ]
+  },
+  {
+   "id": "v03-jachin-boaz",
+   "data": "1762",
+   "precisao": "ano",
+   "titulo": "Jachin and Boaz, exposição com 26 edições até a União de 1813",
+   "verbete": "exposicoes-inglesas-1760-1766",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "vibert-1923-rare-books",
+    "anonimo-1762-jachin-boaz"
+   ]
+  },
+  {
+   "id": "v03-preston",
+   "data": "1772",
+   "precisao": "ano",
+   "titulo": "William Preston publica Illustrations of Masonry com a sanção do grão-mestre lorde Petre",
+   "verbete": "illustrations-of-masonry-preston",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "preston-1772-illustrations"
+   ]
+  },
+  {
+   "id": "v03-webb",
+   "data": "1797-09-26",
+   "precisao": "dia",
+   "titulo": "Thomas Smith Webb assina o prefácio do Freemason's Monitor (Albany), base do Rito de York americano",
+   "verbete": "freemasons-monitor-webb",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "webb-1797-freemasons-monitor"
+   ]
+  },
+  {
+   "id": "v03-morgan-livro",
+   "data": "1826-08-14",
+   "precisao": "dia",
+   "titulo": "William Morgan registra os direitos de Illustrations of Masonry, exposição publicada em Batavia",
+   "verbete": "exposicoes-americanas-1826-1866",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "morgan-1826-illustrations"
+   ]
+  },
+  {
+   "id": "v03-duncan",
+   "data": "1866",
+   "precisao": "ano",
+   "titulo": "Duncan's Masonic Ritual and Monitor, guia do Rito de York publicado em Nova York",
+   "verbete": "exposicoes-americanas-1826-1866",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "duncan-1866-masonic-ritual"
+   ]
   }
  ]
 }

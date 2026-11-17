@@ -18,8 +18,7 @@ relacionados:
   - {id: aprendiz, rel: descreve}
   - {id: companheiro, rel: descreve}
   - {id: mestre, rel: primeira-descricao-impressa}
-  - {id: three-distinct-knocks, rel: sucessor}
-  - {id: jachin-and-boaz, rel: sucessor}
+  - {id: exposicoes-inglesas-1760-1766, rel: sucessor}
   - {id: exposicoes-francesas-1737-1751, rel: contemporaneo}
   - {id: old-charges, rel: resume-a-lenda-de}
 fontes: [prichard-1730-masonry-dissected, vibert-1923-rare-books, krause-1820-kunsturkunden, anonimo-1738-masonry-farther-dissected]
@@ -45,7 +44,7 @@ sessao: V03
 - **Três graus.** O catecismo de Prichard é a mais antiga descrição impressa de um sistema completo em três graus, com o grau de mestre e a lenda hirâmica — uma referência indispensável para datar a formação do ritual especulativo inglês.[^7]
 - **Difusão.** Vibert contou 21 edições até 1787, além de reimpressões em jornais e de uma versão de 1737 com outro título (*The Secrets of Masonry*, "revelados a todos"); a edição de 1738 da tradução de uma exposição francesa, *Masonry Farther Dissected*, usou o título para vender, embora o conteúdo nada tivesse a ver com Prichard.[^8]
 - **Uso pelas próprias lojas.** O texto acabou servindo de auxílio de memória a maçons; na Alemanha, o filósofo K. C. F. Krause o publicou como um dos "três documentos mais antigos" da maçonaria (1810/1820), ao lado da suposta constituição de York e do interrogatório atribuído a Henrique VI.[^9]
-- **Reação.** Atribui-se a exposições como esta a introdução de precauções de reconhecimento nas lojas e, a longo prazo, a disputa entre *Moderns* e *Antients* sobre "inovações" — tema dos verbetes [[ahiman-rezon]] e [[three-distinct-knocks]].
+- **Reação.** Atribui-se a exposições como esta a introdução de precauções de reconhecimento nas lojas e, a longo prazo, a disputa entre *Moderns* e *Antients* sobre "inovações" — tema dos verbetes [[ahiman-rezon]] e [[exposicoes-inglesas-1760-1766]].
 
 ## Notas
 [^1]: prichard-1730-masonry-dissected, folha de rosto; vibert-1923-rare-books, p. 24–25.
@@ -59,4 +58,4 @@ sessao: V03
 [^9]: krause-1820-kunsturkunden, sumário do vol. I.
 
 ## Ver também
-[[mestre]] · [[three-distinct-knocks]] · [[jachin-and-boaz]] · [[exposicoes-francesas-1737-1751]]
+[[mestre]] · [[exposicoes-inglesas-1760-1766]] · [[exposicoes-francesas-1737-1751]]

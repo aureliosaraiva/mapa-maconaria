@@ -21,7 +21,7 @@ relacionados:
   - {id: rito-de-adocao, rel: documenta-precursores}
   - {id: in-eminenti-apostolatus-specula, rel: contexto}
   - {id: regulateur-du-macon, rel: posterior}
-fontes: [perau-1745-ordre-trahi, larudan-1774-francs-macons-ecrases, anonimo-1751-macon-demasque, anonimo-1738-masonry-farther-dissected, vibert-1923-rare-books]
+fontes: [mackey-1874-encyclopaedia, perau-1745-ordre-trahi, larudan-1774-francs-macons-ecrases, anonimo-1751-macon-demasque, anonimo-1738-masonry-farther-dissected, vibert-1923-rare-books]
 status: rascunho
 sensivel: true
 atualizado: 2026-11-17
@@ -36,8 +36,8 @@ Depois que a maçonaria chegou à França (década de 1720), sua rápida moda en
 | Ano | Título | Observações |
 |---|---|---|
 | fim da déc. de 1730 | Exposição publicada em Paris com permissão do tenente-geral de polícia (M. Hérault) | Traduzida em Londres em 1738 como *Masonry Farther Dissected*, com 133 notas do tradutor; apesar do título, nada tem a ver com Prichard (Vibert).[^1] |
-| 1742 | *Le Secret des Francs-Maçons* | Atribuído ao abade Gabriel-Louis Pérau; reaproveitado em 1745.[^2] |
-| déc. de 1740 | *Catéchisme des Francs-Maçons* | Traz a recepção de mestre e a história de "Hiram ou Adoniram"; reaproveitado em 1745.[^2] |
+| 1742 | *Le Secret des Francs-Maçons* | Atribuído ao abade Gabriel-Louis Pérau (Mackey: Genebra, 1742); reaproveitado em 1745.[^2][^5] |
+| 1745 (Mackey) | *Catéchisme des Francs-Maçons* | Atribuído por Mackey a "Léonard Gabanon", pseudônimo de Louis Travenol (Paris, 1745, com várias edições de títulos diferentes); traz a recepção de mestre e a história de "Hiram ou Adoniram"; aproveitado em *L'Ordre trahi*.[^2][^5] |
 | 1745 | *L'Ordre des Francs-Maçons trahi, et le Secret des Mopses révélé* | Ver abaixo.[^2] |
 | 1747 (reed. 1774) | *Les Francs-Maçons écrasés* | "Continuação" atribuída ao abade Larudan.[^3] |
 | 1751 | *Le Maçon démasqué, ou le vrai secret des Francs-Maçons* | Impresso com o endereço "Londres, chez Owen, Temple Bar".[^4] |
@@ -61,6 +61,7 @@ Dirigido a todos os veneráveis, mestres, companheiros e aprendizes, o autor se 
 [^2]: perau-1745-ordre-trahi, "Préface nécessaire" (p. i–vii) e corpo do livro.
 [^3]: larudan-1774-francs-macons-ecrases, "Préface nécessaire" (p. v–vi) e passagens sobre Cromwell.
 [^4]: anonimo-1751-macon-demasque, folha de rosto e dedicatória (p. 3–4).
+[^5]: mackey-1874-encyclopaedia, lista de exposições ("rituals"), n.º 7–9.
 
 ## Ver também
 [[masonry-dissected-1730]] · [[rito-frances-moderno]] · [[rito-de-adocao]] · [[regulateur-du-macon]]
