@@ -2,7 +2,7 @@
 
 > Arquivo de passagem entre sessões. Toda sessão começa lendo este arquivo. **Só a orquestradora reescreve**; trabalhadoras atualizam só a própria linha no `ORQUESTRACAO.md`.
 
-**Última atualização:** 2026-11-12 15:45 UTC — **onda 1 concluída (9/9)**: catálogo, acervo, site e validadores prontos. Onda 3 começou: V05 (Brasil), V01 (ritos e graus) e V02 (potências) em andamento; próximas na fila: R01, A01, V03, V04... Ciclo automático de orquestração a cada 2 h (`docs/ORQUESTRADOR.md`, tarefa `trig_01GCxpR6cpf9U6edRjwvWgzu`).
+**Última atualização:** 2026-11-17 — V05, V01, V02 estavam paradas desde 12/11 (limite de uso) e foram retomadas. A tarefa agendada de ciclos (`trig_01GCxpR6cpf9U6edRjwvWgzu`) foi **desativada**: suas sessões não têm ferramentas de sessão nem push. Novo modelo: **encadeamento** — cada trabalhadora, ao concluir, socorre colegas paradas e dispara a próxima da fila (`docs/ORQUESTRADOR.md`). Verbetes: 27 (brasil 18, ritos 9).
 
 ## Onde estamos
 **Onda 1 — coleta ampla + infraestrutura: concluída** (relatórios em `docs/sessoes/C01–C08.md`, `I01.md`). **Onda 3 — verbetes: em andamento.** Ver [`ORQUESTRACAO.md`](ORQUESTRACAO.md).
@@ -11,7 +11,7 @@
 |---|---:|---|
 | Fontes no catálogo | 1120 (8 lotes; en 358, es 332, pt 189, fr 109, de 56, it 45, ru 8, nl 6...) | `python3 scripts/validar_fontes.py` |
 | Cópias no acervo | 999 textos (+ datasets Wikidata em `outros/`) | `find ../fontes-maconaria/txt -type f \| wc -l` |
-| Verbetes | 0 | `find data/verbetes -name '*.md' \| wc -l` |
+| Verbetes | 27 (brasil 18, ritos 9) | `find data/verbetes -name '*.md' \| wc -l` |
 
 ## Ação do autor pendente
 - **Ativar o GitHub Pages** do `mapa-maconaria`: Settings → Pages → Source: GitHub Actions (o workflow de deploy já existe).

@@ -1,5 +1,16 @@
 # Roteiro do ciclo de orquestração
 
+> **Atualização 2026-11-17 — modelo de ENCADEAMENTO.** A tarefa agendada de ciclos foi desativada: as sessões que ela abre não recebem as ferramentas de sessão (`create_session`, `send_message`, `get_session`) nem credencial de push. Quem tem essas ferramentas são as **sessões trabalhadoras** e a orquestradora original. Por isso, **cada trabalhadora, ao concluir, executa ela mesma os passos 1 e 2 abaixo** (seção "Encadeamento").
+
+## Encadeamento (obrigatório para toda trabalhadora, logo antes do push final `[orq:<ID> concluída]`)
+1. `git pull --rebase origin main` e ler a tabela **Sessões ativas** e a **ordem de disparo** em `docs/ORQUESTRACAO.md`.
+2. **Socorro às colegas:** para cada outra linha `em andamento`, `get_session(<session_id>)`; se estiver parada (status FAILED/IDLE e sem `[orq:<ID> concluída]` no `git log`), veja o último `result` com `list_events(kinds=["result"])`: se for limite de uso cujo horário de renovação já passou, ou outro erro, retome com `send_message` ("limite renovado — retome a <ID>: `git pull --rebase origin main`, empurre o que estiver pronto, siga até o fechamento; ao concluir, faça o Encadeamento do docs/ORQUESTRADOR.md").
+3. **Disparo da próxima:** marque sua linha como `concluída`. Se houver menos de 3 `em andamento`, pegue a **primeira ID `pendente`** na ordem de disparo, mude o status dela para `em andamento` **e faça commit + push desse registro ANTES de criar a sessão** (se o push falhar por corrida, `pull --rebase`, releia: outra sessão pode ter pego a mesma ID — então pegue a seguinte). Depois `create_session(source_url="https://github.com/aureliosaraiva/mapa-maconaria", source_revision="main", outcome_branch="main", title="Maçonaria <ID> — <escopo curto>", tags=["mapa-maconaria","onda-<n>"], prompt=<modelo abaixo>)` e registre o `session_id` na tabela (commit + push). Repita até haver 3 `em andamento` ou acabar a fila.
+4. Push final `[orq:<SUA-ID> concluída] ...`.
+Se não houver mais IDs pendentes e todas estiverem concluídas, registre em `docs/ESTADO.md` ("ondas 2 e 3 concluídas; aguardando a orquestradora definir a onda 4").
+
+---
+
 > Executado por uma **sessão nova a cada ciclo** (tarefa agendada recorrente) e também pela sessão orquestradora original. Cada ciclo é **curto e sem estado**: tudo o que precisa saber está em `docs/ORQUESTRACAO.md`. Responder e registrar em português do Brasil. Não criar PR; commit/push direto na `main`.
 
 ## 0. Preparar
@@ -27,7 +38,7 @@ Você é a sessão trabalhadora **<ID>** do projeto Enciclopédia da Maçonaria.
 1. No repositório mapa-maconaria (já clonado): `git fetch origin main && git checkout main && git pull --rebase origin main`. Todo commit e push vai direto na `main` (decisão do autor), com `git pull --rebase origin main` antes de cada push. Leia CLAUDE.md, docs/ESTADO.md, docs/taxonomia.md, docs/verbetes-guia.md e, em docs/ORQUESTRACAO.md, as instruções comuns da sua onda e a linha **<ID>** (escopo e arquivos que só você edita).
 2. Anexe o acervo privado: `add_repo` owner aureliosaraiva, repo fontes-maconaria, access push; depois `scripts/acervo_sync.sh pull`. Leia os textos em ../fontes-maconaria/txt/<source_id>.txt antes de afirmar.
 3. Execute o escopo com profundidade. Commits + push frequentes (a cada 3–5 verbetes ou ~15 fontes): o limite de uso pode cortar a sessão a qualquer momento e o que não foi empurrado se perde. Mensagens `[<ID>] ...`.
-4. Feche conforme o CLAUDE.md: validadores com 0 erros; relatório docs/sessoes/<ID>.md; sua linha no docs/ORQUESTRACAO.md como `concluída` com link; bloqueios no PENDENCIAS (## <ID>); `scripts/acervo_sync.sh push`; push final com mensagem `[orq:<ID> concluída] <resumo>`.
+4. Feche conforme o CLAUDE.md: validadores com 0 erros; relatório docs/sessoes/<ID>.md; sua linha no docs/ORQUESTRACAO.md como `concluída` com link; bloqueios no PENDENCIAS (## <ID>); `scripts/acervo_sync.sh push`; depois execute a seção **Encadeamento** de docs/ORQUESTRADOR.md (socorrer colegas paradas e disparar a próxima sessão da fila); push final com mensagem `[orq:<ID> concluída] <resumo>`.
 Não crie pull request. Não edite arquivos de outras sessões.
 ```
 
