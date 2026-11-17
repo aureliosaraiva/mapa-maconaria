@@ -1,0 +1,138 @@
+{
+ "_meta": {
+  "descricao": "Fragmento da linha do tempo da sessão V04 (eventos mundiais e antimaçonaria)."
+ },
+ "sessao": "V04",
+ "eventos": [
+  {
+   "id": "v04-gl-londres-1717",
+   "data": "1717-06-24",
+   "precisao": "dia",
+   "titulo": "Data tradicional da fundação da Grande Loja de Londres (relato de Anderson, 1738)",
+   "verbete": "fundacao-da-grande-loja-de-londres",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "anderson-1738-new-book-constitutions",
+    "prescott-sommers-2017-apple-tree"
+   ],
+   "nota": "Data contestada; ver evento de 1721."
+  },
+  {
+   "id": "v04-gl-londres-1721",
+   "data": "1721-06-24",
+   "precisao": "dia",
+   "titulo": "Eleição do duque de Montagu como grão-mestre no Stationers' Hall — fundação efetiva da grande loja segundo Prescott e Sommers",
+   "verbete": "fundacao-da-grande-loja-de-londres",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "prescott-sommers-2017-apple-tree"
+   ],
+   "nota": "Primeira notícia de imprensa sobre a grande loja (Post Boy, junho de 1721)."
+  },
+  {
+   "id": "v04-antients-1751",
+   "data": "1751",
+   "precisao": "ano",
+   "titulo": "Formação em Londres da grande loja rival dos Antients",
+   "verbete": "cisma-dos-antients-e-moderns",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "gould-1903-concise-history",
+    "ugle-2026-history"
+   ],
+   "nota": "Grão-mestre só em 1753; Dermott grande secretário em 1752."
+  },
+  {
+   "id": "v04-iluminados-1776",
+   "data": "1776-05-01",
+   "precisao": "dia",
+   "titulo": "Adam Weishaupt funda em Ingolstadt a ordem dos Iluminados (Perfectibilistas)",
+   "verbete": "iluminados-da-baviera",
+   "paises": [
+    "de"
+   ],
+   "fontes": [
+    "leforestier-1914-illumines-baviere"
+   ],
+   "nota": "Cinco membros fundadores."
+  },
+  {
+   "id": "v04-wilhelmsbad-1782",
+   "data": "1782-08-29",
+   "precisao": "dia",
+   "titulo": "Encerramento do Convento de Wilhelmsbad: a Estrita Observância renuncia à filiação templária e adota a reforma lionesa",
+   "verbete": "convento-de-wilhelmsbad",
+   "paises": [
+    "de"
+   ],
+   "fontes": [
+    "leforestier-1914-illumines-baviere"
+   ],
+   "nota": "Abertura em julho de 1782."
+  },
+  {
+   "id": "v04-baviera-edito-1784",
+   "data": "1784-06-22",
+   "precisao": "dia",
+   "titulo": "Primeiro edito do eleitor da Baviera contra sociedades secretas não autorizadas",
+   "verbete": "iluminados-da-baviera",
+   "paises": [
+    "de"
+   ],
+   "fontes": [
+    "leforestier-1914-illumines-baviere"
+   ],
+   "nota": "Segundo edito, contra maçons e Iluminados, em 2/3/1785."
+  },
+  {
+   "id": "v04-baviera-edito-1785",
+   "data": "1785-03-02",
+   "precisao": "dia",
+   "titulo": "Segundo edito bávaro, que proíbe expressamente maçons e Iluminados",
+   "verbete": "iluminados-da-baviera",
+   "paises": [
+    "de"
+   ],
+   "fontes": [
+    "leforestier-1914-illumines-baviere"
+   ],
+   "nota": ""
+  },
+  {
+   "id": "v04-originalschriften-1787",
+   "data": "1787",
+   "precisao": "ano",
+   "titulo": "O governo bávaro publica os papéis apreendidos dos Iluminados (Einige Originalschriften e Nachtrag)",
+   "verbete": "iluminados-da-baviera",
+   "paises": [
+    "de"
+   ],
+   "fontes": [
+    "baviera-1787-einige-originalschriften",
+    "baviera-1787-nachtrag-originalschriften"
+   ],
+   "nota": ""
+  },
+  {
+   "id": "v04-uniao-1813",
+   "data": "1813-12-27",
+   "precisao": "dia",
+   "titulo": "União das grandes lojas dos Antients e dos Moderns e criação da Grande Loja Unida da Inglaterra",
+   "verbete": "uniao-de-1813",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "hughan-1913-memorials-union",
+    "gould-1903-concise-history"
+   ],
+   "nota": "Artigos de União assinados em 25/11/1813."
+  }
+ ]
+}
