@@ -1,0 +1,497 @@
+{
+ "_meta": {
+  "descricao": "Fragmento da linha do tempo da sessão V05 (Brasil e mundo lusófono)."
+ },
+ "sessao": "V05",
+ "eventos": [
+  {
+   "id": "v05-edital-1738",
+   "data": "1738-09-28",
+   "precisao": "dia",
+   "titulo": "Inquisidor-geral manda publicar em Portugal a bula In eminenti contra os pedreiros-livres",
+   "verbete": "inquisicao-portuguesa-e-maconaria",
+   "paises": [
+    "pt",
+    "br"
+   ],
+   "fontes": [
+    "cunha-1738-provisao-inquisidor"
+   ]
+  },
+  {
+   "id": "v05-coustos-auto-1744",
+   "data": "1744-06-21",
+   "precisao": "dia",
+   "titulo": "Auto da fé em Lisboa condena o maçom John Coustos a quatro anos de galés",
+   "verbete": "inquisicao-portuguesa-e-maconaria",
+   "paises": [
+    "pt"
+   ],
+   "fontes": [
+    "coustos-1803-procedures-curieuses"
+   ]
+  },
+  {
+   "id": "v05-itambe-1796",
+   "data": 1796,
+   "precisao": "ano",
+   "titulo": "Fundação atribuída do Areópago de Itambé por Manuel de Arruda Câmara",
+   "verbete": "areopago-de-itambe",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "braga-2013-republica-jacobinismo-pernambuco",
+    "carvalho-2010-pequena-historia"
+   ],
+   "aproximada": true,
+   "localizacao": "p. 113–114; p. 34",
+   "divergencia": "Uma fonte fala em reuniões desde 1794; a natureza maçônica da associação é disputada."
+  },
+  {
+   "id": "v05-cavaleiros-luz-1797",
+   "data": 1797,
+   "precisao": "ano",
+   "titulo": "Loja Cavaleiros da Luz, a bordo da fragata La Preneuse, na Bahia (primeira referência conhecida)",
+   "verbete": "primeiras-lojas-no-brasil",
+   "paises": [
+    "br",
+    "fr"
+   ],
+   "fontes": [
+    "carvalho-2010-pequena-historia"
+   ],
+   "localizacao": "p. 32",
+   "nota": "Data baseada em tradição maçônica."
+  },
+  {
+   "id": "v05-suassunas-1801",
+   "data": "1801-05",
+   "precisao": "mes",
+   "titulo": "Denúncia e prisão dos irmãos Suassuna (conspiração ligada ao Areópago de Itambé)",
+   "verbete": "areopago-de-itambe",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "braga-2013-republica-jacobinismo-pernambuco"
+   ],
+   "localizacao": "p. 130"
+  },
+  {
+   "id": "v05-reuniao-1801",
+   "data": 1801,
+   "precisao": "ano",
+   "titulo": "Fundação da Loja Reunião no Rio de Janeiro, ligada ao Oriente da Île de France",
+   "verbete": "primeiras-lojas-no-brasil",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "carvalho-2010-pequena-historia",
+    "barata-2013-freemasonry-brazil"
+   ],
+   "localizacao": "p. 32; p. 143"
+  },
+  {
+   "id": "v05-comercio-artes-1815",
+   "data": 1815,
+   "precisao": "ano",
+   "titulo": "Fundação da Loja Comércio e Artes no Rio de Janeiro",
+   "verbete": "primeiras-lojas-no-brasil",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "carvalho-2010-pequena-historia"
+   ],
+   "localizacao": "p. 33"
+  },
+  {
+   "id": "v05-pernambuco-1817",
+   "data": "1817-03-06",
+   "precisao": "dia",
+   "titulo": "Revolução Pernambucana instala governo republicano no Recife",
+   "verbete": "revolucao-pernambucana-de-1817",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "acioly-luzes-maconaria-pernambuco"
+   ],
+   "localizacao": "p. 7",
+   "nota": "Data do levante conforme o nome da loja '6 de Março de 1817'."
+  },
+  {
+   "id": "v05-alvara-1818",
+   "data": "1818-03-30",
+   "precisao": "dia",
+   "titulo": "Alvará de D. João VI declara criminosas todas as sociedades secretas",
+   "verbete": "alvara-de-1818-contra-sociedades-secretas",
+   "paises": [
+    "br",
+    "pt"
+   ],
+   "fontes": [
+    "brasil-1818-alvara-sociedades-secretas"
+   ]
+  },
+  {
+   "id": "v05-comercio-artes-1821",
+   "data": "1821-06-24",
+   "precisao": "dia",
+   "titulo": "Reinstalação da Loja Comércio e Artes",
+   "verbete": "independencia-do-brasil-e-fundacao-do-grande-oriente",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "carvalho-2010-pequena-historia"
+   ],
+   "localizacao": "p. 34"
+  },
+  {
+   "id": "v05-go-1822",
+   "data": "1822-06-17",
+   "precisao": "dia",
+   "titulo": "Fundação do Grande Oriente Brasílico, origem do GOB",
+   "verbete": "independencia-do-brasil-e-fundacao-do-grande-oriente",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "carvalho-2010-pequena-historia",
+    "barata-2013-freemasonry-brazil"
+   ],
+   "localizacao": "p. 34–35; p. 145"
+  },
+  {
+   "id": "v05-pedro-iniciacao-1822",
+   "data": "1822-08",
+   "precisao": "mes",
+   "titulo": "Iniciação de D. Pedro no Grande Oriente",
+   "verbete": "independencia-do-brasil-e-fundacao-do-grande-oriente",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "uned-maconeria-independencia-brasil",
+    "goetz-1903-maconaria-sete-setembro"
+   ],
+   "divergencia": "2 de agosto segundo o texto da UNED; 20 de agosto segundo Goetz (1903)."
+  },
+  {
+   "id": "v05-fechamento-go-1822",
+   "data": "1822-10-25",
+   "precisao": "dia",
+   "titulo": "D. Pedro I manda suspender os trabalhos do Grande Oriente",
+   "verbete": "decada-proibida-1822-1831",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "carvalho-2010-pequena-historia",
+    "uned-maconeria-independencia-brasil"
+   ],
+   "localizacao": "p. 37; p. 4",
+   "divergencia": "A UNED registra ordem de suspensão em 21 de outubro e encerramento no livro em 25."
+  },
+  {
+   "id": "v05-lei-1823",
+   "data": "1823-10-20",
+   "precisao": "dia",
+   "titulo": "Lei revoga o alvará de 1818 mas mantém proibidas as sociedades secretas não declaradas",
+   "verbete": "decada-proibida-1822-1831",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "brasil-1823-lei-sociedades-secretas"
+   ]
+  },
+  {
+   "id": "v05-vigilancia-1825",
+   "data": "1825-06",
+   "precisao": "mes",
+   "titulo": "Criação da loja volante Vigilância da Pátria no Rio de Janeiro",
+   "verbete": "decada-proibida-1822-1831",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "gomez-2024-loja-vigilancia-patria"
+   ],
+   "localizacao": "p. 5"
+  },
+  {
+   "id": "v05-reinstalacao-1831",
+   "data": "1831-11-23",
+   "precisao": "dia",
+   "titulo": "Reinstalação do Grande Oriente do Brasil sob José Bonifácio",
+   "verbete": "maconaria-no-periodo-regencial",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "carvalho-2010-pequena-historia"
+   ],
+   "localizacao": "p. 37–38"
+  },
+  {
+   "id": "v05-sc-1832",
+   "data": 1832,
+   "precisao": "ano",
+   "titulo": "Montezuma introduz o Supremo Conselho do Rito Escocês Antigo e Aceito no Brasil",
+   "verbete": "maconaria-no-periodo-regencial",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "carvalho-2010-pequena-historia",
+    "barata-2013-freemasonry-brazil"
+   ],
+   "localizacao": "p. 38; p. 147"
+  },
+  {
+   "id": "v05-cisao-1863",
+   "data": 1863,
+   "precisao": "ano",
+   "titulo": "Cisão entre os Grandes Orientes do Lavradio e dos Beneditinos",
+   "verbete": "grandes-orientes-do-lavradio-e-dos-beneditinos",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "carvalho-2010-pequena-historia",
+    "barata-2013-freemasonry-brazil"
+   ],
+   "localizacao": "p. 39; p. 148"
+  },
+  {
+   "id": "v05-festa-1872",
+   "data": "1872-03-02",
+   "precisao": "dia",
+   "titulo": "Festa do Lavradio pela Lei do Ventre Livre; discurso do padre Almeida Martins desencadeia a Questão Religiosa",
+   "verbete": "questao-religiosa",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "carvalho-2010-pequena-historia",
+    "vilhena-moraes-1930-gabinete-caxias"
+   ],
+   "localizacao": "p. 41; cap. I"
+  },
+  {
+   "id": "v05-prisao-vital-1874",
+   "data": "1874-01-02",
+   "precisao": "dia",
+   "titulo": "Prisão de D. Vital, bispo de Olinda",
+   "verbete": "questao-religiosa",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "vilhena-moraes-1930-gabinete-caxias"
+   ],
+   "localizacao": "cap. I, § 5"
+  },
+  {
+   "id": "v05-anistia-1875",
+   "data": "1875-09-17",
+   "precisao": "dia",
+   "titulo": "Decreto de anistia aos bispos da Questão Religiosa",
+   "verbete": "questao-religiosa",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "vilhena-moraes-1930-gabinete-caxias"
+   ],
+   "localizacao": "cap. I, § 6"
+  },
+  {
+   "id": "v05-fusao-1883",
+   "data": "1883-01-18",
+   "precisao": "dia",
+   "titulo": "Fusão dos Grandes Orientes rivais no Grande Oriente do Brasil",
+   "verbete": "grandes-orientes-do-lavradio-e-dos-beneditinos",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "carvalho-2010-pequena-historia"
+   ],
+   "localizacao": "p. 42"
+  },
+  {
+   "id": "v05-deodoro-gm-1889",
+   "data": "1889-12-19",
+   "precisao": "dia",
+   "titulo": "Deodoro da Fonseca, chefe do Governo Provisório, eleito grão-mestre do GOB",
+   "verbete": "maconaria-e-republica-no-brasil",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "carvalho-2010-pequena-historia"
+   ],
+   "localizacao": "p. 43"
+  },
+  {
+   "id": "v05-humanidade-1907",
+   "data": 1907,
+   "precisao": "ano",
+   "titulo": "Adelaide Cabete e Carolina Beatriz Ângelo são iniciadas na loja de adoção Humanidade (Lisboa)",
+   "verbete": "mulheres-e-maconaria-no-mundo-lusofono",
+   "paises": [
+    "pt"
+   ],
+   "fontes": [
+    "glfp-2014-maconaria-feminina-portugal"
+   ],
+   "localizacao": "p. 2"
+  },
+  {
+   "id": "v05-republica-pt-1910",
+   "data": "1910-10-05",
+   "precisao": "dia",
+   "titulo": "Implantação da República em Portugal, com forte participação de maçons e da Carbonária",
+   "verbete": "maconaria-e-a-republica-portuguesa-de-1910",
+   "paises": [
+    "pt"
+   ],
+   "fontes": [
+    "santos-2010-insustentavel"
+   ],
+   "localizacao": "p. 58"
+  },
+  {
+   "id": "v05-cisao-1927",
+   "data": "1927-06-17",
+   "precisao": "dia",
+   "titulo": "Supremo Conselho de Behring rompe com o GOB; nascem as Grandes Lojas estaduais",
+   "verbete": "cisao-de-1927-e-as-grandes-lojas",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "carvalho-2010-pequena-historia",
+    "cmsb-2026-sobre"
+   ],
+   "localizacao": "p. 48–49"
+  },
+  {
+   "id": "v05-lei-1901-1935",
+   "data": "1935-05-21",
+   "precisao": "dia",
+   "titulo": "Portugal: Lei n.º 1901 proíbe as associações secretas",
+   "verbete": "lei-de-1935-contra-as-associacoes-secretas",
+   "paises": [
+    "pt"
+   ],
+   "fontes": [
+    "dn-2021-chefes-macons-filiacoes",
+    "pessoa-1935-associacoes-secretas"
+   ]
+  },
+  {
+   "id": "v05-fechamento-1937",
+   "data": "1937-10-23",
+   "precisao": "dia",
+   "titulo": "Comissão do estado de guerra determina o fechamento das lojas maçônicas no Brasil",
+   "verbete": "maconaria-brasileira-na-era-vargas",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "acioly-2018-freemasons"
+   ],
+   "localizacao": "p. 207",
+   "divergencia": "Carvalho (2010, p. 50) data de 25/11/1937 a recomendação de fechar a maçonaria."
+  },
+  {
+   "id": "v05-cmsb-1966",
+   "data": "1966-07-27",
+   "precisao": "dia",
+   "titulo": "Instalação da Confederação da Maçonaria Simbólica do Brasil (CMSB)",
+   "verbete": "cisao-de-1927-e-as-grandes-lojas",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "cmsb-2026-sobre"
+   ]
+  },
+  {
+   "id": "v05-cisao-1973",
+   "data": "1973-05-27",
+   "precisao": "dia",
+   "titulo": "Grão-mestres estaduais deixam o GOB: carta de intenções que origina a COMAB",
+   "verbete": "cisao-de-1973-e-a-comab",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "comab-2026-estatuto",
+    "carvalho-2010-pequena-historia"
+   ],
+   "localizacao": "p. 53",
+   "divergencia": "A COMAB data a fundação do Colégio de 4/8/1973."
+  },
+  {
+   "id": "v05-dl-594-1974",
+   "data": "1974-11-07",
+   "precisao": "dia",
+   "titulo": "Portugal: Decreto-Lei 594/74 revoga a Lei n.º 1901 de 1935",
+   "verbete": "lei-de-1935-contra-as-associacoes-secretas",
+   "paises": [
+    "pt"
+   ],
+   "fontes": [
+    "portugal-1974-dl-594-direito-associacao"
+   ],
+   "localizacao": "art. 18.º"
+  },
+  {
+   "id": "v05-sni-1981",
+   "data": "1981-09-11",
+   "precisao": "dia",
+   "titulo": "SNI emite pedido de busca sobre as atividades da maçonaria",
+   "verbete": "maconaria-e-ditadura-militar",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "sni-1981-pedido-busca-130"
+   ]
+  },
+  {
+   "id": "v05-comab-1991",
+   "data": "1991-04-06",
+   "precisao": "dia",
+   "titulo": "Colégio de Grão-Mestres transforma-se na Confederação Maçônica do Brasil (COMAB)",
+   "verbete": "cisao-de-1973-e-a-comab",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "comab-2026-historia"
+   ]
+  },
+  {
+   "id": "v05-glfp-1997",
+   "data": "1997-03-29",
+   "precisao": "dia",
+   "titulo": "Fundação da Grande Loja Feminina de Portugal",
+   "verbete": "mulheres-e-maconaria-no-mundo-lusofono",
+   "paises": [
+    "pt"
+   ],
+   "fontes": [
+    "glfp-2014-maconaria-feminina-portugal"
+   ],
+   "localizacao": "p. 1"
+  }
+ ]
+}
