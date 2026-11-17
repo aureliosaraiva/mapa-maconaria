@@ -4,7 +4,7 @@ titulo: Supremo Conselho do Grau 33 do REAA para o Brasil
 categoria: potencias
 nomes_alternativos: ["Supremo Conselho do Brasil", "Supremo Conselho do Grau 33", "SC33"]
 resumo: >-
-  Corpo que governa os graus 4 a 33 do Rito Escocês Antigo e Aceito no Brasil, com origem no
+  Corpo que governa, no Brasil, os graus 4 a 33 do REAA, com origem no
   início da década de 1830. Esteve fundido ao Grande Oriente do Brasil por décadas, separou-se dele em 1927
   sob Mário Behring e patrocinou a criação das Grandes Lojas estaduais; hoje mantém relações com as três
   vertentes simbólicas do país.
@@ -28,7 +28,7 @@ atualizado: 2026-11-17
 sessao: V02
 ---
 
-O **Supremo Conselho do Grau 33 do Rito Escocês Antigo e Aceito (REAA) para o Brasil** é o órgão que administra os graus filosóficos do rito (do 4º ao 33º) no país. Diferente das potências simbólicas, que governam os três primeiros graus, um Supremo Conselho regular reivindica jurisdição exclusiva sobre um país inteiro, segundo a leitura que a própria instituição faz das Grandes Constituições atribuídas a 1786.[^1] Sua trajetória está entrelaçada com a do [[grande-oriente-do-brasil]] e com o nascimento das Grandes Lojas.
+O **Supremo Conselho brasileiro do Grau 33**, do Rito Escocês Antigo e Aceito (REAA), é o órgão que administra os graus filosóficos do rito (do 4º ao 33º) no país. Diferente das potências simbólicas, que governam os três primeiros graus, um Supremo Conselho regular reivindica jurisdição exclusiva sobre um país inteiro, segundo a leitura que a própria instituição faz das Grandes Constituições atribuídas a 1786.[^1] Sua trajetória está entrelaçada com a do [[grande-oriente-do-brasil]] e com o nascimento das Grandes Lojas.
 
 ## Origem
 - William Almeida de Carvalho atribui a Francisco Gê Acayaba de Montezuma a introdução, no fim de 1832, de um Consistório e de um Supremo Conselho do grau 33, fato que acirrou a rivalidade entre as obediências da época.[^2]

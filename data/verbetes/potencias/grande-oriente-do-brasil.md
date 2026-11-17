@@ -4,10 +4,10 @@ titulo: Grande Oriente do Brasil (GOB)
 categoria: potencias
 nomes_alternativos: ["GOB", "Grande Oriente Brasílico", "Grande Oriente Brasiliano", "Grande Oriente do Lavradio", "Grand Orient of Brazil"]
 resumo: >-
-  Potência maçônica mais antiga do Brasil, fundada no Rio de Janeiro em 17 de junho de 1822 e sediada em
+  Potência maçônica mais antiga do Brasil, fundada em 17/6/1822 na então capital, o Rio, e sediada em
   Brasília desde 1978. De estrutura federativa (Grandes Orientes estaduais subordinados a um poder central),
   sofreu as cisões de 1927 e 1973, que deram origem às Grandes Lojas e aos Grandes Orientes independentes,
-  e manteve o reconhecimento da Grande Loja Unida da Inglaterra.
+  e conservou o reconhecimento da UGLE inglesa.
 datas: {inicio: 1822}
 paises: [br]
 periodos: [p1814_1870, p1871_1918, p1919_1945, p1946_1989, p1990_hoje]
@@ -34,17 +34,17 @@ atualizado: 2026-11-17
 sessao: V02
 ---
 
-O **Grande Oriente do Brasil (GOB)** é a primeira potência maçônica nacional do país. Foi fundado no Rio de Janeiro em **17 de junho de 1822**, com o nome de Grande Oriente Brasílico ou Brasiliano, a partir de três lojas oriundas da Loja Comércio e Artes, e teve como primeiros grão-mestres José Bonifácio e, logo depois, D. Pedro I.[^1] Ocupou o Palácio do Lavradio, no Rio, de 1843 a 1978, quando transferiu a sede para Brasília.[^2][^3] É uma obediência **federativa**: lojas de todo o país, agrupadas em Grandes Orientes estaduais que funcionam como braços do poder central. A história de seus primeiros cem anos se confunde com a da própria maçonaria brasileira, tratada em verbetes próprios.[^4]
+O **Grande Oriente do Brasil (GOB)** é a primeira potência maçônica nacional do país. Sua fundação data de **17 de junho de 1822**, na corte do Rio, sob o nome de Grande Oriente Brasílico ou Brasiliano, a partir de três lojas oriundas da Loja Comércio e Artes, e teve como primeiros grão-mestres José Bonifácio e, logo depois, D. Pedro I.[^1] Ocupou o Palácio do Lavradio, no Rio, de 1843 a 1978, quando transferiu a sede para Brasília.[^2][^3] É uma obediência **federativa**: lojas de todo o país, agrupadas em Grandes Orientes estaduais que funcionam como braços do poder central. A história de seus primeiros cem anos se confunde com a da própria maçonaria brasileira, tratada em verbetes próprios.[^4]
 
 ## Fundação e século XIX (síntese)
-- **1822–1831.** Fundação em plena crise da Independência, disputas entre os grupos de José Bonifácio e de Gonçalves Ledo, suspensão dos trabalhos em outubro de 1822 e reinstalação em 23 de novembro de 1831, depois da abdicação de D. Pedro I.[^1] Ver [[independencia-do-brasil-e-fundacao-do-grande-oriente]] e [[decada-proibida-1822-1831]].
+- **1822–1831.** Fundação em plena crise da Independência, rivalidade entre as facções de José Bonifácio e Gonçalves Ledo, suspensão dos trabalhos em outubro de 1822 e reinstalação em 23 de novembro de 1831, depois da abdicação de D. Pedro I.[^1] Ver [[independencia-do-brasil-e-fundacao-do-grande-oriente]] e [[decada-proibida-1822-1831]].
 - **Supremo Conselho e cisões.** No fim de 1832 Montezuma introduziu no país um Supremo Conselho do grau 33 do REAA, origem de rivalidades entre obediências (Grande Oriente do Passeio, depois do Vale dos Beneditinos). Em 1863 o GOB, já instalado na Rua do Lavradio e chamado "do Lavradio", sofreu a cisão dos Beneditinos, só encerrada pela fusão de 18 de dezembro de 1882, consolidada em janeiro de 1883.[^5] Ver [[grandes-orientes-do-lavradio-e-dos-beneditinos]] e [[questao-religiosa]].
 - **Potência "mista".** Por décadas o GOB reuniu os graus simbólicos e os altos graus do REAA: o grão-mestre era também Soberano Grande Comendador do Supremo Conselho. A publicação do Supremo Conselho do Brasil data essa fusão de 1864.[^6]
 
 ## Século XX
 - **Cisão de 1927.** Mário Behring, grão-mestre de 1922 a 1925 e chefe do Supremo Conselho, separou este do GOB em 17 de junho de 1927 e patrocinou as Grandes Lojas estaduais.[^7] Ver [[cisao-de-1927-e-as-grandes-lojas]]. Segundo o Supremo Conselho, o grão-mestre Octávio Kelly criou em 1º de agosto de 1927 um Supremo Conselho próprio do GOB, que a fonte considera irregular, e o GOB continuou potência mista até 1951.[^6]
 - **Reconhecimentos.** Carvalho registra que em 1930 o GOB foi admitido como única potência simbólica do Brasil num congresso da Associação Maçônica Internacional e que em 1934 firmou tratado com a Grande Loja Unida da Inglaterra (UGLE).[^8]
-- **Estado Novo e pós-guerra.** As lojas foram fechadas ou esvaziadas a partir do golpe de 1937 e procuraram voltar à normalidade em 1941.[^9] Na gestão de Cyro Werneck (1954–1963) houve reunificações: com o Grande Oriente Unido (1956) e, em 1960, com o Grande Oriente do Rio Grande do Sul e com o Grande Oriente "Tiradentes" de Minas Gerais.[^10] Ver [[maconaria-brasileira-na-era-vargas]].
+- **Estado Novo e pós-guerra.** As lojas foram fechadas ou esvaziadas a partir do golpe de 1937 e procuraram voltar à normalidade em 1941.[^9] Na gestão de Cyro Werneck (1954–1963) houve reunificações: com o Grande Oriente Unido (1956) e, em 1960, com o Grande Oriente gaúcho e com o Grande Oriente "Tiradentes" de Minas Gerais.[^10] Ver [[maconaria-brasileira-na-era-vargas]].
 - **Cisão de 1973 e reorganização.** A disputa eleitoral de 1972–1973 levou à saída de vários Grandes Orientes estaduais (São Paulo, Minas Gerais, Rio Grande do Sul, Paraná, Santa Catarina e outros), origem da COMAB.[^11] A comissão norte-americana de reconhecimento descreveu o GOB em 1975 como potência já restrita aos três graus simbólicos, com cerca de 800 lojas, ritual fixado pelo poder central, cadastro centralizado de membros e voto de todos os mestres nas eleições gerais.[^12] Ver [[cisao-de-1973-e-a-comab]].
 - **Brasília.** A pedra fundamental da nova sede foi lançada em 3 de agosto de 1972; o grão-mestre Osiris Teixeira transferiu a sede em 13 de julho de 1978.[^13][^3] Carvalho vê na gestão de Jair Assis Ribeiro (1983–1993), que construiu o Palácio Maçônico de Brasília, o ponto de inflexão de um longo declínio.[^14]
 
