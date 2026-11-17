@@ -127,6 +127,89 @@
     "prescott-sommers-2017-apple-tree"
    ],
    "nota": "Datado de 1738; anunciado à venda em janeiro de 1739."
+  },
+  {
+   "id": "v03-prichard",
+   "data": "1730-10-13",
+   "precisao": "dia",
+   "titulo": "Samuel Prichard jura a autenticidade de Masonry Dissected, primeira exposição impressa do sistema de três graus",
+   "verbete": "masonry-dissected-1730",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "prichard-1730-masonry-dissected",
+    "vibert-1923-rare-books"
+   ]
+  },
+  {
+   "id": "v03-ramsay",
+   "data": "1737",
+   "precisao": "ano",
+   "titulo": "Discurso do cavaleiro Ramsay atribui à maçonaria origem nas Cruzadas (datação discutida: 1736–1740)",
+   "verbete": "discurso-de-ramsay",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "ramsay-1737-discours",
+    "mackey-1874-encyclopaedia"
+   ],
+   "nota": "Mackey: 1740; Jacob: 1738; texto impresso em 1744 com a data de 1737."
+  },
+  {
+   "id": "v03-secret-1742",
+   "data": "1742",
+   "precisao": "ano",
+   "titulo": "Le Secret des Francs-Maçons, exposição atribuída ao abade Pérau",
+   "verbete": "exposicoes-francesas-1737-1751",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "perau-1745-ordre-trahi"
+   ]
+  },
+  {
+   "id": "v03-ordre-trahi",
+   "data": "1745",
+   "precisao": "ano",
+   "titulo": "L'Ordre des Francs-Maçons trahi revela cerimônias francesas e a sociedade mista dos Mopses",
+   "verbete": "exposicoes-francesas-1737-1751",
+   "paises": [
+    "fr",
+    "nl"
+   ],
+   "fontes": [
+    "perau-1745-ordre-trahi",
+    "larudan-1774-francs-macons-ecrases"
+   ]
+  },
+  {
+   "id": "v03-ahiman-rezon",
+   "data": "1756",
+   "precisao": "ano",
+   "titulo": "Laurence Dermott publica o Ahiman Rezon, constituições da Grande Loja dos Antients",
+   "verbete": "ahiman-rezon",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "dermott-1756-ahiman-rezon"
+   ]
+  },
+  {
+   "id": "v03-ahiman-pensilvania",
+   "data": "1781-11-22",
+   "precisao": "dia",
+   "titulo": "Grande Loja da Pensilvânia aprova versão resumida do Ahiman Rezon preparada por William Smith",
+   "verbete": "ahiman-rezon",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "dermott-1783-ahiman-rezon-abridged"
+   ]
   }
  ]
 }
