@@ -1,0 +1,448 @@
+{
+ "_meta": {
+  "descricao": "Fragmento da linha do tempo da sessão V01 (ritos, graus e ordens anexas)."
+ },
+ "sessao": "V01",
+ "eventos": [
+  {
+   "id": "v01-mestre-1725",
+   "data": "1725-05-12",
+   "precisao": "dia",
+   "titulo": "Mais antiga concessão conhecida do grau de Mestre, em Londres",
+   "verbete": "mestre",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "sc-sj-2026-history"
+   ]
+  },
+  {
+   "id": "v01-prichard-1730",
+   "data": "1730",
+   "precisao": "ano",
+   "titulo": "Masonry Dissected, de Prichard, publica a lenda de Hiram e os catecismos dos três graus",
+   "verbete": "mestre",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "prichard-1730-masonry-dissected"
+   ]
+  },
+  {
+   "id": "v01-scotch-masons-1733",
+   "data": "1733",
+   "precisao": "ano",
+   "titulo": "Primeira menção a uma 'Scotch Masons' Lodge' em Londres, ancestral dos graus 'escoceses'",
+   "verbete": "rito-escoces-antigo-e-aceito",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "sc-sj-2026-history"
+   ]
+  },
+  {
+   "id": "v01-suecia-1735",
+   "data": "1735",
+   "precisao": "ano",
+   "titulo": "Maçonaria implantada na Suécia com carta de Charles Radclyffe, conde de Derwentwater",
+   "verbete": "rito-sueco",
+   "paises": [
+    "se"
+   ],
+   "fontes": [
+    "onnerfors-2009-swedish-st-barthelemy"
+   ]
+  },
+  {
+   "id": "v01-real-arco-1743",
+   "data": "1743",
+   "precisao": "ano",
+   "titulo": "Primeiros registros da prática do Real Arco na Inglaterra (segundo Le Forestier)",
+   "verbete": "real-arco",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "leforestier-1915-plus-secrets-mysteres-hauts-grades"
+   ],
+   "nota": "Data aproximada, conforme a pesquisa citada por Le Forestier em 1914."
+  },
+  {
+   "id": "v01-adocao-1744",
+   "data": "1744",
+   "precisao": "ano",
+   "titulo": "Lojas de tradição Harodim no continente começam a iniciar mulheres (tese de Snoek)",
+   "verbete": "rito-de-adocao",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "snoek-2012-adoption"
+   ],
+   "nota": "Data proposta por Jan Snoek; outros autores situam a origem em 1774."
+  },
+  {
+   "id": "v01-morin-patente-1761",
+   "data": "1761-08-27",
+   "precisao": "dia",
+   "titulo": "Étienne Morin recebe em Paris patente de Grande Inspetor para propagar os altos graus",
+   "verbete": "rito-de-perfeicao",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "sc-sj-2026-history"
+   ]
+  },
+  {
+   "id": "v01-real-segredo-1763",
+   "data": "1763",
+   "precisao": "ano",
+   "titulo": "Morin organiza nas Antilhas a Ordem do Real Segredo (25 graus)",
+   "verbete": "rito-de-perfeicao",
+   "paises": [
+    "jm"
+   ],
+   "fontes": [
+    "sc-sj-2026-history"
+   ],
+   "nota": "Data aproximada ('around 1763')."
+  },
+  {
+   "id": "v01-eckleff-berlim-1765",
+   "data": "1765",
+   "precisao": "ano",
+   "titulo": "Versão sueca de Eckleff é levada a Berlim por Zinnendorf",
+   "verbete": "rito-sueco",
+   "paises": [
+    "de",
+    "se"
+   ],
+   "fontes": [
+    "onnerfors-2009-swedish-st-barthelemy"
+   ]
+  },
+  {
+   "id": "v01-francken-albany-1767",
+   "data": "1767",
+   "precisao": "ano",
+   "titulo": "Henry Andrew Francken começa a conferir altos graus em Albany (Nova York)",
+   "verbete": "rito-de-perfeicao",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "sc-sj-2026-history"
+   ]
+  },
+  {
+   "id": "v01-real-arco-capitulo-1767",
+   "data": "1767",
+   "precisao": "ano",
+   "titulo": "Constituição do Supremo Grande Capítulo do Real Arco da Inglaterra",
+   "verbete": "real-arco",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "edinburgh-ra-chapter-1911-history"
+   ]
+  },
+  {
+   "id": "v01-gll-1770",
+   "data": "1770",
+   "precisao": "ano",
+   "titulo": "Fundação da Grande Loja Nacional dos Maçons da Alemanha (sistema de Zinnendorf)",
+   "verbete": "rito-sueco",
+   "paises": [
+    "de"
+   ],
+   "fontes": [
+    "onnerfors-2009-swedish-st-barthelemy",
+    "vglvd-2026-gruendungsgeschichte"
+   ]
+  },
+  {
+   "id": "v01-morin-morte-1771",
+   "data": "1771-11-17",
+   "precisao": "dia",
+   "titulo": "Sepultamento de Stephen (Étienne) Morin em Kingston, Jamaica",
+   "verbete": "rito-de-perfeicao",
+   "paises": [
+    "jm"
+   ],
+   "fontes": [
+    "pinto-2022-etienne"
+   ]
+  },
+  {
+   "id": "v01-adocao-godf-1774",
+   "data": "1774-06-10",
+   "precisao": "dia",
+   "titulo": "Grande Oriente de França regulariza as lojas de Adoção",
+   "verbete": "rito-de-adocao",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "snoek-2012-adoption"
+   ]
+  },
+  {
+   "id": "v01-convento-galias-1778",
+   "data": "1778",
+   "precisao": "ano",
+   "titulo": "Convento das Gálias (Lyon) aprova o Código das Lojas Reunidas e Retificadas",
+   "verbete": "rito-escoces-retificado",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "frenchfreemasonry-code-rectified-lodges-1778"
+   ]
+  },
+  {
+   "id": "v01-wilhelmsbad-1782",
+   "data": "1782",
+   "precisao": "ano",
+   "titulo": "Convento de Wilhelmsbad abandona a Estrita Observância Templária",
+   "verbete": "rito-escoces-retificado",
+   "paises": [
+    "de"
+   ],
+   "fontes": [
+    "onnerfors-2009-swedish-st-barthelemy",
+    "mackenzie-1877-royal-masonic-cyclopaedia"
+   ]
+  },
+  {
+   "id": "v01-quatro-ordens-1786",
+   "data": "1786",
+   "precisao": "ano",
+   "titulo": "Grande Oriente de França adota as quatro ordens do Rito Francês",
+   "verbete": "rito-frances-moderno",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "thory-1815-acta-latomorum"
+   ]
+  },
+  {
+   "id": "v01-recueil-precieux-1787",
+   "data": "1787",
+   "precisao": "ano",
+   "titulo": "Publicação do Recueil précieux de la maçonnerie adonhiramite",
+   "verbete": "rito-adonhiramita",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "guillemain-1787-recueil-precieux"
+   ]
+  },
+  {
+   "id": "v01-webb-1797",
+   "data": "1797",
+   "precisao": "ano",
+   "titulo": "Primeira edição do Freemason's Monitor de Thomas Smith Webb",
+   "verbete": "rito-de-york",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "webb-1797-freemasons-monitor"
+   ]
+  },
+  {
+   "id": "v01-templarios-pensilvania-1797",
+   "data": "1797-05-12",
+   "precisao": "dia",
+   "titulo": "Primeiro Grande Acampamento templário da Pensilvânia",
+   "verbete": "cavaleiros-templarios-maconicos",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "creigh-1867-knights-templar-pennsylvania"
+   ]
+  },
+  {
+   "id": "v01-sueco-1800",
+   "data": "1800",
+   "precisao": "ano",
+   "titulo": "Rituais do Rito Sueco revistos pelo duque Carlos são fixados como norma",
+   "verbete": "rito-sueco",
+   "paises": [
+    "se"
+   ],
+   "fontes": [
+    "willen-2011-resenha-ullgren-hemligheternas",
+    "sfmo-swedish-rite-pagina"
+   ]
+  },
+  {
+   "id": "v01-regulateur-1801",
+   "data": "1801",
+   "precisao": "ano",
+   "titulo": "Impressão do Régulateur du Maçon, ritual dos graus simbólicos do Rito Francês",
+   "verbete": "rito-frances-moderno",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "anonimo-1801-regulateur-du-macon"
+   ]
+  },
+  {
+   "id": "v01-charleston-1801",
+   "data": "1801-05-31",
+   "precisao": "dia",
+   "titulo": "Abertura do primeiro Supremo Conselho do 33º grau, em Charleston",
+   "verbete": "rito-escoces-antigo-e-aceito",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "sc-sj-2026-history"
+   ]
+  },
+  {
+   "id": "v01-schroder-1801",
+   "data": "1801-07-29",
+   "precisao": "dia",
+   "titulo": "Ritual de Schröder aprovado pelos mestres de Hamburgo (segundo o Freimaurer-Wiki)",
+   "verbete": "rito-schroder",
+   "paises": [
+    "de"
+   ],
+   "fontes": [
+    "freimaurerwiki-schroder-rite"
+   ],
+   "nota": "Mackey dá c. 1787 para a adoção do rito em Hamburgo."
+  },
+  {
+   "id": "v01-reaa-nome-1804",
+   "data": "1804",
+   "precisao": "ano",
+   "titulo": "Nome 'Rito Escocês Antigo e Aceito' usado pela primeira vez, no acordo entre o Supremo Conselho e o GOdF",
+   "verbete": "rito-escoces-antigo-e-aceito",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "sc-sj-2026-history"
+   ]
+  },
+  {
+   "id": "v01-reconciliacao-1813",
+   "data": "1813-12-27",
+   "precisao": "dia",
+   "titulo": "Constituição da Loja de Reconciliação, que uniformiza o ritual inglês após a união",
+   "verbete": "rito-de-emulacao",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "mackey-1874-encyclopaedia"
+   ]
+  },
+  {
+   "id": "v01-misraim-franca-1814",
+   "data": "1814",
+   "precisao": "ano",
+   "titulo": "Irmãos Joly e Bédarride trazem o Rito de Misraïm à França (segundo Clavel)",
+   "verbete": "rito-de-memphis-misraim",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "clavel-1844-histoire-pittoresque"
+   ],
+   "nota": "Mackey dá 1813."
+  },
+  {
+   "id": "v01-memphis-1839",
+   "data": "1839",
+   "precisao": "ano",
+   "titulo": "Marconis e Moullet instituem o Rito de Memphis (segundo Mackey)",
+   "verbete": "rito-de-memphis-misraim",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "mackey-1874-encyclopaedia"
+   ]
+  },
+  {
+   "id": "v01-capitulo-moderno-br-1842",
+   "data": "1842",
+   "precisao": "ano",
+   "titulo": "Fundação do Grande Capítulo dos Ritos Azuis, corpo superior do Rito Moderno no Brasil",
+   "verbete": "rito-frances-moderno",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "freimaurerwiki-modern-rite-brazil"
+   ],
+   "nota": "Fonte C, a conferir."
+  },
+  {
+   "id": "v01-marca-1856",
+   "data": "1856",
+   "precisao": "ano",
+   "titulo": "Formação da Grande Loja dos Mestres Maçons de Marca da Inglaterra",
+   "verbete": "grau-de-mestre-de-marca",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "glmmm-1882-constitutions-mark-master"
+   ]
+  },
+  {
+   "id": "v01-criptica-1870",
+   "data": "1870",
+   "precisao": "ano",
+   "titulo": "Supremo Conselho do REAA renuncia, em Baltimore, à autoridade sobre os graus crípticos",
+   "verbete": "maconaria-criptica",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "robertson-1888-cryptic-rite"
+   ]
+  },
+  {
+   "id": "v01-shrine-1872",
+   "data": "1872",
+   "precisao": "ano",
+   "titulo": "Instituição do Shrine em Nova York",
+   "verbete": "shrine",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "melish-1921-history-imperial-council-shrine"
+   ]
+  },
+  {
+   "id": "v01-separacao-sc-gob-1926",
+   "data": "1926-06",
+   "precisao": "mes",
+   "titulo": "Tratado de separação entre o Supremo Conselho do REAA e o Grande Oriente do Brasil",
+   "verbete": "rito-escoces-antigo-e-aceito",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "sc33br-2021-astreanews-127"
+   ],
+   "nota": "Versão do Supremo Conselho de 1832."
+  }
+ ]
+}
