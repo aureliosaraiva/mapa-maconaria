@@ -1521,6 +1521,97 @@
     "txt/freimaurer-wiki-modern-rite-brazil.txt"
    ],
    "lote": "a01-lusofono2"
+  },
+  {
+   "id": "tavares-2019-reaa-brasil-seculo-xix",
+   "tipo": "artigo",
+   "categoria": "academica",
+   "autores": [
+    "Anderson Clayton Fonseca Tavares"
+   ],
+   "titulo": "O sucesso da empreitada maçônica no Brasil do século XIX potencializado pelo ethos do Rito Escocês Antigo e Aceito",
+   "ano": 2019,
+   "idioma": "pt",
+   "periodico": "Reflexus - Revista Semestral de Teologia e Ciências das Religiões",
+   "volume": "XIII(21)",
+   "paginas": "255-271",
+   "url": "https://doi.org/10.20890/reflexus.v13i21.688",
+   "identificadores": {
+    "doi": "10.20890/reflexus.v13i21.688"
+   },
+   "temas": [
+    "ritos",
+    "religiao",
+    "principios"
+   ],
+   "ritos": [
+    "reaa",
+    "frances_moderno"
+   ],
+   "potencias": [
+    "gob"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1814_1870",
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (revista OJS)",
+   "resumo": "Artigo de ciências da religião (mestrando da UEPA) que atribui o êxito da maçonaria brasileira oitocentista ao seu 'capital religioso' e sustenta que, quando se tentou retirar do ritual a invocação do Grande Arquiteto do Universo, o Rito Moderno perdeu terreno e foi suplantado pelo REAA a partir de 1865. Tese interpretativa a ser lida com cautela; útil para a divergência teísmo × laicidade nos ritos praticados no Brasil.",
+   "observacoes": "O PDF tem fonte com codificação deslocada; o txt do acervo foi corrigido automaticamente (trechos sem espaços ou com acentos trocados). Conferir citações no PDF.",
+   "evidencias": [
+    "https://revista.fuv.edu.br/index.php/reflexus/pt_BR/article/view/688"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/tavares-2019-reaa-brasil-seculo-xix.pdf",
+    "txt/tavares-2019-reaa-brasil-seculo-xix.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "delagoabayworld-maconaria-mocambique-1900-1935",
+   "tipo": "pagina",
+   "categoria": "divulgacao",
+   "autores": [
+    "The Delagoa Bay World (blog)"
+   ],
+   "titulo": "A Maçonaria em Moçambique, 1900-1935: uma nota",
+   "ano": null,
+   "idioma": "pt",
+   "url": "https://delagoabayworld.wordpress.com/category/historia/a-maconaria-em-mocambique/",
+   "temas": [
+    "sociabilidade",
+    "politica"
+   ],
+   "potencias": [
+    "gol"
+   ],
+   "paises": [
+    "mz",
+    "pt"
+   ],
+   "periodos": [
+    "p1871_1918",
+    "p1919_1945"
+   ],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "blog público (direitos do autor)",
+   "resumo": "Nota de blog sobre a história de Lourenço Marques que descreve a loja Cruzeiro do Sul (filiada ao Grande Oriente Lusitano Unido, com diploma de 1905 e Palácio Maçônico na Avenida 24 de Julho), a influência do ambiente britânico e sul-africano na sociabilidade maçônica local, a ligação de maçons a obras escolares e cívicas na Primeira República e o desmantelamento após a lei de 1935. Só pista: sem notas, mas aponta para documentos (diploma, fotos da Casa Comum) a localizar.",
+   "evidencias": [
+    "https://delagoabayworld.wordpress.com/category/historia/a-maconaria-em-mocambique/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/delagoabayworld-maconaria-mocambique-1900-1935.html",
+    "txt/delagoabayworld-maconaria-mocambique-1900-1935.txt"
+   ],
+   "lote": "a01-lusofono2"
   }
  ]
 }
