@@ -1,0 +1,401 @@
+{
+ "lote": "a01-lusofono2",
+ "fontes": [
+  {
+   "id": "costa-2009-maconaria-antimaconaria-barroso",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Luiz Mário Ferreira Costa"
+   ],
+   "titulo": "Maçonaria e antimaçonaria: uma análise da “História secreta do Brasil” de Gustavo Barroso",
+   "ano": 2009,
+   "idioma": "pt",
+   "editora": "Universidade Federal de Juiz de Fora, Programa de Pós-Graduação em História",
+   "local": "Juiz de Fora",
+   "paginas": "166 p.",
+   "url": "https://repositorio.ufjf.br/jspui/handle/ufjf/2931",
+   "identificadores": {
+    "bdtd": "UFJF_0b5a2d08c44eedf77d07bcebe492549c"
+   },
+   "temas": [
+    "antimaconaria",
+    "politica",
+    "historiografia"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1919_1945"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional UFJF; direitos do autor)",
+   "resumo": "Dissertação orientada por Alexandre Mansur Barata que reconstitui a tradição europeia de narrativas contra a maçonaria desde o século XVIII e mostra como Gustavo Barroso, chefe das milícias integralistas, a reelaborou em 1937 juntando antissemitismo, anticomunismo e conspiracionismo. Situa o livro no ambiente de radicalização política dos anos 1930 (ANL × AIB) e na véspera do Estado Novo; útil para os verbetes de antimaçonaria no Brasil e de Gustavo Barroso.",
+   "observacoes": "Versão integral da dissertação; o artigo derivado (2013) já está no catálogo como ferreira-2013-maconaria (lote c06).",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UFJF_0b5a2d08c44eedf77d07bcebe492549c",
+    "https://repositorio.ufjf.br/jspui/handle/ufjf/2931"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/costa-2009-maconaria-antimaconaria-barroso.pdf",
+    "txt/costa-2009-maconaria-antimaconaria-barroso.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "sena-2022-manhumirim-catolicos-macons",
+   "tipo": "tese",
+   "categoria": "tese",
+   "autores": [
+    "Nicodemo Valim de Sena"
+   ],
+   "titulo": "Espaço e identidade: o conflito religioso entre católicos militantes, protestantes e maçons em Manhumirim (1928-1944)",
+   "ano": 2022,
+   "idioma": "pt",
+   "editora": "Universidade Federal do Espírito Santo, Programa de Pós-Graduação em História",
+   "local": "Vitória",
+   "paginas": "503 p.",
+   "url": "http://repositorio.ufes.br/handle/10/16298",
+   "identificadores": {
+    "bdtd": "UFES_69254e27e2bb5fa67f50e551f7773e67",
+    "handle": "10/16298"
+   },
+   "temas": [
+    "religiao",
+    "antimaconaria",
+    "sociabilidade"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1919_1945"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional UFES; direitos do autor)",
+   "resumo": "Tese de doutorado sobre a disputa pelo espaço urbano de Manhumirim (MG) entre o catolicismo militante do padre Júlio Maria de Lombaerde, os presbiterianos e a loja maçônica local, das vésperas de 1930 até o fim do Estado Novo. Usa a imprensa católica (O Lutador) e registros locais para mostrar a campanha antimaçônica e antiprotestante no interior; boa fonte sobre a relação Igreja–maçonaria na Era Vargas.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UFES_69254e27e2bb5fa67f50e551f7773e67"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/sena-2022-manhumirim-catolicos-macons.pdf",
+    "txt/sena-2022-manhumirim-catolicos-macons.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "carvalho-2016-teosofia-maconaria-mista-pelotas",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Márcio Dillmann de Carvalho"
+   ],
+   "titulo": "As Sociedades Teosóficas e a Maçonaria Mista: espiritualidade e poder em Pelotas no princípio do século XX (1902-1939)",
+   "ano": 2016,
+   "idioma": "pt",
+   "editora": "Universidade Federal de Pelotas, Programa de Pós-Graduação em História",
+   "local": "Pelotas",
+   "url": "http://guaiaca.ufpel.edu.br/handle/prefix/7853",
+   "identificadores": {
+    "bdtd": "UFPL_9db4f3ca85960b89e5fad0b2280b05af"
+   },
+   "temas": [
+    "mulheres",
+    "esoterismo",
+    "sociabilidade"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1871_1918",
+    "p1919_1945"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto declarado na BDTD (direitos do autor)",
+   "resumo": "Dissertação orientada por Larissa Patron Chaves sobre as lojas de maçonaria mista ligadas ao Le Droit Humain e os grupos teosóficos de Pelotas (RS) entre 1902 e 1939, a partir de documentos guardados no museu maçônico local. É, pelo resumo, o único estudo acadêmico aberto localizado sobre a implantação da maçonaria mista no Brasil.",
+   "observacoes": "PDF não copiado: o repositório Guaiaca (UFPel) responde com página de verificação anti-robô (SafeLine, HTTP 468), que não foi contornada.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UFPL_9db4f3ca85960b89e5fad0b2280b05af"
+   ],
+   "status_verificacao": "conferido_web",
+   "potencias": [
+    "mista_br",
+    "droit_humain"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "gohl-2003-loja-uniao-iii-porto-uniao",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Jefferson William Gohl"
+   ],
+   "titulo": "O real e o imaginário: a experiência da maçonaria na Loja União III em Porto União da Vitória - 1936 a 1950",
+   "ano": 2003,
+   "idioma": "pt",
+   "editora": "Universidade Federal do Paraná, Programa de Pós-Graduação em História",
+   "local": "Curitiba",
+   "url": "https://hdl.handle.net/1884/27085",
+   "identificadores": {
+    "bdtd": "UFPR_c600a536e1013f06daa70381c41d296a"
+   },
+   "temas": [
+    "sociabilidade",
+    "politica"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1919_1945",
+    "p1946_1989"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto declarado na BDTD (direitos do autor)",
+   "resumo": "Dissertação orientada por Euclides Marchi sobre uma loja maçônica de Porto União da Vitória, na divisa Paraná–Santa Catarina, entre 1936 e 1950 — recorte que cobre o Estado Novo e a redemocratização. A BDTD não traz resumo; as palavras-chave falam em imaginário e mito. Conteúdo a conferir quando o PDF for obtido.",
+   "observacoes": "PDF não copiado: acervodigital.ufpr.br sem resposta (timeout) durante a sessão A01.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UFPR_c600a536e1013f06daa70381c41d296a"
+   ],
+   "status_verificacao": "conferido_web",
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "pimenta-2019-oscar-machado-integralismo",
+   "tipo": "tese",
+   "categoria": "tese",
+   "autores": [
+    "Everton Fernando Pimenta"
+   ],
+   "titulo": "Oscar Machado: uma trajetória em meio ao metodismo, integralismo e maçonaria (1930-1965)",
+   "ano": 2019,
+   "idioma": "pt",
+   "editora": "Pontifícia Universidade Católica do Rio Grande do Sul, Programa de Pós-Graduação em História",
+   "local": "Porto Alegre",
+   "url": "http://tede2.pucrs.br/tede2/handle/tede/8994",
+   "identificadores": {
+    "bdtd": "P_RS_9af9f48adc5675b0a27dbfcd1a79fb61"
+   },
+   "temas": [
+    "personalidades",
+    "politica",
+    "religiao"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1919_1945",
+    "p1946_1989"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto declarado na BDTD (direitos do autor)",
+   "resumo": "Tese biográfica sobre Oscar Machado da Silva (1903-1984), educador metodista, maçom e dirigente integralista na AIB (1932-1937) e no PRP. Ilumina a convivência, rara e tensa, entre maçonaria e integralismo, cuja liderança nacional (Barroso) era antimaçônica.",
+   "observacoes": "PDF não copiado: tede2.pucrs.br redireciona para página de erro (404) durante a sessão A01.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/P_RS_9af9f48adc5675b0a27dbfcd1a79fb61"
+   ],
+   "status_verificacao": "conferido_web",
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "souza-2006-buscadores-sagrado-belem",
+   "tipo": "tese",
+   "categoria": "tese",
+   "autores": [
+    "Patrícia Inês Garcia de Souza"
+   ],
+   "titulo": "Buscadores do Sagrado: as transformações da maçonaria em Belém do Pará",
+   "ano": 2006,
+   "idioma": "pt",
+   "editora": "Universidade Estadual de Campinas, Instituto de Filosofia e Ciências Humanas",
+   "local": "Campinas",
+   "url": "https://hdl.handle.net/20.500.12733/1602056",
+   "identificadores": {
+    "bdtd": "UNICAMP-30_5ff4902058fc6fdf22d4d0d109f4ea2d"
+   },
+   "temas": [
+    "sociabilidade",
+    "esoterismo"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto declarado na BDTD (direitos do autor)",
+   "resumo": "Tese de antropologia orientada por Maria Suely Kofes sobre as transformações da maçonaria em Belém do Pará. A BDTD não traz resumo; as palavras-chave indicam antropologia urbana, religiosidade, ciências ocultas e método biográfico. Conteúdo a conferir quando o PDF for obtido.",
+   "observacoes": "PDF não copiado: o repositório da Unicamp exibe validação por JavaScript (anti-robô).",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UNICAMP-30_5ff4902058fc6fdf22d4d0d109f4ea2d"
+   ],
+   "status_verificacao": "conferido_web",
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "silva-2012-memoria-maconica-brasil",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Tiago Cesar da Silva"
+   ],
+   "titulo": "Para além de esquadros e compassos: a construção da memória maçônica no Brasil",
+   "ano": 2012,
+   "idioma": "pt",
+   "editora": "Universidade Federal do Estado do Rio de Janeiro (UNIRIO), Programa de Pós-Graduação em Memória Social",
+   "local": "Rio de Janeiro",
+   "url": "http://hdl.handle.net/unirio/12297",
+   "identificadores": {
+    "bdtd": "UNIRIO_056e9d98c0ff9061daf0e05004932470"
+   },
+   "temas": [
+    "historiografia",
+    "sociabilidade"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1814_1870",
+    "p1990_hoje"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto declarado na BDTD (direitos do autor)",
+   "resumo": "Dissertação da UNIRIO sobre a construção da memória maçônica no Brasil, com palavras-chave em memória e patrimônio. A BDTD não traz resumo; deve servir para separar a narrativa institucional da historiografia acadêmica. Conteúdo a conferir quando o PDF for obtido.",
+   "observacoes": "PDF não copiado: handle da UNIRIO retornou 404 durante a sessão A01.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UNIRIO_056e9d98c0ff9061daf0e05004932470"
+   ],
+   "status_verificacao": "conferido_web",
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "amaral-2016-grao-mestres-parana",
+   "tipo": "tese",
+   "categoria": "tese",
+   "autores": [
+    "Tiago Valenciano Previatto Amaral"
+   ],
+   "titulo": "O compasso, o esquadro e a ordem discreta: perfil sociológico dos grão-mestres da maçonaria paranaense",
+   "ano": 2016,
+   "idioma": "pt",
+   "editora": "Universidade Federal do Paraná, Programa de Pós-Graduação em Sociologia",
+   "local": "Curitiba",
+   "url": "https://hdl.handle.net/1884/49371",
+   "identificadores": {
+    "bdtd": "UFPR_bdd2cf75ca440c9e9a415bb9d16f0d5c"
+   },
+   "temas": [
+    "potencias",
+    "sociabilidade"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1871_1918",
+    "p1990_hoje"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto declarado na BDTD (direitos do autor)",
+   "resumo": "Tese de sociologia orientada por Ricardo Costa de Oliveira, com perfil prosopográfico dos grão-mestres da maçonaria do Paraná; as palavras-chave citam também rituais. A BDTD não traz resumo e não diz quais potências entram no estudo. Conteúdo a conferir quando o PDF for obtido.",
+   "observacoes": "PDF não copiado: acervodigital.ufpr.br sem resposta (timeout).",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UFPR_bdd2cf75ca440c9e9a415bb9d16f0d5c"
+   ],
+   "status_verificacao": "conferido_web",
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "souza-2024-grao-mestres-rondonia",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Jane de Souza"
+   ],
+   "titulo": "A ordem discreta na fronteira: perfil dos grão-mestres da maçonaria rondoniense (1981-2023)",
+   "ano": 2024,
+   "idioma": "pt",
+   "editora": "Universidade Federal de Rondônia, Programa de Pós-Graduação em História da Amazônia",
+   "local": "Porto Velho",
+   "url": "https://ri.unir.br/jspui/handle/123456789/5248",
+   "identificadores": {
+    "bdtd": "UNIR-1_7f5bfbeba99bd98ac561163e994961fa"
+   },
+   "temas": [
+    "potencias",
+    "sociabilidade"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto declarado na BDTD (direitos do autor)",
+   "resumo": "Dissertação do programa de História da Amazônia da UNIR (163 f.) com perfil dos grão-mestres da maçonaria de Rondônia entre 1981 e 2023. As palavras-chave falam em sociabilidade e Amazônia; a BDTD não traz resumo. Conteúdo a conferir quando o PDF for obtido.",
+   "observacoes": "PDF não copiado: ri.unir.br sem resposta (timeout).",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UNIR-1_7f5bfbeba99bd98ac561163e994961fa"
+   ],
+   "status_verificacao": "conferido_web",
+   "lote": "a01-lusofono2",
+   "paginas": "163 f."
+  },
+  {
+   "id": "vieira-2001-maconaria-fluminense-emancipacao",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Maria Elisabete Vieira"
+   ],
+   "titulo": "O envolvimento da maçonaria fluminense no processo de emancipação do reino do Brasil (1820-1822)",
+   "ano": 2001,
+   "idioma": "pt",
+   "editora": "Universidade Federal do Rio Grande do Sul, Programa de Pós-Graduação em História",
+   "local": "Porto Alegre",
+   "url": "http://hdl.handle.net/10183/21840",
+   "identificadores": {
+    "bdtd": "UFRGS-2_cdd6385bf2ac3bc3cde67ad8b6f06876"
+   },
+   "temas": [
+    "politica"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto declarado na BDTD (direitos do autor)",
+   "resumo": "Dissertação orientada por Helga Piccolo sobre a atuação das lojas do Rio de Janeiro entre a Revolução do Porto e a Independência, e sobre como ela pesou nas escolhas políticas da elite local. Complementa Barata (2006) para 1820–1822.",
+   "observacoes": "PDF não copiado: lume.ufrgs.br sem resposta (timeout).",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UFRGS-2_cdd6385bf2ac3bc3cde67ad8b6f06876"
+   ],
+   "status_verificacao": "conferido_web",
+   "lote": "a01-lusofono2"
+  }
+ ]
+}
