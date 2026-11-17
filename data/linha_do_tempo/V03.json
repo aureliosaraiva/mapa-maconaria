@@ -374,6 +374,47 @@
    "fontes": [
     "ddf-2023-nota-cortes-maconaria"
    ]
+  },
+  {
+   "id": "v03-mackey-landmarks",
+   "data": "1858",
+   "precisao": "ano",
+   "titulo": "Albert Mackey propõe a lista de 25 landmarks, a mais difundida da maçonaria",
+   "verbete": "landmarks",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "mackey-1865-masonic-jurisprudence"
+   ],
+   "nota": "Lista reproduzida no Text Book of Masonic Jurisprudence (ed. 1865 no acervo)."
+  },
+  {
+   "id": "v03-basic-principles",
+   "data": "1929-09-04",
+   "precisao": "dia",
+   "titulo": "UGLE aprova os oito Princípios Básicos para o Reconhecimento de Grandes Lojas",
+   "verbete": "basic-principles-1929",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "freemasonpt-2020-principios-basicos-ugle",
+    "icart-2022-wcrmgl-regularidade-reconhecimento"
+   ]
+  },
+  {
+   "id": "v03-basic-principles-2018",
+   "data": "2018-09-12",
+   "precisao": "dia",
+   "titulo": "UGLE reescreve o ponto 4 dos Princípios Básicos: membros 'feitos maçons como homens'",
+   "verbete": "basic-principles-1929",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "freemasonpt-2020-principios-basicos-ugle"
+   ]
   }
  ]
 }

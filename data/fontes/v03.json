@@ -1,0 +1,47 @@
+{
+ "lote": "v03",
+ "fontes": [
+  {
+   "id": "freemasonpt-2020-principios-basicos-ugle",
+   "tipo": "pagina",
+   "categoria": "divulgacao",
+   "autores": [
+    "Freemason.pt (portal maçônico português)"
+   ],
+   "titulo": "Princípios Básicos para o Reconhecimento de Grandes Lojas (UGLE)",
+   "ano": 2020,
+   "idioma": "pt",
+   "url": "https://www.freemason.pt/principios-basicos-para-o-reconhecimento-de-grandes-lojas/",
+   "temas": [
+    "regularidade",
+    "principios",
+    "documentos_fundadores"
+   ],
+   "potencias": [
+    "ugle"
+   ],
+   "paises": [
+    "gb",
+    "mundo"
+   ],
+   "periodos": [
+    "p1919_1945",
+    "p1990_hoje"
+   ],
+   "confiabilidade": "C",
+   "acesso": "aberto",
+   "licenca": "página pública (direitos do portal); texto normativo de 1929 da UGLE",
+   "resumo": "Página de 30/1/2020 que reproduz em inglês e em português os oito Princípios Básicos aprovados pela Grande Loja Unida da Inglaterra em 4/9/1929, com a introdução do Board of General Purposes, e já incorpora a nova redação do ponto 4 (sobre mulheres), adotada em 12/9/2018. Útil para conferir o texto enquanto a publicação oficial da UGLE não estiver no acervo.",
+   "observacoes": "Texto secundário; conferir com o Book of Constitutions da UGLE (ugle-1929-basic-principles, lote c07).",
+   "evidencias": [
+    "https://www.freemason.pt/principios-basicos-para-o-reconhecimento-de-grandes-lojas/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "txt/freemasonpt-2020-principios-basicos-ugle.txt",
+    "html/freemasonpt-2020-principios-basicos-ugle.html"
+   ],
+   "lote": "v03"
+  }
+ ]
+}
