@@ -210,6 +210,88 @@
    "fontes": [
     "dermott-1783-ahiman-rezon-abridged"
    ]
+  },
+  {
+   "id": "v03-in-eminenti",
+   "data": "1738-04-28",
+   "precisao": "dia",
+   "titulo": "Clemente XII condena a maçonaria na constituição In eminenti apostolatus specula",
+   "verbete": "in-eminenti-apostolatus-specula",
+   "paises": [
+    "va"
+   ],
+   "fontes": [
+    "clemente12-1738-in-eminenti",
+    "bento14-1751-providas"
+   ],
+   "nota": "A tradução inglesa da Humanum genus dá 24/4/1738."
+  },
+  {
+   "id": "v03-providas",
+   "data": "1751-03-18",
+   "precisao": "dia",
+   "titulo": "Bento XIV confirma a condenação com a bula Providas e enumera seis motivos",
+   "verbete": "providas-romanorum-pontificum",
+   "paises": [
+    "va"
+   ],
+   "fontes": [
+    "bento14-1751-providas"
+   ],
+   "nota": "Gruber (Catholic Encyclopedia) dá 18/5/1751."
+  },
+  {
+   "id": "v03-ecclesiam",
+   "data": "1821-09-13",
+   "precisao": "dia",
+   "titulo": "Pio VII condena a Carbonária na constituição Ecclesiam a Jesu Christo",
+   "verbete": "condenacoes-papais-1821-1873",
+   "paises": [
+    "va",
+    "it"
+   ],
+   "fontes": [
+    "pio7-1821-ecclesiam-a-jesu-christo"
+   ]
+  },
+  {
+   "id": "v03-quo-graviora",
+   "data": "1825-03-13",
+   "precisao": "dia",
+   "titulo": "Leão XII reúne as condenações anteriores na constituição Quo graviora",
+   "verbete": "condenacoes-papais-1821-1873",
+   "paises": [
+    "va"
+   ],
+   "fontes": [
+    "leao12-1825-quo-graviora"
+   ]
+  },
+  {
+   "id": "v03-multiplices",
+   "data": "1865-09-25",
+   "precisao": "dia",
+   "titulo": "Pio IX dedica à maçonaria a alocução Multiplices inter",
+   "verbete": "condenacoes-papais-1821-1873",
+   "paises": [
+    "va"
+   ],
+   "fontes": [
+    "pio9-1865-multiplices-inter"
+   ]
+  },
+  {
+   "id": "v03-humanum-genus",
+   "data": "1884-04-20",
+   "precisao": "dia",
+   "titulo": "Leão XIII publica a encíclica Humanum genus contra a 'seita dos maçons'",
+   "verbete": "humanum-genus",
+   "paises": [
+    "va"
+   ],
+   "fontes": [
+    "leao13-1884-humanum-genus"
+   ]
   }
  ]
 }
