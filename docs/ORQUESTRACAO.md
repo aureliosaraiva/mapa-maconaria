@@ -63,7 +63,7 @@ Ordem de disparo (no máximo 3 sessões simultâneas, por limite de uso): **V05,
 
 | ID | Onda | Escopo | Arquivos de que é dona | Status | Relatório |
 |---|---|---|---|---|---|
-| R01 | 2 | **Reescrita dos resumos do catálogo** que reproduzem trechos da própria fonte (108 apontados pela I01 com `scripts/anticopia.py --com-catalogo`; 94 no c06/REHMLAC+, mais os 340 resumos automáticos da REHMLAC+): paráfrase de 2–4 frases a partir do texto no acervo | campo `resumo` em `data/fontes/*.json` (só esse campo; avisar no relatório) | em andamento | — |
+| R01 | 2 | **Reescrita dos resumos do catálogo** que reproduzem trechos da própria fonte (108 apontados pela I01 com `scripts/anticopia.py --com-catalogo`; 94 no c06/REHMLAC+, mais os 340 resumos automáticos da REHMLAC+): paráfrase de 2–4 frases a partir do texto no acervo | campo `resumo` em `data/fontes/*.json` (só esse campo; avisar no relatório) | concluída | [R01](sessoes/R01.md) — 341 resumos reescritos (340 REHMLAC+, 1 c03) |
 | A01 | 2 | Aprofundamento Brasil/lusófono: rituais brasileiros do séc. XIX (Moderno, Adonhiramita, REAA, Rito Brasileiro 1878/1914/1968), Estado Novo, cisões 1927/1973, maçonaria mista/feminina no Brasil, PALOP/Goa, lei portuguesa 1935; nova tentativa em BN Digital, SciELO, BDTD, RCAAP | `data/fontes/a01-lusofono2.json` | em andamento | — |
 | A02 | 2 | Lacunas mundo: nazismo, URSS, franquismo, Prince Hall (Delany 1853, Upton 1899), França 1870–1940 (Lausanne 1875, GOdF 1877, caso das fichas 1904), RER/Estrita Observância/Clermont, edições de Old Charges (QCA, Knoop-Jones-Hamer), listas alternativas de landmarks, islã/ortodoxia | `data/fontes/a02-mundo2.json` | pendente | — |
 | A03 | 2 | Periódicos e literatura acadêmica: OpenAlex/Crossref (nova tentativa), JRFF, *Heredom*, AQC aberto, Pietre-Stones, REHMLAC+ completa, *Renaissance Traditionnelle*, *Chroniques d'histoire maçonnique*, teses (theses.fr, ProQuest abertos, EThOS) | `data/fontes/a03-periodicos.json` | pendente | — |
@@ -101,7 +101,7 @@ Ordem de disparo (no máximo 3 sessões simultâneas, por limite de uso): **V05,
 | V05 | `session_011fM5cjXSZuEitx2oa2VnZz` | concluída | 2026-11-12 (retomada 2026-11-17) |
 | V01 | `session_011fM5cinVfNKUkv4RYhrBZe` | concluída | 2026-11-12 |
 | V02 | `session_011fM5cisYWgkY8m5wJGBkLh` | em andamento | 2026-11-12 |
-| R01 | `session_011fM5cjgPLLdimnyTZpfo4i` | em andamento | 2026-11-17 (disparada pela V05) |
+| R01 | `session_011fM5cjgPLLdimnyTZpfo4i` | concluída | 2026-11-17 (disparada pela V05) |
 | A01 | `session_011fM5cnJcUTMaZrXFUZrMMo` | em andamento | 2026-11-17 (disparada pela V01) |
 
 ## Registro da orquestradora

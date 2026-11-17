@@ -113,3 +113,9 @@
 - [ ] (P2) DeMolay: a página copiada (`demolay-historia-pagina`) não traz data, local de fundação nem expansão; faltam fontes sobre a implantação no Brasil. O mesmo vale para o Rito de York no Brasil e para a história contemporânea do RER (reintrodução na França no séc. XX).
 - [ ] (P3) Verbetes da família V01 não escritos por falta de tempo/fonte: `rito-irlandes`, `rito-simbolico-italiano` (há `rsi-2022-rituali`), `cruz-vermelha-de-constantino` (`rcc-1872-statutes-red-cross-constantine`), `real-ordem-da-escocia` (fonte D), `rosacrucianismo-maconico-sria` (`plummer-1923-rosicrucian-manual`), graus intermediários do REAA (4º–13º, 15º–17º, 19º–29º, 31º) e as ordens do Rito Francês.
 - [ ] (P3) Anti-cópia global sai com erro por títulos de eventos da linha do tempo da V05 (`v05-cmsb-1966`, `v05-comercio-artes-1815`, `v05-sc-1832`) — nomes próprios longos; a V01 não editou arquivos de outra sessão. Sugerido para a V08.
+
+## R01
+- [ ] (P2) `scripts/anticopia.py --com-catalogo` estoura a memória (MemoryError mesmo com 8 GB): a etapa de "redação próxima" guarda texto e 6-gramas de todas as ~1.000 fontes citadas (`por_id`/`cache`). Calcular e descartar fonte a fonte. Dono: `scripts/` (I01/V08). A R01 verificou com scripts equivalentes, um texto por vez (ver `docs/sessoes/R01.md`).
+- [ ] (P3) Etiquetas automáticas (país, período, tema) e `idioma` dos 340 itens da REHMLAC+ no c06 continuam sem revisão (ex.: `burt-2018-wherever` com `paises: ["al"]`; títulos em inglês ou francês marcados `idioma: es`). A R01 só podia editar `resumo`.
+- [x] (P3) Duplicata suspeita pela V05, `martins-2013-posicionamentos` × `martins-2013-posionamento`: **não é duplicata** (artigo × entrevista sobre a dissertação). Fica para o dono do c06 avaliar se `almeri-2013-entrevista-ditadura` repete a entrevista.
+
