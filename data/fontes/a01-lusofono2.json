@@ -1391,46 +1391,6 @@
    "lote": "a01-lusofono2"
   },
   {
-   "id": "comab-2026-historia",
-   "tipo": "pagina",
-   "categoria": "oficial_potencia",
-   "autores": [
-    "Confederação Maçônica do Brasil (COMAB)"
-   ],
-   "titulo": "História da COMAB",
-   "ano": 2026,
-   "idioma": "pt",
-   "url": "https://comab.org.br/historia-da-comab/",
-   "temas": [
-    "potencias",
-    "regularidade"
-   ],
-   "potencias": [
-    "comab",
-    "gob"
-   ],
-   "paises": [
-    "br"
-   ],
-   "periodos": [
-    "p1946_1989",
-    "p1990_hoje"
-   ],
-   "confiabilidade": "C",
-   "acesso": "oficial_publico",
-   "licenca": "página institucional pública",
-   "resumo": "História oficial da confederação dos Grandes Orientes independentes: a desfiliação conjunta de dez Grandes Orientes estaduais do GOB em 1973, a reunião convocada em Belo Horizonte pelo grão-mestre mineiro Athos Vieira de Andrade e a fundação do Colégio de Presidentes da Maçonaria Brasileira em 4/8/1973, que se transformou na COMAB em 6/4/1991, com as listas de presidentes. Apoia-se em Schüler Sobrinho (Uma luz na história, 1998). Versão de uma das partes da cisão, a ler ao lado das fontes do GOB.",
-   "evidencias": [
-    "https://comab.org.br/historia-da-comab/"
-   ],
-   "status_verificacao": "copiado",
-   "acervo": [
-    "html/comab-2026-historia.html",
-    "txt/comab-2026-historia.txt"
-   ],
-   "lote": "a01-lusofono2"
-  },
-  {
    "id": "comab-2022-estatuto",
    "tipo": "documento",
    "categoria": "oficial_potencia",
