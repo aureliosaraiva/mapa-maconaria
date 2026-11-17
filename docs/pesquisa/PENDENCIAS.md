@@ -119,3 +119,12 @@
 - [ ] (P3) Etiquetas automáticas (país, período, tema) e `idioma` dos 340 itens da REHMLAC+ no c06 continuam sem revisão (ex.: `burt-2018-wherever` com `paises: ["al"]`; títulos em inglês ou francês marcados `idioma: es`). A R01 só podia editar `resumo`.
 - [x] (P3) Duplicata suspeita pela V05, `martins-2013-posicionamentos` × `martins-2013-posionamento`: **não é duplicata** (artigo × entrevista sobre a dissertação). Fica para o dono do c06 avaliar se `almeri-2013-entrevista-ditadura` repete a entrevista.
 
+
+## V02
+- [ ] (P1) Site do GOB (gob.org.br) segue servindo spam a robôs: faltam lista oficial de ritos, potências reconhecidas e números atuais de membros e lojas do GOB. O verbete usa Carvalho (2010), Fernandes (2021), COGMNA e o Supremo Conselho. Ação humana: avisar o GOB e/ou obter cópia limpa.
+- [ ] (P2) Obras de referência só catalogadas, sem texto no acervo: `castellani-1993-historia-gob`, `oliveira-marques-1990-historia-maconaria-portugal`, `oliveira-marques-1986-dicionario`, `ventura-2013-historia-maconaria-portugal`, `berman-2013-schism`, `harland-jacobs-2007-builders-empire`, `hinks-kantrowitz-2013-all-men-free` (obras comerciais: COLETA.md).
+- [ ] (P2) Relatórios da COGMNA de 2020 a 2024 ausentes do acervo (o índice de conclusões os cita: Grandes Orientes estaduais brasileiros em 2020, Grande Oriente da Paraíba em 2024).
+- [ ] (P2) Sites institucionais inacessíveis para verbetes da V02: GLNF (403), CLIPSAS (522), Supremo Conselho do Brasil (502), Grande Oriente Lusitano (não localizado); página "Fundación de la Gran Logia" da Gran Logia de la Argentina não coletada (data de constituição).
+- [ ] (P3) Números atuais de membros sem fonte no acervo: GOB, GLFF, GOdF (fonte oficial; hoje só Wikipédia, nota D), Gran Logia de la Argentina, Gran Logia de Chile, CMSB por Grande Loja.
+- [ ] (P3) `ugle-1929-basic-principles` continua `pista`: o conteúdo dos oito princípios nos verbetes vem da paráfrase de Icart (2022) e da constituição da GLE (2025). Copiar o texto de 1929 (domínio público?) para conferência.
+- [ ] (P3) O `anticopia.py` acusa 7 erros em arquivos da V05 (3 verbetes e 3 eventos `v05-*` da linha do tempo, além de 1 resumo), fora do escopo da V02; reescrever (V05 ou V08).

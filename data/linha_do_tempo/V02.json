@@ -1,0 +1,551 @@
+{
+ "_meta": {
+  "descricao": "Fragmento da linha do tempo da sessão V02 (potências e regularidade)."
+ },
+ "sessao": "V02",
+ "eventos": [
+  {
+   "id": "v02-ugle-1717",
+   "data": "1717-06-24",
+   "precisao": "dia",
+   "titulo": "Fundação tradicional da Grande Loja de Londres (data contestada: Prescott e Sommers propõem 24/6/1721)",
+   "verbete": "grande-loja-unida-da-inglaterra",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "ugle-2026-history",
+    "prescott-sommers-2017-apple-tree"
+   ],
+   "nota": "Data baseada em Anderson (1738)."
+  },
+  {
+   "id": "v02-glirlanda-1725",
+   "data": "1725",
+   "precisao": "ano",
+   "titulo": "Grande Loja da Irlanda já formada",
+   "verbete": "grande-loja-da-irlanda",
+   "paises": [
+    "ie"
+   ],
+   "fontes": [
+    "glireland-2026-about"
+   ]
+  },
+  {
+   "id": "v02-glescocia-1736",
+   "data": "1736",
+   "precisao": "ano",
+   "titulo": "Fundação da Grande Loja da Escócia; William St Clair of Roslin primeiro Grand Master Mason",
+   "verbete": "grande-loja-da-escocia",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "glscotland-2026-history"
+   ]
+  },
+  {
+   "id": "v02-alemanha-1740",
+   "data": "1740",
+   "precisao": "ano",
+   "titulo": "Frederico II transforma a loja da corte na Grande Loja Nacional Mãe Três Globos",
+   "verbete": "grandes-lojas-unidas-da-alemanha",
+   "paises": [
+    "de"
+   ],
+   "fontes": [
+    "vglvd-2026-gruendungsgeschichte",
+    "schoen-2022-wcrmgl-grande-loja-alemanha"
+   ]
+  },
+  {
+   "id": "v02-godf-1773",
+   "data": "1773",
+   "precisao": "ano",
+   "titulo": "Constituição do Grande Oriente de França",
+   "verbete": "grande-oriente-de-franca",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "kiyasov-2024-france-prerevolutionary",
+    "gldf-2026-trois-siecles"
+   ]
+  },
+  {
+   "id": "v02-african-lodge-1784",
+   "data": "1784-09-29",
+   "precisao": "dia",
+   "titulo": "Carta da Grande Loja de Londres à African Lodge nº 459 (Prince Hall)",
+   "verbete": "maconaria-prince-hall",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "phglma-2026-prince-hall-freemasonry",
+    "grimshaw-1903-colored-people"
+   ],
+   "nota": "Algumas fontes dão 20/9/1784."
+  },
+  {
+   "id": "v02-scsj-1801",
+   "data": "1801-05-31",
+   "precisao": "dia",
+   "titulo": "Abertura do Supremo Conselho do 33º grau em Charleston",
+   "verbete": "supremo-conselho-da-jurisdicao-sul",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "sc-sj-2026-history"
+   ]
+  },
+  {
+   "id": "v02-uniao-1813",
+   "data": "1813-12-27",
+   "precisao": "dia",
+   "titulo": "União de Moderns e Antients na Grande Loja Unida da Inglaterra",
+   "verbete": "grande-loja-unida-da-inglaterra",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "ugle-2026-history"
+   ]
+  },
+  {
+   "id": "v02-gob-1822",
+   "data": "1822-06-17",
+   "precisao": "dia",
+   "titulo": "Fundação do Grande Oriente Brasílico (GOB) no Rio de Janeiro",
+   "verbete": "grande-oriente-do-brasil",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "carvalho-2010-pequena-historia"
+   ]
+  },
+  {
+   "id": "v02-cuba-1859",
+   "data": "1859",
+   "precisao": "ano",
+   "titulo": "Criação da Gran Logia de Colón em Santiago de Cuba, sob influência de Albert Pike",
+   "verbete": "gran-logia-de-cuba",
+   "paises": [
+    "cu"
+   ],
+   "fontes": [
+    "romeu-2020-autochthonous"
+   ]
+  },
+  {
+   "id": "v02-chile-1862",
+   "data": "1862",
+   "precisao": "ano",
+   "titulo": "Três lojas de Valparaíso fundam a Gran Logia de Chile, rompendo com o GOdF",
+   "verbete": "gran-logia-de-chile",
+   "paises": [
+    "cl"
+   ],
+   "fontes": [
+    "del-2010-francmasoneria"
+   ]
+  },
+  {
+   "id": "v02-golu-1869",
+   "data": "1869",
+   "precisao": "ano",
+   "titulo": "Fusão dos Grandes Orientes Português e Lusitano no Grande Oriente Lusitano Unido",
+   "verbete": "grande-oriente-lusitano",
+   "paises": [
+    "pt"
+   ],
+   "fontes": [
+    "golu-1914-memoria-supremo-conselho",
+    "lennhoff-1932-internationales-freimaurerlexikon"
+   ],
+   "nota": "Lennhoff data a formação de 1870."
+  },
+  {
+   "id": "v02-gobelgica-1872",
+   "data": "1872",
+   "precisao": "ano",
+   "titulo": "Grande Oriente da Bélgica deixa de obrigar a invocação do Grande Arquiteto",
+   "verbete": "grande-oriente-da-belgica",
+   "paises": [
+    "be"
+   ],
+   "fontes": [
+    "gobe-2026-historique"
+   ]
+  },
+  {
+   "id": "v02-godf-1877",
+   "data": "1877-09",
+   "precisao": "mes",
+   "titulo": "Moção IX do GOdF retira a crença em Deus e na imortalidade da alma dos princípios constitucionais",
+   "verbete": "grande-oriente-de-franca",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "masonicmouse-2019-motion-1877",
+    "mombo-2022-wcrmgl-regulares-irregulares"
+   ]
+  },
+  {
+   "id": "v02-droithumain-1893",
+   "data": "1893-04-04",
+   "precisao": "dia",
+   "titulo": "Fundação de Le Droit Humain, primeira obediência mista",
+   "verbete": "ordem-maconica-mista-internacional-le-droit-humain",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "droithumain-fr-2026-histoire"
+   ]
+  },
+  {
+   "id": "v02-glnf-1913",
+   "data": "1913",
+   "precisao": "ano",
+   "titulo": "Duas lojas saem do GOdF e fundam a futura GLNF, reconhecida pela UGLE",
+   "verbete": "grande-loja-nacional-francesa",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "wikipedia-fr-2026-franc-maconnerie-en-france"
+   ]
+  },
+  {
+   "id": "v02-gosp-1921",
+   "data": "1921",
+   "precisao": "ano",
+   "titulo": "Fundação do Grande Oriente de São Paulo após eleição contestada no GOB",
+   "verbete": "grande-oriente-de-sao-paulo",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "gosp-2026-historia"
+   ]
+  },
+  {
+   "id": "v02-goi-1925",
+   "data": "1925",
+   "precisao": "ano",
+   "titulo": "Grande Oriente d'Italia dissolve as lojas diante da lei fascista de associações",
+   "verbete": "grande-oriente-d-italia",
+   "paises": [
+    "it"
+   ],
+   "fontes": [
+    "goi-2026-storia"
+   ]
+  },
+  {
+   "id": "v02-glesp-1927",
+   "data": "1927-07-02",
+   "precisao": "dia",
+   "titulo": "Instalação da GLESP, Grande Loja paulista",
+   "verbete": "grande-loja-maconica-do-estado-de-sao-paulo",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "glesp-2026-historia",
+    "cmsb-2026-sobre"
+   ]
+  },
+  {
+   "id": "v02-glmmg-1927",
+   "data": "1927-09-25",
+   "precisao": "dia",
+   "titulo": "Criação da Grande Loja Maçônica de Minas Gerais",
+   "verbete": "grande-loja-maconica-de-minas-gerais",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "glmmg-2026-historia"
+   ]
+  },
+  {
+   "id": "v02-basic-principles-1929",
+   "data": "1929-09-04",
+   "precisao": "dia",
+   "titulo": "UGLE publica os Basic Principles for Grand Lodge Recognition",
+   "verbete": "regularidade-e-reconhecimento",
+   "paises": [
+    "gb",
+    "mundo"
+   ],
+   "fontes": [
+    "icart-2022-wcrmgl-regularidade-reconhecimento"
+   ]
+  },
+  {
+   "id": "v02-gomg-1944",
+   "data": "1944-09-12",
+   "precisao": "dia",
+   "titulo": "Fundação do Grande Oriente de Minas Gerais",
+   "verbete": "grande-oriente-de-minas-gerais",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "gomg-2026-nossa-historia"
+   ]
+  },
+  {
+   "id": "v02-glff-1945",
+   "data": "1945-10-21",
+   "precisao": "dia",
+   "titulo": "Lojas de adoção formam a União Maçônica Feminina de França (GLFF desde 1952)",
+   "verbete": "grande-loja-feminina-de-franca",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "glff-2021-plaquette"
+   ]
+  },
+  {
+   "id": "v02-cmi-1947",
+   "data": "1947-04-14",
+   "precisao": "dia",
+   "titulo": "Fundação da Confederação Maçônica Interamericana",
+   "verbete": "confederacao-maconica-interamericana",
+   "paises": [
+    "al"
+   ],
+   "fontes": [
+    "goi-2026-identita",
+    "macedo-2022-wcrmgl-cmi-80-anos"
+   ]
+  },
+  {
+   "id": "v02-cogmna-1952",
+   "data": "1952",
+   "precisao": "ano",
+   "titulo": "Criação da Commission on Information for Recognition da conferência norte-americana",
+   "verbete": "conferencia-dos-graos-mestres-da-america-do-norte",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "cogmna-1973-cir-report"
+   ],
+   "nota": "Icart data de 1951."
+  },
+  {
+   "id": "v02-vglvd-1958",
+   "data": "1958-04-27",
+   "precisao": "dia",
+   "titulo": "Fundação das Grandes Lojas Unidas da Alemanha",
+   "verbete": "grandes-lojas-unidas-da-alemanha",
+   "paises": [
+    "de"
+   ],
+   "fontes": [
+    "vglvd-2026-gruendungsgeschichte"
+   ]
+  },
+  {
+   "id": "v02-clipsas-1961",
+   "data": "1961-01-22",
+   "precisao": "dia",
+   "titulo": "Apelo de Estrasburgo e criação do CLIPSAS",
+   "verbete": "clipsas",
+   "paises": [
+    "fr",
+    "mundo"
+   ],
+   "fontes": [
+    "fmnetwork-1961-strasbourg-appeal",
+    "fmnetwork-2026-clipsas"
+   ]
+  },
+  {
+   "id": "v02-cmsb-1966",
+   "data": "1966-07-27",
+   "precisao": "dia",
+   "titulo": "Instalação da Confederação da Maçonaria Simbólica do Brasil em São Paulo",
+   "verbete": "confederacao-da-maconaria-simbolica-do-brasil",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "cmsb-2026-sobre"
+   ]
+  },
+  {
+   "id": "v02-goi-ugle-1972",
+   "data": "1972-09-13",
+   "precisao": "dia",
+   "titulo": "UGLE reconhece o Grande Oriente d'Italia",
+   "verbete": "grande-oriente-d-italia",
+   "paises": [
+    "it",
+    "gb"
+   ],
+   "fontes": [
+    "cogmna-1973-cir-report"
+   ]
+  },
+  {
+   "id": "v02-comab-1973",
+   "data": "1973-08-04",
+   "precisao": "dia",
+   "titulo": "Em Belo Horizonte, Grandes Orientes dissidentes do GOB criam o Colégio de Grão-Mestres, futura COMAB",
+   "verbete": "confederacao-maconica-do-brasil",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "comab-2026-historia",
+    "comab-2026-estatuto"
+   ]
+  },
+  {
+   "id": "v02-gob-brasilia-1978",
+   "data": "1978-07-13",
+   "precisao": "dia",
+   "titulo": "GOB transfere sua sede para Brasília",
+   "verbete": "grande-oriente-do-brasil",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "carvalho-2010-pequena-historia"
+   ]
+  },
+  {
+   "id": "v02-glrb-1979",
+   "data": "1979-05-04",
+   "precisao": "dia",
+   "titulo": "Comissão norte-americana deixa de considerar regular a Grande Loja da Bélgica; surge a Grande Loja Regular da Bélgica",
+   "verbete": "grande-oriente-da-belgica",
+   "paises": [
+    "be"
+   ],
+   "fontes": [
+    "cogmna-1980-cir-report"
+   ]
+  },
+  {
+   "id": "v02-gle-1982",
+   "data": "1982-11-06",
+   "precisao": "dia",
+   "titulo": "Consagração da Gran Logia de España pela GLNF",
+   "verbete": "gran-logia-de-espana",
+   "paises": [
+    "es"
+   ],
+   "fontes": [
+    "cogmna-1983-cir-report"
+   ]
+  },
+  {
+   "id": "v02-goi-1986",
+   "data": "1986",
+   "precisao": "ano",
+   "titulo": "Comissão norte-americana recomenda retirar o reconhecimento do GOI (restabelecido em 1989)",
+   "verbete": "grande-oriente-d-italia",
+   "paises": [
+    "it"
+   ],
+   "fontes": [
+    "cogmna-1986-cir-report",
+    "cogmna-1989-cir-report"
+   ]
+  },
+  {
+   "id": "v02-comab-1991",
+   "data": "1991-04-06",
+   "precisao": "dia",
+   "titulo": "Colégio de Grão-Mestres passa a chamar-se Confederação Maçônica do Brasil",
+   "verbete": "confederacao-maconica-do-brasil",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "comab-2026-estatuto"
+   ]
+  },
+  {
+   "id": "v02-glrp-1991",
+   "data": "1991-06",
+   "precisao": "mes",
+   "titulo": "Consagração da Grande Loja Regular de Portugal pela GLNF",
+   "verbete": "grande-loja-legal-de-portugal",
+   "paises": [
+    "pt"
+   ],
+   "fontes": [
+    "gllp-2026-historia",
+    "cogmna-1999-cir-report"
+   ],
+   "nota": "19 ou 29 de junho, conforme a fonte."
+  },
+  {
+   "id": "v02-glri-1993",
+   "data": "1993-06",
+   "precisao": "mes",
+   "titulo": "UGLE reconhece a Grande Loja Regular da Itália",
+   "verbete": "grande-oriente-d-italia",
+   "paises": [
+    "it",
+    "gb"
+   ],
+   "fontes": [
+    "cogmna-1994-cir-report"
+   ]
+  },
+  {
+   "id": "v02-glesp-gob-1999",
+   "data": "1999-10-15",
+   "precisao": "dia",
+   "titulo": "Tratado GOB–GLESP; em 8/12/1999 a UGLE reconhece a GLESP",
+   "verbete": "grande-loja-maconica-do-estado-de-sao-paulo",
+   "paises": [
+    "br",
+    "gb"
+   ],
+   "fontes": [
+    "cogmna-2000-cir-report"
+   ]
+  },
+  {
+   "id": "v02-go-estaduais-2017",
+   "data": "2017",
+   "precisao": "ano",
+   "titulo": "Comissão norte-americana passa a considerar regulares Grandes Orientes estaduais brasileiros com tratados (PR, SC, RS, MT)",
+   "verbete": "confederacao-maconica-do-brasil",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "cogmna-2019-cir-reports-2004-2019"
+   ]
+  },
+  {
+   "id": "v02-gosp-2018",
+   "data": "2018",
+   "precisao": "ano",
+   "titulo": "Grande Oriente de São Paulo deixa o GOB",
+   "verbete": "grande-oriente-de-sao-paulo",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "gosp-2026-historia",
+    "cogmna-2025-cir-report-2"
+   ]
+  }
+ ]
+}
