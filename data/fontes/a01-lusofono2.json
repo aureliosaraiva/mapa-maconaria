@@ -1612,6 +1612,786 @@
     "txt/delagoabayworld-maconaria-mocambique-1900-1935.txt"
    ],
    "lote": "a01-lusofono2"
+  },
+  {
+   "id": "santos-2022-maconaria-igreja-imprensa-goiana",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Alexandre Coelho dos Santos"
+   ],
+   "titulo": "A Maçonaria e a Igreja Católica na imprensa goiana (1889-1930)",
+   "ano": 2022,
+   "idioma": "pt",
+   "editora": "Universidade Estadual de Goiás",
+   "local": "Anápolis",
+   "url": "http://www.bdtd.ueg.br/handle/tede/1402",
+   "identificadores": {
+    "bdtd": "UEG-2_6cdcc02f7832e88954d3d3f143006e32"
+   },
+   "temas": [
+    "religiao",
+    "antimaconaria"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1871_1918",
+    "p1919_1945"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional; direitos do autor)",
+   "resumo": "Dissertação sobre os embates entre maçons e clero católico na imprensa de Goiás na Primeira República, situados primeiro no quadro nacional e depois na escala regional. Amplia para o Centro-Oeste o mapa dos conflitos Igreja–maçonaria posteriores à Questão Religiosa.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UEG-2_6cdcc02f7832e88954d3d3f143006e32"
+   ],
+   "status_verificacao": "conferido_web",
+   "observacoes": "PDF não copiado: o repositório da UEG não expôs o arquivo ao acesso automatizado.",
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "silva-2010-macons-presbiterianos-sorocaba",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Ivanilson Bezerra da Silva"
+   ],
+   "titulo": "A cidade, a Igreja e a escola: relações de poder entre maçons e presbiterianos em Sorocaba na segunda metade do século XIX",
+   "ano": 2010,
+   "idioma": "pt",
+   "editora": "Universidade de São Paulo, Faculdade de Educação",
+   "local": "São Paulo",
+   "url": "https://bdtd.ibict.br/vufind/Record/USP_944799b21b1fedce5d56292c311ecdeb",
+   "identificadores": {
+    "bdtd": "USP_944799b21b1fedce5d56292c311ecdeb"
+   },
+   "temas": [
+    "sociabilidade",
+    "religiao",
+    "politica"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional; direitos do autor)",
+   "resumo": "Dissertação sobre a modernização de Sorocaba entre 1870 e 1900 e a rede de poder que uniu maçons e a escola presbiteriana local, no quadro do fim da escravidão, da industrialização e da República. Exemplo da aliança maçonaria–protestantismo na educação paulista.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/USP_944799b21b1fedce5d56292c311ecdeb"
+   ],
+   "status_verificacao": "conferido_web",
+   "observacoes": "PDF não copiado: teses.usp.br carrega por JavaScript; URL aponta para o registro na BDTD.",
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "castro-2008-cruz-compasso-juiz-de-fora",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Giane de Souza Castro"
+   ],
+   "titulo": "A cruz e o compasso: o conflito entre Igreja Católica e Maçonaria no contexto da Reforma Católica Ultramontana em Juiz de Fora",
+   "ano": 2008,
+   "idioma": "pt",
+   "editora": "Universidade Federal de Juiz de Fora, Programa de Pós-Graduação em História",
+   "local": "Juiz de Fora",
+   "url": "https://repositorio.ufjf.br/jspui/handle/ufjf/3348",
+   "identificadores": {
+    "bdtd": "UFJF_cac681138ae6fade99c36736ea0bf39d"
+   },
+   "temas": [
+    "religiao",
+    "antimaconaria",
+    "sociabilidade"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1919_1945"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional; direitos do autor)",
+   "resumo": "Dissertação sobre a ofensiva das autoridades católicas de Juiz de Fora contra a maçonaria nas décadas de 1920 a 1940, embora as lojas existissem na cidade desde 1870, como parte da reforma ultramontana. Útil para a relação Igreja–maçonaria às vésperas e durante o Estado Novo.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UFJF_cac681138ae6fade99c36736ea0bf39d"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/castro-2008-cruz-compasso-juiz-de-fora.pdf",
+    "txt/castro-2008-cruz-compasso-juiz-de-fora.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "oliveira-2017-igreja-maconaria-pernambuco",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Carmem Lopes de Oliveira"
+   ],
+   "titulo": "Entre Deus e o grande arquiteto do universo: relações conflituosas entre a igreja católica e a maçonaria em Pernambuco (final do século XIX e início do XX)",
+   "ano": 2017,
+   "idioma": "pt",
+   "editora": "Universidade Federal Rural de Pernambuco, Programa de Pós-Graduação em História",
+   "local": "Recife",
+   "url": "http://www.tede2.ufrpe.br:8080/tede2/handle/tede2/7575",
+   "identificadores": {
+    "bdtd": "URPE_1a15e7aed9496d329e4fcaa833033ee5"
+   },
+   "temas": [
+    "religiao",
+    "politica"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional; direitos do autor)",
+   "resumo": "Dissertação sobre os conflitos entre maçons, defensores de uma ideologia liberal e cientificista, e intelectuais católicos tradicionalistas em Pernambuco na passagem da Monarquia à República e na separação Igreja–Estado.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/URPE_1a15e7aed9496d329e4fcaa833033ee5"
+   ],
+   "status_verificacao": "conferido_web",
+   "observacoes": "PDF não copiado: servidor tede2.ufrpe.br:8080 sem resposta.",
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "tavares-2007-cruz-esquadro-franca",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Marcelo dos Reis Tavares"
+   ],
+   "titulo": "Entre a cruz e o esquadro: o debate entre a Igreja Católica e a Maçonaria na imprensa francana (1882-1901)",
+   "ano": 2007,
+   "idioma": "pt",
+   "editora": "Universidade Estadual Paulista (Unesp), Faculdade de Ciências Humanas e Sociais",
+   "local": "Franca",
+   "url": "http://hdl.handle.net/11449/93291",
+   "identificadores": {
+    "bdtd": "UNSP_f69e8731e5fa5d0e62ec8622db4ecd64"
+   },
+   "temas": [
+    "religiao",
+    "antimaconaria"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional; direitos do autor)",
+   "resumo": "Dissertação sobre a polêmica entre clérigos e maçons nos jornais de Franca (SP) de 1882 a 1901, lida à luz do combate de Pio IX e Leão XIII ao liberalismo e à maçonaria. Caso local bem documentado da guerra de imprensa pós-Questão Religiosa.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UNSP_f69e8731e5fa5d0e62ec8622db4ecd64"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/tavares-2007-cruz-esquadro-franca.pdf",
+    "txt/tavares-2007-cruz-esquadro-franca.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "guedes-2010-maconaria-igreja-anglicana-rs",
+   "tipo": "tese",
+   "categoria": "tese",
+   "autores": [
+    "Berenice Lagos Guedes"
+   ],
+   "titulo": "História da educação no Rio Grande do Sul, Maçonaria e Igreja Anglicana: algumas imbricações, contradições e paradoxos (1901/1970)",
+   "ano": 2010,
+   "idioma": "pt",
+   "editora": "Universidade Federal de Pelotas, Programa de Pós-Graduação em Educação",
+   "local": "Pelotas",
+   "url": "http://guaiaca.ufpel.edu.br/handle/123456789/1745",
+   "identificadores": {
+    "bdtd": "UFPL_176ed827684a86f043faeaf90a92b1f5"
+   },
+   "temas": [
+    "religiao",
+    "sociabilidade"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1871_1918",
+    "p1919_1945",
+    "p1946_1989"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional; direitos do autor)",
+   "resumo": "Tese sobre a atuação conjunta da Igreja Episcopal Anglicana e da maçonaria na educação gaúcha, na defesa do ensino laico e da abertura do campo escolar a confissões não católicas, a partir do jornal oficial da igreja. Complementa drey-marcon-2016-educacao-anglicana (c05).",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UFPL_176ed827684a86f043faeaf90a92b1f5"
+   ],
+   "status_verificacao": "conferido_web",
+   "observacoes": "PDF não copiado: Guaiaca (UFPel) com verificação anti-robô.",
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "silva-2000-alianca-artistica-quixada",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Marcos José Diniz Silva"
+   ],
+   "titulo": "Lapidando a pedra bruta: a maçonaria na organização de artistas e proletários cearenses",
+   "ano": 2000,
+   "idioma": "pt",
+   "editora": "Universidade Estadual do Ceará",
+   "local": "Fortaleza",
+   "url": "https://siduece.uece.br/siduece/trabalhoAcademicoPublico.jsf?id=14196",
+   "identificadores": {
+    "bdtd": "UECE-0_7e0b4a5d0d2d4ae746f17ea217b55945"
+   },
+   "temas": [
+    "sociabilidade",
+    "politica"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1919_1945"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional; direitos do autor)",
+   "resumo": "Dissertação sobre a Aliança Artística e Proletária de Quixadá (CE), fundada em 1921 por maçons, que reproduzia a estrutura e o simbolismo de uma loja num projeto beneficente e educativo para trabalhadores, de inspiração ilustrada e positivista. Mostra a maçonaria diante da 'questão social' nos anos 1920.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UECE-0_7e0b4a5d0d2d4ae746f17ea217b55945"
+   ],
+   "status_verificacao": "conferido_web",
+   "observacoes": "PDF não copiado: sistema SIDUECE (JSF) não permite download direto.",
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "magalhaes-2013-maconaria-educacao-republicano",
+   "tipo": "tese",
+   "categoria": "tese",
+   "autores": [
+    "Fernando da Silva Magalhães"
+   ],
+   "titulo": "Maçonaria e Educação: contribuições para o ideário republicano",
+   "ano": 2013,
+   "idioma": "pt",
+   "editora": "Universidade do Estado do Rio de Janeiro, Programa de Pós-Graduação em Educação",
+   "local": "Rio de Janeiro",
+   "url": "http://www.bdtd.uerj.br/handle/1/10345",
+   "identificadores": {
+    "bdtd": "UERJ_c76ff4e42cbb857806845223471729c4"
+   },
+   "temas": [
+    "sociabilidade",
+    "politica",
+    "religiao"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1871_1918",
+    "p1919_1945"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional; direitos do autor)",
+   "resumo": "Tese que rastreia, em atas de lojas e documentos internos, as marcas da maçonaria no campo educacional brasileiro do fim do Império até 1930 e opõe o conceito maçônico de ilustração à proposta pedagógica católica.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UERJ_c76ff4e42cbb857806845223471729c4"
+   ],
+   "status_verificacao": "conferido_web",
+   "observacoes": "PDF não copiado: bdtd.uerj.br sem resposta.",
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "silva-2009-macons-espiritas-teosofistas-ceara",
+   "tipo": "tese",
+   "categoria": "tese",
+   "autores": [
+    "Marcos José Diniz Silva"
+   ],
+   "titulo": "Moderno-espiritualismo e espaço público republicano: maçons, espíritas e teosofistas no Ceará",
+   "ano": 2009,
+   "idioma": "pt",
+   "editora": "Universidade Federal do Ceará, Programa de Pós-Graduação em Sociologia",
+   "local": "Fortaleza",
+   "url": "http://www.repositorio.ufc.br/handle/riufc/6253",
+   "identificadores": {
+    "bdtd": "UFC-7_1631f3c100ac7d01faa33a36dea0b130"
+   },
+   "temas": [
+    "esoterismo",
+    "religiao",
+    "sociabilidade"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1871_1918",
+    "p1919_1945"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional; direitos do autor)",
+   "resumo": "Tese de sociologia (344 f.) que trata maçons, espíritas e teosofistas como uma rede moderno-espiritualista que disputou o espaço público republicano no Ceará, em afinidade e em atrito com a Igreja. Registra as ligações entre teosofia e maçonaria (inclusive a co-maçonaria do Le Droit Humain, mencionada em termos gerais) e serve de contexto para a maçonaria mista no Brasil.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UFC-7_1631f3c100ac7d01faa33a36dea0b130"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/silva-2009-macons-espiritas-teosofistas-ceara.pdf",
+    "txt/silva-2009-macons-espiritas-teosofistas-ceara.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "ferreira-2023-coronel-coriolano-cacapava",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Zilamar Teixeira de Carvalho Ferreira"
+   ],
+   "titulo": "O Coronel Coriolano Alves de Oliveira e Castro: trajetória como político e maçom em Caçapava, RS - 1891 a 1939",
+   "ano": 2023,
+   "idioma": "pt",
+   "editora": "Universidade Federal de Santa Maria, Programa de Pós-Graduação em História",
+   "local": "Santa Maria",
+   "url": "http://repositorio.ufsm.br/handle/1/31140",
+   "identificadores": {
+    "bdtd": "UFSM_90702db9c81ee6abde9eccdfad464670"
+   },
+   "temas": [
+    "personalidades",
+    "politica"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1871_1918",
+    "p1919_1945"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional; direitos do autor)",
+   "resumo": "Dissertação biográfica, com documentos de acervos privados e públicos e jornais, sobre um chefe político e maçom de Caçapava do Sul entre 1891 e 1939. Caso de coronelismo e sociabilidade maçônica no interior gaúcho.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UFSM_90702db9c81ee6abde9eccdfad464670"
+   ],
+   "status_verificacao": "conferido_web",
+   "observacoes": "PDF não copiado: repositorio.ufsm.br sem resposta.",
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "sousa-2025-campo-maconico-rio-grande-do-norte",
+   "tipo": "tese",
+   "categoria": "tese",
+   "autores": [
+    "Kleber Cavalcante de Sousa"
+   ],
+   "titulo": "O campo maçônico na Província do Rio Grande do Norte: a atuação de comerciantes, bacharéis e militares",
+   "ano": 2025,
+   "idioma": "pt",
+   "editora": "Universidade Federal do Rio Grande do Norte, Programa de Pós-Graduação em História",
+   "local": "Natal",
+   "url": "https://repositorio.ufrn.br/handle/123456789/63971",
+   "identificadores": {
+    "bdtd": "UFRN_c1b689c570784c9a70a7f2cce66756af"
+   },
+   "temas": [
+    "sociabilidade",
+    "politica"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1814_1870",
+    "p1871_1918"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional; direitos do autor)",
+   "resumo": "Tese sobre as lojas do Rio Grande do Norte no século XIX, a partir da primeira, fundada em 1836, e sobre como reuniram bacharéis, comerciantes, proprietários, militares e padres num espaço de negociação política protegido pelo segredo.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UFRN_c1b689c570784c9a70a7f2cce66756af"
+   ],
+   "status_verificacao": "conferido_web",
+   "observacoes": "PDF não copiado: repositorio.ufrn.br não expôs o arquivo.",
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "ferreira-2016-mossoroense-questao-religiosa",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Elioenai de Souza Ferreira"
+   ],
+   "titulo": "O jornal O Mossoroense e a questão religiosa: representações sobre maçons e ultramontanos (1872-1875)",
+   "ano": 2016,
+   "idioma": "pt",
+   "editora": "Universidade Federal de Campina Grande, Programa de Pós-Graduação em História",
+   "local": "Campina Grande",
+   "url": "http://dspace.sti.ufcg.edu.br:8080/jspui/handle/riufcg/601",
+   "identificadores": {
+    "bdtd": "UCB-2_4a96f57b69128c4c063feb9e64f1b2d2"
+   },
+   "temas": [
+    "religiao",
+    "politica"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional; direitos do autor)",
+   "resumo": "Dissertação sobre as representações de maçonaria, ultramontanismo, república e protestantismo no jornal O Mossoroense durante a Questão Religiosa (1872-1875), mostrando sua repercussão no interior potiguar.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UCB-2_4a96f57b69128c4c063feb9e64f1b2d2"
+   ],
+   "status_verificacao": "conferido_web",
+   "observacoes": "PDF não copiado: servidor dspace.sti.ufcg.edu.br:8080 sem resposta.",
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "santos-2011-imprensa-maconaria-para",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Alan Christian de Souza Santos"
+   ],
+   "titulo": "O que revelar? o que esconder? imprensa & maçonaria no findar do dezenove (Pará, 1872-1892)",
+   "ano": 2011,
+   "idioma": "pt",
+   "editora": "Universidade Federal do Pará, Programa de Pós-Graduação em História Social da Amazônia",
+   "local": "Belém",
+   "url": "https://repositorio.ufpa.br/handle/2011/4555",
+   "identificadores": {
+    "bdtd": "UFPA_4b820bfc57e0cee80e785ba60ff36b26"
+   },
+   "temas": [
+    "sociabilidade",
+    "religiao"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional; direitos do autor)",
+   "resumo": "Dissertação que lê a imprensa maçônica paraense entre o segredo e a publicidade: a criação do jornal oficial O Pelicano contra o ultramontano A Boa Nova durante a Questão Religiosa e sua posterior suspensão; identifica nominalmente um grande conjunto de maçons de Belém.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UFPA_4b820bfc57e0cee80e785ba60ff36b26"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/santos-2011-imprensa-maconaria-para.pdf",
+    "txt/santos-2011-imprensa-maconaria-para.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "santos-2012-correio-braziliense-sociabilidade",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Bruna Melo dos Santos"
+   ],
+   "titulo": "Correio Braziliense: um olhar sobre a sociabilidade maçônica (1808-1822)",
+   "ano": 2012,
+   "idioma": "pt",
+   "editora": "Universidade do Estado do Rio de Janeiro, Programa de Pós-Graduação em História",
+   "local": "Rio de Janeiro",
+   "url": "http://www.bdtd.uerj.br/handle/1/13105",
+   "identificadores": {
+    "bdtd": "UERJ_8505ccd7ce4c00152f236a9f39edee88"
+   },
+   "temas": [
+    "sociabilidade",
+    "personalidades",
+    "politica"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional; direitos do autor)",
+   "resumo": "Dissertação sobre o modelo de sociabilidade maçônica defendido por Hipólito José da Costa no Correio Braziliense e sobre as memórias construídas por seus biógrafos. Os artigos derivados já estão no catálogo (melo-2013-hipolito, melo-2013-correio, lote c06).",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UERJ_8505ccd7ce4c00152f236a9f39edee88"
+   ],
+   "status_verificacao": "conferido_web",
+   "observacoes": "PDF não copiado: bdtd.uerj.br sem resposta.",
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "siqueira-2011-hipolito-costa-maconaria",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Lamon Fernandes de Siqueira"
+   ],
+   "titulo": "Hipólito da Costa e a Maçonaria: a formação da esfera pública moderna brasileira e o vocabulário político maçônico no Correio Braziliense",
+   "ano": 2011,
+   "idioma": "pt",
+   "editora": "Universidade Federal de Ouro Preto, Programa de Pós-Graduação em História",
+   "local": "Mariana",
+   "url": "http://www.repositorio.ufop.br/handle/123456789/2411",
+   "identificadores": {
+    "bdtd": "UFOP_7be21db24d55264cc31c364e18855887"
+   },
+   "temas": [
+    "politica",
+    "personalidades",
+    "simbolismo"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional; direitos do autor)",
+   "resumo": "Dissertação sobre os conceitos maçônicos na linguagem política de Hipólito José da Costa no Correio Braziliense e seu papel na formação da geração da Independência. Liga-se à fonte primária das Instrucções de 1833, baseadas nos compêndios de Hipólito.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UFOP_7be21db24d55264cc31c364e18855887"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/siqueira-2011-hipolito-costa-maconaria.pdf",
+    "txt/siqueira-2011-hipolito-costa-maconaria.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "bertante-2017-italianos-macons-juiz-de-fora",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Rafael de Souza Bertante"
+   ],
+   "titulo": "Um olhar sobre a sociabilidade italiana em Juiz de Fora: italianos maçons e a “Unione Italiana Benso di Cavour”",
+   "ano": 2017,
+   "idioma": "pt",
+   "editora": "Universidade Federal de Juiz de Fora, Programa de Pós-Graduação em História",
+   "local": "Juiz de Fora",
+   "url": "https://repositorio.ufjf.br/jspui/handle/ufjf/6127",
+   "identificadores": {
+    "bdtd": "UFJF_3aeaed8fe300f187dbff3a6c2c31d03c"
+   },
+   "temas": [
+    "sociabilidade"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1871_1918",
+    "p1919_1945"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional; direitos do autor)",
+   "resumo": "Dissertação sobre o associativismo dos imigrantes italianos de Juiz de Fora nas duas primeiras décadas do século XX e a presença de maçons na sociedade Unione Italiana Benso di Cavour. Caso de maçonaria e imigração.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UFJF_3aeaed8fe300f187dbff3a6c2c31d03c"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/bertante-2017-italianos-macons-juiz-de-fora.pdf",
+    "txt/bertante-2017-italianos-macons-juiz-de-fora.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "souza-neto-2008-presbiterianismo-maconaria",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Wilson Ferreira de Souza Neto"
+   ],
+   "titulo": "Presbiterianismo e Maçonaria: uma análise da contribuição maçônica ao presbiterianismo brasileiro no período de 1859 a 1889",
+   "ano": 2008,
+   "idioma": "pt",
+   "editora": "Universidade Presbiteriana Mackenzie, Programa de Pós-Graduação em Ciências da Religião",
+   "local": "São Paulo",
+   "url": "http://dspace.mackenzie.br/handle/10899/25677",
+   "identificadores": {
+    "bdtd": "UPM_4aa250222cf8d3442a367993d649a581"
+   },
+   "temas": [
+    "religiao",
+    "sociabilidade"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1814_1870",
+    "p1871_1918"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional; direitos do autor)",
+   "resumo": "Dissertação sobre o apoio de maçons à implantação das missões presbiterianas no Brasil imperial (1859-1889), numa leitura de dentro da tradição protestante.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UPM_4aa250222cf8d3442a367993d649a581"
+   ],
+   "status_verificacao": "conferido_web",
+   "observacoes": "PDF não copiado: repositório Mackenzie (DSpace 7) não respondeu à API.",
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "nascimento-2010-loja-cotinguiba-aracaju",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "José Anderson Nascimento"
+   ],
+   "titulo": "A contribuição da Maçonaria para a prática educativa em Aracaju (1970-1980)",
+   "ano": 2010,
+   "idioma": "pt",
+   "editora": "Universidade Federal de Sergipe, Programa de Pós-Graduação em Educação",
+   "local": "São Cristóvão",
+   "url": "https://ri.ufs.br/handle/riufs/4707",
+   "identificadores": {
+    "bdtd": "UFS-2_41222e6f6be5d1a9fdea377c48b70940"
+   },
+   "temas": [
+    "sociabilidade"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1946_1989"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional; direitos do autor)",
+   "resumo": "Dissertação sobre a ação educativa da loja Cotinguiba em Aracaju nos anos 1970, por meio da Liga Sergipense contra o Analfabetismo e de cursos profissionalizantes, lida com o conceito de elites. Raro estudo da maçonaria durante a ditadura militar fora do eixo Rio–São Paulo.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UFS-2_41222e6f6be5d1a9fdea377c48b70940"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/nascimento-2010-loja-cotinguiba-aracaju.pdf",
+    "txt/nascimento-2010-loja-cotinguiba-aracaju.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "silva-2024-loja-ordem-trabalho-restinga-seca",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Jair Flores da Silva"
+   ],
+   "titulo": "A memória maçônica da Augusta e Respeitável Loja Simbólica (ARLS) Ordem e Trabalho no cemitério municipal da Vila Jacuí - Restinga Seca/RS",
+   "ano": 2024,
+   "idioma": "pt",
+   "editora": "Universidade Federal de Santa Maria, Programa de Pós-Graduação em Patrimônio Cultural",
+   "local": "Santa Maria",
+   "url": "http://repositorio.ufsm.br/handle/1/34078",
+   "identificadores": {
+    "bdtd": "UFSM_c2ed935120f744d784151daf258114d8"
+   },
+   "temas": [
+    "simbolismo",
+    "arte_cultura",
+    "sociabilidade"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional; direitos do autor)",
+   "resumo": "Dissertação de patrimônio cultural que reconstitui a memória de uma loja ativa entre 1895 e 1912 a partir de túmulos com símbolos maçônicos num cemitério rural gaúcho. Fonte para arte funerária maçônica.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UFSM_c2ed935120f744d784151daf258114d8"
+   ],
+   "status_verificacao": "conferido_web",
+   "observacoes": "PDF não copiado: repositorio.ufsm.br sem resposta.",
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "egito-2011-maconaria-educacao-paraiba",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Philipe Henrique Teixeira do Egito"
+   ],
+   "titulo": "Olhares da maçonaria sobre a educação no Brasil",
+   "ano": 2011,
+   "idioma": "pt",
+   "editora": "Universidade Federal da Paraíba, Programa de Pós-Graduação em Educação",
+   "local": "João Pessoa",
+   "url": "https://repositorio.ufpb.br/jspui/handle/tede/4638",
+   "identificadores": {
+    "bdtd": "UFPB-2_9a226eb573803117e731d447f46f5897"
+   },
+   "temas": [
+    "sociabilidade"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1871_1918",
+    "p1919_1945"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional; direitos do autor)",
+   "resumo": "Dissertação sobre as ideias educacionais da maçonaria, das escolas maçônicas inglesas do século XVIII às propostas de Rui Barbosa, com estudo de caso da Escola Padre Azevedo, mantida por loja de João Pessoa, a partir do arquivo da loja.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UFPB-2_9a226eb573803117e731d447f46f5897"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/egito-2011-maconaria-educacao-paraiba.pdf",
+    "txt/egito-2011-maconaria-educacao-paraiba.txt"
+   ],
+   "lote": "a01-lusofono2"
   }
  ]
 }
