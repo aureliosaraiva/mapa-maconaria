@@ -1031,6 +1031,235 @@
     "txt/silva-dias-1980-anglismo-maconaria-portugal.txt"
    ],
    "lote": "a01-lusofono2"
+  },
+  {
+   "id": "comercio-artes-1833-instruccoes-maconicas",
+   "tipo": "ritual",
+   "categoria": "ritual_publicado",
+   "autores": [
+    "Loja Commercio e Artes (Rio de Janeiro)"
+   ],
+   "titulo": "Instrucções maçonicas, ou Cathecismo e regulamento geral do grão de aprendiz, primeiro grão da maçoneria azul, organizados segundo o original francez, a traducção e annotações de Hypolito (Londres), e adoptados aos trabalhos da Loja Brazileira Commercio e Artes",
+   "ano": 1833,
+   "idioma": "pt",
+   "editora": "Typ. de Seignot-Plancher e C.ª",
+   "local": "Rio de Janeiro",
+   "paginas": "163 p. (digitalização)",
+   "url": "https://archive.org/details/instrucco-es-mac-onicas-ou-cathecismo-e-regulamento-geral",
+   "identificadores": {
+    "ia": "instrucco-es-mac-onicas-ou-cathecismo-e-regulamento-geral"
+   },
+   "temas": [
+    "ritual",
+    "graus"
+   ],
+   "ritos": [
+    "frances_moderno"
+   ],
+   "potencias": [
+    "gob"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "A",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (impresso de 1830-1850)",
+   "resumo": "Catecismo e regulamento do grau de aprendiz impresso no Rio para a loja Comércio e Artes, a partir de um original francês na tradução anotada de Hipólito José da Costa (Londres). Abre com regras de conduta em loja e segue a instrução por perguntas e respostas; é um dos raros rituais impressos no Brasil da primeira metade do século XIX e documenta a matriz francesa do trabalho simbólico na loja fundadora do GOB.",
+   "observacoes": "Data: o Internet Archive dá 1833 (tipografia Seignot-Plancher, ativa no Rio no início da década de 1830); o OCR de uma das folhas de rosto parece ler 1850 — conferir no PDF. Rito: provável Moderno/Francês, a confirmar (inferência pela origem francesa). Contém elementos de reconhecimento por extenso: não reproduzir (regra 5).",
+   "evidencias": [
+    "https://archive.org/details/instrucco-es-mac-onicas-ou-cathecismo-e-regulamento-geral"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/comercio-artes-1833-instruccoes-maconicas.pdf",
+    "txt/comercio-artes-1833-instruccoes-maconicas.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "gob-1900-constituicao-regulamento-geral",
+   "tipo": "documento",
+   "categoria": "oficial_potencia",
+   "autores": [
+    "Grande Oriente e Supremo Conselho do Brasil"
+   ],
+   "titulo": "Constituição e regulamento geral da Ordem Maçonica no Brasil",
+   "ano": 1902,
+   "ano_original": 1900,
+   "idioma": "pt",
+   "editora": "Typ. de J. Schmidt",
+   "local": "Rio de Janeiro",
+   "paginas": "240 p. (digitalização)",
+   "url": "https://archive.org/details/constituicao-e-regulamento-geral-da-ordem-maconica-no-brasil",
+   "identificadores": {
+    "ia": "constituicao-e-regulamento-geral-da-ordem-maconica-no-brasil"
+   },
+   "temas": [
+    "potencias",
+    "documentos_fundadores",
+    "regularidade"
+   ],
+   "potencias": [
+    "gob",
+    "sc_reaa_br"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "A",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (documento institucional de 1900-1902)",
+   "resumo": "Constituição do Grande Oriente e Supremo Conselho do Brasil adotada pela Assembleia Geral e promulgada pelo Decreto n.º 179, de 31/12/1900, pelo grão-mestre e grande comendador Antonio Joaquim de Macedo Soares, ministro do STF, seguida do regulamento geral. Mostra a organização da potência mista (simbolismo e altos graus sob uma só chefia) que vigorou até o cisma de 1927; base primária para os verbetes do GOB e da cisão.",
+   "observacoes": "Exemplar digitalizado pelo Centro de Documentação e Memória da Amazônia (Governo do Amazonas). Copiado o '_text.pdf' (o PDF original tem 95 MB).",
+   "evidencias": [
+    "https://archive.org/details/constituicao-e-regulamento-geral-da-ordem-maconica-no-brasil"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/gob-1900-constituicao-regulamento-geral.pdf",
+    "txt/gob-1900-constituicao-regulamento-geral.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "gl-fortaleza-1885-gazeta-maconica",
+   "tipo": "periodico",
+   "categoria": "imprensa",
+   "autores": [
+    "Grande Loja Fortaleza (Lisboa)"
+   ],
+   "titulo": "Gazeta Maçonica: orgão da Gr∴ L∴ Fortaleza",
+   "ano": 1885,
+   "idioma": "pt",
+   "local": "Lisboa",
+   "paginas": "24 p. (digitalização)",
+   "url": "https://archive.org/details/gazeta-mac-onica",
+   "identificadores": {
+    "ia": "gazeta-mac-onica"
+   },
+   "temas": [
+    "sociabilidade",
+    "religiao",
+    "potencias"
+   ],
+   "paises": [
+    "pt",
+    "es"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "A",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (periódico de 1885)",
+   "resumo": "Números de um periódico mensal publicado em Lisboa, com redação de César Augusto Falcão, pela loja ou grande loja 'Fortaleza', que trabalhava sob os auspícios do Grande Oriente de Espanha. Documenta a presença de obediências espanholas em Portugal no fim do século XIX e o discurso maçônico sobre tolerância, religião e papel da mulher.",
+   "observacoes": "Data e alcance (quantos números) a conferir no PDF; OCR ruim.",
+   "evidencias": [
+    "https://archive.org/details/gazeta-mac-onica"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/gl-fortaleza-1885-gazeta-maconica.pdf",
+    "txt/gl-fortaleza-1885-gazeta-maconica.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "reis-felner-1845-almanak-reaa-portugal",
+   "tipo": "documento",
+   "categoria": "primaria_historica",
+   "autores": [
+    "N. dos Reis",
+    "R. Felner"
+   ],
+   "titulo": "Almanak do Rit∴ Esc∴ Ant∴ e Acc∴ em Portugal para o anno de 5845",
+   "ano": 1845,
+   "idioma": "pt",
+   "editora": "Typ. de O. R. Ferreira",
+   "local": "Lisboa",
+   "paginas": "205 p. (digitalização)",
+   "url": "https://archive.org/details/almanak-do-rit-esc-ant-e-acc-em-portugal-para-o-anno-de-5845",
+   "identificadores": {
+    "ia": "almanak-do-rit-esc-ant-e-acc-em-portugal-para-o-anno-de-5845"
+   },
+   "temas": [
+    "potencias",
+    "ritos",
+    "sociabilidade"
+   ],
+   "ritos": [
+    "reaa"
+   ],
+   "paises": [
+    "pt"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "A",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (marca de domínio público no IA)",
+   "resumo": "Almanaque do Rito Escocês Antigo e Aceito em Portugal para 1845, oferecido ao Sinédrio de Beneficência por dois membros da loja Filantropia. Típico anuário maçônico com calendário, quadros de lojas e corpos e informações administrativas; fonte para a organização do escocesismo português no período cabralista.",
+   "observacoes": "Conteúdo exato (listas de lojas e oficiais) a conferir; copiado o '_text.pdf' (o original tem 136 MB).",
+   "evidencias": [
+    "https://archive.org/details/almanak-do-rit-esc-ant-e-acc-em-portugal-para-o-anno-de-5845"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/reis-felner-1845-almanak-reaa-portugal.pdf",
+    "txt/reis-felner-1845-almanak-reaa-portugal.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "magalhaes-lima-1910-centenario-jose-estevao",
+   "tipo": "livro",
+   "categoria": "primaria_historica",
+   "autores": [
+    "Sebastião de Magalhães Lima"
+   ],
+   "titulo": "O Centenario de José Estevão: homenagem da Maçonaria Portugueza",
+   "ano": 1910,
+   "idioma": "pt",
+   "editora": "Typ. La Bécarre",
+   "local": "Lisboa",
+   "url": "https://www.gutenberg.org/ebooks/27542",
+   "identificadores": {
+    "gutenberg": "27542",
+    "ia": "ocentenariodejos27542gut"
+   },
+   "temas": [
+    "politica",
+    "personalidades"
+   ],
+   "potencias": [
+    "gol"
+   ],
+   "paises": [
+    "pt"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "A",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (autor falecido em 1928)",
+   "resumo": "Discurso que Magalhães Lima, grão-mestre do Grande Oriente Lusitano Unido, pronunciou no teatro de Aveiro em nome da maçonaria portuguesa no centenário do tribuno liberal José Estêvão, impresso com dedicatória de dezembro de 1909. Mostra a retórica republicana e anticlerical da maçonaria portuguesa às vésperas do 5 de Outubro.",
+   "evidencias": [
+    "https://archive.org/details/ocentenariodejos27542gut"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "txt/magalhaes-lima-1910-centenario-jose-estevao.txt"
+   ],
+   "lote": "a01-lusofono2"
   }
  ]
 }
