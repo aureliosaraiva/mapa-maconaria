@@ -495,6 +495,116 @@
    "fontes": [
     "duncan-1866-masonic-ritual"
    ]
+  },
+  {
+   "id": "v03-constituicoes-1762",
+   "data": "1762",
+   "precisao": "ano",
+   "titulo": "Data tradicional das Constituições de 1762 do Rito do Real Segredo (provavelmente redigidas por Étienne Morin após 1763)",
+   "verbete": "grandes-constituicoes-de-1786",
+   "paises": [
+    "fr",
+    "ht"
+   ],
+   "fontes": [
+    "noel-2018-grandes-constitutions-1786"
+   ],
+   "nota": "A lenda as situa em Bordeaux; Noël/Bernheim: São Domingos, depois de 1763."
+  },
+  {
+   "id": "v03-codigo-rer",
+   "data": "1778",
+   "precisao": "ano",
+   "titulo": "Convento das Gálias (Lyon) aprova o Código Maçônico das Lojas Reunidas e Retificadas",
+   "verbete": "codigo-maconico-das-lojas-retificadas-1778",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "frenchfreemasonry-code-rectified-lodges-1778"
+   ]
+  },
+  {
+   "id": "v03-grandes-constituicoes",
+   "data": "1786-05-01",
+   "precisao": "dia",
+   "titulo": "Data atribuída às Grandes Constituições do Rito Escocês, ditas assinadas por Frederico II (atribuição lendária)",
+   "verbete": "grandes-constituicoes-de-1786",
+   "paises": [
+    "de",
+    "us"
+   ],
+   "fontes": [
+    "noel-2018-grandes-constitutions-1786",
+    "bernheim-1987-estienne-morin-saint-laurent"
+   ],
+   "nota": "Texto só anunciado em 1802 e impresso em 1832."
+  },
+  {
+   "id": "v03-regulateur",
+   "data": "1801",
+   "precisao": "ano",
+   "titulo": "Impressão do Régulateur du Maçon, ritual dos três graus do Rito Francês",
+   "verbete": "regulateur-du-macon",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "anonimo-1801-regulateur-du-macon"
+   ]
+  },
+  {
+   "id": "v03-circular-1802",
+   "data": "1802-12-04",
+   "precisao": "dia",
+   "titulo": "Circular do Supremo Conselho de Charleston anuncia o rito de 33 graus e as Grandes Constituições de 1786",
+   "verbete": "grandes-constituicoes-de-1786",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "noel-2018-grandes-constitutions-1786"
+   ]
+  },
+  {
+   "id": "v03-tratado-1834",
+   "data": "1834-02-23",
+   "precisao": "dia",
+   "titulo": "Tratado entre os Supremos Conselhos de França, Brasil e do Hemisfério Ocidental divulga a versão latina das Grandes Constituições",
+   "verbete": "grandes-constituicoes-de-1786",
+   "paises": [
+    "fr",
+    "br"
+   ],
+   "fontes": [
+    "bernheim-1987-estienne-morin-saint-laurent"
+   ]
+  },
+  {
+   "id": "v03-morals-dogma",
+   "data": "1871",
+   "precisao": "ano",
+   "titulo": "Albert Pike publica Morals and Dogma pelo Supremo Conselho da Jurisdição Sul",
+   "verbete": "morals-and-dogma",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "pike-1871-morals-dogma"
+   ]
+  },
+  {
+   "id": "v03-estrasburgo",
+   "data": "1961-01-22",
+   "precisao": "dia",
+   "titulo": "Apelo de Estrasburgo funda o CLIPSAS e declara facultativos o GADU e o livro sagrado",
+   "verbete": "apelo-de-estrasburgo-1961",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "fmnetwork-1961-strasbourg-appeal"
+   ]
   }
  ]
 }
