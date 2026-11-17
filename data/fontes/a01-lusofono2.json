@@ -396,6 +396,418 @@
    ],
    "status_verificacao": "conferido_web",
    "lote": "a01-lusofono2"
+  },
+  {
+   "id": "portugal-1935-lei-1901-associacoes-secretas",
+   "tipo": "documento",
+   "categoria": "primaria_historica",
+   "autores": [
+    "Assembleia Nacional (Portugal)"
+   ],
+   "titulo": "Lei n.º 1901, de 21 de Maio de 1935 (associações secretas)",
+   "ano": 1935,
+   "idioma": "pt",
+   "periodico": "Diário do Governo, 1.ª série, n.º 115",
+   "url": "https://pt.wikisource.org/wiki/Lei_n.%C2%BA_1901,_de_21_de_Maio_de_1935",
+   "temas": [
+    "antimaconaria",
+    "politica"
+   ],
+   "potencias": [
+    "gol"
+   ],
+   "paises": [
+    "pt"
+   ],
+   "periodos": [
+    "p1919_1945"
+   ],
+   "confiabilidade": "A",
+   "acesso": "dominio_publico",
+   "licenca": "domínio público (texto legal oficial; transcrição do Wikisource)",
+   "resumo": "Texto da lei do Estado Novo português que obrigou associações a entregar estatutos e listas de sócios aos governadores civis e mandou dissolver as consideradas secretas, com penas de prisão, multa, perda de funções públicas e suspensão de direitos políticos para dirigentes e membros. Sem nomear a maçonaria, foi o instrumento jurídico usado contra o Grande Oriente Lusitano; resolve a pendência C05/V05 sobre o texto oficial.",
+   "observacoes": "Cópia da transcrição do Wikisource (que remete ao Diário do Governo n.º 115, de 21/5/1935). Conferir com o fac-símile do DRE quando possível (dre.tretas.org respondeu 403). Revogada; o DL 594/74 (portugal-1974-dl-594-direito-associacao) restabeleceu a liberdade de associação.",
+   "evidencias": [
+    "https://pt.wikisource.org/wiki/Lei_n.%C2%BA_1901,_de_21_de_Maio_de_1935",
+    "https://dre.tretas.org/dre/286499/lei-1901-de-21-de-maio"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/portugal-1935-lei-1901-associacoes-secretas.html",
+    "txt/portugal-1935-lei-1901-associacoes-secretas.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "wikipedia-pt-2026-lei-1901-1935",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "Wikipédia (colaboradores)"
+   ],
+   "titulo": "Lei n.º 1901, de 21 de Maio de 1935",
+   "ano": 2026,
+   "idioma": "pt",
+   "url": "https://pt.wikipedia.org/wiki/Lei_n.%C2%BA_1901,_de_21_de_Maio_de_1935",
+   "temas": [
+    "antimaconaria",
+    "politica"
+   ],
+   "potencias": [
+    "gol"
+   ],
+   "paises": [
+    "pt"
+   ],
+   "periodos": [
+    "p1919_1945"
+   ],
+   "confiabilidade": "C",
+   "acesso": "aberto",
+   "licenca": "CC BY-SA 4.0",
+   "resumo": "Verbete sobre a origem da lei (projeto de José Cabral, janeiro de 1935), o debate na Assembleia Nacional, a reação do grão-mestre Norton de Matos e o artigo de Fernando Pessoa no Diário de Lisboa. Serve de roteiro cronológico; os fatos devem ser conferidos nas fontes primárias citadas.",
+   "evidencias": [
+    "https://pt.wikipedia.org/wiki/Lei_n.%C2%BA_1901,_de_21_de_Maio_de_1935"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/wikipedia-pt-2026-lei-1901-1935.html",
+    "txt/wikipedia-pt-2026-lei-1901-1935.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "dourado-2023-historia-rito-brasileiro",
+   "tipo": "documento",
+   "categoria": "oficial_potencia",
+   "autores": [
+    "Cesar Roberto Daniel Dourado"
+   ],
+   "titulo": "História do Rito Brasileiro",
+   "ano": 2023,
+   "idioma": "pt",
+   "editora": "Supremo Conclave do Brasil para o Rito Brasileiro (Superior Conselho de Cultura)",
+   "local": "Rio de Janeiro",
+   "paginas": "23 p.",
+   "url": "https://www.scrb33.org.br/wp-content/uploads/2023/07/SCBRB-HISTORIA-DO-RITO-BRASILEIRO.pdf",
+   "temas": [
+    "ritos",
+    "potencias",
+    "regularidade"
+   ],
+   "ritos": [
+    "brasileiro"
+   ],
+   "potencias": [
+    "gob",
+    "sc_reaa_br"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1871_1918",
+    "p1919_1945",
+    "p1946_1989"
+   ],
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "licenca": "publicação institucional pública (direitos do Supremo Conclave)",
+   "resumo": "História institucional do Rito Brasileiro escrita pelo presidente do Superior Conselho de Cultura do Supremo Conclave: antecedente do 'Especial Rito Brasileiro' de José Firmo Xavier em Pernambuco (1878-1882), criação sob Lauro Sodré (Conselho Geral de 21/12/1914 e Decreto n.º 500 de 23/12/1914), homologação (1916), constituição (1917/1919), tentativa de 1940-1941 e reimplantação por Álvaro Palmeira (Decreto n.º 2.080, de 19/3/1968). Traz ainda, com números de decretos e atos, a dissidência paulista de 1921, o cisma de 1927 e as dissidências de 1944-1956. É a primeira fonte do próprio corpo do rito no catálogo, mas é memória institucional, sem notas para os documentos.",
+   "evidencias": [
+    "https://scrb33.org.br/cronologia/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/dourado-2023-historia-rito-brasileiro.pdf",
+    "txt/dourado-2023-historia-rito-brasileiro.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "scrb-2026-portal",
+   "tipo": "site",
+   "categoria": "oficial_potencia",
+   "autores": [
+    "Supremo Conclave do Brasil para o Rito Brasileiro"
+   ],
+   "titulo": "Supremo Conclave do Brasil (portal oficial)",
+   "ano": 2026,
+   "idioma": "pt",
+   "url": "https://scrb33.org.br/",
+   "temas": [
+    "potencias",
+    "ritos"
+   ],
+   "ritos": [
+    "brasileiro"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "licenca": "página institucional pública",
+   "resumo": "Página inicial do corpo que administra os graus 4 a 33 do Rito Brasileiro; apresenta-se como fundado em 17/2/1941, ligando a criação do rito a Lauro Sodré (1914) e a reimplantação a Álvaro Palmeira (1968). Lista delegacias por estado e no exterior e dá acesso a constituição, tratados e documentos do rito.",
+   "observacoes": "A data de fundação dada aqui (17/2/1941) diverge da que consta no tratado com o GOB (19/3/1968): ver scrb-gob-2010-tratado-reconhecimento.",
+   "evidencias": [
+    "https://scrb33.org.br/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/scrb-2026-portal.html",
+    "txt/scrb-2026-portal.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "scrb-gob-2010-tratado-reconhecimento",
+   "tipo": "documento",
+   "categoria": "oficial_potencia",
+   "autores": [
+    "Grande Oriente do Brasil",
+    "Supremo Conclave do Brasil para o Rito Brasileiro"
+   ],
+   "titulo": "Tratado de reconhecimento entre o Grande Oriente do Brasil e o Supremo Conclave do Brasil para o Rito Brasileiro de Maçons Antigos, Livres e Aceitos",
+   "ano": 2010,
+   "idioma": "pt",
+   "paginas": "7 p.",
+   "url": "https://www.scrb33.org.br/wp-content/uploads/2023/08/Tratado-Reconhecimento-Conclave-GOB_001.pdf",
+   "temas": [
+    "potencias",
+    "regularidade",
+    "ritos"
+   ],
+   "ritos": [
+    "brasileiro"
+   ],
+   "potencias": [
+    "gob"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "confiabilidade": "A",
+   "acesso": "oficial_publico",
+   "licenca": "documento institucional público",
+   "resumo": "Tratado (digitalizado, março de 2010) em que o GOB, potência simbólica, e o Supremo Conclave, potência filosófica do Rito Brasileiro com sede na Rua do Lavradio, regulam o reconhecimento mútuo e a divisão de jurisdição entre graus simbólicos e altos graus. No preâmbulo o Conclave se declara fundado em 19/3/1968.",
+   "observacoes": "Digitalização com OCR ruim no cabeçalho; ler o PDF.",
+   "evidencias": [
+    "https://scrb33.org.br/tratados/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/scrb-gob-2010-tratado-reconhecimento.pdf",
+    "txt/scrb-gob-2010-tratado-reconhecimento.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "delegacia-rb-df-historia-rito-brasileiro",
+   "tipo": "documento",
+   "categoria": "divulgacao",
+   "autores": [
+    "Delegacia Litúrgica do Rito Brasileiro no Distrito Federal"
+   ],
+   "titulo": "A história do Rito Brasileiro (a níveis nacional e do Distrito Federal)",
+   "ano": null,
+   "idioma": "pt",
+   "paginas": "77 p.",
+   "url": "https://www.masonic.com.br/rito/RBnoDF.pdf",
+   "temas": [
+    "ritos",
+    "potencias"
+   ],
+   "ritos": [
+    "brasileiro"
+   ],
+   "potencias": [
+    "gob"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1871_1918",
+    "p1919_1945",
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "confiabilidade": "C",
+   "acesso": "aberto",
+   "licenca": "texto público em site maçônico (direitos dos autores)",
+   "resumo": "Compilação sem autor nomeado, posterior a 2005, cujo preâmbulo repete a história institucional do rito e transcreve o Decreto n.º 500/1914; acrescenta a lista das lojas do rito reconhecidas entre 1928 e 1961, a ausência de rituais até 1940 e o histórico das lojas e altos corpos do Rito Brasileiro em Brasília. Útil sobretudo para a fase 1940-1968 e para a implantação no DF.",
+   "observacoes": "Contém menção a elementos de reconhecimento do ritual de 1940 — não reproduzir (regra 5).",
+   "evidencias": [
+    "https://www.masonic.com.br/rito/RBnoDF.pdf"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/delegacia-rb-df-historia-rito-brasileiro.pdf",
+    "txt/delegacia-rb-df-historia-rito-brasileiro.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "acioly-2013-maconaria-republica-tese",
+   "tipo": "tese",
+   "categoria": "tese",
+   "autores": [
+    "Augusto César Acioly Paz Silva"
+   ],
+   "titulo": "Maçonaria e República: confrontos, conflitos, tensões e atuação sociopolítica de maçons em Pernambuco nas décadas de 1930 e 1940",
+   "ano": 2013,
+   "idioma": "pt",
+   "editora": "Universidade Federal de Pernambuco, Programa de Pós-Graduação em História",
+   "local": "Recife",
+   "paginas": "227 p.",
+   "url": "https://repositorio.ufpe.br/handle/123456789/11495",
+   "temas": [
+    "politica",
+    "antimaconaria",
+    "religiao"
+   ],
+   "potencias": [
+    "gob"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1919_1945"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (repositório institucional UFPE; direitos do autor)",
+   "resumo": "Tese de doutorado (orientação de Ana Maria Barros) sobre os maçons pernambucanos entre a Revolução de 1930 e o fim do Estado Novo: a disputa do ensino religioso, a imprensa maçônica, a campanha católica e integralista e, sobretudo, a ordem de fechamento das lojas emitida pela comissão executora do Estado de Guerra em novembro de 1937. Acompanha também a repercussão, no Recife, da lei portuguesa de 1935. É a principal fonte acadêmica aberta do catálogo sobre a maçonaria no Estado Novo brasileiro.",
+   "observacoes": "Os artigos derivados já estão no catálogo: acioly-paz-silva-2016-maconaria-republica (c05) e acioly-2018-freemasons (c06).",
+   "evidencias": [
+    "https://repositorio.ufpe.br/bitstream/123456789/11495/1/final%20Tese%20Vers%C3%A3o%20definitiva01.pdf"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/acioly-2013-maconaria-republica-tese.pdf",
+    "txt/acioly-2013-maconaria-republica-tese.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "acioly-2018-maconaria-imprensa-1930-pernambuco",
+   "tipo": "artigo",
+   "categoria": "academica",
+   "autores": [
+    "Augusto César Acioly Paz Silva"
+   ],
+   "titulo": "Maçonaria e imprensa nos anos 1930 em Pernambuco",
+   "ano": 2018,
+   "idioma": "pt",
+   "periodico": "Anais do XII Encontro Estadual de História da ANPUH-PE",
+   "url": "https://www.encontro2018.pe.anpuh.org/resources/anais/8/1536175496_ARQUIVO_MaconariaeImprensa.pdf",
+   "temas": [
+    "politica",
+    "sociabilidade"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1919_1945"
+   ],
+   "confiabilidade": "B",
+   "acesso": "aberto",
+   "licenca": "anais de acesso aberto (direitos do autor)",
+   "resumo": "Comunicação que analisa dois periódicos maçônicos recifenses dos anos 1930, entre eles O Archote, da loja Cavaleiro da Luz, nascido da polêmica sobre o ensino religioso facultativo e da cisão que ela provocou no Grande Oriente de Pernambuco. Fecha com o fechamento das lojas em 1937, que em Pernambuco teria durado até o fim do Estado Novo.",
+   "evidencias": [
+    "https://www.encontro2018.pe.anpuh.org/resources/anais/8/1536175496_ARQUIVO_MaconariaeImprensa.pdf"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/acioly-2018-maconaria-imprensa-1930-pernambuco.pdf",
+    "txt/acioly-2018-maconaria-imprensa-1930-pernambuco.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "ismail-2016-gob-socialista",
+   "tipo": "artigo",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "Kennyo Ismail"
+   ],
+   "titulo": "Quando o GOB era Socialista e a guinada maçônica brasileira ao Conservadorismo",
+   "ano": 2016,
+   "idioma": "pt",
+   "editora": "No Esquadro (blog)",
+   "url": "https://www.noesquadro.com.br/wp-content/uploads/2016/09/Quando-o-GOB-era-Socialista-1.pdf",
+   "temas": [
+    "politica",
+    "potencias"
+   ],
+   "potencias": [
+    "gob"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1871_1918",
+    "p1919_1945"
+   ],
+   "confiabilidade": "C",
+   "acesso": "aberto",
+   "licenca": "texto público (direitos do autor)",
+   "resumo": "Ensaio curto de pesquisador maçom que contrasta a política de ensino laico e as simpatias socialistas do GOB nas primeiras décadas republicanas (com citação do Decreto n.º 513/1915) com sua postura diante do Estado Novo, que fechou as lojas em 1937, e da ditadura de 1964. Útil como pista de documentos internos do GOB; afirmações devem ser conferidas em fonte primária.",
+   "evidencias": [
+    "https://www.noesquadro.com.br/wp-content/uploads/2016/09/Quando-o-GOB-era-Socialista-1.pdf"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/ismail-2016-gob-socialista.pdf",
+    "txt/ismail-2016-gob-socialista.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "souza-2019-maconaria-ditadura-senador-pompeu",
+   "tipo": "artigo",
+   "categoria": "academica",
+   "autores": [
+    "Helton Anderson Xavier de Souza"
+   ],
+   "titulo": "A maçonaria e a ditadura civil-militar entre o nacional e o local: memórias maçônicas em tempos de chumbo",
+   "ano": 2019,
+   "idioma": "pt",
+   "periodico": "Anais do 30.º Simpósio Nacional de História (ANPUH)",
+   "url": "https://www.snh2019.anpuh.org/resources/anais/8/1564615309_ARQUIVO_MACONARIAEADITADURACIVILMILITAR.pdf",
+   "temas": [
+    "politica"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1946_1989"
+   ],
+   "confiabilidade": "B",
+   "acesso": "aberto",
+   "licenca": "anais de acesso aberto (direitos do autor)",
+   "resumo": "Comunicação de mestrando da UECE que discute, com bibliografia (Morel & Souza, Alméri) e entrevistas, as relações entre maçonaria e regime militar a partir da loja Deus e Caridade n.º 9, de Senador Pompeu (CE), ativa desde os anos 1930. Recapitula também a atitude da maçonaria diante de regimes autoritários anteriores.",
+   "observacoes": "O autor publicou depois souza-2024-ditadura-memorias-maconicas (c05), provavelmente a dissertação ampliada.",
+   "evidencias": [
+    "https://www.snh2019.anpuh.org/resources/anais/8/1564615309_ARQUIVO_MACONARIAEADITADURACIVILMILITAR.pdf"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/souza-2019-maconaria-ditadura-senador-pompeu.pdf",
+    "txt/souza-2019-maconaria-ditadura-senador-pompeu.txt"
+   ],
+   "lote": "a01-lusofono2"
   }
  ]
 }
