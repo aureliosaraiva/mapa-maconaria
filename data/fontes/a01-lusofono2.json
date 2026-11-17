@@ -1389,6 +1389,178 @@
     "txt/costa-2022-1723-constitutions-portuguese-historiography.txt"
    ],
    "lote": "a01-lusofono2"
+  },
+  {
+   "id": "comab-2026-historia",
+   "tipo": "pagina",
+   "categoria": "oficial_potencia",
+   "autores": [
+    "Confederação Maçônica do Brasil (COMAB)"
+   ],
+   "titulo": "História da COMAB",
+   "ano": 2026,
+   "idioma": "pt",
+   "url": "https://comab.org.br/historia-da-comab/",
+   "temas": [
+    "potencias",
+    "regularidade"
+   ],
+   "potencias": [
+    "comab",
+    "gob"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "licenca": "página institucional pública",
+   "resumo": "História oficial da confederação dos Grandes Orientes independentes: a desfiliação conjunta de dez Grandes Orientes estaduais do GOB em 1973, a reunião convocada em Belo Horizonte pelo grão-mestre mineiro Athos Vieira de Andrade e a fundação do Colégio de Presidentes da Maçonaria Brasileira em 4/8/1973, que se transformou na COMAB em 6/4/1991, com as listas de presidentes. Apoia-se em Schüler Sobrinho (Uma luz na história, 1998). Versão de uma das partes da cisão, a ler ao lado das fontes do GOB.",
+   "evidencias": [
+    "https://comab.org.br/historia-da-comab/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/comab-2026-historia.html",
+    "txt/comab-2026-historia.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "comab-2022-estatuto",
+   "tipo": "documento",
+   "categoria": "oficial_potencia",
+   "autores": [
+    "Confederação Maçônica do Brasil (COMAB)"
+   ],
+   "titulo": "Estatuto da Confederação Maçônica do Brasil (2022)",
+   "ano": 2022,
+   "idioma": "pt",
+   "url": "https://comab.org.br/wp-content/uploads/2022/11/2022-Estatuto-COMAB-Assinado.pdf",
+   "temas": [
+    "potencias",
+    "regularidade",
+    "principios"
+   ],
+   "potencias": [
+    "comab"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "confiabilidade": "A",
+   "acesso": "oficial_publico",
+   "licenca": "documento institucional público",
+   "resumo": "Estatuto da COMAB aprovado e assinado em 2022, publicado no site oficial como digitalização de 12 páginas. Fonte primária para a organização atual da confederação dos Grandes Orientes independentes; conteúdo ainda não lido (sem camada de texto).",
+   "evidencias": [
+    "https://comab.org.br/estatuto/"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/comab-2022-estatuto.pdf"
+   ],
+   "lote": "a01-lusofono2",
+   "observacoes": "PDF digitalizado sem texto; o txt do acervo está vazio e não há OCR no ambiente da sessão A01. Ler o PDF ou fazer OCR antes de citar."
+  },
+  {
+   "id": "gosp-2025-guia-altos-graus",
+   "tipo": "documento",
+   "categoria": "oficial_potencia",
+   "autores": [
+    "Grande Oriente de São Paulo (Assessoria de Interação com Altos Graus)"
+   ],
+   "titulo": "Instituições maçônicas de graus superiores e ordens de aperfeiçoamento maçônico: um guia para a trajetória dos membros do GOSP além da maçonaria simbólica",
+   "ano": 2025,
+   "idioma": "pt",
+   "local": "São Paulo",
+   "paginas": "33 p.",
+   "url": "https://gosp.org.br/url/guia-altos-graus",
+   "temas": [
+    "ritos",
+    "graus",
+    "ordens_anexas",
+    "potencias"
+   ],
+   "ritos": [
+    "reaa",
+    "adonhiramita",
+    "brasileiro",
+    "frances_moderno",
+    "york"
+   ],
+   "potencias": [
+    "comab",
+    "go_sp"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1990_hoje"
+   ],
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "licenca": "publicação institucional pública",
+   "resumo": "Guia de maio de 2025 que apresenta os corpos de altos graus e ordens anexas reconhecidos pelo GOSP (COMAB), com breve histórico de cada um: Excelso Conselho da Maçonaria Adonhiramita (origem em 1873 no Grande Capítulo dos Cavaleiros Noaquitas, saído do Grande Capítulo dos Ritos Azuis; autônomo em 1953; 33 graus desde 1973), Supremo Conselho do Rito Moderno (ativo no Brasil desde 25/11/1874), um Supremo Conselho para o Rito Brasileiro fundado em São Paulo em 2023 e um Supremo Conselho do REAA de 2010, além do Rito de York. Mostra a pluralidade de corpos de altos graus por vertente e as divisões do Rito Brasileiro.",
+   "observacoes": "PDF de 20 MB: guardado só o txt.",
+   "evidencias": [
+    "https://gosp.org.br/url/guia-altos-graus"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "txt/gosp-2025-guia-altos-graus.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "freimaurer-wiki-modern-rite-brazil",
+   "tipo": "verbete",
+   "categoria": "divulgacao",
+   "autores": [
+    "Freimaurer-Wiki (colaboradores)"
+   ],
+   "titulo": "En: Modern Rite in Brazil",
+   "ano": 2026,
+   "idioma": "en",
+   "url": "https://freimaurer-wiki.de/index.php/En:_Modern_Rite_in_Brazil",
+   "temas": [
+    "ritos",
+    "potencias"
+   ],
+   "ritos": [
+    "frances_moderno"
+   ],
+   "potencias": [
+    "gob"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1814_1870",
+    "p1871_1918",
+    "p1946_1989"
+   ],
+   "confiabilidade": "D",
+   "acesso": "aberto",
+   "licenca": "conteúdo wiki (licença do Freimaurer-Wiki)",
+   "resumo": "Verbete curto, reproduzido de um blog (The Hedge Mason, 2013), com a cronologia institucional do corpo de altos graus do Rito Moderno no Brasil: Grande Capítulo dos Ritos Azuis (1842, Manoel Joaquim Menezes), Grande Capítulo do Rito Moderno ou Francês (25/11/1874), nova denominação em 9/3/1953 e Supremo Conselho do Rito Moderno para o Brasil (7/6/1976). Só pista; datas a conferir em fonte do GOB ou do Supremo Conselho.",
+   "evidencias": [
+    "https://freimaurer-wiki.de/index.php/En:_Modern_Rite_in_Brazil"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "html/freimaurer-wiki-modern-rite-brazil.html",
+    "txt/freimaurer-wiki-modern-rite-brazil.txt"
+   ],
+   "lote": "a01-lusofono2"
   }
  ]
 }
