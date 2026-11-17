@@ -95,3 +95,13 @@
 - [ ] (P3) C01 lista Frau Abrines no COLETA como "sem digitalização confiável": o IA tem uma digitalização de exemplar da BNE (republicada por terceiros), já copiada em `frau-abrines-1891-diccionario-enciclopedico`. Conferir o ano da 1ª edição e, se o C01 aceitar, dar baixa no item dele.
 - [ ] (P3) Dataset `wikidata-2026-macons`: só 868 das 1.995 pessoas têm referência na declaração. Nenhuma afirmação "fulano era maçom" deve vir do Wikidata sem fonte documental (regra 6).
 
+
+## V05
+- [ ] (P2) TXT corrompido no acervo (é o binário do PDF, não texto): `oliveira-marques-1989-masoneria-portugal-xviii` e `covolan-reis-2018-conflito-igreja-maconaria`; o PDF do primeiro não está em `pdf/` — reextrair (pdftotext) ou baixar de novo; sem isso o verbete da Inquisição portuguesa fica sem Oliveira Marques.
+- [ ] (P2) SciELO responde 403 à coleta: Evaldo Cabral de Mello, "Dezessete: a maçonaria dividida" (Topoi, 2002, doi 10.1590/2237-101x003004001) — referência para 1817, citada só pelo registro do catálogo; Andrade 2010 (Opsis, doi 10.5216/o.v10i1.9519) dá 404 no DOI.
+- [ ] (P2) Texto oficial da Lei portuguesa n.º 1901, de 21/5/1935 — o verbete usa a descrição do grão-mestre do GOL (DN, 2021) e o DL 594/74; procurar no Diário do Governo (DRE).
+- [ ] (P2) Estudos acadêmicos independentes sobre as cisões de 1927 e 1973: os verbetes dependem de Carvalho (2010, autor ligado ao GOB) e de páginas oficiais de GLESP, CMSB, COMAB e GOSP — buscar teses (BDTD, quando voltar) e Castellani & Carvalho (comercial).
+- [ ] (P2) Obras-chave comerciais não lidas e citadas só por registro: Barata 1999 e 2006, Vieira 1980, Francisco 2018 (tese USP), Gomez 2022 (dissertação USP), Ribeiro 2011, Alméri 2008, Fernandes 2008 (Aveiro), Silva Dias e Oliveira Marques — várias são teses abertas em repositórios USP/PUC-SP/Aveiro cujo HTML não carregou (JavaScript); tentar baixar o PDF.
+- [ ] (P3) Filiação maçônica de presidentes (Primeira República, Castelo Branco, Médici, Golbery) aparece nas fontes sem documento de loja — conferir na sessão de personalidades (V07) antes de afirmar.
+- [ ] (P3) Maçonaria mista/feminina no Brasil e maçonaria nos PALOP sem fontes abertas no acervo — não foi possível escrever verbetes próprios; PALOP só tem a notícia `observador-2022-lojas-lusofonia`.
+- [ ] (P3) Possível duplicata no lote C06: `martins-2013-posicionamentos` e `martins-2013-posionamento` (mesmo artigo de Tatiana Martins Alméri); conferir também `almeri-2013-entrevista-ditadura`.
