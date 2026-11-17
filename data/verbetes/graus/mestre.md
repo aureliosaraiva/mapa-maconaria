@@ -26,7 +26,7 @@ atualizado: 2026-11-17
 sessao: V01
 ---
 
-O **Mestre** é o terceiro grau da maçonaria simbólica e o mais alto dos graus de loja em todos os ritos. Sua cerimônia dramatiza a **lenda de Hiram**: o arquiteto do Templo de Salomão é morto por companheiros que queriam arrancar-lhe o segredo dos mestres, o corpo é reencontrado e, com ele, perde-se a verdadeira "palavra de mestre", substituída por outra. O candidato representa o próprio Hiram.
+O **Mestre** é o terceiro grau da maçonaria simbólica e o mais alto dos graus de loja em todos os ritos. Sua cerimônia encena a **lenda de Hiram**, segundo a qual o construtor-chefe do Templo salomônico foi morto por companheiros que queriam arrancar-lhe o segredo dos mestres, o corpo é reencontrado e, com ele, perde-se a verdadeira "palavra de mestre", substituída por outra. O candidato representa o próprio Hiram.
 
 ## Origem
 - **Um "alto grau" de c. 1725.** Segundo a síntese do Supremo Conselho da Jurisdição Sul, o grau resultou da separação de uma honra antes reservada aos companheiros mais antigos ("mestres"); a mais antiga concessão conhecida do grau de Mestre data de 12 de maio de 1725, em Londres[^1]. Por isso o Supremo Conselho o chama de primeiro "alto grau" acrescentado à maçonaria do ofício[^1].
