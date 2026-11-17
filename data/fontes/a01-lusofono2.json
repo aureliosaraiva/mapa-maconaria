@@ -1037,7 +1037,8 @@
    "tipo": "ritual",
    "categoria": "ritual_publicado",
    "autores": [
-    "Loja Commercio e Artes (Rio de Janeiro)"
+    "Loja Commercio e Artes (Rio de Janeiro)",
+    "Januário da Cunha Barbosa (org.)"
    ],
    "titulo": "Instrucções maçonicas, ou Cathecismo e regulamento geral do grão de aprendiz, primeiro grão da maçoneria azul, organizados segundo o original francez, a traducção e annotações de Hypolito (Londres), e adoptados aos trabalhos da Loja Brazileira Commercio e Artes",
    "ano": 1833,
@@ -1054,6 +1055,7 @@
     "graus"
    ],
    "ritos": [
+    "adonhiramita",
     "frances_moderno"
    ],
    "potencias": [
@@ -1068,10 +1070,11 @@
    "confiabilidade": "A",
    "acesso": "dominio_publico",
    "licenca": "domínio público (impresso de 1830-1850)",
-   "resumo": "Catecismo e regulamento do grau de aprendiz impresso no Rio para a loja Comércio e Artes, a partir de um original francês na tradução anotada de Hipólito José da Costa (Londres). Abre com regras de conduta em loja e segue a instrução por perguntas e respostas; é um dos raros rituais impressos no Brasil da primeira metade do século XIX e documenta a matriz francesa do trabalho simbólico na loja fundadora do GOB.",
-   "observacoes": "Data: o Internet Archive dá 1833 (tipografia Seignot-Plancher, ativa no Rio no início da década de 1830); o OCR de uma das folhas de rosto parece ler 1850 — conferir no PDF. Rito: provável Moderno/Francês, a confirmar (inferência pela origem francesa). Contém elementos de reconhecimento por extenso: não reproduzir (regra 5).",
+   "resumo": "Catecismo e regulamento do grau de aprendiz impresso no Rio por Seignot-Plancher para a loja Comércio e Artes, organizado pelo venerável (iniciais J. da C. B., Januário da Cunha Barbosa segundo Iglesias Magalhães 2023) sobre o original francês na versão anotada de Hipólito José da Costa (Londres). Abre com regras de conduta em loja e segue a instrução por perguntas e respostas; é um dos primeiros rituais impressos no Brasil e liga o trabalho da loja fundadora do GOB aos compêndios de Hipólito.",
+   "observacoes": "Data: o Internet Archive e Iglesias Magalhães (2023) dão 1833; o OCR de uma folha de rosto parece ler 1850 — conferir no PDF. Rito: Iglesias Magalhães associa os compêndios de Hipólito ao Rito Adonhiramita e lista estas Instrucções junto aos impressos do Rito Francês — rito a confirmar na leitura. Esta digitalização parece trazer só o 1.º grau (a obra teria 3 volumes). Contém elementos de reconhecimento por extenso: não reproduzir (regra 5). txt = OCR do IA.",
    "evidencias": [
-    "https://archive.org/details/instrucco-es-mac-onicas-ou-cathecismo-e-regulamento-geral"
+    "https://archive.org/details/instrucco-es-mac-onicas-ou-cathecismo-e-regulamento-geral",
+    "https://doi.org/10.1590/TEM-1980542X2023v290205"
    ],
    "status_verificacao": "copiado",
    "acervo": [
@@ -1258,6 +1261,132 @@
    "status_verificacao": "copiado",
    "acervo": [
     "txt/magalhaes-lima-1910-centenario-jose-estevao.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "iglesias-magalhaes-2023-primeiros-ritos-brasil",
+   "tipo": "artigo",
+   "categoria": "academica",
+   "autores": [
+    "Pablo Antonio Iglesias Magalhães"
+   ],
+   "titulo": "A circulação dos primeiros ritos maçônicos manuscritos e impressos no Brasil (1810-1836)",
+   "ano": 2023,
+   "idioma": "pt",
+   "periodico": "Tempo (Niterói)",
+   "volume": "29(2)",
+   "url": "https://doi.org/10.1590/TEM-1980542X2023v290205",
+   "identificadores": {
+    "doi": "10.1590/TEM-1980542X2023v290205"
+   },
+   "temas": [
+    "ritual",
+    "ritos",
+    "historiografia"
+   ],
+   "ritos": [
+    "adonhiramita",
+    "frances_moderno",
+    "reaa"
+   ],
+   "paises": [
+    "br",
+    "pt",
+    "gb"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "CC BY (SciELO)",
+   "resumo": "Estudo bibliográfico sobre como os primeiros rituais maçônicos chegaram e circularam no Brasil: manuscritos e o Compêndio de Hipólito da Costa impresso em Londres (c. 1810), remetidos às lojas da Bahia e de Pernambuco; cadernos adonhiramitas apreendidos em 1817; e, com as tipografias do Rio, os impressos do Primeiro Reinado e da Regência (Seignot-Plancher, Ogier, Gueffier, Typographia Austral) para os ritos Adonhiramita, Francês e Escocês. É a principal fonte acadêmica do catálogo para os rituais brasileiros do século XIX e identifica as Instrucções da loja Comércio e Artes (1833) e o Guia dos maçons escocezes (1834).",
+   "observacoes": "Lido por WebFetch na página do SciELO; o PDF não foi copiado porque www.scielo.br responde 403 (anti-robô) a downloads automáticos.",
+   "evidencias": [
+    "https://www.scielo.br/j/tem/a/zp7FCDVgsNPNVzbzdFpSkRC/?lang=pt"
+   ],
+   "status_verificacao": "conferido_web",
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "oliveira-marques-1993-ritual-maconico-portugal",
+   "tipo": "artigo",
+   "categoria": "academica",
+   "autores": [
+    "A. H. de Oliveira Marques"
+   ],
+   "titulo": "Para a história do ritual maçónico em Portugal no século XIX (1820-1869)",
+   "ano": 1993,
+   "idioma": "pt",
+   "periodico": "Revista de História das Ideias",
+   "volume": "15",
+   "url": "https://dl.uc.pt/bitstream/10316.2/42003/1/para_a_historia_do_ritual_maconico.pdf",
+   "identificadores": {
+    "handle": "10316.2/42003"
+   },
+   "temas": [
+    "ritual",
+    "ritos",
+    "historiografia"
+   ],
+   "paises": [
+    "pt"
+   ],
+   "periodos": [
+    "p1814_1870"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (UC Digitalis)",
+   "resumo": "Artigo do principal historiador da maçonaria portuguesa sobre os rituais usados pelas lojas portuguesas entre a Revolução de 1820 e a unificação de 1869. Complementa, do lado português, o estudo de Iglesias Magalhães sobre os rituais impressos no Brasil.",
+   "observacoes": "Não copiado: dl.uc.pt (UC Digitalis) apresenta cadeia de certificado TLS incompleta (curl erro 60) e a verificação não foi desativada. Metadados conferidos por busca; conteúdo a ler.",
+   "evidencias": [
+    "https://dl.uc.pt/bitstream/10316.2/42003/1/para_a_historia_do_ritual_maconico.pdf"
+   ],
+   "status_verificacao": "pista",
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "costa-2022-1723-constitutions-portuguese-historiography",
+   "tipo": "artigo",
+   "categoria": "historiografia_maconica",
+   "autores": [
+    "Fernando Marques da Costa"
+   ],
+   "titulo": "The 1723 Constitutions in Portuguese Masonic Historiography",
+   "ano": 2022,
+   "idioma": "en",
+   "editora": "1723constitutions.com (projeto comemorativo do tricentenário)",
+   "url": "https://1723constitutions.com/wp-content/uploads/2022/04/The-1723-Constitutions-in-portuguese-Masonic-Historiography.pdf",
+   "temas": [
+    "documentos_fundadores",
+    "historiografia"
+   ],
+   "potencias": [
+    "gol"
+   ],
+   "paises": [
+    "pt"
+   ],
+   "periodos": [
+    "p1717_1750",
+    "p1751_1813",
+    "p1814_1870",
+    "p1871_1918"
+   ],
+   "confiabilidade": "B",
+   "acesso": "aberto",
+   "licenca": "texto público (direitos do autor)",
+   "resumo": "Levantamento factual das referências às Constituições de Anderson na historiografia maçônica portuguesa e das suas traduções para o português. Lembra que, fora da Madeira, quase não houve lojas de portugueses antes de 1797 e que os processos da Inquisição (Coustos, 1743; Michael Hyde, 1798) são as únicas menções setecentistas às Constituições.",
+   "evidencias": [
+    "https://1723constitutions.com/wp-content/uploads/2022/04/The-1723-Constitutions-in-portuguese-Masonic-Historiography.pdf"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/costa-2022-1723-constitutions-portuguese-historiography.pdf",
+    "txt/costa-2022-1723-constitutions-portuguese-historiography.txt"
    ],
    "lote": "a01-lusofono2"
   }
