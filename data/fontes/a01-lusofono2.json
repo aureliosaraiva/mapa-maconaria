@@ -89,49 +89,6 @@
    "lote": "a01-lusofono2"
   },
   {
-   "id": "carvalho-2016-teosofia-maconaria-mista-pelotas",
-   "tipo": "dissertacao",
-   "categoria": "tese",
-   "autores": [
-    "Márcio Dillmann de Carvalho"
-   ],
-   "titulo": "As Sociedades Teosóficas e a Maçonaria Mista: espiritualidade e poder em Pelotas no princípio do século XX (1902-1939)",
-   "ano": 2016,
-   "idioma": "pt",
-   "editora": "Universidade Federal de Pelotas, Programa de Pós-Graduação em História",
-   "local": "Pelotas",
-   "url": "http://guaiaca.ufpel.edu.br/handle/prefix/7853",
-   "identificadores": {
-    "bdtd": "UFPL_9db4f3ca85960b89e5fad0b2280b05af"
-   },
-   "temas": [
-    "mulheres",
-    "esoterismo",
-    "sociabilidade"
-   ],
-   "paises": [
-    "br"
-   ],
-   "periodos": [
-    "p1871_1918",
-    "p1919_1945"
-   ],
-   "confiabilidade": "A",
-   "acesso": "aberto",
-   "licenca": "acesso aberto declarado na BDTD (direitos do autor)",
-   "resumo": "Dissertação orientada por Larissa Patron Chaves sobre as lojas de maçonaria mista ligadas ao Le Droit Humain e os grupos teosóficos de Pelotas (RS) entre 1902 e 1939, a partir de documentos guardados no museu maçônico local. É, pelo resumo, o único estudo acadêmico aberto localizado sobre a implantação da maçonaria mista no Brasil.",
-   "observacoes": "PDF não copiado: o repositório Guaiaca (UFPel) responde com página de verificação anti-robô (SafeLine, HTTP 468), que não foi contornada.",
-   "evidencias": [
-    "https://bdtd.ibict.br/vufind/Record/UFPL_9db4f3ca85960b89e5fad0b2280b05af"
-   ],
-   "status_verificacao": "conferido_web",
-   "potencias": [
-    "mista_br",
-    "droit_humain"
-   ],
-   "lote": "a01-lusofono2"
-  },
-  {
    "id": "gohl-2003-loja-uniao-iii-porto-uniao",
    "tipo": "dissertacao",
    "categoria": "tese",
@@ -806,6 +763,272 @@
    "acervo": [
     "pdf/souza-2019-maconaria-ditadura-senador-pompeu.pdf",
     "txt/souza-2019-maconaria-ditadura-senador-pompeu.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "carvalho-2016-teosofia-maconaria-mista-pelotas",
+   "tipo": "dissertacao",
+   "categoria": "tese",
+   "autores": [
+    "Márcio Dillmann de Carvalho"
+   ],
+   "titulo": "As Sociedades Teosóficas e a Maçonaria Mista: espiritualidade e poder em Pelotas no princípio do século XX (1902-1939)",
+   "ano": 2016,
+   "idioma": "pt",
+   "editora": "Universidade Federal de Pelotas, Programa de Pós-Graduação em História",
+   "local": "Pelotas",
+   "url": "http://guaiaca.ufpel.edu.br/handle/prefix/7853",
+   "identificadores": {
+    "bdtd": "UFPL_9db4f3ca85960b89e5fad0b2280b05af"
+   },
+   "temas": [
+    "mulheres",
+    "esoterismo",
+    "sociabilidade"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1871_1918",
+    "p1919_1945"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto declarado na BDTD (direitos do autor)",
+   "resumo": "Dissertação orientada por Larissa Patron Chaves sobre as lojas teosóficas (a primeira, Dharmah, de 1902) e a loja mista Cruzeiro do Sul n.º 655, fundada em Pelotas em 25/10/1925 sob o Le Droit Humain, até 1939, com base em atas e correspondência guardadas no museu maçônico local. Reconstitui também a chegada da ordem mista ao Brasil (loja Anita Garibaldi, no Rio) e o papel de Annie Besant; é o único estudo acadêmico aberto localizado sobre a maçonaria mista no Brasil.",
+   "observacoes": "PDF obtido no site do PPGH-UFPel (wp.ufpel.edu.br); o repositório Guaiaca responde com verificação anti-robô (SafeLine), não contornada.",
+   "evidencias": [
+    "https://bdtd.ibict.br/vufind/Record/UFPL_9db4f3ca85960b89e5fad0b2280b05af",
+    "https://wp.ufpel.edu.br/ppgh/files/2017/03/Disserta%C3%A7%C3%A3o-Final-Marcio-Dillmann-de-Carvalho.pdf"
+   ],
+   "status_verificacao": "copiado",
+   "potencias": [
+    "mista_br",
+    "droit_humain"
+   ],
+   "lote": "a01-lusofono2",
+   "paginas": "143 p.",
+   "acervo": [
+    "pdf/carvalho-2016-teosofia-maconaria-mista-pelotas.pdf",
+    "txt/carvalho-2016-teosofia-maconaria-mista-pelotas.txt"
+   ]
+  },
+  {
+   "id": "cmsb-2023-rememorando-passado",
+   "tipo": "documento",
+   "categoria": "oficial_potencia",
+   "autores": [
+    "Confederação da Maçonaria Simbólica do Brasil"
+   ],
+   "titulo": "Rememorando o passado: resumo histórico da CMSB",
+   "ano": 2023,
+   "idioma": "pt",
+   "editora": "Editora CMSB",
+   "local": "Brasília",
+   "paginas": "32 p.",
+   "url": "https://cmsb.org.br/download/34/grao-mestres/10189/rememorando-o-passado.pdf",
+   "temas": [
+    "potencias",
+    "regularidade",
+    "politica"
+   ],
+   "potencias": [
+    "cmsb",
+    "cmi"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "licenca": "todos os direitos reservados (publicação institucional distribuída publicamente)",
+   "resumo": "Cronologia oficial da confederação das Grandes Lojas, organizada por Edilson de Oliveira com revisão de Kennyo Ismail, a partir da edição de 2009 de Walnyr Goulart Jacques. Vai das Mesas Redondas das Grandes Lojas (a partir de 1952) à fundação (12/11/1965) e instalação (27/7/1966) da CMSB, ao rompimento dos tratados com o GOB (1967), às relações com a CMI e ao protesto contra a Grande Loja Distrital da UGLE no Brasil. Registra ainda a carta dos grão-mestres à Junta Militar em 1969. Não trata do cisma de 1927 em si.",
+   "evidencias": [
+    "https://cmsb.org.br/download/34/grao-mestres/10189/rememorando-o-passado.pdf"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/cmsb-2023-rememorando-passado.pdf",
+    "txt/cmsb-2023-rememorando-passado.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "gob-frafem-orientacoes",
+   "tipo": "documento",
+   "categoria": "oficial_potencia",
+   "autores": [
+    "Grande Oriente do Brasil"
+   ],
+   "titulo": "Fraternidade Feminina Cruzeiro do Sul: orientações de como criar e/ou regularizar uma FRAFEM",
+   "ano": null,
+   "idioma": "pt",
+   "url": "https://www.gob.org.br/wp-content/uploads/Procedimentos-para-cria%C3%A7%C3%A3o-da-FRAFEM.docx",
+   "temas": [
+    "mulheres",
+    "ordens_anexas",
+    "potencias"
+   ],
+   "potencias": [
+    "gob"
+   ],
+   "paises": [
+    "br"
+   ],
+   "periodos": [
+    "p1946_1989",
+    "p1990_hoje"
+   ],
+   "confiabilidade": "C",
+   "acesso": "oficial_publico",
+   "licenca": "documento institucional público",
+   "resumo": "Orientação do GOB para criar núcleos da Fraternidade Feminina Cruzeiro do Sul, associação paramaçônica não iniciática de esposas e parentes de maçons prevista na Constituição do GOB de 1967 e ligada a uma ou duas lojas. Mostra o modelo predominante de participação feminina nas potências masculinas brasileiras, distinto da maçonaria mista ou feminina.",
+   "observacoes": "Arquivo .docx convertido em texto; sem data (posterior a 2020, pelos modelos citados).",
+   "evidencias": [
+    "https://www.gob.org.br/wp-content/uploads/Procedimentos-para-cria%C3%A7%C3%A3o-da-FRAFEM.docx"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "outros/gob-frafem-orientacoes.docx",
+    "txt/gob-frafem-orientacoes.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "costa-2024-portuguese-freemasonry-slavery",
+   "tipo": "artigo",
+   "categoria": "academica",
+   "autores": [
+    "Fernando Marques da Costa"
+   ],
+   "titulo": "Portuguese Freemasonry between Slavery and Antislavery: Transoceanic Masonic Networks in the Portuguese Empire",
+   "titulo_traduzido": "A maçonaria portuguesa entre o escravismo e o antiescravismo: redes maçônicas transoceânicas no Império português",
+   "ano": 2024,
+   "idioma": "en",
+   "periodico": "Ritual, Secrecy, and Civil Society",
+   "volume": "11(1)",
+   "paginas": "63-92",
+   "url": "https://www.rscsjournal.org/uploads/1/3/6/5/136597491/portuguese_freemasonry.pdf",
+   "temas": [
+    "politica",
+    "sociabilidade",
+    "historiografia"
+   ],
+   "potencias": [
+    "gol"
+   ],
+   "paises": [
+    "pt",
+    "mz",
+    "br",
+    "ao",
+    "in"
+   ],
+   "periodos": [
+    "p1751_1813",
+    "p1814_1870"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (revista; direitos do autor)",
+   "resumo": "Artigo de historiador da Universidade Nova de Lisboa sobre as ligações entre redes maçônicas e tráfico de escravos no espaço Portugal–Brasil–Moçambique, do fim do século XVIII a meados do XIX. Sustenta que a presença maçônica em Angola foi quase nula, ao contrário de Moçambique, onde há registros desde o fim do Setecentos ligados a negociantes portugueses, brasileiros e goeses, e discute o peso de maçons na resistência ao abolicionismo. Uma das raras fontes acadêmicas abertas sobre maçonaria nos territórios africanos e índicos sob domínio português.",
+   "evidencias": [
+    "https://www.rscsjournal.org/uploads/1/3/6/5/136597491/portuguese_freemasonry.pdf"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/costa-2024-portuguese-freemasonry-slavery.pdf",
+    "txt/costa-2024-portuguese-freemasonry-slavery.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "rosa-2021-papus-martinismo-guine-cabo-verde",
+   "tipo": "artigo",
+   "categoria": "academica",
+   "autores": [
+    "Vítor Rosa"
+   ],
+   "titulo": "Gérard Encausse (Papus): a Ordem Martinista e os adeptos em Portugal, Guiné-Bissau e Cabo Verde (1912-1914)",
+   "ano": 2021,
+   "idioma": "pt",
+   "periodico": "Via Spiritus",
+   "volume": "28",
+   "paginas": "355-369",
+   "url": "https://doi.org/10.21747/0873-1233/spi28v7",
+   "identificadores": {
+    "doi": "10.21747/0873-1233/spi28v7"
+   },
+   "temas": [
+    "esoterismo",
+    "ordens_anexas"
+   ],
+   "paises": [
+    "pt",
+    "gw",
+    "cv"
+   ],
+   "periodos": [
+    "p1871_1918"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (revista da Universidade do Porto)",
+   "resumo": "A partir da correspondência dirigida a Papus entre 1912 e 1914, o artigo mostra tentativas de portugueses de fundar lojas da Ordem Martinista em Lisboa, na Guiné e em Cabo Verde, e resume a genealogia do martinismo (Pasqually, Saint-Martin, Willermoz, Papus). Não trata de lojas maçônicas, mas é a única fonte acadêmica aberta localizada sobre sociabilidade iniciática nessas duas colônias.",
+   "evidencias": [
+    "https://ojs.letras.up.pt/index.php/vsp/article/download/11234/10294/38358"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/rosa-2021-papus-martinismo-guine-cabo-verde.pdf",
+    "txt/rosa-2021-papus-martinismo-guine-cabo-verde.txt"
+   ],
+   "lote": "a01-lusofono2"
+  },
+  {
+   "id": "silva-dias-1980-anglismo-maconaria-portugal",
+   "tipo": "artigo",
+   "categoria": "academica",
+   "autores": [
+    "Graça Silva Dias"
+   ],
+   "titulo": "Anglismo na Maçonaria em Portugal no limiar do século XIX",
+   "ano": 1980,
+   "idioma": "pt",
+   "periodico": "Análise Social",
+   "volume": "XVI (61-62)",
+   "paginas": "399-405",
+   "url": "https://revistas.rcaap.pt/analisesocial/article/download/46004/30992",
+   "temas": [
+    "origens",
+    "politica",
+    "historiografia"
+   ],
+   "paises": [
+    "pt",
+    "gb"
+   ],
+   "periodos": [
+    "p1751_1813"
+   ],
+   "confiabilidade": "A",
+   "acesso": "aberto",
+   "licenca": "acesso aberto (Análise Social / ICS-ULisboa)",
+   "resumo": "Nota de pesquisa de uma das autoras de Os primórdios da maçonaria em Portugal (com J. S. da Silva Dias) que antecipa uma tese: a orientação inglesa, e não só francesa, da maçonaria portuguesa na passagem do século XVIII para o XIX. Útil para os verbetes sobre as origens do Grande Oriente Lusitano e sobre a historiografia portuguesa da maçonaria.",
+   "observacoes": "O nome aparece no cabeçalho como 'Mana da Graça Silva Dias' (erro de OCR de Maria da Graça Silva Dias). Ver também dias-1980-primordios-maconaria-portugal (c05).",
+   "evidencias": [
+    "https://revistas.rcaap.pt/analisesocial/article/download/46004/30992"
+   ],
+   "status_verificacao": "copiado",
+   "acervo": [
+    "pdf/silva-dias-1980-anglismo-maconaria-portugal.pdf",
+    "txt/silva-dias-1980-anglismo-maconaria-portugal.txt"
    ],
    "lote": "a01-lusofono2"
   }
