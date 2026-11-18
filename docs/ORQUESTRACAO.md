@@ -69,7 +69,7 @@ Ordem de disparo (no máximo 3 sessões simultâneas, por limite de uso): **V05,
 | A03 | 2 | Periódicos e literatura acadêmica: OpenAlex/Crossref (nova tentativa), JRFF, *Heredom*, AQC aberto, Pietre-Stones, REHMLAC+ completa, *Renaissance Traditionnelle*, *Chroniques d'histoire maçonnique*, teses (theses.fr, ProQuest abertos, EThOS) | `data/fontes/a03-periodicos.json` | pendente | — |
 | V01 | 3 | Verbetes de **ritos, graus e ordens anexas** | `data/verbetes/ritos/`, `data/verbetes/graus/`, `data/verbetes/ordens-anexas/`, `data/linha_do_tempo/V01.json` | concluída | [V01](sessoes/V01.md) |
 | V02 | 3 | Verbetes de **potências** (Brasil e mundo) + `conceitos/regularidade-e-reconhecimento` (com fichamento da série COGMNA) | `data/verbetes/potencias/`, `data/verbetes/conceitos/regularidade-e-reconhecimento.md`, `data/linha_do_tempo/V02.json` | concluída | [V02](sessoes/V02.md) — 32 verbetes, 40 eventos |
-| V03 | 3 | Verbetes de **documentos** (Old Charges, constituições, exposições, bulas e documentos eclesiásticos, landmarks, Basic Principles) | `data/verbetes/documentos/`, `data/linha_do_tempo/V03.json` | em andamento | — |
+| V03 | 3 | Verbetes de **documentos** (Old Charges, constituições, exposições, bulas e documentos eclesiásticos, landmarks, Basic Principles) | `data/verbetes/documentos/`, `data/linha_do_tempo/V03.json` | concluída | [V03](sessoes/V03.md) — 29 verbetes, 44 eventos |
 | V04 | 3 | Verbetes de **eventos mundiais e antimaçonaria** | `data/verbetes/eventos/`, `data/verbetes/antimaconaria/`, `data/linha_do_tempo/V04.json` | em andamento | — |
 | V05 | 3 | Verbetes do **Brasil e mundo lusófono** (eventos, potências não, só história) | `data/verbetes/brasil/`, `data/linha_do_tempo/V05.json` | concluída | [V05](sessoes/V05.md) — 22 verbetes, 34 eventos |
 | V06 | 3 | Verbetes de **princípios, símbolos e conceitos** (exceto regularidade) | `data/verbetes/principios/`, `data/verbetes/simbolos/`, `data/verbetes/conceitos/` (exceto o da V02), `data/linha_do_tempo/V06.json` | pendente | — |
@@ -103,7 +103,7 @@ Ordem de disparo (no máximo 3 sessões simultâneas, por limite de uso): **V05,
 | V02 | `session_011fM5cisYWgkY8m5wJGBkLh` | concluída | 2026-11-12 (retomada 2026-11-17) |
 | R01 | `session_011fM5cjgPLLdimnyTZpfo4i` | concluída | 2026-11-17 (disparada pela V05) |
 | A01 | `session_011fM5cnJcUTMaZrXFUZrMMo` | em andamento | 2026-11-17 (disparada pela V01) |
-| V03 | `session_011fM5cmL4kfGDY6Po2FVXkm` | em andamento | 2026-11-17 (disparada pela R01) |
+| V03 | `session_011fM5cmL4kfGDY6Po2FVXkm` | concluída | 2026-11-17 (disparada pela R01) |
 | V04 | `session_011fM5cjwrzeed2oKDL7PcfC` | em andamento | 2026-11-17 (disparada pela V02) |
 
 ## Registro da orquestradora

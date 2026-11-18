@@ -128,3 +128,12 @@
 - [ ] (P3) Números atuais de membros sem fonte no acervo: GOB, GLFF, GOdF (fonte oficial; hoje só Wikipédia, nota D), Gran Logia de la Argentina, Gran Logia de Chile, CMSB por Grande Loja.
 - [ ] (P3) `ugle-1929-basic-principles` continua `pista`: o conteúdo dos oito princípios nos verbetes vem da paráfrase de Icart (2022) e da constituição da GLE (2025). Copiar o texto de 1929 (domínio público?) para conferência.
 - [ ] (P3) O `anticopia.py` acusa 7 erros em arquivos da V05 (3 verbetes e 3 eventos `v05-*` da linha do tempo, além de 1 resumo), fora do escopo da V02; reescrever (V05 ou V08).
+
+## V03
+- [ ] (P1) Texto da Declaração de Princípios do Convento de Lausanne (1875): Gallica 403, freemasons-freemasonry.com 403, masonicperiodicals.org atrás de anti-robô (Anubis; não contornado). Bloqueia o verbete `declaracao-de-lausanne-1875`. Coordenar com a A02.
+- [ ] (P2) `ugle-1929-basic-principles` segue `pista`: o verbete usa a reprodução do Freemason.pt (`freemasonpt-2020-principios-basicos-ugle`, lote v03) e Icart 2022; conferir com o Book of Constitutions da UGLE e atualizar o lote c07.
+- [ ] (P2) Revisão humana (regra 5) dos verbetes `sensivel: true`: `masonry-dissected-1730`, `exposicoes-francesas-1737-1751`, `exposicoes-inglesas-1760-1766`, `exposicoes-americanas-1826-1866`, `regulateur-du-macon`.
+- [ ] (P3) Sem cópia no acervo: Mollier 2004 (`mollier-2004-regulateur-du-macon`), Bernheim 1984 (`bernheim-1984-decouverte-constitutions-1762`); afirmações delas nos verbetes vêm de resumos ou de citações em Noël 2018.
+- [ ] (P3) Data de nascimento de Ramsay: Mackey dá 1668; conferir em biografia acadêmica.
+- [ ] (P3) O validador acusou id duplicado `comab-2026-historia` (lotes de outras sessões) em 2026-11-17; não é da V03.
+
