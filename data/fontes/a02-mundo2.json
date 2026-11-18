@@ -1700,7 +1700,7 @@
       "confiabilidade": "A",
       "acesso": "aberto",
       "licenca": "CC BY (CyberLeninka)",
-      "resumo": "Estudo, com base no arquivo da loja 'Severnaia Zvezda' depositado na Biblioteca Nacional da França, da trajetória maçônica do escritor emigrado Gaito Gazdanov em Paris. Mostra a vida das lojas russas da emigração ligadas ao Grande Oriente da França, inclusive sob a ocupação e no pós-guerra.",
+      "resumo": "Estudo, com base no arquivo da loja 'Severnaia Zvezda' depositado na Biblioteca Nacional da França, da trajetória maçônica do escritor emigrado Gaito Gazdanov em Paris entre 1932 e 1971. Ilumina a vida das lojas russas da emigração ligadas ao Grande Oriente da França e as dificuldades de acesso a esse arquivo.",
       "evidencias": [
         "https://cyberleninka.ru/article/n/gayto-gazdanov-i-masonskaya-lozha-severnaya-zvezda-1932-1971-gody"
       ],
@@ -1783,7 +1783,7 @@
       "confiabilidade": "B",
       "acesso": "aberto",
       "licenca": "CC BY (CyberLeninka)",
-      "resumo": "Com base em processos da OGPU, estuda um círculo esotérico de inspiração templária e anarco-mística em Nijni Novgorod, desbaratado em 1930, que a polícia política tratou como 'maçonaria'. Exemplo de como grupos ocultistas e para-maçônicos foram reprimidos na URSS sob a mesma rubrica.",
+      "resumo": "Com base no processo criminal contra a 'Ordem dos Cavaleiros Templários Russos', estuda uma sociedade mística de orientação templária e rosacruz, qualificada de maçônica, ativa entre a intelligentsia de Nijni Novgorod nos anos 1920 e reprimida pela polícia política. Exemplo de como grupos esotéricos e para-maçônicos foram perseguidos na URSS.",
       "evidencias": [
         "https://cyberleninka.ru/article/n/tamplierskiy-taynyy-orden-i-intelligentsiya-v-nizhnem-novgorode-v-1924-1930-godah"
       ],
@@ -1792,6 +1792,257 @@
         "pdf/lushin-2017-ordem-templaria-nizhny-novgorod.pdf",
         "txt/lushin-2017-ordem-templaria-nizhny-novgorod.txt"
       ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "beyerle-1784-zusammenkunft-wilhelmsbad",
+      "tipo": "livro",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Jean-Louis (Johann Ludwig) de Beyerle"
+      ],
+      "titulo": "Des Hochw. Br. L. a Fas. … Abhandlung über die allgemeine Zusammenkunft der Freymaurer, bey dem Gesundbrunnen in Wilhelmsbad, ohnweit Hanau",
+      "titulo_traduzido": "Tratado sobre a assembleia geral dos franco-maçons no balneário de Wilhelmsbad, perto de Hanau",
+      "ano": 1784,
+      "ano_original": 1782,
+      "idioma": "de",
+      "paginas": "c. 270 p.",
+      "url": "https://archive.org/details/10434813bsb",
+      "identificadores": {
+        "ia": "10434813bsb"
+      },
+      "temas": [
+        "ritos",
+        "documentos_fundadores",
+        "esoterismo",
+        "origens"
+      ],
+      "ritos": [
+        "rer",
+        "outros_ritos"
+      ],
+      "paises": [
+        "de",
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (1784; digitalização Bayerische Staatsbibliothek)",
+      "resumo": "Tradução alemã anotada do tratado latino (De conventu generali latomorum apud aquas Wilhelminas, 1782) do conselheiro de Nancy Jean-Louis de Beyerle, eques a Fascia, delegado da prefeitura templária de Lorena ao convento de Wilhelmsbad. Faz um balanço crítico das decisões do convento que abandonou a filiação templária da Estrita Observância e adotou a reforma lionesa de Willermoz, base do Rito Escocês Retificado. Testemunho primário de um participante.",
+      "observacoes": "PDF de 116 MB não guardado; só o texto OCR (Fraktur). Original latino de 1782 ainda não localizado em acesso aberto.",
+      "evidencias": [
+        "https://archive.org/details/10434813bsb"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/beyerle-1784-zusammenkunft-wilhelmsbad.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "qcl-1889-quatuor-coronatorum-antigrapha",
+      "tipo": "periodico",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Lodge Quatuor Coronati No. 2076"
+      ],
+      "titulo": "Quatuor Coronatorum Antigrapha: Masonic Reprints (vol. I–X)",
+      "titulo_traduzido": "Quatuor Coronatorum Antigrapha: reimpressões maçônicas",
+      "ano": 1889,
+      "idioma": "en",
+      "editora": "Lodge Quatuor Coronati",
+      "local": "London",
+      "url": "https://catalogue.wmlmt.org.uk/wiki/1913/27:_Quatuor_Coronatorum_Antigrapha._Vol._II._1890",
+      "identificadores": {},
+      "temas": [
+        "documentos_fundadores",
+        "origens",
+        "historiografia"
+      ],
+      "potencias": [
+        "ugle",
+        "antients",
+        "moderns"
+      ],
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716",
+        "p1717_1750"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (1889–1913), mas sem digitalização aberta localizada",
+      "resumo": "Série de fac-símiles e transcrições editada pela loja de pesquisa Quatuor Coronati a partir de 1889, que reúne edições de Old Charges (Regius, Cooke e muitos outros manuscritos), atas antigas de lojas e registros da primeira Grande Loja. Base das edições críticas posteriores e referência obrigatória para o verbete sobre as Old Charges.",
+      "observacoes": "Volumes publicados de 1889 a 1913 (vol. X). Não encontrados no Internet Archive; HathiTrust inacessível desta rede (403). Registrado em PENDENCIAS/COLETA para busca humana.",
+      "evidencias": [
+        "https://catalogue.wmlmt.org.uk/wiki/1913/27:_Quatuor_Coronatorum_Antigrapha._Vol._II._1890",
+        "https://catalogue.wmlmt.org.uk/wiki/2023/18.617:_Quatuor_Coronatorum_Antigrapha_Masonic_reprints_Vol_IV_1892/1"
+      ],
+      "status_verificacao": "conferido_web",
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "knoop-jones-hamer-1938-two-earliest-masonic-mss",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Douglas Knoop",
+        "G. P. Jones",
+        "Douglas Hamer"
+      ],
+      "titulo": "The Two Earliest Masonic MSS.: the Regius MS. (B.M. Bibl. Reg. 17 A1) and the Cooke MS. (B.M. Add. MS. 23198)",
+      "titulo_traduzido": "Os dois manuscritos maçônicos mais antigos: Regius e Cooke",
+      "ano": 1938,
+      "idioma": "en",
+      "editora": "Manchester University Press",
+      "local": "Manchester",
+      "url": "https://openlibrary.org/works/OL43689506W",
+      "identificadores": {},
+      "temas": [
+        "documentos_fundadores",
+        "origens"
+      ],
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "medieval"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "protegido (autores falecidos após 1955)",
+      "resumo": "Edição crítica, por historiadores econômicos da Universidade de Sheffield, dos manuscritos Regius (c. 1390) e Cooke (c. 1450), com transcrição, modernização e comentário sobre datação, dialeto e conteúdo. Referência acadêmica padrão para os dois textos mais antigos das Old Charges.",
+      "observacoes": "Só em papel/sebos; registrado no COLETA.md (A02).",
+      "evidencias": [
+        "https://openlibrary.org/works/OL43689506W"
+      ],
+      "status_verificacao": "conferido_web",
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "knoop-jones-hamer-1943-early-masonic-catechisms",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Douglas Knoop",
+        "G. P. Jones",
+        "Douglas Hamer"
+      ],
+      "titulo": "The Early Masonic Catechisms",
+      "titulo_traduzido": "Os primeiros catecismos maçônicos",
+      "ano": 1943,
+      "idioma": "en",
+      "editora": "Manchester University Press (2ª ed. 1963, Quatuor Coronati Lodge, ed. Harry Carr)",
+      "local": "Manchester",
+      "url": "https://openlibrary.org/works/OL1101231W",
+      "identificadores": {},
+      "temas": [
+        "ritual",
+        "documentos_fundadores",
+        "origens"
+      ],
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1600_1716",
+        "p1717_1750"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "protegido",
+      "resumo": "Edição dos catecismos e exposições maçônicas de c. 1696 a 1730 (Edinburgh Register House MS, Chetwode Crawley, Sloane, Graham e outros, até Prichard), com introdução sobre a evolução das cerimônias. Base para estudar a transição da maçonaria operativa para a especulativa sem recorrer a fontes de ritual vigentes.",
+      "observacoes": "Só em papel; registrado no COLETA.md (A02). Os manuscritos isolados já estão em parte no catálogo (lote c01).",
+      "evidencias": [
+        "https://openlibrary.org/works/OL1101231W"
+      ],
+      "status_verificacao": "conferido_web",
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "knoop-jones-1947-genesis-freemasonry",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Douglas Knoop",
+        "G. P. Jones"
+      ],
+      "titulo": "The Genesis of Freemasonry: an account of the rise and development of Freemasonry in its operative, accepted, and early speculative phases",
+      "titulo_traduzido": "A gênese da maçonaria",
+      "ano": 1947,
+      "idioma": "en",
+      "editora": "Manchester University Press",
+      "local": "Manchester",
+      "url": "https://openlibrary.org/works/OL1101263W",
+      "identificadores": {},
+      "temas": [
+        "origens",
+        "historiografia",
+        "documentos_fundadores"
+      ],
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "medieval",
+        "p1600_1716",
+        "p1717_1750"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "protegido",
+      "resumo": "Síntese clássica da escola 'autêntica' de Sheffield sobre a passagem dos pedreiros operativos medievais à maçonaria aceita e especulativa, com uso sistemático das Old Charges, dos estatutos de Schaw e dos primeiros catecismos. Ainda é ponto de partida da historiografia acadêmica das origens.",
+      "observacoes": "Só em papel; registrado no COLETA.md (A02).",
+      "evidencias": [
+        "https://openlibrary.org/works/OL1101263W"
+      ],
+      "status_verificacao": "conferido_web",
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "melzer-1999-konflikt-anpassung",
+      "tipo": "livro",
+      "categoria": "academica",
+      "autores": [
+        "Ralf Melzer"
+      ],
+      "titulo": "Konflikt und Anpassung: Freimaurerei in der Weimarer Republik und im 'Dritten Reich'",
+      "titulo_traduzido": "Conflito e adaptação: a maçonaria na República de Weimar e no 'Terceiro Reich'",
+      "ano": 1999,
+      "idioma": "de",
+      "editora": "Braumüller",
+      "local": "Wien",
+      "url": "https://openlibrary.org/works/OL3097948W",
+      "identificadores": {},
+      "temas": [
+        "politica",
+        "antimaconaria",
+        "potencias"
+      ],
+      "potencias": [
+        "vglvd"
+      ],
+      "paises": [
+        "de"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "comercial",
+      "licenca": "protegido",
+      "resumo": "Tese de referência sobre as grandes lojas alemãs entre 1918 e 1945: as tentativas das lojas 'velho-prussianas' de se adaptar ao nacionalismo (mudança de nome para 'ordens', exclusão de judeus), a dissolução forçada em 1935, o papel do SD e o destino dos maçons. Indispensável para o verbete sobre a perseguição nazista.",
+      "observacoes": "Obra comercial; registrar no COLETA.md (A02). Ponto de contraste com as fontes primárias ludendorff-1927 e schwarz-1938.",
+      "evidencias": [
+        "https://openlibrary.org/works/OL3097948W"
+      ],
+      "status_verificacao": "conferido_web",
       "lote": "a02-mundo2"
     }
   ]
