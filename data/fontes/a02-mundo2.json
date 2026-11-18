@@ -1358,6 +1358,441 @@
         "txt/hamas-1988-covenant.txt"
       ],
       "lote": "a02-mundo2"
+    },
+    {
+      "id": "reinach-1908-affaire-dreyfus-t6-cap4",
+      "tipo": "capitulo",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Joseph Reinach"
+      ],
+      "titulo": "Histoire de l'Affaire Dreyfus, t. VI: La Révision — chapitre IV",
+      "titulo_traduzido": "História do caso Dreyfus, t. VI, cap. IV",
+      "ano": 1908,
+      "idioma": "fr",
+      "editora": "Éditions de la Revue Blanche / Fasquelle",
+      "local": "Paris",
+      "url": "https://fr.wikisource.org/wiki/Histoire_de_l%E2%80%99Affaire_Dreyfus/T6/4",
+      "identificadores": {},
+      "temas": [
+        "politica",
+        "potencias",
+        "antimaconaria"
+      ],
+      "potencias": [
+        "godf"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (autor falecido em 1921); transcrição Wikisource",
+      "resumo": "Capítulo da grande história do caso Dreyfus escrita por um deputado dreyfusista e contemporâneo dos fatos. Relata como o ministro da Guerra, general André, mantinha registros de oficiais 'republicanos' e 'clericais', como seu gabinete passou a obter informações por meio do secretariado do Grande Oriente e de suas lojas, e como Bidegain vendeu as provas à oposição, levando ao escândalo de 1904 e à queda de André.",
+      "observacoes": "Testemunho de contemporâneo engajado (republicano, crítico de André); citar com a página da edição impressa indicada na transcrição.",
+      "evidencias": [
+        "https://fr.wikisource.org/wiki/Histoire_de_l%E2%80%99Affaire_Dreyfus/T6/4"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/reinach-1908-affaire-dreyfus-t6-cap4.html",
+        "txt/reinach-1908-affaire-dreyfus-t6-cap4.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "coubertin-1905-chronique-france-1904-cap1",
+      "tipo": "capitulo",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Pierre de Coubertin"
+      ],
+      "titulo": "La Chronique de France, 1904 — chapitre I",
+      "titulo_traduzido": "A Crônica da França, 1904, cap. I",
+      "ano": 1905,
+      "idioma": "fr",
+      "local": "Auxerre",
+      "url": "https://fr.wikisource.org/wiki/La_Chronique_de_France,_1904/Chapitre_I",
+      "identificadores": {},
+      "temas": [
+        "politica",
+        "potencias"
+      ],
+      "potencias": [
+        "godf"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (autor falecido em 1937); transcrição Wikisource",
+      "resumo": "Crônica anual da vida política francesa escrita por Coubertin, cujo primeiro capítulo de 1904 trata da política interna e inclui uma seção sobre a 'descoberta das fichas', descrevendo o papel do Conselho da Ordem do Grande Oriente e o efeito do escândalo no governo Combes. Testemunho contemporâneo de um observador moderado.",
+      "evidencias": [
+        "https://fr.wikisource.org/wiki/La_Chronique_de_France,_1904/Chapitre_I"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/coubertin-1905-chronique-france-1904-cap1.html",
+        "txt/coubertin-1905-chronique-france-1904-cap1.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "italia-1925-legge-2029-associazioni",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Reino de Itália"
+      ],
+      "titulo": "Legge 26 novembre 1925, n. 2029: Regolarizzazione dell'attività delle Associazioni, Enti ed Istituti e dell'appartenenza ai medesimi del personale dipendente dallo Stato (Gazzetta Ufficiale n. 277, 28/11/1925)",
+      "titulo_traduzido": "Lei de 26/11/1925 sobre associações (lei antimaçônica do fascismo)",
+      "ano": 1925,
+      "idioma": "it",
+      "editora": "Gazzetta Ufficiale del Regno d'Italia",
+      "local": "Roma",
+      "paginas": "16 p. (fascículo)",
+      "url": "https://www.gazzettaufficiale.it/eli/gu/1925/11/28/277/sg/pdf",
+      "identificadores": {
+        "normattiva": "https://www.normattiva.it/eli/id/1925/11/28/025U2029/CONSOLIDATED/20091216"
+      },
+      "temas": [
+        "politica",
+        "antimaconaria"
+      ],
+      "potencias": [
+        "goi"
+      ],
+      "paises": [
+        "it"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "oficial_publico",
+      "licenca": "ato normativo oficial; domínio público",
+      "resumo": "Lei fascista que obriga toda associação a entregar à polícia estatutos e listas de dirigentes e sócios quando requisitada, prevê dissolução por decreto do prefeito e veda a funcionários públicos pertencer a associações de caráter secreto ou que exijam juramento. Embora sem nomear a maçonaria, foi feita contra ela e levou o Grande Oriente e a Gran Loggia a se dissolverem; cópia do fascículo integral da Gazzetta.",
+      "evidencias": [
+        "https://www.gazzettaufficiale.it/eli/gu/1925/11/28/277/sg/pdf",
+        "https://www.normattiva.it/eli/id/1925/11/28/025U2029/CONSOLIDATED/20091216"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/italia-1925-legge-2029-associazioni.pdf",
+        "txt/italia-1925-legge-2029-associazioni.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "kondakov-2026-masonstvo-legalizacao-proibicoes",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Iurii Evguenievitch Kondakov"
+      ],
+      "titulo": "Российское масонство: периоды частичной легализации, негласные и гласные запреты",
+      "titulo_traduzido": "A maçonaria russa: períodos de legalização parcial e proibições tácitas e públicas",
+      "ano": 2026,
+      "idioma": "ru",
+      "periodico": "Вестник Русской христианской гуманитарной академии",
+      "volume": "27 (2)",
+      "url": "https://cyberleninka.ru/article/n/rossiyskoe-masonstvo-periody-chastichnoy-legalizatsii-neglasnye-i-glasnye-zaprety",
+      "identificadores": {
+        "doi": "10.25991/VRHGA.2026.2.2.014"
+      },
+      "temas": [
+        "politica",
+        "historiografia",
+        "potencias"
+      ],
+      "paises": [
+        "ru"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918",
+        "p1919_1945",
+        "p1990_hoje"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY (CyberLeninka)",
+      "resumo": "Propõe uma periodização da maçonaria russa a partir das proibições governamentais e das fases de tolerância: nunca houve autorização oficial, mas Catarina II, Alexandre I e Nicolau II não impediram a abertura de lojas; regras de 1810 nunca publicadas, proibição de 1822, retorno discreto no início do século XX e repressão soviética. Bom quadro cronológico para um verbete sobre a Rússia.",
+      "evidencias": [
+        "https://cyberleninka.ru/article/n/rossiyskoe-masonstvo-periody-chastichnoy-legalizatsii-neglasnye-i-glasnye-zaprety"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/kondakov-2026-masonstvo-legalizacao-proibicoes.pdf",
+        "txt/kondakov-2026-masonstvo-legalizacao-proibicoes.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "ermakov-androsov-2017-liquidacao-lojas-ogpu",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Viatcheslav Alekseievitch Ermakov",
+        "Andrei Anatolievitch Androsov"
+      ],
+      "titulo": "Политические цели ликвидации масонских организаций в СССР органами ОГПУ – НКВД 1920–1930-х годов",
+      "titulo_traduzido": "Objetivos políticos da liquidação das organizações maçônicas na URSS pela OGPU–NKVD (anos 1920–1930)",
+      "ano": 2017,
+      "idioma": "ru",
+      "periodico": "Интерактивная наука",
+      "volume": "14",
+      "url": "https://cyberleninka.ru/article/n/politicheskie-tseli-likvidatsii-masonskih-organizatsiy-v-sssr-organami-ogpu-nkvd-1920-1930-h-godov",
+      "identificadores": {
+        "doi": "10.21661/r-119706"
+      },
+      "temas": [
+        "politica",
+        "antimaconaria",
+        "esoterismo"
+      ],
+      "paises": [
+        "ru"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "C",
+      "acesso": "aberto",
+      "licenca": "CC BY (CyberLeninka)",
+      "resumo": "Artigo sobre a eliminação, pela polícia política soviética, dos grupos maçônicos e para-maçônicos que sobreviveram nos anos 1920 e foram desmantelados até a década de 1930. Traz dados de processos, mas adota interpretação de viés nacionalista, segundo a qual os maçons teriam pretendido 'envolver' o poder soviético com suas ideias; usar só os fatos documentados e com cautela.",
+      "observacoes": "Revista de baixo impacto e enquadramento conspiracionista; confiabilidade rebaixada para C.",
+      "evidencias": [
+        "https://cyberleninka.ru/article/n/politicheskie-tseli-likvidatsii-masonskih-organizatsiy-v-sssr-organami-ogpu-nkvd-1920-1930-h-godov"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/ermakov-androsov-2017-liquidacao-lojas-ogpu.pdf",
+        "txt/ermakov-androsov-2017-liquidacao-lojas-ogpu.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "ermakov-2018-antimasonstvo-emigracao-monarquista",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Viatcheslav Alekseievitch Ermakov"
+      ],
+      "titulo": "Антимасонская деятельность русской монархической эмиграции «первой волны» (1917–1940)",
+      "titulo_traduzido": "A atividade antimaçônica da emigração monarquista russa da 'primeira onda' (1917–1940)",
+      "ano": 2018,
+      "idioma": "ru",
+      "periodico": "Интерактивная наука",
+      "volume": "3 (25)",
+      "url": "https://cyberleninka.ru/article/n/antimasonskaya-deyatelnost-russkoy-monarhicheskoy-emigratsii-pervoy-volny-1917-1940",
+      "identificadores": {
+        "doi": "10.21661/r-469246"
+      },
+      "temas": [
+        "antimaconaria",
+        "politica",
+        "historiografia"
+      ],
+      "paises": [
+        "ru",
+        "fr",
+        "de",
+        "rs"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "C",
+      "acesso": "aberto",
+      "licenca": "CC BY (CyberLeninka)",
+      "resumo": "Reconstitui as campanhas antimaçônicas dos monarquistas russos exilados após 1917, que associavam maçonaria, democracia liberal e bolchevismo e atacavam os intelectuais expulsos no 'navio dos filósofos'. Útil como inventário de autores e periódicos do antimaçonismo da emigração; o autor simpatiza com a corrente 'patriótica' e critica a historiografia liberal, o que exige leitura crítica.",
+      "evidencias": [
+        "https://cyberleninka.ru/article/n/antimasonskaya-deyatelnost-russkoy-monarhicheskoy-emigratsii-pervoy-volny-1917-1940"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/ermakov-2018-antimasonstvo-emigracao-monarquista.pdf",
+        "txt/ermakov-2018-antimasonstvo-emigracao-monarquista.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "smirnov-2018-masonstvo-historiografia-liberal",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "D. A. Smirnov"
+      ],
+      "titulo": "Русское масонство начала XX в. в либеральной историографии 1990-х гг.",
+      "titulo_traduzido": "A maçonaria russa do início do século XX na historiografia liberal dos anos 1990",
+      "ano": 2018,
+      "idioma": "ru",
+      "periodico": "Вестник магистратуры",
+      "volume": "5-1 (80)",
+      "paginas": "3 p.",
+      "url": "https://cyberleninka.ru/article/n/russkoe-masonstvo-nachala-xx-v-v-liberalnoy-istoriografii-1990-h-gg",
+      "identificadores": {},
+      "temas": [
+        "historiografia",
+        "politica"
+      ],
+      "paises": [
+        "ru"
+      ],
+      "periodos": [
+        "p1871_1918",
+        "p1990_hoje"
+      ],
+      "confiabilidade": "C",
+      "acesso": "aberto",
+      "licenca": "CC BY (CyberLeninka)",
+      "resumo": "Nota historiográfica curta, em revista de pós-graduandos, sobre os estudos publicados na Rússia nos anos 1990 a respeito das lojas do início do século XX (Grande Oriente dos Povos da Rússia, maçons na Duma e no Governo Provisório). Serve de guia bibliográfico para autores como Serkov e Startsev.",
+      "evidencias": [
+        "https://cyberleninka.ru/article/n/russkoe-masonstvo-nachala-xx-v-v-liberalnoy-istoriografii-1990-h-gg"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/smirnov-2018-masonstvo-historiografia-liberal.pdf",
+        "txt/smirnov-2018-masonstvo-historiografia-liberal.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "babich-2016-gazdanov-loja-estrela-norte",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Irina Leonidovna Babich"
+      ],
+      "titulo": "Гайто Газданов и масонская ложа «Северная звезда» (1932–1971 годы)",
+      "titulo_traduzido": "Gaito Gazdanov e a loja maçônica 'Estrela do Norte' (1932–1971)",
+      "ano": 2016,
+      "idioma": "ru",
+      "periodico": "Новый исторический вестник",
+      "volume": "3 (49)",
+      "url": "https://cyberleninka.ru/article/n/gayto-gazdanov-i-masonskaya-lozha-severnaya-zvezda-1932-1971-gody",
+      "identificadores": {},
+      "temas": [
+        "personalidades",
+        "sociabilidade",
+        "arte_cultura"
+      ],
+      "potencias": [
+        "godf"
+      ],
+      "paises": [
+        "fr",
+        "ru"
+      ],
+      "periodos": [
+        "p1919_1945",
+        "p1946_1989"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "CC BY (CyberLeninka)",
+      "resumo": "Estudo, com base no arquivo da loja 'Severnaia Zvezda' depositado na Biblioteca Nacional da França, da trajetória maçônica do escritor emigrado Gaito Gazdanov em Paris. Mostra a vida das lojas russas da emigração ligadas ao Grande Oriente da França, inclusive sob a ocupação e no pós-guerra.",
+      "evidencias": [
+        "https://cyberleninka.ru/article/n/gayto-gazdanov-i-masonskaya-lozha-severnaya-zvezda-1932-1971-gody"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/babich-2016-gazdanov-loja-estrela-norte.pdf",
+        "txt/babich-2016-gazdanov-loja-estrela-norte.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "gaaz-sitdikov-2024-estatuto-grande-oriente-povos-russia",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Mikhail Aleksandrovitch Gaaz",
+        "Bulat Kamilevitch Sitdikov"
+      ],
+      "titulo": "Устав Великого Востока Народов России: к проблеме юридико-технического анализа текста с точки зрения масонского права и текстологии русских масонских уставов",
+      "titulo_traduzido": "O estatuto do Grande Oriente dos Povos da Rússia: análise jurídico-técnica e comparação com estatutos maçônicos russos dos séculos XVIII–XIX",
+      "ano": 2024,
+      "idioma": "ru",
+      "periodico": "Aliter",
+      "volume": "21",
+      "url": "https://cyberleninka.ru/article/n/ustav-velikogo-vostoka-narodov-rossii-k-probleme-yuridiko-tehnicheskogo-analiza-teksta-s-tochki-zreniya-masonskogo-prava-i",
+      "identificadores": {},
+      "temas": [
+        "potencias",
+        "politica",
+        "documentos_fundadores"
+      ],
+      "paises": [
+        "ru"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY (CyberLeninka)",
+      "resumo": "Analisa o estatuto do Grande Oriente dos Povos da Rússia (1912), organização 'política' que reuniu liberais e socialistas antes de 1917, comparando-o com estatutos de lojas do fim do século XVIII e início do XIX. Mostra como a obediência abandonou elementos rituais e religiosos tradicionais, o que a afasta da maçonaria regular.",
+      "evidencias": [
+        "https://cyberleninka.ru/article/n/ustav-velikogo-vostoka-narodov-rossii-k-probleme-yuridiko-tehnicheskogo-analiza-teksta-s-tochki-zreniya-masonskogo-prava-i"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/gaaz-sitdikov-2024-estatuto-grande-oriente-povos-russia.pdf",
+        "txt/gaaz-sitdikov-2024-estatuto-grande-oriente-povos-russia.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "lushin-2017-ordem-templaria-nizhny-novgorod",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Aleksandr Nikolaievitch Lushin",
+        "Ksenia Aleksandrovna Chudetskaia"
+      ],
+      "titulo": "Тамплиерский тайный орден и интеллигенция в Нижнем Новгороде в 1924–1930 годах",
+      "titulo_traduzido": "A ordem templária secreta e a intelligentsia em Nijni Novgorod (1924–1930)",
+      "ano": 2017,
+      "idioma": "ru",
+      "periodico": "Юридическая наука и практика: Вестник Нижегородской академии МВД России",
+      "volume": "4 (40)",
+      "url": "https://cyberleninka.ru/article/n/tamplierskiy-taynyy-orden-i-intelligentsiya-v-nizhnem-novgorode-v-1924-1930-godah",
+      "identificadores": {},
+      "temas": [
+        "esoterismo",
+        "politica",
+        "antimaconaria"
+      ],
+      "paises": [
+        "ru"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "B",
+      "acesso": "aberto",
+      "licenca": "CC BY (CyberLeninka)",
+      "resumo": "Com base em processos da OGPU, estuda um círculo esotérico de inspiração templária e anarco-mística em Nijni Novgorod, desbaratado em 1930, que a polícia política tratou como 'maçonaria'. Exemplo de como grupos ocultistas e para-maçônicos foram reprimidos na URSS sob a mesma rubrica.",
+      "evidencias": [
+        "https://cyberleninka.ru/article/n/tamplierskiy-taynyy-orden-i-intelligentsiya-v-nizhnem-novgorode-v-1924-1930-godah"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/lushin-2017-ordem-templaria-nizhny-novgorod.pdf",
+        "txt/lushin-2017-ordem-templaria-nizhny-novgorod.txt"
+      ],
+      "lote": "a02-mundo2"
     }
   ]
 }
