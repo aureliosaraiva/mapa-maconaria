@@ -72,7 +72,7 @@ Ordem de disparo (no máximo 3 sessões simultâneas, por limite de uso): **V05,
 | V03 | 3 | Verbetes de **documentos** (Old Charges, constituições, exposições, bulas e documentos eclesiásticos, landmarks, Basic Principles) | `data/verbetes/documentos/`, `data/linha_do_tempo/V03.json` | concluída | [V03](sessoes/V03.md) — 29 verbetes, 44 eventos |
 | V04 | 3 | Verbetes de **eventos mundiais e antimaçonaria** | `data/verbetes/eventos/`, `data/verbetes/antimaconaria/`, `data/linha_do_tempo/V04.json` | em andamento | — |
 | V05 | 3 | Verbetes do **Brasil e mundo lusófono** (eventos, potências não, só história) | `data/verbetes/brasil/`, `data/linha_do_tempo/V05.json` | concluída | [V05](sessoes/V05.md) — 22 verbetes, 34 eventos |
-| V06 | 3 | Verbetes de **princípios, símbolos e conceitos** (exceto regularidade) | `data/verbetes/principios/`, `data/verbetes/simbolos/`, `data/verbetes/conceitos/` (exceto o da V02), `data/linha_do_tempo/V06.json` | pendente | — |
+| V06 | 3 | Verbetes de **princípios, símbolos e conceitos** (exceto regularidade) | `data/verbetes/principios/`, `data/verbetes/simbolos/`, `data/verbetes/conceitos/` (exceto o da V02), `data/linha_do_tempo/V06.json` | em andamento | — |
 | V07 | 3 | Verbetes de **personalidades e lugares** (filiação com fonte documental; lendas marcadas) | `data/verbetes/personalidades/`, `data/verbetes/lugares/`, `data/linha_do_tempo/V07.json` | pendente | — |
 | V08 | 3 | **Integração**: glossário, revisão cruzada de `relacionados` (links quebrados), conexões extras (`data/conexoes.json`), consolidação da linha do tempo, auditoria de sigilo (regra 5) e anti-cópia global | `data/glossario.json`, `data/conexoes.json`, `docs/sessoes/V08.md` (+ correções pontuais avisadas no relatório) | pendente | — |
 
@@ -105,6 +105,7 @@ Ordem de disparo (no máximo 3 sessões simultâneas, por limite de uso): **V05,
 | A01 | `session_011fM5cnJcUTMaZrXFUZrMMo` | em andamento | 2026-11-17 (disparada pela V01) |
 | V03 | `session_011fM5cmL4kfGDY6Po2FVXkm` | concluída | 2026-11-17 (disparada pela R01) |
 | V04 | `session_011fM5cjwrzeed2oKDL7PcfC` | em andamento | 2026-11-17 (disparada pela V02) |
+| V06 | (criando) | em andamento | 2026-11-18 (disparada pela V03) |
 
 ## Registro da orquestradora
 - 2026-11-02 22:27 UTC — as 9 sessões da onda 1 pararam ~2 min após o início: **limite de uso de 5 h da conta** (sem perda no repositório; nada tinha sido empurrado).
