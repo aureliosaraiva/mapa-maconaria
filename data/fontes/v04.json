@@ -1,0 +1,41 @@
+{
+ "lote": "v04",
+ "fontes": [
+  {
+   "id": "ushmm-2026-freemasonry-nazi-regime",
+   "tipo": "verbete",
+   "categoria": "enciclopedia",
+   "autores": [
+    "United States Holocaust Memorial Museum"
+   ],
+   "titulo": "Freemasonry under the Nazi Regime",
+   "ano": 2026,
+   "idioma": "en",
+   "url": "https://encyclopedia.ushmm.org/content/en/article/freemasonry-under-the-nazi-regime",
+   "temas": [
+    "antimaconaria",
+    "politica"
+   ],
+   "paises": [
+    "de",
+    "mundo"
+   ],
+   "periodos": [
+    "p1919_1945"
+   ],
+   "confiabilidade": "B",
+   "acesso": "aberto",
+   "licenca": "página pública institucional (direitos do USHMM; cópia só para leitura no acervo)",
+   "status_verificacao": "copiado",
+   "resumo": "Verbete da enciclopédia do Museu Memorial do Holocausto dos EUA que descreve a política nazista contra a maçonaria: pressões pela dissolução \"voluntária\" (1933–1934), decretos de Frick de 1934 e 1935, seção especial do SD, anistia de 1938, pilhagem de lojas e exposições antimaçônicas nos países ocupados. Destaca a dificuldade de saber quantos foram perseguidos só por serem maçons.",
+   "evidencias": [
+    "https://encyclopedia.ushmm.org/content/en/article/freemasonry-under-the-nazi-regime"
+   ],
+   "lote": "v04",
+   "acervo": [
+    "html/ushmm-2026-freemasonry-nazi-regime.html",
+    "txt/ushmm-2026-freemasonry-nazi-regime.txt"
+   ]
+  }
+ ]
+}
