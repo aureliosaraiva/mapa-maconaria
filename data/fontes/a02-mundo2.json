@@ -985,6 +985,379 @@
         "txt/macbride-1914-speculative-masonry.txt"
       ],
       "lote": "a02-mundo2"
+    },
+    {
+      "id": "thiebot-2005-affaire-fiches-basse-normandie",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Emmanuel Thiébot"
+      ],
+      "titulo": "L'affaire des fiches vue par les francs-maçons du Grand Orient de France en Basse-Normandie",
+      "titulo_traduzido": "O caso das fichas visto pelos maçons do GOdF na Baixa Normandia",
+      "ano": 2005,
+      "idioma": "fr",
+      "periodico": "Revue historique des Armées",
+      "volume": "241",
+      "paginas": "107–121",
+      "url": "https://www.persee.fr/doc/rharm_0035-3299_2005_num_241_4_5768",
+      "identificadores": {
+        "doi": "10.3406/rharm.2005.5768"
+      },
+      "temas": [
+        "politica",
+        "potencias",
+        "antimaconaria"
+      ],
+      "potencias": [
+        "godf"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (Persée); direitos do autor e da revista",
+      "resumo": "Estudo regional sobre a reação das lojas do Grande Oriente na Baixa Normandia ao escândalo de 1904. Parte do projeto republicano de 'republicanizar' um exército visto como clerical e monarquista, das denúncias de oficiais enviadas pelas lojas desde o fim do século XIX e do impacto do caso Dreyfus, para examinar como os maçons locais viveram a revelação do fichamento.",
+      "observacoes": "Só a introdução foi lida (página Persée); PDF não baixado porque o endpoint de PDF da Persée responde 403 a acesso automatizado (ver PENDENCIAS A02).",
+      "evidencias": [
+        "https://www.persee.fr/doc/rharm_0035-3299_2005_num_241_4_5768",
+        "https://doi.org/10.3406/rharm.2005.5768"
+      ],
+      "status_verificacao": "conferido_web",
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "combes-1992-franc-maconnerie-intellectuels",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "André Combes"
+      ],
+      "titulo": "La franc-maçonnerie et les intellectuels (1880–1940)",
+      "titulo_traduzido": "A franco-maçonaria e os intelectuais (1880–1940)",
+      "ano": 1992,
+      "idioma": "fr",
+      "periodico": "Bulletins de l'Institut d'Histoire du Temps Présent",
+      "volume": "20",
+      "paginas": "63–69",
+      "url": "https://www.persee.fr/doc/ihtp_0769-4504_1992_num_20_1_2210",
+      "identificadores": {
+        "doi": "10.3406/ihtp.1992.2210"
+      },
+      "temas": [
+        "sociabilidade",
+        "politica",
+        "historiografia"
+      ],
+      "potencias": [
+        "godf",
+        "gldf"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1871_1918",
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (Persée); direitos do autor e da revista",
+      "resumo": "Artigo curto de André Combes, historiador do Grande Oriente na Terceira República, sobre o lugar dos intelectuais (professores, escritores, cientistas) nas lojas francesas entre 1880 e 1940. Situa a maçonaria no meio republicano e laico da época.",
+      "observacoes": "Metadados conferidos na Persée; texto não lido (PDF bloqueado a acesso automatizado). Resumo baseado no título e no contexto do autor — conferir antes de citar.",
+      "evidencias": [
+        "https://www.persee.fr/doc/ihtp_0769-4504_1992_num_20_1_2210"
+      ],
+      "status_verificacao": "conferido_web",
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "sabah-1996-franc-maconnerie-antisemitisme",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Lucien Sabah"
+      ],
+      "titulo": "La franc-maçonnerie et l'antisémitisme",
+      "titulo_traduzido": "A franco-maçonaria e o antissemitismo",
+      "ano": 1996,
+      "idioma": "fr",
+      "periodico": "Revue des études juives",
+      "volume": "155",
+      "paginas": "107–145",
+      "url": "https://www.persee.fr/doc/rjuiv_0484-8616_1996_num_155_1_2546",
+      "identificadores": {},
+      "temas": [
+        "antimaconaria",
+        "religiao",
+        "politica"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1871_1918",
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (Persée); direitos do autor e da revista",
+      "resumo": "Artigo de Lucien Sabah, autor de estudos sobre a perseguição de Vichy, sobre a associação entre antimaçonismo e antissemitismo na França. Útil para os verbetes sobre o mito 'judaico-maçônico' e sobre Vichy.",
+      "observacoes": "Metadados conferidos na Persée; texto não lido (PDF bloqueado a acesso automatizado). Conferir conteúdo antes de citar.",
+      "evidencias": [
+        "https://www.persee.fr/doc/rjuiv_0484-8616_1996_num_155_1_2546"
+      ],
+      "status_verificacao": "conferido_web",
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "dalloz-2004-francs-macons-indochine-decoux",
+      "tipo": "artigo",
+      "categoria": "academica",
+      "autores": [
+        "Jacques Dalloz"
+      ],
+      "titulo": "Francs-maçons d'Indochine à l'épreuve du régime Decoux",
+      "titulo_traduzido": "Os maçons da Indochina diante do regime Decoux",
+      "ano": 2004,
+      "idioma": "fr",
+      "periodico": "Outre-Mers. Revue d'histoire",
+      "volume": "91 (342–343)",
+      "paginas": "25–39",
+      "url": "https://www.persee.fr/doc/outre_1631-0438_2004_num_91_342_4080",
+      "identificadores": {
+        "doi": "10.3406/outre.2004.4080"
+      },
+      "temas": [
+        "politica",
+        "antimaconaria"
+      ],
+      "potencias": [
+        "godf"
+      ],
+      "paises": [
+        "vn",
+        "fr"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (Persée); direitos do autor e da revista",
+      "resumo": "Estudo sobre a aplicação, na Indochina governada pelo almirante Decoux (1940–1945), da legislação antimaçônica de Vichy: dissolução das lojas e sanções contra funcionários coloniais maçons. Amplia o tema de Vichy para o império colonial.",
+      "observacoes": "Metadados conferidos na Persée; texto não lido (PDF bloqueado a acesso automatizado). Conferir conteúdo antes de citar.",
+      "evidencias": [
+        "https://www.persee.fr/doc/outre_1631-0438_2004_num_91_342_4080"
+      ],
+      "status_verificacao": "conferido_web",
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "gotovitch-1987-franc-maconnerie-guerre-paix",
+      "tipo": "capitulo",
+      "categoria": "academica",
+      "autores": [
+        "José Gotovitch"
+      ],
+      "titulo": "Franc-maçonnerie, guerre et paix",
+      "titulo_traduzido": "Franco-maçonaria, guerra e paz",
+      "ano": 1987,
+      "idioma": "fr",
+      "editora": "École française de Rome",
+      "periodico": "Publications de l'École française de Rome, 95",
+      "paginas": "75–105",
+      "url": "https://www.persee.fr/doc/efr_0000-0000_1987_act_95_1_2889",
+      "identificadores": {},
+      "temas": [
+        "politica",
+        "sociabilidade"
+      ],
+      "paises": [
+        "be",
+        "fr",
+        "mundo"
+      ],
+      "periodos": [
+        "p1871_1918",
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "acesso aberto (Persée); direitos do autor e da editora",
+      "resumo": "Contribuição do historiador belga José Gotovitch, em atas de colóquio da Escola Francesa de Roma, sobre as posições maçônicas diante da guerra e do pacifismo no início do século XX. Útil para o internacionalismo maçônico do entreguerras.",
+      "observacoes": "Metadados conferidos na Persée; texto não lido (PDF bloqueado a acesso automatizado). Conferir conteúdo antes de citar.",
+      "evidencias": [
+        "https://www.persee.fr/doc/efr_0000-0000_1987_act_95_1_2889"
+      ],
+      "status_verificacao": "conferido_web",
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "sanidopoulos-2010-igreja-grecia-1933-maconaria",
+      "tipo": "pagina",
+      "categoria": "eclesiastica",
+      "autores": [
+        "John Sanidopoulos (ed.)",
+        "Igreja da Grécia (Santo Sínodo)"
+      ],
+      "titulo": "Freemasonry: Official Statement of the Church of Greece (1933)",
+      "titulo_traduzido": "Maçonaria: declaração oficial da Igreja da Grécia (1933)",
+      "ano": 2010,
+      "ano_original": 1933,
+      "idioma": "en",
+      "url": "https://www.johnsanidopoulos.com/2010/01/freemasonry-official-statement-of.html",
+      "identificadores": {},
+      "temas": [
+        "religiao",
+        "antimaconaria",
+        "principios"
+      ],
+      "paises": [
+        "gr"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "C",
+      "acesso": "aberto",
+      "licenca": "tradução inglesa reproduzida em blog (Mystagogy); original publicado em Ekklesia nº 48, 4/12/1933",
+      "resumo": "Tradução inglesa da declaração do Santo Sínodo da Igreja da Grécia, adotada por unanimidade em outubro de 1933 após parecer de comissão de quatro bispos e da Faculdade de Teologia de Atenas. Caracteriza a maçonaria como sistema iniciático aparentado aos antigos cultos de mistérios, sincrético e incompatível com o cristianismo, veda a participação do clero e pede que os fiéis se afastem das lojas. Principal documento ortodoxo sobre o tema.",
+      "observacoes": "Reprodução, em blog apologético, do texto do documento catalogado como pista em c07 (igreja-grecia-1933-declaracao-maconaria); cite aquele id para o documento e este para a cópia lida. Conferir com o original grego (Ekklesia nº 48, 4/12/1933).",
+      "evidencias": [
+        "https://www.johnsanidopoulos.com/2010/01/freemasonry-official-statement-of.html",
+        "https://www.orthodoxhistory.org/2012/11/20/freemasonry-in-american-orthodox-history/"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/sanidopoulos-2010-igreja-grecia-1933-maconaria.html",
+        "txt/sanidopoulos-2010-igreja-grecia-1933-maconaria.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "igreja-grecia-2014-reafirmacao-maconaria",
+      "tipo": "pagina",
+      "categoria": "eclesiastica",
+      "autores": [
+        "John Sanidopoulos"
+      ],
+      "titulo": "Holy Synod of Greece Reaffirms Its Condemnation of Freemasonry",
+      "titulo_traduzido": "Santo Sínodo da Grécia reafirma a condenação da maçonaria",
+      "ano": 2014,
+      "idioma": "en",
+      "url": "https://www.johnsanidopoulos.com/2014/03/holy-synod-of-greece-reaffirms-its.html",
+      "identificadores": {},
+      "temas": [
+        "religiao",
+        "antimaconaria"
+      ],
+      "paises": [
+        "gr"
+      ],
+      "periodos": [
+        "p1990_hoje"
+      ],
+      "confiabilidade": "D",
+      "acesso": "aberto",
+      "licenca": "blog (Mystagogy); direitos do autor",
+      "resumo": "Notícia, com tradução de trechos, da encíclica de 2014 em que o Santo Sínodo da Igreja da Grécia reafirmou que a filiação maçônica é incompatível com a fé ortodoxa, retomando as posições de 1933, 1972 e 1996. Pista para localizar o texto oficial grego.",
+      "evidencias": [
+        "https://www.johnsanidopoulos.com/2014/03/holy-synod-of-greece-reaffirms-its.html"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/igreja-grecia-2014-reafirmacao-maconaria.html",
+        "txt/igreja-grecia-2014-reafirmacao-maconaria.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "namee-2012-freemasonry-american-orthodox",
+      "tipo": "artigo",
+      "categoria": "divulgacao",
+      "autores": [
+        "Matthew Namee"
+      ],
+      "titulo": "Freemasonry in American Orthodox History",
+      "titulo_traduzido": "A maçonaria na história ortodoxa americana",
+      "ano": 2012,
+      "idioma": "en",
+      "periodico": "OrthodoxHistory.org (Society for Orthodox Christian History in the Americas)",
+      "url": "https://www.orthodoxhistory.org/2012/11/20/freemasonry-in-american-orthodox-history/",
+      "identificadores": {},
+      "temas": [
+        "religiao",
+        "personalidades",
+        "historiografia"
+      ],
+      "paises": [
+        "us",
+        "gr",
+        "ru"
+      ],
+      "periodos": [
+        "p1919_1945",
+        "p1946_1989"
+      ],
+      "confiabilidade": "C",
+      "acesso": "aberto",
+      "licenca": "página pública; direitos reservados",
+      "resumo": "Texto de divulgação histórica que lembra a presença de maçons entre clérigos e leigos ortodoxos nos EUA (caso do bispo Aftimios Ofiesh) e enumera as condenações formais: Igreja Russa no Exterior (1932), Igreja da Grécia (1933) e Metropolia russa da América, depois OCA (1949, reiterada em 1960). Observa que outras Igrejas autocéfalas não emitiram condenação formal, o que mostra a pluralidade de posições no mundo ortodoxo.",
+      "evidencias": [
+        "https://www.orthodoxhistory.org/2012/11/20/freemasonry-in-american-orthodox-history/"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/namee-2012-freemasonry-american-orthodox.html",
+        "txt/namee-2012-freemasonry-american-orthodox.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "hamas-1988-covenant",
+      "tipo": "documento",
+      "categoria": "antimaconica",
+      "autores": [
+        "Movimento de Resistência Islâmica (Hamas)"
+      ],
+      "titulo": "Hamas Covenant 1988: The Covenant of the Islamic Resistance Movement (18 August 1988)",
+      "titulo_traduzido": "Carta do Movimento de Resistência Islâmica (Hamas), 1988",
+      "ano": 1988,
+      "idioma": "en",
+      "editora": "Avalon Project, Yale Law School",
+      "url": "https://avalon.law.yale.edu/20th_century/hamas.asp",
+      "identificadores": {},
+      "temas": [
+        "antimaconaria",
+        "religiao",
+        "politica"
+      ],
+      "paises": [
+        "ps",
+        "mundo"
+      ],
+      "periodos": [
+        "p1946_1989"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "documento político; tradução inglesa no Avalon Project",
+      "resumo": "Carta de fundação do Hamas, em tradução inglesa, que nos artigos 17 e 22 inclui maçons, Rotary e Lions entre as 'organizações secretas' supostamente criadas e usadas pelo sionismo, retomando o mito da conspiração dos Protocolos. Documento do antimaçonismo no islamismo político contemporâneo; usar só como fonte da ideologia, não como fato.",
+      "observacoes": "O documento de princípios do Hamas de 2017 não substituiu formalmente a carta; registrar data do texto citado.",
+      "evidencias": [
+        "https://avalon.law.yale.edu/20th_century/hamas.asp"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/hamas-1988-covenant.html",
+        "txt/hamas-1988-covenant.txt"
+      ],
+      "lote": "a02-mundo2"
     }
   ]
 }
