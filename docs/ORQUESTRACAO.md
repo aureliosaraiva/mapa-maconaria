@@ -106,6 +106,7 @@ Ordem de disparo (no máximo 3 sessões simultâneas, por limite de uso): **V05,
 | V03 | `session_011fM5cmL4kfGDY6Po2FVXkm` | concluída | 2026-11-17 (disparada pela R01) |
 | V04 | `session_011fM5cjwrzeed2oKDL7PcfC` | em andamento | 2026-11-17 (disparada pela V02) |
 | V06 | `session_011fM5cmH6fjkubbSbpivgaU` | em andamento | 2026-11-18 (disparada pela V03) |
+| A02 | `session_011fM5cm9dhDcJnKswth92Bp` | em andamento | 2026-11-18 (disparada pela A01) |
 
 ## Registro da orquestradora
 - 2026-11-02 22:27 UTC — as 9 sessões da onda 1 pararam ~2 min após o início: **limite de uso de 5 h da conta** (sem perda no repositório; nada tinha sido empurrado).
