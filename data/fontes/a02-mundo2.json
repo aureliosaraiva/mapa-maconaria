@@ -660,6 +660,331 @@
         "txt/chase-1863-digest-masonic-law.txt"
       ],
       "lote": "a02-mundo2"
+    },
+    {
+      "id": "comintern-1922-resolucao-questao-francesa",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Internacional Comunista (IV Congresso)"
+      ],
+      "titulo": "Resolution on the French Question (Fourth Congress of the Communist International, 1922)",
+      "titulo_traduzido": "Resolução sobre a questão francesa (IV Congresso da Internacional Comunista)",
+      "ano": 2017,
+      "ano_original": 1922,
+      "idioma": "en",
+      "editora": "Haymarket / Marxists Internet Archive",
+      "periodico": "Toward the United Front: Proceedings of the Fourth Congress of the Communist International, 1922 (trad. John Riddell), p. 1123–1138",
+      "url": "https://www.marxists.org/history/international/comintern/4th-congress/french-question.htm",
+      "identificadores": {},
+      "temas": [
+        "politica",
+        "antimaconaria"
+      ],
+      "potencias": [
+        "godf"
+      ],
+      "paises": [
+        "fr",
+        "ru",
+        "mundo"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "tradução © John Riddell 2017, republicada no MIA com permissão",
+      "resumo": "Resolução de dezembro de 1922 que declara a filiação maçônica incompatível com a militância comunista, manda o Partido Comunista Francês romper todos os vínculos com as lojas até 1º de janeiro de 1923 sob pena de expulsão automática e afasta de cargos por dois anos os que acabassem de deixar a maçonaria; estende a proibição à Liga dos Direitos do Homem. Marco da hostilidade comunista à maçonaria, que antecede a repressão na URSS e nos regimes do bloco soviético.",
+      "observacoes": "Tradução moderna, com notas que cotejam o texto russo. Para a versão inglesa de 1953 ver trotsky-1922-resolution-french-question.",
+      "evidencias": [
+        "https://www.marxists.org/history/international/comintern/4th-congress/french-question.htm",
+        "https://www.marxists.org/history/international/comintern/4th-congress/index.htm"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/comintern-1922-resolucao-questao-francesa.html",
+        "txt/comintern-1922-resolucao-questao-francesa.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "trotsky-1922-resolution-french-question",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Leon Trotsky"
+      ],
+      "titulo": "Resolution on the French Question (December 2, 1922), in The First Five Years of the Communist International, vol. 2",
+      "titulo_traduzido": "Resolução sobre a questão francesa (redação de Trotsky)",
+      "ano": 1953,
+      "ano_original": 1922,
+      "idioma": "en",
+      "editora": "Pioneer Publishers / Marxists Internet Archive",
+      "url": "https://www.marxists.org/archive/trotsky/1924/ffyci-2/22.htm",
+      "identificadores": {},
+      "temas": [
+        "politica",
+        "antimaconaria"
+      ],
+      "potencias": [
+        "godf"
+      ],
+      "paises": [
+        "fr",
+        "ru"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "A",
+      "acesso": "aberto",
+      "licenca": "transcrição do Marxists Internet Archive; direitos da tradução reservados",
+      "resumo": "Versão da mesma resolução de 1922 incluída por Trotsky, seu redator, na coletânea dos cinco primeiros anos da Internacional. A seção sobre maçonaria, Liga dos Direitos do Homem e imprensa burguesa justifica a incompatibilidade alegando que as lojas eram instrumentos da burguesia radical e cita como precedente a expulsão dos maçons pelo Partido Socialista Italiano em 1914.",
+      "evidencias": [
+        "https://www.marxists.org/archive/trotsky/1924/ffyci-2/22.htm"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/trotsky-1922-resolution-french-question.html",
+        "txt/trotsky-1922-resolution-french-question.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "ushmm-2026-freemasonry",
+      "tipo": "verbete",
+      "categoria": "enciclopedia",
+      "autores": [
+        "United States Holocaust Memorial Museum"
+      ],
+      "titulo": "Freemasonry (Holocaust Encyclopedia)",
+      "titulo_traduzido": "Maçonaria (Enciclopédia do Holocausto)",
+      "ano": 2005,
+      "idioma": "en",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/freemasonry",
+      "identificadores": {},
+      "temas": [
+        "antimaconaria",
+        "politica",
+        "religiao"
+      ],
+      "potencias": [
+        "vglvd"
+      ],
+      "paises": [
+        "de",
+        "mundo"
+      ],
+      "periodos": [
+        "p1871_1918",
+        "p1919_1945"
+      ],
+      "confiabilidade": "B",
+      "acesso": "oficial_publico",
+      "licenca": "página pública do USHMM; direitos reservados",
+      "resumo": "Verbete que reconstitui a formação do mito da conspiração 'judaico-maçônica', do século XVIII às obras de Rosenberg (1922), Ludendorff (1927) e Hitler. Informa que as três grandes lojas 'velho-prussianas', que excluíam não cristãos, reuniam cerca de 70% dos maçons alemães em 1922, o que não as poupou da perseguição.",
+      "observacoes": "Última edição indicada na página: 27/10/2005.",
+      "evidencias": [
+        "https://encyclopedia.ushmm.org/content/en/article/freemasonry"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/ushmm-2026-freemasonry.html",
+        "txt/ushmm-2026-freemasonry.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "glbcy-2026-landmarks-history",
+      "tipo": "pagina",
+      "categoria": "divulgacao",
+      "autores": [
+        "Grand Lodge of British Columbia and Yukon (Trevor W. McKeown, webmaster)"
+      ],
+      "titulo": "History of the Landmarks of Freemasonry",
+      "titulo_traduzido": "História dos landmarks da maçonaria",
+      "ano": 2026,
+      "idioma": "en",
+      "url": "https://freemasonry.bcy.ca/grandlodge/landmarks_history.html",
+      "identificadores": {},
+      "temas": [
+        "principios",
+        "documentos_fundadores",
+        "regularidade"
+      ],
+      "potencias": [
+        "gl_canada"
+      ],
+      "paises": [
+        "ca",
+        "us",
+        "gb"
+      ],
+      "periodos": [
+        "p1814_1870",
+        "p1946_1989"
+      ],
+      "confiabilidade": "C",
+      "acesso": "oficial_publico",
+      "licenca": "página pública; direitos reservados",
+      "resumo": "Página do site da Grande Loja da Colúmbia Britânica e Yukon que adverte que a lista de 25 landmarks de Mackey (1858) não é universalmente aceita nem adotada por aquela Grande Loja, e remete a textos que discutem e criticam as listas (incluindo um relatório de 1982). Mostra a posição de jurisdições que recusam enumerar landmarks.",
+      "evidencias": [
+        "https://freemasonry.bcy.ca/grandlodge/landmarks_history.html"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/glbcy-2026-landmarks-history.html",
+        "txt/glbcy-2026-landmarks-history.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "freimaurer-wiki-2026-landmarken-1809-2013",
+      "tipo": "verbete",
+      "categoria": "divulgacao",
+      "autores": [
+        "Freimaurer-Wiki (Rudi Rabe e colaboradores)"
+      ],
+      "titulo": "Landmarken 1809–2013",
+      "titulo_traduzido": "Landmarks de 1809 a 2013",
+      "ano": 2026,
+      "idioma": "de",
+      "url": "https://freimaurer-wiki.de/index.php/Landmarken_1809-2013",
+      "identificadores": {},
+      "temas": [
+        "principios",
+        "documentos_fundadores",
+        "regularidade"
+      ],
+      "potencias": [
+        "gl_estaduais_eua",
+        "ugle",
+        "cogmna"
+      ],
+      "paises": [
+        "us",
+        "gb",
+        "de",
+        "mundo"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918",
+        "p1919_1945",
+        "p1946_1989",
+        "p1990_hoje"
+      ],
+      "confiabilidade": "C",
+      "acesso": "aberto",
+      "licenca": "conteúdo wiki colaborativo (ver termos do Freimaurer-Wiki)",
+      "resumo": "Compilação, em alemão e inglês, de mais de quarenta listas de landmarks formuladas entre 1809 e 2013 por lojas, Grandes Lojas americanas e autores (Lodge of Promulgation, Oliver, Morris, Mackey, Simons, Lockwood, Findel, Pound, Commission on Information for Recognition, Coil, Carr etc.), com a contagem por estado norte-americano. Ponto de partida para o verbete de listas alternativas de landmarks, a conferir nas obras originais.",
+      "observacoes": "Usa Paul Bessel e Coil como fontes; o site de Bessel (bessel.org) foi sequestrado por domínio de apostas (ver PENDENCIAS A02).",
+      "evidencias": [
+        "https://freimaurer-wiki.de/index.php/Landmarken_1809-2013"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "html/freimaurer-wiki-2026-landmarken-1809-2013.html",
+        "txt/freimaurer-wiki-2026-landmarken-1809-2013.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "simons-1864-masonic-jurisprudence",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "John W. Simons"
+      ],
+      "titulo": "A Familiar Treatise on the Principles and Practice of Masonic Jurisprudence",
+      "titulo_traduzido": "Tratado sobre os princípios e a prática da jurisprudência maçônica",
+      "ano": 1864,
+      "idioma": "en",
+      "editora": "Masonic Publishing and Manufacturing Co.",
+      "local": "New York",
+      "paginas": "c. 330 p.",
+      "url": "https://archive.org/details/cu31924030300200",
+      "identificadores": {
+        "ia": "cu31924030300200"
+      },
+      "temas": [
+        "principios",
+        "regularidade",
+        "documentos_fundadores"
+      ],
+      "potencias": [
+        "gl_estaduais_eua"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (1864)",
+      "resumo": "Manual de direito maçônico de um ex-grão-mestre de Nova York que abre com uma definição dos 'antigos landmarks' como lei não escrita e propõe sua própria enumeração, diferente da de Mackey (1858). Útil para mostrar que, poucos anos depois de Mackey, já circulavam listas concorrentes nos EUA.",
+      "evidencias": [
+        "https://archive.org/details/cu31924030300200"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/simons-1864-masonic-jurisprudence.pdf",
+        "txt/simons-1864-masonic-jurisprudence.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "macbride-1914-speculative-masonry",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Andrew Somerville MacBride"
+      ],
+      "titulo": "Speculative Masonry: its mission, its evolution and its landmarks",
+      "titulo_traduzido": "Maçonaria especulativa: sua missão, evolução e landmarks",
+      "ano": 1914,
+      "idioma": "en",
+      "editora": "Kilwinning Press",
+      "local": "Glasgow",
+      "paginas": "c. 290 p.",
+      "url": "https://archive.org/details/cu31924030274777",
+      "identificadores": {
+        "ia": "cu31924030274777"
+      },
+      "temas": [
+        "principios",
+        "documentos_fundadores",
+        "simbolismo"
+      ],
+      "ritos": [
+        "escoces_craft"
+      ],
+      "potencias": [
+        "gl_escocia"
+      ],
+      "paises": [
+        "gb"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (autor falecido em 1923)",
+      "resumo": "Série de palestras de um maçom escocês que dedica a última parte aos landmarks: o que são, como se dividem e quais equívocos correntes (como a ideia de que seriam fixos ou de que determinariam as cerimônias). Representa a visão escocesa, mais restritiva que as listas americanas.",
+      "evidencias": [
+        "https://archive.org/details/cu31924030274777"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/macbride-1914-speculative-masonry.pdf",
+        "txt/macbride-1914-speculative-masonry.txt"
+      ],
+      "lote": "a02-mundo2"
     }
   ]
 }
