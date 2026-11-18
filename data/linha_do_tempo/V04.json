@@ -120,6 +120,80 @@
    "nota": ""
   },
   {
+   "id": "v04-lefranc-1791",
+   "data": "1791",
+   "precisao": "ano",
+   "titulo": "Lefranc publica Le Voile levé, primeira acusação de que a maçonaria preparou a Revolução Francesa",
+   "verbete": "maconaria-e-revolucao-francesa",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "lefranc-1791-voile-leve"
+   ],
+   "nota": ""
+  },
+  {
+   "id": "v04-robison-1797",
+   "data": "1797",
+   "precisao": "ano",
+   "titulo": "John Robison publica em Edimburgo os Proofs of a Conspiracy",
+   "verbete": "robison-proofs-of-a-conspiracy",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "robison-1798-proofs-conspiracy",
+    "stauffer-1918-new-england-illuminati"
+   ],
+   "nota": ""
+  },
+  {
+   "id": "v04-barruel-1797",
+   "data": "1797",
+   "precisao": "ano",
+   "titulo": "Barruel começa a publicar as Mémoires pour servir à l'histoire du jacobinisme (1797–1798)",
+   "verbete": "barruel-e-o-mito-do-complo-revolucionario",
+   "paises": [
+    "fr",
+    "gb"
+   ],
+   "fontes": [
+    "barruel-1803-memoires-jacobinisme-t1",
+    "stauffer-1918-new-england-illuminati"
+   ],
+   "nota": "Londres, 4 volumes."
+  },
+  {
+   "id": "v04-morse-1798",
+   "data": "1798-05-09",
+   "precisao": "dia",
+   "titulo": "Sermão de Jedidiah Morse no jejum nacional inicia o pânico dos Iluminados na Nova Inglaterra",
+   "verbete": "panico-dos-iluminados-na-nova-inglaterra",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "stauffer-1918-new-england-illuminati"
+   ],
+   "nota": ""
+  },
+  {
+   "id": "v04-morse-1799",
+   "data": "1799-04-25",
+   "precisao": "dia",
+   "titulo": "Morse apresenta a lista da loja Wisdom (Portsmouth, Virgínia) como prova de uma conspiração iluminista",
+   "verbete": "panico-dos-iluminados-na-nova-inglaterra",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "morse-1799-sermon-present-dangers",
+    "stauffer-1918-new-england-illuminati"
+   ],
+   "nota": ""
+  },
+  {
    "id": "v04-uniao-1813",
    "data": "1813-12-27",
    "precisao": "dia",
@@ -133,6 +207,235 @@
     "gould-1903-concise-history"
    ],
    "nota": "Artigos de União assinados em 25/11/1813."
+  },
+  {
+   "id": "v04-espanha-1824",
+   "data": "1824-10-09",
+   "precisao": "dia",
+   "titulo": "Norma de Fernando VII sujeita maçons e comuneros à pena de morte e ao confisco de bens",
+   "verbete": "antimaconaria-na-espanha",
+   "paises": [
+    "es"
+   ],
+   "fontes": [
+    "hinojal-2023-liberal"
+   ],
+   "nota": ""
+  },
+  {
+   "id": "v04-morgan-1826",
+   "data": "1826-09-12",
+   "precisao": "dia",
+   "titulo": "Sequestro de William Morgan em Canandaigua (Nova York)",
+   "verbete": "caso-morgan",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "msa-1922-anti-masonic-party",
+    "anon-1827-narrative-morgan"
+   ],
+   "nota": "Data segundo o boletim da Masonic Service Association (1922)."
+  },
+  {
+   "id": "v04-antimasonic-1831",
+   "data": "1831",
+   "precisao": "ano",
+   "titulo": "Partido Antimaçônico realiza a primeira convenção nacional de nomeação presidencial dos EUA (William Wirt)",
+   "verbete": "partido-antimaconico-dos-estados-unidos",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "loder-2013-paradoxical-continuity",
+    "msa-1922-anti-masonic-party"
+   ],
+   "nota": ""
+  },
+  {
+   "id": "v04-taxil-1885",
+   "data": "1885-04",
+   "precisao": "mes",
+   "titulo": "Falsa conversão de Léo Taxil ao catolicismo e início das 'revelações' antimaçônicas",
+   "verbete": "leo-taxil",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "mackey-1929-revised-encyclopedia-clegg-v2"
+   ],
+   "nota": ""
+  },
+  {
+   "id": "v04-katipunan-1896",
+   "data": "1896-08-26",
+   "precisao": "dia",
+   "titulo": "Insurreição do Katipunan nas Filipinas (Grito de Balintawak)",
+   "verbete": "maconaria-e-revolucao-filipina",
+   "paises": [
+    "ph"
+   ],
+   "fontes": [
+    "cuartero-2023-kaputin"
+   ],
+   "nota": ""
+  },
+  {
+   "id": "v04-trento-1896",
+   "data": "1896-09-26",
+   "precisao": "dia",
+   "titulo": "Abertura do Congresso Antimaçônico de Trento",
+   "verbete": "leo-taxil",
+   "paises": [
+    "it"
+   ],
+   "fontes": [
+    "mackey-1929-revised-encyclopedia-clegg-v2",
+    "cuartero-2023-kaputin"
+   ],
+   "nota": "Até 1º de outubro."
+  },
+  {
+   "id": "v04-taxil-1897",
+   "data": "1897-04",
+   "precisao": "mes",
+   "titulo": "Léo Taxil confessa em Paris a mistificação de doze anos",
+   "verbete": "leo-taxil",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "mackey-1929-revised-encyclopedia-clegg-v2"
+   ],
+   "nota": "Dia 17 segundo Mackey-Clegg."
+  },
+  {
+   "id": "v04-protocolos-1903",
+   "data": "1903",
+   "precisao": "ano",
+   "titulo": "Primeira publicação dos Protocolos dos Sábios de Sião na Rússia",
+   "verbete": "mito-do-complo-judaico-maconico",
+   "paises": [
+    "ru"
+   ],
+   "fontes": [
+    "ferreira-2011-consolidacao"
+   ],
+   "nota": ""
+  },
+  {
+   "id": "v04-nazi-1934",
+   "data": "1934-10-28",
+   "precisao": "dia",
+   "titulo": "Decreto de Frick declara as lojas alemãs 'hostis ao Estado'",
+   "verbete": "maconaria-sob-o-nazismo",
+   "paises": [
+    "de"
+   ],
+   "fontes": [
+    "ushmm-2026-freemasonry-nazi-regime"
+   ],
+   "nota": ""
+  },
+  {
+   "id": "v04-nazi-1935",
+   "data": "1935-08-17",
+   "precisao": "dia",
+   "titulo": "Frick ordena a dissolução de todas as lojas restantes na Alemanha e o confisco de seus bens",
+   "verbete": "maconaria-sob-o-nazismo",
+   "paises": [
+    "de"
+   ],
+   "fontes": [
+    "ushmm-2026-freemasonry-nazi-regime"
+   ],
+   "nota": ""
+  },
+  {
+   "id": "v04-espanha-1939",
+   "data": "1939-02-09",
+   "precisao": "dia",
+   "titulo": "Lei de Responsabilidades Políticas põe as lojas fora da lei na Espanha",
+   "verbete": "repressao-franquista-da-maconaria",
+   "paises": [
+    "es"
+   ],
+   "fontes": [
+    "morales-2020-law"
+   ],
+   "nota": ""
+  },
+  {
+   "id": "v04-espanha-1940",
+   "data": "1940-03-01",
+   "precisao": "dia",
+   "titulo": "Lei franquista de Repressão da Maçonaria e do Comunismo",
+   "verbete": "repressao-franquista-da-maconaria",
+   "paises": [
+    "es"
+   ],
+   "fontes": [
+    "espana-1940-ley-represion-masoneria-comunismo",
+    "calvo-2022-retracted"
+   ],
+   "nota": ""
+  },
+  {
+   "id": "v04-tribunal-1941",
+   "data": "1941-04-01",
+   "precisao": "dia",
+   "titulo": "Início do funcionamento do Tribunal Especial para a Repressão da Maçonaria e do Comunismo",
+   "verbete": "repressao-franquista-da-maconaria",
+   "paises": [
+    "es"
+   ],
+   "fontes": [
+    "morales-2020-law"
+   ],
+   "nota": "Suprimido em 1963."
+  },
+  {
+   "id": "v04-p2-1981",
+   "data": "1981-03-17",
+   "precisao": "dia",
+   "titulo": "Busca em Castiglion Fibocchi revela a lista de 962 supostos membros da loja P2",
+   "verbete": "caso-p2",
+   "paises": [
+    "it"
+   ],
+   "fontes": [
+    "anselmi-1984-relazione-p2"
+   ],
+   "nota": ""
+  },
+  {
+   "id": "v04-p2-1982",
+   "data": "1982-01-25",
+   "precisao": "dia",
+   "titulo": "Lei italiana nº 17 regulamenta a proibição de associações secretas e dissolve a P2",
+   "verbete": "caso-p2",
+   "paises": [
+    "it"
+   ],
+   "fontes": [
+    "italia-1982-legge-17-associazioni-segrete"
+   ],
+   "nota": ""
+  },
+  {
+   "id": "v04-p2-1984",
+   "data": "1984-07-10",
+   "precisao": "dia",
+   "titulo": "Aprovação do relatório de maioria da Comissão Anselmi sobre a P2",
+   "verbete": "caso-p2",
+   "paises": [
+    "it"
+   ],
+   "fontes": [
+    "bastianini-1984-relazione-minoranza-p2",
+    "anselmi-1984-relazione-p2"
+   ],
+   "nota": ""
   }
  ]
 }
