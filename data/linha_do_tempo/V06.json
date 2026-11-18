@@ -1,12 +1,181 @@
 {
- "_meta": {"descricao": "Fragmento da linha do tempo da sessão V06 (princípios, símbolos e conceitos)."},
+ "_meta": {
+  "descricao": "Fragmento da linha do tempo da sessão V06 (princípios, símbolos e conceitos)."
+ },
  "sessao": "V06",
  "eventos": [
-  {"id": "v06-prichard-letra-g", "data": "1730", "precisao": "ano", "titulo": "O catecismo de Prichard explica a letra G como Geometria e como referência ao Grande Arquiteto", "verbete": "letra-g", "paises": ["gb"], "fontes": ["prichard-1730-masonry-dissected"]},
-  {"id": "v06-anderson-1738-noaquitas", "data": "1738", "precisao": "ano", "titulo": "Segunda edição das Constituições de Anderson chama os maçons de 'verdadeiros noaquitas' e Deus de Todo-Poderoso Arquiteto e Grão-Mestre do Universo", "verbete": "grande-arquiteto-do-universo", "paises": ["gb"], "fontes": ["anderson-1738-new-book-constitutions"]},
-  {"id": "v06-gobe-1872-gadu", "data": "1872", "precisao": "ano", "titulo": "Grande Oriente da Bélgica deixa de obrigar as lojas a invocar o Grande Arquiteto do Universo", "verbete": "grande-arquiteto-do-universo", "paises": ["be"], "fontes": ["gobe-2026-historique"]},
-  {"id": "v06-patente-1873", "data": "1873", "precisao": "ano", "titulo": "Escritório de patentes dos EUA recusa registrar o esquadro e compasso como marca comercial por ser símbolo maçônico", "verbete": "esquadro-e-compasso", "paises": ["us"], "fontes": ["mackey-1874-encyclopaedia"]},
-  {"id": "v06-gob-1900-constituicao", "data": "1900", "precisao": "ano", "titulo": "Constituição do Grande Oriente do Brasil define como princípios a tolerância, o respeito mútuo e a liberdade absoluta de consciência", "verbete": "grande-arquiteto-do-universo", "paises": ["br"], "fontes": ["gob-1900-constituicao-regulamento-geral"]},
-  {"id": "v06-alpina-1931-biblia", "data": "1931", "precisao": "ano", "titulo": "Grande Loja Alpina (Suíça) decide que a Bíblia aberta deve ficar no altar da Grande Loja", "verbete": "volume-da-lei-sagrada", "paises": ["ch"], "fontes": ["lennhoff-1932-internationales-freimaurerlexikon"]}
+  {
+   "id": "v06-prichard-letra-g",
+   "data": "1730",
+   "precisao": "ano",
+   "titulo": "O catecismo de Prichard explica a letra G como Geometria e como referência ao Grande Arquiteto",
+   "verbete": "letra-g",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "prichard-1730-masonry-dissected"
+   ]
+  },
+  {
+   "id": "v06-anderson-1738-noaquitas",
+   "data": "1738",
+   "precisao": "ano",
+   "titulo": "Segunda edição das Constituições de Anderson chama os maçons de 'verdadeiros noaquitas' e Deus de Todo-Poderoso Arquiteto e Grão-Mestre do Universo",
+   "verbete": "grande-arquiteto-do-universo",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "anderson-1738-new-book-constitutions"
+   ]
+  },
+  {
+   "id": "v06-gobe-1872-gadu",
+   "data": "1872",
+   "precisao": "ano",
+   "titulo": "Grande Oriente da Bélgica deixa de obrigar as lojas a invocar o Grande Arquiteto do Universo",
+   "verbete": "grande-arquiteto-do-universo",
+   "paises": [
+    "be"
+   ],
+   "fontes": [
+    "gobe-2026-historique"
+   ]
+  },
+  {
+   "id": "v06-patente-1873",
+   "data": "1873",
+   "precisao": "ano",
+   "titulo": "Escritório de patentes dos EUA recusa registrar o esquadro e compasso como marca comercial por ser símbolo maçônico",
+   "verbete": "esquadro-e-compasso",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "mackey-1874-encyclopaedia"
+   ]
+  },
+  {
+   "id": "v06-gob-1900-constituicao",
+   "data": "1900",
+   "precisao": "ano",
+   "titulo": "Constituição do Grande Oriente do Brasil define como princípios a tolerância, o respeito mútuo e a liberdade absoluta de consciência",
+   "verbete": "grande-arquiteto-do-universo",
+   "paises": [
+    "br"
+   ],
+   "fontes": [
+    "gob-1900-constituicao-regulamento-geral"
+   ]
+  },
+  {
+   "id": "v06-alpina-1931-biblia",
+   "data": "1931",
+   "precisao": "ano",
+   "titulo": "Grande Loja Alpina (Suíça) decide que a Bíblia aberta deve ficar no altar da Grande Loja",
+   "verbete": "volume-da-lei-sagrada",
+   "paises": [
+    "ch"
+   ],
+   "fontes": [
+    "lennhoff-1932-internationales-freimaurerlexikon"
+   ]
+  },
+  {
+   "id": "v06-plot-1686-luvas",
+   "data": "1686",
+   "precisao": "ano",
+   "titulo": "Robert Plot registra que os maçons davam luvas aos candidatos e às suas esposas",
+   "verbete": "luvas",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "mackey-1874-encyclopaedia",
+    "lennhoff-1932-internationales-freimaurerlexikon"
+   ]
+  },
+  {
+   "id": "v06-prichard-ornamentos",
+   "data": "1730",
+   "precisao": "ano",
+   "titulo": "Prichard descreve o pavimento mosaico, a estrela flamígera e a orla dentada como mobília da loja",
+   "verbete": "pavimento-mosaico",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "prichard-1730-masonry-dissected"
+   ]
+  },
+  {
+   "id": "v06-desaguliers-1731-vestimenta",
+   "data": "1731",
+   "precisao": "ano",
+   "titulo": "Primeiro regulamento de vestimenta maçônica, atribuído a Desaguliers, limita os enfeites dos aventais",
+   "verbete": "avental",
+   "paises": [
+    "gb"
+   ],
+   "fontes": [
+    "lennhoff-1932-internationales-freimaurerlexikon"
+   ],
+   "nota": "Atribuição segundo o Internationales Freimaurerlexikon (1932)."
+  },
+  {
+   "id": "v06-perau-1745-acacia",
+   "data": "1745",
+   "precisao": "ano",
+   "titulo": "Exposição francesa de Perau fala em ramo de acácia sobre a sepultura de Hiram (Prichard, 1730, dizia cássia)",
+   "verbete": "acacia",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "perau-1745-ordre-trahi",
+    "prichard-1730-masonry-dissected"
+   ]
+  },
+  {
+   "id": "v06-baltimore-1843-estrela",
+   "data": "1843",
+   "precisao": "ano",
+   "titulo": "Convenção de Baltimore retira das preleções norte-americanas a alusão da estrela flamígera à estrela de Belém",
+   "verbete": "estrela-flamigera",
+   "paises": [
+    "us"
+   ],
+   "fontes": [
+    "mackey-1874-encyclopaedia"
+   ]
+  },
+  {
+   "id": "v06-desmons-1877",
+   "data": "1877-09",
+   "precisao": "mes",
+   "titulo": "Relatório do pastor Frédéric Desmons leva o Grande Oriente de França a suprimir a exigência de crença em Deus e na imortalidade da alma",
+   "verbete": "liberdade-de-consciencia-e-maconaria-adogmatica",
+   "paises": [
+    "fr"
+   ],
+   "fontes": [
+    "lennhoff-1932-internationales-freimaurerlexikon",
+    "masonicmouse-2019-motion-1877"
+   ]
+  },
+  {
+   "id": "v06-pessoa-1935",
+   "data": "1935-02-04",
+   "precisao": "dia",
+   "titulo": "Fernando Pessoa publica no Diário de Lisboa a defesa da maçonaria como 'Ordem iniciática' contra o projeto de lei das associações secretas",
+   "verbete": "segredo-maconico",
+   "paises": [
+    "pt"
+   ],
+   "fontes": [
+    "pessoa-1935-associacoes-secretas"
+   ]
+  }
  ]
 }
