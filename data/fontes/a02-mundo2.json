@@ -1,0 +1,665 @@
+{
+  "lote": "a02-mundo2",
+  "fontes": [
+    {
+      "id": "hall-1797-charge-african-lodge",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Prince Hall"
+      ],
+      "titulo": "A Charge, delivered to the African Lodge, June 24, 1797, at Menotomy",
+      "titulo_traduzido": "Discurso proferido à Loja Africana em 24 de junho de 1797, em Menotomy",
+      "ano": 1797,
+      "idioma": "en",
+      "local": "Boston",
+      "paginas": "c. 20 p.",
+      "url": "https://archive.org/details/tract-c-74-charge-delivered-african-lodge",
+      "identificadores": {
+        "ia": "tract-c-74-charge-delivered-african-lodge"
+      },
+      "temas": [
+        "personalidades",
+        "sociabilidade",
+        "politica",
+        "principios"
+      ],
+      "potencias": [
+        "prince_hall"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (impresso em 1797)",
+      "resumo": "Segundo discurso público de Prince Hall aos membros da African Lodge, cinco anos depois do primeiro (1792). Exorta à solidariedade com viúvas e famílias de irmãos falecidos e amplia o dever de caridade para os africanos escravizados, denunciando o tráfico e mencionando a revolução no Haiti e os ataques sofridos por negros nas ruas de Boston. Documento central para a voz do fundador da maçonaria afro-americana.",
+      "observacoes": "OCR com 's' longo (f por s); conferir trechos no PDF.",
+      "evidencias": [
+        "https://archive.org/details/tract-c-74-charge-delivered-african-lodge"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/hall-1797-charge-african-lodge.pdf",
+        "txt/hall-1797-charge-african-lodge.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "crawford-1914-prince-hall-followers",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "George Williamson Crawford"
+      ],
+      "titulo": "Prince Hall and His Followers: being a monograph on the legitimacy of Negro Masonry",
+      "titulo_traduzido": "Prince Hall e seus seguidores: monografia sobre a legitimidade da maçonaria negra",
+      "ano": 1914,
+      "idioma": "en",
+      "editora": "The Crisis",
+      "local": "New York",
+      "paginas": "96 p.",
+      "url": "https://archive.org/details/princehallhisfol00craw",
+      "identificadores": {
+        "ia": "princehallhisfol00craw"
+      },
+      "temas": [
+        "regularidade",
+        "potencias",
+        "historiografia",
+        "politica"
+      ],
+      "potencias": [
+        "prince_hall",
+        "gl_estaduais_eua",
+        "ugle"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1814_1870",
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (EUA, publicado em 1914)",
+      "resumo": "Defesa, escrita por um maçom Prince Hall de Connecticut e editada pela revista da NAACP, da legitimidade das lojas negras americanas. Discute em capítulos a carta da Grande Loja da Inglaterra à African Lodge (1784), a tese da jurisdição territorial exclusiva, o cancelamento da loja nos registros ingleses em 1813, a exigência de ser 'nascido livre' e a questão do reconhecimento pelas Grandes Lojas brancas. Traz bibliografia da controvérsia.",
+      "evidencias": [
+        "https://archive.org/details/princehallhisfol00craw"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/crawford-1914-prince-hall-followers.pdf",
+        "txt/crawford-1914-prince-hall-followers.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "mitchell-1909-bogus-freemasonry",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "Charles L. Mitchell"
+      ],
+      "titulo": "The Early Introduction of Bogus Freemasonry in the United States of America and Texas among Colored Masons",
+      "titulo_traduzido": "A introdução precoce da maçonaria espúria nos EUA e no Texas entre maçons negros",
+      "ano": 1909,
+      "idioma": "en",
+      "local": "San Antonio (Texas)",
+      "paginas": "c. 50 p.",
+      "url": "https://archive.org/details/earlyintroductio00mitciala",
+      "identificadores": {
+        "ia": "earlyintroductio00mitciala",
+        "gutenberg": "40234"
+      },
+      "temas": [
+        "regularidade",
+        "potencias"
+      ],
+      "potencias": [
+        "prince_hall"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (EUA, publicado em 1909)",
+      "resumo": "Panfleto de um grão-mestre de uma obediência negra rival (King Solomon Grand Lodge do Texas) que contesta a legitimidade da própria Prince Hall Grand Lodge de Massachusetts e de lojas texanas, chamando-as de clandestinas. Útil como documento das disputas internas entre obediências afro-americanas no início do século XX, não como relato fiável da origem da African Lodge.",
+      "observacoes": "Categoria 'antimaconica' usada no sentido de fonte polêmica hostil a outra obediência; tratar como documento partidário.",
+      "evidencias": [
+        "https://archive.org/details/earlyintroductio00mitciala",
+        "https://www.gutenberg.org/ebooks/40234"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/mitchell-1909-bogus-freemasonry.pdf",
+        "txt/mitchell-1909-bogus-freemasonry.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "hayden-1868-grand-lodge-jurisdictional-claims",
+      "tipo": "documento",
+      "categoria": "primaria_historica",
+      "autores": [
+        "Lewis Hayden"
+      ],
+      "titulo": "Grand Lodge Jurisdictional Claims; or, War of Races: an address before Prince Hall Grand Lodge of Free and Accepted Masons for the State of Massachusetts, June 24, 1868",
+      "titulo_traduzido": "Pretensões de jurisdição das Grandes Lojas, ou Guerra de raças",
+      "ano": 1868,
+      "idioma": "en",
+      "editora": "Edward S. Coombs",
+      "local": "Boston",
+      "url": "https://archive.org/details/hs-889-b-67-h-39-1868-grand-lodge-jurisdictional-claims",
+      "identificadores": {
+        "ia": "hs-889-b-67-h-39-1868-grand-lodge-jurisdictional-claims"
+      },
+      "temas": [
+        "regularidade",
+        "politica",
+        "potencias"
+      ],
+      "potencias": [
+        "prince_hall",
+        "gl_estaduais_eua"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (impresso em 1868)",
+      "resumo": "Discurso do grão-mestre da Prince Hall Grand Lodge de Massachusetts, abolicionista conhecido, respondendo ao comitê de correspondência da Grande Loja de Nova York, que previra uma 'guerra de raças' caso maçons negros fossem admitidos. Refuta a doutrina da jurisdição territorial exclusiva e reconstitui documentos da African Lodge. Peça-chave do debate de reconhecimento logo após a Guerra Civil.",
+      "observacoes": "PDF de 49 MB não guardado; só o texto OCR.",
+      "evidencias": [
+        "https://archive.org/details/hs-889-b-67-h-39-1868-grand-lodge-jurisdictional-claims"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/hayden-1868-grand-lodge-jurisdictional-claims.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "african-lodge-1885-centennial",
+      "tipo": "documento",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "Prince Hall Grand Lodge of Massachusetts"
+      ],
+      "titulo": "Proceedings of the One Hundredth Anniversary of the Granting of Warrant 459 to African Lodge, Boston, Mass., Sept. 29, 1884",
+      "titulo_traduzido": "Atas do centenário da concessão da carta 459 à African Lodge",
+      "ano": 1885,
+      "idioma": "en",
+      "editora": "Franklin Press: Rand, Avery and Company",
+      "local": "Boston",
+      "paginas": "44 p.",
+      "url": "https://archive.org/details/28767268.4855.emory.edu",
+      "identificadores": {
+        "ia": "28767268.4855.emory.edu"
+      },
+      "temas": [
+        "potencias",
+        "documentos_fundadores",
+        "sociabilidade"
+      ],
+      "potencias": [
+        "prince_hall",
+        "ugle"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (impresso em 1885)",
+      "resumo": "Publicação oficial da Prince Hall Grand Lodge de Massachusetts sobre as comemorações do centenário da carta concedida em 1784 pela Grande Loja da Inglaterra (Moderns). Reproduz a transcrição da carta com os nomes dos primeiros oficiais, a resolução comemorativa e os discursos do evento. Fonte para a autorrepresentação da obediência e para o texto do warrant.",
+      "evidencias": [
+        "https://archive.org/details/28767268.4855.emory.edu"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/african-lodge-1885-centennial.pdf",
+        "txt/african-lodge-1885-centennial.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "glwashington-1897-negro-masonry-report",
+      "tipo": "documento",
+      "categoria": "oficial_potencia",
+      "autores": [
+        "Grand Lodge of Washington",
+        "William H. Upton"
+      ],
+      "titulo": "Negro Masonry: a committee report adopted June 15, 1897 by the M.W. Grand Lodge of F. and A. Masons of Washington",
+      "titulo_traduzido": "Maçonaria negra: relatório de comissão aprovado pela Grande Loja de Washington em 1897",
+      "ano": 1898,
+      "ano_original": 1897,
+      "idioma": "en",
+      "local": "Olympia (Washington)",
+      "paginas": "13 p.",
+      "url": "https://archive.org/details/Negro_Masonry_-_A_Comittee_Report_1897",
+      "identificadores": {
+        "ia": "Negro_Masonry_-_A_Comittee_Report_1897"
+      },
+      "temas": [
+        "regularidade",
+        "potencias",
+        "principios"
+      ],
+      "potencias": [
+        "gl_estaduais_eua",
+        "prince_hall"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "A",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (EUA, 1898)",
+      "resumo": "Relatório redigido pelo grão-mestre William H. Upton e aprovado pela Grande Loja de Washington em resposta a petição de dois maçons negros. Afirma que raça e cor não podem ser critério de admissão e admite a legitimidade das lojas de origem Prince Hall, propondo que seus membros pudessem ser reconhecidos. A decisão provocou forte reação de outras Grandes Lojas americanas e foi revertida no ano seguinte; antecede o livro de Upton de 1899.",
+      "observacoes": "Reimpresso dos Proceedings de 1898. O id ia contém o erro de grafia 'Comittee' do original digitalizado.",
+      "evidencias": [
+        "https://archive.org/details/Negro_Masonry_-_A_Comittee_Report_1897",
+        "https://masonicperiodicals.org/periodicals/fvl/issues/fvl_02091899/page/2/"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/glwashington-1897-negro-masonry-report.pdf",
+        "txt/glwashington-1897-negro-masonry-report.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "upton-1899-negro-masonry",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "William H. Upton"
+      ],
+      "titulo": "Negro Masonry: being a critical examination of objections to the legitimacy of the Masonry existing among the Negroes of America",
+      "titulo_traduzido": "Maçonaria negra: exame crítico das objeções à legitimidade da maçonaria entre os negros da América",
+      "ano": 1899,
+      "idioma": "en",
+      "editora": "The Pacific Mason",
+      "local": "Seattle",
+      "url": "https://www.phoenixmasonry.org/light_on_a_dark_subject_html_version.htm",
+      "identificadores": {},
+      "temas": [
+        "regularidade",
+        "potencias",
+        "historiografia"
+      ],
+      "potencias": [
+        "prince_hall",
+        "gl_estaduais_eua"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1871_1918"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (EUA, publicado em 1899)",
+      "resumo": "Obra do grão-mestre de Washington que examina, uma a uma, as objeções feitas à regularidade da maçonaria Prince Hall (origem da carta, jurisdição territorial, apagamento do registro inglês, condição de 'nascido livre') e conclui pela sua legitimidade. Considerada a defesa mais erudita da causa feita por um maçom branco no século XIX.",
+      "observacoes": "Transcrição HTML no Phoenixmasonry (título de capa 'Light on a Dark Subject'); cópia não feita porque o certificado TLS do site está vencido e o Wayback recusou a conexão (ver PENDENCIAS A02). Não localizado escaneado no Internet Archive.",
+      "evidencias": [
+        "https://www.phoenixmasonry.org/light_on_a_dark_subject_html_version.htm",
+        "https://libcat.library.tamu.edu/Record/in00002130805"
+      ],
+      "status_verificacao": "conferido_web",
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "delany-1853-origin-objects-freemasonry",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Martin Robison Delany"
+      ],
+      "titulo": "The Origin and Objects of Ancient Freemasonry; its introduction into the United States, and legitimacy among colored men",
+      "titulo_traduzido": "Origem e objetivos da antiga maçonaria; sua introdução nos Estados Unidos e legitimidade entre homens de cor",
+      "ano": 1853,
+      "idioma": "en",
+      "editora": "W. S. Haven",
+      "local": "Pittsburgh",
+      "paginas": "40 p.",
+      "url": "https://openlibrary.org/works/OL43990990W",
+      "identificadores": {},
+      "temas": [
+        "origens",
+        "regularidade",
+        "potencias",
+        "personalidades"
+      ],
+      "potencias": [
+        "prince_hall"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (1853)",
+      "resumo": "Tratado lido perante a St. Cyprian Lodge nº 13 em 1853 pelo médico e ativista negro Martin Delany, que situa a origem da maçonaria na África antiga (Egito e Etiópia) e, com isso, defende a legitimidade das lojas de homens de cor nos EUA. É o primeiro grande texto da historiografia maçônica afro-americana.",
+      "observacoes": "Obra em domínio público, mas não achei digitalização aberta (Internet Archive, Gutenberg); texto integral só em base por assinatura (Alexander Street, Black Thought and Culture). Registrado em PENDENCIAS/COLETA.",
+      "evidencias": [
+        "https://openlibrary.org/works/OL43990990W",
+        "https://libcat.library.tamu.edu/Record/in00005635278"
+      ],
+      "status_verificacao": "conferido_web",
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "ludendorff-1927-vernichtung-freimaurerei",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "Erich Ludendorff"
+      ],
+      "titulo": "Vernichtung der Freimaurerei durch Enthüllung ihrer Geheimnisse",
+      "titulo_traduzido": "Aniquilação da maçonaria pela revelação de seus segredos",
+      "ano": 1931,
+      "ano_original": 1927,
+      "idioma": "de",
+      "editora": "Ludendorffs Volkswarte-Verlag",
+      "local": "München",
+      "paginas": "c. 110 p.",
+      "url": "https://archive.org/details/VernichtungDerFreimaurereiDurchEnthllungIhrerGeheimnisseVonErich",
+      "identificadores": {
+        "ia": "VernichtungDerFreimaurereiDurchEnthllungIhrerGeheimnisseVonErich"
+      },
+      "temas": [
+        "antimaconaria",
+        "politica"
+      ],
+      "potencias": [
+        "vglvd"
+      ],
+      "paises": [
+        "de"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "D",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (autor falecido em 1937; prazo de 70 anos expirado)",
+      "resumo": "Panfleto do general Ludendorff, de enorme tiragem no entreguerras, que retrata as grandes lojas alemãs — inclusive as 'cristãs' prussianas — como instrumentos de um projeto judaico e descreve graus e símbolos como 'judaização' do iniciado. Documento primário do antimaçonismo völkisch que alimentou a perseguição nazista; não serve como fonte de fatos sobre a maçonaria.",
+      "observacoes": "Exemplar digitalizado é da edição de 1931 (141.–150. milhar), copyright de 1927. Uso apenas como documento da propaganda antimaçônica (regra 6).",
+      "evidencias": [
+        "https://archive.org/details/VernichtungDerFreimaurereiDurchEnthllungIhrerGeheimnisseVonErich"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/ludendorff-1927-vernichtung-freimaurerei.pdf",
+        "txt/ludendorff-1927-vernichtung-freimaurerei.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "schwarz-1938-freimaurerei-weltanschauung",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "Dieter Schwarz (pseudônimo)"
+      ],
+      "titulo": "Die Freimaurerei: Weltanschauung, Organisation und Politik",
+      "titulo_traduzido": "A maçonaria: visão de mundo, organização e política",
+      "ano": 1938,
+      "idioma": "de",
+      "editora": "Zentralverlag der NSDAP, Franz Eher Nachf.",
+      "local": "Berlin",
+      "paginas": "68 p.",
+      "url": "https://archive.org/details/SchwarzDieterDieFreimaurereiWeltanschauungOrganisationUndPolitik193868S.ScanFraktur_201705",
+      "identificadores": {
+        "ia": "SchwarzDieterDieFreimaurereiWeltanschauungOrganisationUndPolitik193868S.ScanFraktur_201705"
+      },
+      "temas": [
+        "antimaconaria",
+        "politica"
+      ],
+      "potencias": [
+        "vglvd"
+      ],
+      "paises": [
+        "de"
+      ],
+      "periodos": [
+        "p1919_1945"
+      ],
+      "confiabilidade": "D",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público provável (obra pseudônima publicada em 1938; 70 anos da publicação)",
+      "resumo": "Brochura oficial do aparelho de segurança nazista, prefaciada por Reinhard Heydrich, que se apresenta como baseada em arquivos confiscados pelo SD e pela Gestapo. Expõe a ideologia oficial do regime sobre a maçonaria (origem 'judaico-oriental', internacionalismo, hostilidade ao nacional-socialismo) e justifica a dissolução das lojas. Documento da política antimaçônica do Terceiro Reich.",
+      "observacoes": "'Dieter Schwarz' é pseudônimo de autoria coletiva do Serviço de Segurança (SD); a atribuição precisa vem da historiografia (ver Melzer, Konflikt und Anpassung, 1999).",
+      "evidencias": [
+        "https://archive.org/details/SchwarzDieterDieFreimaurereiWeltanschauungOrganisationUndPolitik193868S.ScanFraktur_201705"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/schwarz-1938-freimaurerei-weltanschauung.pdf",
+        "txt/schwarz-1938-freimaurerei-weltanschauung.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "reitzenstein-1907-strikte-observanz",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Albin Freiherr von Reitzenstein"
+      ],
+      "titulo": "Die Strikte Observanz",
+      "titulo_traduzido": "A Estrita Observância",
+      "ano": 1907,
+      "idioma": "de",
+      "editora": "Franz Wunder",
+      "local": "Berlin",
+      "paginas": "c. 80 p.",
+      "url": "https://archive.org/details/00105003bsb",
+      "identificadores": {
+        "ia": "00105003bsb"
+      },
+      "temas": [
+        "ritos",
+        "graus",
+        "origens",
+        "esoterismo"
+      ],
+      "ritos": [
+        "rer",
+        "outros_ritos"
+      ],
+      "paises": [
+        "de",
+        "fr",
+        "se",
+        "it"
+      ],
+      "periodos": [
+        "p1751_1813"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (1907; digitalização Bayerische Staatsbibliothek)",
+      "resumo": "Síntese em sete capítulos do sistema templário da Estrita Observância: origem atribuída ao barão von Hund, o episódio do impostor Johnson, os 'clérigos' e o convento de Kohlo, a difusão no sul da Alemanha e na Itália, os conventos de Braunschweig, Wiesbaden e Wolfenbüttel, a tentativa de união com a Grande Loja sueca e o desfecho no convento de Wilhelmsbad (1782) sob o duque Ferdinand de Brunswick.",
+      "observacoes": "PDF de 31 MB não guardado; texto OCR do Internet Archive (Fraktur).",
+      "evidencias": [
+        "https://archive.org/details/00105003bsb"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "txt/reitzenstein-1907-strikte-observanz.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "encausse-1899-martinesisme-willermosisme",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "Gérard Encausse (Papus)"
+      ],
+      "titulo": "Martinésisme, Willermosisme, Martinisme et Franc-Maçonnerie",
+      "titulo_traduzido": "Martinezismo, willermozismo, martinismo e franco-maçonaria",
+      "ano": 1899,
+      "idioma": "fr",
+      "editora": "Chamuel (Bibliothèque martiniste)",
+      "local": "Paris",
+      "url": "https://archive.org/details/EncausseGMartinesismeWillermosismeMartinismeEtFrancMaconnerie1899",
+      "identificadores": {
+        "ia": "EncausseGMartinesismeWillermosismeMartinismeEtFrancMaconnerie1899"
+      },
+      "temas": [
+        "esoterismo",
+        "ritos",
+        "graus",
+        "historiografia"
+      ],
+      "ritos": [
+        "rer",
+        "reaa"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1751_1813",
+        "p1871_1918"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (autor falecido em 1916)",
+      "resumo": "Ensaio do fundador da Ordem Martinista que distingue três correntes ligadas a Martinès de Pasqually (os Élus Coëns), a Jean-Baptiste Willermoz (a reforma de Lyon que deu origem ao Rito Escocês Retificado) e a Louis-Claude de Saint-Martin, e as relaciona com a maçonaria. Acrescenta um resumo da história da maçonaria francesa e quadros dos graus escoceses. Obra militante, útil para a recepção ocultista do século XIX.",
+      "evidencias": [
+        "https://archive.org/details/EncausseGMartinesismeWillermosismeMartinismeEtFrancMaconnerie1899"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/encausse-1899-martinesisme-willermosisme.pdf",
+        "txt/encausse-1899-martinesisme-willermosisme.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "bidegain-1905-grand-orient-doctrines",
+      "tipo": "livro",
+      "categoria": "antimaconica",
+      "autores": [
+        "Jean Bidegain"
+      ],
+      "titulo": "Le Grand Orient de France: ses doctrines et ses actes. Documents inédits",
+      "titulo_traduzido": "O Grande Oriente da França: suas doutrinas e seus atos",
+      "ano": 1905,
+      "idioma": "fr",
+      "editora": "Librairie antisémite",
+      "local": "Paris",
+      "paginas": "c. 300 p.",
+      "url": "https://archive.org/details/legrandorientdef00bide",
+      "identificadores": {
+        "ia": "legrandorientdef00bide"
+      },
+      "temas": [
+        "antimaconaria",
+        "politica",
+        "potencias"
+      ],
+      "potencias": [
+        "godf"
+      ],
+      "paises": [
+        "fr"
+      ],
+      "periodos": [
+        "p1871_1918"
+      ],
+      "confiabilidade": "C",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (1905)",
+      "resumo": "Livro do ex-secretário-adjunto do GOdF que vendeu ao deputado Guyot de Villeneuve os documentos do 'caso das fichas' (fichamento político-religioso de oficiais do Exército, revelado na Câmara em 28/10/1904). Bidegain justifica sua delação e publica documentos internos da obediência. Fonte primária hostil, editada por livraria antissemita, indispensável para o verbete do caso das fichas desde que confrontada com a historiografia.",
+      "evidencias": [
+        "https://archive.org/details/legrandorientdef00bide"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/bidegain-1905-grand-orient-doctrines.pdf",
+        "txt/bidegain-1905-grand-orient-doctrines.txt"
+      ],
+      "lote": "a02-mundo2"
+    },
+    {
+      "id": "chase-1863-digest-masonic-law",
+      "tipo": "livro",
+      "categoria": "historiografia_maconica",
+      "autores": [
+        "George Wingate Chase"
+      ],
+      "titulo": "Digest of Masonic Law: being a complete code of regulations, decisions and opinions upon questions of masonic jurisprudence",
+      "titulo_traduzido": "Compêndio de direito maçônico",
+      "ano": 1863,
+      "ano_original": 1859,
+      "idioma": "en",
+      "local": "Boston",
+      "url": "https://archive.org/details/ChaseGWDigestOfMasonicLawBeingACompleteCodeOfRegulationsDecisionsOpinion2ndEd1863",
+      "identificadores": {
+        "ia": "ChaseGWDigestOfMasonicLawBeingACompleteCodeOfRegulationsDecisionsOpinion2ndEd1863"
+      },
+      "temas": [
+        "principios",
+        "regularidade",
+        "documentos_fundadores"
+      ],
+      "potencias": [
+        "gl_estaduais_eua"
+      ],
+      "paises": [
+        "us"
+      ],
+      "periodos": [
+        "p1814_1870"
+      ],
+      "confiabilidade": "B",
+      "acesso": "dominio_publico",
+      "licenca": "domínio público (1863)",
+      "resumo": "Compilação, por tema, de constituições, regulamentos e decisões das Grandes Lojas americanas de meados do século XIX, com as citações de cada constituição estadual. Mostra como cada jurisdição invocava os 'antigos landmarks' sem defini-los do mesmo modo, e serve de base para comparar com a lista de Mackey (1858) e outras listas de landmarks.",
+      "observacoes": "2ª ed. (1863); 1ª ed. 1859.",
+      "evidencias": [
+        "https://archive.org/details/ChaseGWDigestOfMasonicLawBeingACompleteCodeOfRegulationsDecisionsOpinion2ndEd1863",
+        "https://archive.org/details/digestofmasonicl00chas"
+      ],
+      "status_verificacao": "copiado",
+      "acervo": [
+        "pdf/chase-1863-digest-masonic-law.pdf",
+        "txt/chase-1863-digest-masonic-law.txt"
+      ],
+      "lote": "a02-mundo2"
+    }
+  ]
+}
